@@ -1,0 +1,1450 @@
+Translations Required,Russian
+1 colleague\'s birthday,день рождения у 1 коллеги
+It\'s your birthday,Ваш день рождения
+%d colleagues\' birthday,день рождения у %d коллег
+Search,Поиск
+Top 10 Participants,Топ 10 участников
+We do not have facilities within this category,В этой категории нет доступных объектов
+Filter by Category,Фильтровать по категории
+Something went wrong. Please try again later.,"Что-то пошло не так. Пожалуйста, попробуйте позже"
+We have sent you a secure OTP to your registered mobile number,"Надежный одноразовый пароль отправлен на мобильный телефон, указанный при регистрации"
+At the moment we do not have any facilities near to you,В настоящее время поблизости от Вас нет доступных объектов
+Conversation Details,Подробности диалога
+Add Member,Добавить участника
+Delete message?,Удалить сообщение?
+Delete conversation?,Удалить диалог?
+Cancel,Отмена
+Delete,Удалить
+From All,Во всех
+Logging Out…,Выход из системы...
++%1$d more,+ еще %1$d
+%1$d new messages,%1$d новых сообщений
+New Message,Новое сообщение
+New message (tap to sync),Новое сообщение (щелкните для синхронизации)
+Camera,Камера
+Gallery,Галерея
+Location,Местоположение
+Options,Параметры
+Show Notifications,Показать Уведомления
+Leave Chat,Покинуть чат
+Participants,Участники
+Block,Блокировать
+Unblock,Разблокировать
+Account,Аккаунт
+Presence,Присутствие
+Show Notifications,Показать Уведомления
+Notifications,Уведомления
+Connected,Подключено
+Disconnected,Отключено
+Conversation Name,Название диалога
+Add Conversation Name,Добавить название диалога
+\u0020 I accept the,\u0020 Я принимаю
+Terms of service and Privacy Policy,Условия использования и Политику конфиденциальности
+Please accept our terms of Service and Privacy Policy to proceed,"""Чтобы продолжить, необходимо подтвердить согласие с нашими условиями обслуживания и Политикой конфиденциальности"
+Award Points,Поощрительные баллы
+You\'re not authenticated to start conversation. Please logout and login.,"Чтобы начать диалог, необходимо авторизоваться. Необходимо выйти и войти заново."
+Please start sending messages to see the conversation details.,"Чтобы увидеть подробности диалога, начните отправлять сообщения."
+out of 30,из 30
+Add Members,Добавить участников
+Start Conversation,Начать диалог
+No Internet Connection,Нет интернет-подключения
+Something went wrong.,Что-то пошло не так.
+"Sorry, no users are authenticated to chat at the moment.","К сожалению, нет ни одного аутентифицированного пользователя, с кем можно начать диалог."
+Error,Ошибка
+"Sorry, right now you can create the group with only 25 members","Извините, прямо сейчас вы можете создать группу только из 25 участников."
+Group Name,Название группы
+Please enter the name,"Пожалуйста, введите название"
+Cancel,Отмена
+OK,OK
+Enter group name,Введите название группы
+Failed to authenticate with Layer:,Failed to authenticate with Layer:
+Welcome to the,Добро пожаловать в
+group.,группу.
+Unknown Participant,Неизвестный участник
+is typing,печатает...
+Please grant location permission to continue using the app,"Пожалуйста, предоставьте доступ к местоположению для использования этого приложения"
+not_attending,посещение_не_планируется
+attending,планируется посещение
+attended,посещенное(-ые)
+There are no email clients installed.,Почтовые клиенты не установлены.
+Please install Google Map application from Play Store.,Установите приложение Google Map из магазина Play Store.
+Currently there are no users joined this group.,На данный момент ни один пользователь не присоединился к группе.
+Message,Сообщение
+Select source,Выберите источник
+Are you sure you dont want to add title?,"Вы уверены, что не будете добавлять должность?"
+Image Size Should be less than 6 MB,Размер изображения должен быть меньше 6 Мб
+Updated Successfully,Успешно обновлено
+We\'ve encountered a technical error.our team is working on it. please try again later,Техническая ошибка. Наша команда уже работает над проблемой. Повторите попытку позже.
+RSVP,Приглашение
+You are successfully attending Event,Вы успешно зарегистрированы на событие
+You have successfully Skip Event,Вы успешно зарегистрированы как пропускающий событие
+Skip Event,Пропустить событие
+Check In,Регистрация
+Checked In,Регистрация успешна
+You have successfully Checked In Event,Вы успешно зарегистрировали событие
+START:,НАЧАЛО:
+at,в
+END:,ОКОНЧАНИЕ:
+Failed to sync conversation. Please click on chat icon to start conversation,"Не удалось синхронизировать диалог. Щелкните иконку чата, чтобы начать диалог"
+Oops,Ой.
+"Unable to open the Gallery. Please tap Settings, go to Application info > Permissions, then allow Storage Permission and try again.","Не удалось открыть галерею. Нажмите «Настройки», откройте О приложении > Разрешения, включите разрешение для Хранилища и повторите попытку."
+Please grant calendar permission to add RSVPed event to Calendar app,"Чтобы добавить приглашение на событие в приложение Календарь, включите разрешение для календаря"
+Please enter the password,Введите пароль
+See All Photos,Посмотреть все фотографии
+Thank you. Your attendance has been confirmed. See you at the event!,Благодарим Вас. Ваше участие подтверждено. До встречи на мероприятии.
+Check-In Confirmed,Регистрация подтверждена
+RSVP Withdrawn,Приглашение отозвано
+Join Chat Room,Войти в переговорную комнату
+Would you like to join this event chat room?,"""Присоединиться к чату события?"
+Join,Присоединиться
+No,Нет
+You\'ve successfully joined the chat group,Вы успешно присоединились к чату
+subscribed,подписка оформлена
+Waiting for network!,Ожидание сети!
+Image Size Should be less than 20 MB,Размер изображения должен быть меньше 20 Мб
+DELETE,УДАЛИТЬ
+Are you sure you want to delete this photo?,Вы точно хотите удалить это фото?
+YES,ДА
+by,от
+"Whatsapp,Instagram,Twitter,Facebook have not been installed.","Whatsapp, Instagram, Twitter, Facebook не установлены."
+EDIT CAPTION,РЕДАКТИРОВАТЬ ОПИСАНИЕ
+Enter caption,Введите текст описания
+Search,Поиск
+Nearby,Рядом
+Location not found,Местоположение не найдено
+Unable to get your location,Невозможно получить местоположение
+Please grant location permission to continue using this functionality,"Пожалуйста, предоставьте разрешение на доступ к местоположению для использования этого функционала"
+SETTINGS,НАСТРОЙКИ
+pts,баллы
+Total Points as of,Общее количество баллов на
+No Data in Healthy Activity.,Нет данных по занятиям для здоровья.
+You are not connected to any apps,Вы не подключены ни к каким приложениям
+No Data in Programs/Activities.,Нет данных в Программах/Мероприятиях.
+You dont have any referral as of now,На данный момент у вас нет рефералов
+Add Referral,Добавить реферала
+You have not checked in any facility and events yet.,Вы еще не зарегистрировались на площадку или событие.
+Event Check In,Регистрация на событие
+FACILITY CHECK-IN,РЕГИСТРАЦИЯ НА ПЛОЩАДКУ
+You have not checked in any events yet.,Вы еще не зарегистрированы ни в одном событии.
+Oops! No data to display,Упс! Нет данных для отображения
+It\'s your colleague\'s birthday today.,Сегодня день рождения вашего коллеги.
+It\'s your colleague\'s birthday on,День рождения вашего коллеги
+It was your colleague\'s birthday on,День рождения вашего коллеги был
+It\'s your birthday today.,Сегодня ваш день рождения.
+It\'s your birthday on,Ваш день рождения
+It was your birthday on,Ваш день рождения был
+It\'s your colleague\'s %1$sanniversary today.,Сегодня у вашего коллеги %1$ годовщина.
+It\'s your colleague\'s %1$sanniversary on,У вашего коллеги %1$ годовщина 
+It was your colleague\'s %1$sanniversary on,У вашего коллеги была годовщина %1$
+It\'s your %1$sanniversary today.,Сегодня у вас %1$ годовщина.
+It\'s your %1$sanniversary on,У вас %1$ годовщина
+It was your %1$sanniversary on,У вас была %1$ годовщина
+Wish you a wonderful birthday.,Желаем Вам чудесного дня рождения.
+There are no email clients installed.,Почтовые клиенты не установлены.
+Wish you a wonderful Anniversary!,Желаем Вам чудесной годовщины!
+Send mail....,Отправить письмо...
+You have earned,Вы заработали
+points to redeem,баллы для обмена
+rewards to redeem,вознаграждения за баллы
+You have,У вас есть
+Nearby Rewards,Награды рядом
+CODE,КОД
+Redeemed on the,Обменяно
+Your Promo code,Ваш промокод
+Code copied to clipboard,Код скопирован в буфер обмена 
+N/A,N/A
+Press Link for more detail,Нажмите ссылку для получения более подробной информации
+Please select any mobile number for call,"Пожалуйста, выберите любой номер мобильного телефона для звонка"
+Please Enter vendor passcode,"Пожалуйста, введите код поставщика"
+Redeeming this reward will deduct,При получении этого вознаграждения будет вычтено
+from your account.,из вашего аккаунта
+Delivery fee of,Комиссия за доставку в размере
+points will be deducted. No further points will be deducted for subsequent redemptions today.,баллов будет вычтено. Сегодня Вы больше не сможете снимать баллы для последующего погашения
+Collect from your office person-in-charge at the scheduled date each month.,Ежемесячно выдается ответственным сотрудником вашего офиса в запланированный день
+ERROR!,ОШИБКА!
+Please enter your Customer Id number,"Пожалуйста, введите свой идентификатор клиента"
+Please enter your pln number,"Пожалуйста, введите пин-код"
+Please Enter your phone,"Пожалуйста, введите номер вашего телефона"
+Confirmation,Подтверждение
+Are you sure you want to redeem,"Вы уверены, что хотите обменять"
+Reward for this Phone No,Вознаграждение для этого номера телефона
+Thank You!,Спасибо!
+ERROR RESPONSE,ОШИБКА
+Are you sure?,Вы уверены?
+Loading Profile....,Загрузка профиля...
+Loading Strengths....,Загрузка качеств...
+NOMINATE,НОМИНИРОВАТЬ
+Thanks for nominating,Благодарим за номинирование
+APPRECIATE,НАЧИСЛИТЬ БЛАГОДАРНОСТЬ
+Points remaining for allocations:,Осталось баллов к распределению:
+Thanks for appreciating,Спасибо за оценку
+Endorsing....,Одобрение...
+Select at least one strength to appreciate,Выберите хотя бы одно качество для оценки
+Select at least one strength to nominate,Выберите хотя бы одно качество для номинирования
+Add subject related to,Добавить тему к
+Add message related to,"Добавить сообщение, относящееся к"
+New password and confirm password should be same.,Пароли должны совпадать.
+Password must be 8 characters long!,Пароль должен состоять из 8 символов!
+Password changed successfully.,Пароль успешно изменен.
+Enter valid mobile number.,Введите действующий номер телефона.
+Please enter your DOB,"Пожалуйста, введите вашу дату рождения"
+Please enter mobile number.,"Пожалуйста, введите ваш номер телефона"
+Please enter first name,"Пожалуйста, введите ваше имя."
+Please enter last name,"Пожалуйста, введите вашу фамилию."
+Please enter address1,"Пожалуйста, введите адрес 1"
+Required permissions are not granted,Необходимые разрешения не получены
+You can\'t select future date,Вы не можете выбрать будущую дату
+Use Location ?,Использовать местоположение?
+Switch on location for accurate steps tracking and check-ins,Включите местоположение для точного отслеживания шагов и отметок
+Ignore,Игнорировать
+Go To Settings,Перейти к Настройкам
+No Google Fit App Installed,Приложение Google Fit не установлено
+Go to Dashboard,Перейти к Панели управления
+Download Google fit App.,Загрузить приложение Google fit.
+Google Play Services is not installed,Google Play Services не установлены.
+Enter Valid Username and Password.,Введите текущие имя пользователя и пароль.
+Enter Valid username.,Введите текущее имя пользователя.
+Enter Valid Password.,Введите текущий пароль.
+Request,Запрос
+Logging in....,Вход в систему...
+LOGOUT,ВЫХОД
+Please change password.,"Пожалуйста, измените пароль."
+Proceed,Продолжить
+Authenticating....,Аутентификация...
+Please Logout and Login for app settings to take place,"Пожалуйста, выйдите и войдите заново, чтобы настройки приложения вступили в силу"
+Warning,Предупреждение
+Please install Google Fit app to continue. Click OK to connect to other available tracker.,"Для продолжения, пожалуйста, установите Google Fit. Щелкните ОК для подключения к другому доступному трекеру."
+Get Google Fit app,Получить приложение Google Fit
+Please click back again to exit,"Пожалуйста, нажмите еще раз, чтобы выйти"
+Notice,Заметка
+All permissions should be acquired,Все разрешения должны быть получены
+Connection with S Health is not available,Подключение к S Health недоступно
+Please install S Health,"Пожалуйста, установите S Health"
+Please upgrade S Health,"Пожалуйста, обновите S Health"
+Please enable S Health,"Пожалуйста, запустите S Health"
+Please agree with S Health policy,"Пожалуйста, согласитесь с политикой S Health"
+Please make S Health available,"Пожалуйста, сделайте S Health доступным"
+Get in touch:,Оставайтесь на связи:
+Birthday,День рождения
+Anniversary,Годовщина
+My role is,Моя роль
+", but I\'m known as",", но меня знают как"
+Please enter the OTP,"Пожалуйста, введите одноразовый пароль"
+Your code is incorrect. Please try again,"Неверный код Пожалуйста, попробуйте снова."
+"Resent the OTP, please check your inbox","Одноразовый пароль отправлен повторно, проверьте ваш почтовый ящик"
+Server,Сервер
+Please enter email-id,"Пожалуйста, введите адрес эл. почты"
+Service Url,URL-адрес сервиса
+Please Add Service Url.,"Пожалуйста, добавьте URL-адрес сервиса."
+Submit,Отправить
+Please Provide Right Plateform,"Пожалуйста, укажите правильную платформу"
+Please Fill Base URL,"Пожалуйста, заполните базовый URL"
+Successfully sent,Успешно отправлено
+You\'re already connected to tracker,Вы уже подключены к трекеру
+Successfully Connected,Успешно подключено
+Already connected with this account.,Уже подключено к этому аккаунту
+Redemption Code,Код обмена
+Loading Image ....,Загрузка изображения...
+Image Does Not exist or Network Error,Изображение не существует или ошибка сети
+Downloading....,Загрузка...
+Members,Участники
+Rank :,Рейтинг:
+You,Вы
+Points Required,баллов требуется
+No Greetings for today,На сегодня нет поздравлений
+Announcements,Анонсы
+(ISC)2 UPDATES,2 ОБНОВЛЕНИЯ
+No Announcements,Нет анонсов
+No Appointments today,Сегодня нет назначений
+ACTIVITIES AND EVENTS,МЕРОПРИЯТИЯ И СОБЫТИЯ
+EVENTS AND CPE OPPORTUNITIES,СОБЫТИЯ И ВОЗМОЖНОСТИ CPE
+No Events or Training,Нет мероприятий или тренировок
+Google Fit,Google Fit
+Samsung Health,Samsung Health
+Read Less,Скрыть
+It\'s your,Ваш
+It\'s your and 1 colleague,У вас и коллеги
+Today,Сегодня
+Colleague,Коллега
+Colleague\'s,Коллеги
+It\'s your and,Ваш и
+FCM Message,Сообщение FCM
+Successfully Disconnected,Успешно отключено
+You are appreciating,Вы начисляете благодарность
+. This will deduct,. Этим действием будет вычтено
+by awarding,путем поощрения
+POINT REWARDS,ВОЗНАГРАЖДЕНИЯ В ВИДЕ БАЛЛОВ
+DISCOUNT,СКИДКА
+DISCOUNT REWARDS,ВОЗНАГРАЖДЕНИЯ В ВИДЕ СКИДОК
+Activity Trackers,Трекеры активности
+Step Trackers,Трекеры шагов
+You are not connected with Google Fit.,Вы не подключили Google Fit.
+You are not connected with Google Fit.,Вы не подключили Google Fit.
+Google Fit disabled,Google Fit выключен
+Jawbone,Jawbone
+Please Disconnect FitBit First,"Пожалуйста, отключите сначала FitBit"
+Please Disconnect Jawbone First,"Пожалуйста, отключите сначала Jawbone"
+Redeem discounts at merchant partners,Обменяйте баллы на скидки у компаний-партнеров
+"Astellas Reward Program is an online Reward & Recognition system developed by Astellas SESA, aimed to EMPOWER leaders to RECOGNIZE and REWARD employees’ who demonstrate exception performance and professionalism in the daily work.","""Программа вознаграждений Astellas Reward Program – система поощрений и учета заслуг, которую разработала Astellas SESA. Цель программы – дать менеджменту компании инструмент учета заслуг и вознаграждений для сотрудников за высокие профессиональные и производственные достижения."""
+Welcome to Astellas Rewards,Добро пожаловать в Astellas Rewards
+Get the latest info,Получите самую свежую информацию
+Get real-time updates on what\'s going on in your company and see upcoming events and activities,"Получайте в режиме реального времени обновления о том, что происходит в вашей компании, и следите за предстоящими событиями и мероприятиями."
+Your Team Rank is,Ваш рейтинг в отделе — 
+Top 10 Participants,Топ 10 участников
+Hide Top 10 Participants,Скрыть топ 10 участников
+Unable to log in with provided credentials.,Невозможно войти в систему с предоставленными учетными данными.
+Redemption History,История обмена
+Loading Users....,Загрузка пользователей...
+Points Earned on,Заработано баллов
+Total Points Earned,Всего баллов заработано
+Congrats! You are now,Поздравляю! Вы сейчас
+more points to become,"больше баллов, чтобы стать"
+more points to get this reward,"больше очков, чтобы получить это вознаграждение"
+NONE,НЕТ
+Announcements,Анонсы
+Event,Событие
+View Detail,Просмотреть детали
+Reward,Вознаграждение
+Phone Number is not valid.,Номер телефона недействителен.
+Please fill all fields.,"Пожалуйста, заполните все поля."
+Email address is not valid.,Адрес эл. почты недействителен.
+Successfully submitted the request.,Запрос успешно отправлен
+Please input some text.,"Пожалуйста, введите любой текст"
+Address Line 1 (Optional),Адресная строка 1 (необязательно)
+Address Line 2 (Optional),Адресная строка 2 (необязательно)
+Address Line 1,Адресная строка 1
+Address Line 2,Адресная строка 2
+Contact Number,Контактный номер
+Pincode,ПИН-код
+All fields are mandatory,Все поля обязательны для заполнения
+Are you sure?,Вы уверены?
+Toggle to enable Google Fit,"Переключите, чтобы включить Google Fit"
+Toggle to enable Samsung Health,"Переключите, чтобы включить Samsung Health"
+will result in steps being tracked from phone and may result in duplicate steps for today. This won\'t help with faster syncing of steps from,приведет к отслеживанию шагов с телефона и может привести к дублированию шагов за сегодня. Это не поможет ускорить синхронизацию шагов из
+POINTS SUMMARY,СТАТИСТИКА ПО БАЛЛАМ
+Point allocation,Распределение баллов
+Repeated event,Повторяющееся событие
+Please install Google Calendar app from Play Store to use this functionality,"Пожалуйста, установите Google Calendar из Play Store для использования этого функционала"
+Loading Data....,Загрузка данных...
+Updating Data....,Обновление данных...
+Deleting....,Удаление...
+Event:,Событие:
+for,для
+PROCESSING,В ОБРАБОТКЕ
+FILTER BY TEAMS,ФИЛЬТРОВАТЬ ПО ОТДЕЛАМ
+Profile Settings,Настройки профиля
+[username],[имя пользователя]
+[connection state],[состояние подключения]
+Done,Завершено
+Select Strength,Выбрать качества
+Subject,Тема
+Change,Изменить
+Add your subject here,Добавьте сюда свою тему
+Add your message here,Добавьте сюда свое сообщение
+Change Password,Изменить пароль
+Old Password,Старый пароль
+New Password,Новый пароль
+Confirm New Password,Подтвердить новый пароль
+Details,Детали
+EDIT PROFILE,РЕДАКТИРОВАТЬ ПРОФИЛЬ
+Change Photo,Изменить фото
+First Name,Имя
+Last Name (Optional),Фамилия (необязательно)
+Official Title (Optional),Официальная должность (необязательно)
+Real Title (Optional),Фактическая должность(необязательно)
+DOB,Дата рождения
+Make my birthday public,Сделать дату рождения публичной 
+Mobile (Optional),Мобильный (необязательно)
+Company,Компания
+Department,Департамент
+Emergency Call,Экстренный звонок
+PHONE,ТЕЛЕФОН
+Phone,Телефон
+SMS,SMS
+BUSINESS REFERRAL,БИЗНЕС-РЕФЕРАЛ
+EMPLOYEE REFERRAL,РЕФЕРАЛЫ СОТРУДНИКОВ
+Position,Положение
+Name of the Candidate,Имя кандидата
+Phone - Home,Телефон - домашний
+Phone - Mobile,Телефон - мобильный
+Information,Информация
+FEEDBACK & SUPPORT,ОБРАТНАЯ СВЯЗЬ И ПОДДЕРЖКА
+FAQs,FAQ (Часто задаваемые вопросы)
+Tutorial,Туториал
+Profile,Профиль
+EDIT,РЕДАКТИРОВАТЬ
+"Sorry, no rewards available at this location at the moment.","К сожалению, на данный момент в этом месте нет вознаграждений."
+COPY,КОПИРОВАТЬ
+REDEEMED,ОБМЕНЯНО
+Enter Phone Number,Введите номер телефона
+Please Enter Phone Number   to Redeem this Topup.,"""Введите номер телефона, чтобы получить это вознаграждение."""
+Enter your mobile number,Введите ваш номер мобильного телефона
+CONFIRM,ПОДТВЕРДИТЬ
+REFERRAL,РЕФЕРАЛ
+Full Name,Полное имя
+APPS & DEVICES,ПРИЛОЖЕНИЯ И УСТРОЙСТВА
+Runkeeper,Runkeeper
+Connected,Подключено
+Connect,Подключить
+Strava,Strava
+Jawbone,Jawbone
+Fitbit,Fitbit
+GOOGLE FIT ACCOUNT,GOOGLE FIT АККАУНТ
+Disconnect,Отключить
+Which Mechanism You Would Like,Какие устройства вы хотите
+To Connect To Track Your Steps?,подключить для отслеживания количества шагов?
+Msg,Сообщение
+View More,Смотреть еще
+Be fit and healthy,Поддерживайте здоровую форму
+Our step tracker will help you keep track off your fitness and health Wherever you are,"Наш шагомер поможет вам отслеживать вашу физическую форму и здоровье, где бы вы ни находились."
+swipe to see what\'s next,"проведите пальцем, чтобы увидеть, что будет дальше"
+text,текст
+Send Your Wishes,Отправьте ваши пожелания
+Greetings,Поздравления
+APPOINTMENTS,ДЕЛОВЫЕ ВСТРЕЧИ
+July 2015,Июль 2015
+WEEK,НЕДЕЛЯ
+MONTH,МЕСЯЦ
+Add Appointments,Добавить деловую встречу
+REDEEM,ОБМЕНЯТЬ
+DASHBOARD,ПАНЕЛЬ УПРАВЛЕНИЯ
+WHAT\'S ON TODAY,НА СЕГОДНЯ
+You want to redeem this reward,Вы хотите получить это вознаграждение
+member,участник
+Total Points,Общее количество баллов
+averagepoint,Среднее количество баллов
+Please enter Customer Id to redeem this topup.,"Введите идентификатор клиента, чтобы получить это вознаграждение."
+Preview Message,Предпросмотр сообщения
+DOWNLOADED IMAGE,ЗАГРУЖЕННОЕ ИЗОБРАЖЕНИЕ
+Enter Pln Number,Введите пин-код
+Please enter Pln Number to redeem this topup.,"Пожалуйста, введите пин-код, чтобы получить это вознаграждение."
+Description,Описание
+Event Time,Время события
+Website,Веб-сайт
+Points,Баллы
+ADDRESS,АДРЕС
+WHOM TO CONTACT FOR THE EVENT,С КЕМ СВЯЗАТЬСЯ ПО ПОВОДУ ЭТОГО СОБЫТИЯ
+Photo,Фото
+ADD PHOTO,ДОБАВИТЬ ФОТО 
+SAVE,Сохранить
+Title,Должность
+Read More,Читать дальше
+TERMS AND CONDITIONS,УСЛОВИЯ И ПОЛОЖЕНИЯ
+Terms & Conditions,Условия и положения
+OPTION,ПАРАМЕТР
+Filter Categories By,Фильтровать категории по
+Vendor Passcode,Код поставщика
+Please Enter Your Passcode,"Пожалуйста, введите ваш код"
+CONVERSATIONS,ДИАЛОГИ
+Direct Delivery Address,Адрес для прямой доставки
+Confirm Redemption,Подтвердите обмен
+FACILITY CHECKIN,РЕГИСТРАЦИЯ НА ПЛОЩАДКУ
+Select Contact,Выбрать контакт
+Search by name or email,Поиск по имени или эл.почте
+Enable Google Fit,Запустите Google Fit
+Get organized,Упорядочить дела
+Synchronize the app with your phone calendar to help you organize your schedule better,Для оптимизации расписания синхронизуйте приложение с календарем в телефоне
+Get Rewards,Получить вознаграждения
+Collect points and redeem your rewards at merchant partners,Набирайте баллы и обменивайте их на вознаграждения у торговых партнеров
+"Connect with google fit app.This will make a healthy change in your life by becoming more active, aware and motivated.","Подключитесь к Google Fit. Это изменит вашу жизнь к лучшему: вы станете более активным, осознанным и мотивированным."
+Google Fit App Installed,Приложение Google Fit установлено
+Location Services Enable,Местоположение включено
+Autheticated to Google fit,Подключено к Google Fit
+"Note: To ensure that this app functions optimally on your phone, download Google Fit and sync this app with the same gmail account as Google Fit.","Примечание. Чтобы это приложение оптимально работало на вашем телефоне, загрузите Google Fit и синхронизируйте это приложение с той же учетной записью Gmail, что и Google Fit."
+Greet your colleagues,Приветствуйте своих коллег
+Send personalized birthday wishes and greetings to your colleagues,Создавайте для коллег уникальные поздравления в честь Дня рождения или других событий.
+HISTORY,ИСТОРИЯ
+Scan,Сканирование
+Select Delivery Mode,Выбрать вид доставки
+Direct delivery,Прямая доставка
+Office Pick-up,Забрать в пункте выдачи
+Next,Дальше
+LEADERBOARD,ТАБЛИЦА ЛИДЕРОВ
+Individual,Личное
+Week,Неделя
+Month,Месяц
+TOTAL PTS,ОБЩЕЕ КОЛИЧЕСТВО БАЛЛОВ
+Total Pts,Общее количество баллов
+AVERAGE PTS,Среднее количество баллов
+Avg Pts,Ср. кол-во баллов
+Team,Отдел
+Location Alert,Оповещение о местоположении
+Location not found please switch on the location.,"Местоположение не найдено, включите местоположение."
+LOCATIONS,МЕСТОПОЛОЖЕНИЯ
+Username,Имя пользователя
+POINTS SUMMARY,СТАТИСТИКА ПО БАЛЛАМ
+Remaining Points,Оставшиеся баллы
+Total Redeemed,Всего обменяно
+Map Voucher,Ваучер на карту
+View Point Rewards,Просмотреть вознаграждение баллами
+View Discount Rewards,Просмотреть вознаграждение скидками
+YEAR,ГОД
+OVERALL,ВСЕГО
+BASIC,БАЗОВЫЙ
+PRO,PRO
+ELITE,ЭЛИТНЫЙ
+NOTIFICATIONS,УВЕДОМЛЕНИЯ
+Oops. No notifications at the moment.,Упс! На данный момент уведомлений нет.
+Slide Left To Delete,Проведите влево для удаления
+Reset instructions have been sent to your email address,Инструкции по сбросу были отправлены на ваш адрес электронной почты.
+Rewards,Вознаграждения
+YOUR REWARDS,ВАШИ ВОЗНАГРАЖДЕНИЯ
+ALL REWARDS,ВСЕ ВОЗНАГРАЖДЕНИЯ
+CONTACT,КОНТАКТ
+ABOUT,О НАС
+About,О нас
+Add,Добавить
+Organizer,Организатор
+Community,Сообщество
+STEPS SUMMARY,СТАТИСТИКА ШАГОВ
+Weekly,Еженедельно
+Steps Tracked Today,Сегодня пройдено шагов
+Your Daily Average Steps,Среднее количество пройденных шагов за день
+Connected With,Подключено к
+PHOTOS,ФОТО
+View All,ПРОСМОТРЕТЬ ВСЕ
+CHAT,ЧАТ
+CALENDAR,КАЛЕНДАРЬ
+ADD ACTIVITY,ДОБАВИТЬ МЕРОПРИЯТИЕ
+EMERGENCY SERVICES,ЭКСТРЕННЫЕ СЛУЖБЫ
+CONNECT APPS & DEVICES,ПОДКЛЮЧЕНИЕ ПРИЛОЖЕНИЙ И УСТРОЙСТВ
+Employee Engagement Program,Программа вовлечения сотрудников
+AXA DRIVE,AXA DRIVE
+My Axa Health,Мой Axa Health
+Employee Engagement,Вовлечение сотрудников
+Password,Пароль
+Forgot Password?,Забыли пароль?
+Forgot your password?,Забыли свой пароль?
+Enter your email address below and we\'ll send you instructions on how to change your password.,"Введите ниже свой адрес эл. почты, и мы отправим вам инструкции по изменению пароля."
+Requesting....,Запрашиваем...
+What\'s Happening,Что происходит
+We have sent you a secure OTP to your registered email,Мы отправили безопасный одноразовый пароль на ваш адрес эл. почты.
+SUBMIT,ОТПРАВИТЬ
+Reset instructions have been sent to,Инструкция по сбросу пароля была отправлена на
+No Internet Connection,Нет интернет-подключения
+Barcode for redemption,Баркод для обмена
+Disconnecting....,Отключение...
+Disconnecting,Отключение
+Please wait....,"Пожалуйста, подождите..."
+Version,Версия
+Hello blank fragment,Hello blank fragment
+Cancel,Отмена
+Search Result,Результаты поиска
+OK,OK
+Select email id,Выберите адрес эл. почты
+Select phone number,Выберите номер телефона
+Staff Referral,Реферал сотрудника
+Email,Эл. почта
+Residential Address,Адрес проживания
+Citizenship,Гражданство
+Highest Academic Qualification,Максимальный достигнутый уровень образования
+Highest Early Childhood Educational Qualification,Высшая квалификация дошкольного образования
+Currently Pursuing,Текущая ступень обучения
+Please enter full name,"Пожалуйста, введите полное имя"
+Please enter contact number,"Пожалуйста, введите контактный номер"
+Please enter email,"Пожалуйста, введите адрес эл. почты"
+Please enter the address,"Пожалуйста, введите адрес"
+Please select citizenship,"Пожалуйста, выберите гражданство"
+Please select position,"Пожалуйста, выберите положение"
+Please select highest qualification,"Пожалуйста, выберите высшую квалификацию"
+Please select early qualification attained,"Пожалуйста, выберите ранее полученную квалификацию"
+Please select currently pursuing,"Пожалуйста, выберите текущую ступень обучения"
+Successfully Referred,Успешно рекомендовано
+Redeeming....,Обмен...
+EVENTS,СОБЫТИЯ
+GREETINGS,ПОЗДРАВЛЕНИЯ
+ANNOUNCEMENTS,АНОНСЫ
+APPOINTMENTS,ДЕЛОВЫЕ ВСТРЕЧИ
+Reading contacts :,Чтение контактов:
+healthy-activities,здоровый образ жизни
+referral,реферал
+check-in-events,регистрация на события
+check-in-events-facilities,регистрация на события и объекты
+corporate-program,корпоративная программа
+employee-rewards,Вознаграждения сотрудников
+CBO Rewards,Вознаграждения CBO
+Choose,Выбрать
+View Profile,Просмотреть профиль
+ENTER OTP,ВВЕДИТЕ ОДНОРАЗОВЫЙ ПАРОЛЬ
+Resend Code,Отправить код повторно
+Settings,Настройки
+It\'s yours and,Ваш и
+It\'s your birthday,Ваш день рождения
+It\'s your anniversary,У Вас годовщина
+colleagues\'s birthday,день рождения коллеги
+colleagues\'s anniversary,годовщина у ваших коллег
+Please provide storage permission to continue using this functionality,"Пожалуйста, предоставьте доступ к хранилищу, чтобы продолжить использование этой функции"
+Please provide storage and camera permissions to continue using this functionality,"Пожалуйста, предоставьте доступ к хранилищу и камере, чтобы продолжить использование этой функции"
+Please grant location permission to continue using the functionality,"Пожалуйста, предоставьте разрешение на доступ к местоположению, чтобы продолжить использование этой функции"
+Checking in....,Регистрация...
+Uploading image....,Загрузка изображения...
+Checking....,Проверка...
+Appreciate,Начислить благодарность
+VALID TILL,СРОК ДЕЙСТВИЯ ДО
+POINT,БАЛЛ
+DISCOUNT,СКИДКА
+App needs access to calendar for adding RSVPed events,Приложению необходим доступ к календарю для добавления события
+App needs access to external storage and camera for selecting photo,Приложению необходим доступ к внешнему хранилищу и камере для выбора фото
+App needs access to external storage for sharing the image,Приложению необходим доступ к внешнему хранилищу для публикации изображения
+App needs access to location for finding nearby rewards,Приложению необходим доступ к местоположению для поиска наград поблизости
+App needs access to location for finding nearby facilities,Приложению необходим доступ к местоположению для поиска ближайших объектов
+App needs access to location for checking in to events,Приложению необходим доступ к местоположению для регистрации событий
+App needs access to location for checking in to facility,Приложению необходим доступ к местоположению для регистрации на площадку
+Verification Failed,Проверка не пройдена
+You cannot edit this.,Вы не можете редактировать это.
+Select Organization,Выбрать организацию
+There is no other organization available.,Другие организации недоступны.
+1 Referral,1 реферал
+3 Referrals,3 реферала
+5 Referrals,5 рефералов
+8 Referrals,8 рефералов
+Referrals,Рефералы
+Successful Placement:,Успешное размещение:
+Refer 2 more to attain Silver Tier,"Пригласите еще двух рефералов, чтобы получить серебряный уровень"
+"Get 10,000 bonus points when you attain this tier",Получите 10 000 бонусных баллов при достижении этого уровня
+"Get 60,000 bonus points when you attain this tier",Получите 60 000 бонусных баллов при достижении этого уровня
+"Get 80,000 bonus points when you attain this tier",Получите 80 000 бонусных баллов при достижении этого уровня
+Others,Другие
+Logout,Выход
+Refer 1 successfully to attain Bronze Tier,"Пригласите одного реферала, чтобы получить бронзовый уровень"
+Select your citizenship,Выберите ваше гражданство
+Select your position,Выберите ваше положение
+Select Highest Academic Qualification,Выберите максимальный достигнутый уровень образования
+Select Highest Early Childhood Qualification,Выберите квалификацию для детей младшего возраста
+Select Currently Pursuing,Текущая ступень обучения
+Share,Поделиться
+"Selected images are being download, check notification section","Выбранные изображения загружаются, проверьте раздел уведомлений"
+Thank you for your referral submission.,Благодарим за представленных рефералов.
+Please enter referral\'s full name,"Пожалуйста, введите полное имя реферала"
+Please enter referral’s contact number,"Пожалуйста, введите контактный номер реферала"
+Please specify position,"Пожалуйста, укажите ваше положение"
+Please specify highest qualification,"Пожалуйста, укажите высшую квалификацию"
+Need Permission,Необходимо разрешение
+This app needs contact permission to load contacts.,Приложению необходим доступ к контактам для загрузки контактов
+Grant,Дать доступ
+Go to Permissions to Grant Contact,Перейдите в Разрешения и дайте приложению доступ к контактам
+Unable to get Permission,Невозможно получить разрешение
+Send Logs,Отправка логов
+No department found.,Департамент не найден.
+Please select one department,"Пожалуйста, выберите один департамент"
+Specify your position,Укажите ваше положение
+Specify your highest academic qualification,Укажите максимальный достигнутый уровень образования
+Specify highest early childhood qualification,Укажите достижения в раннем детстве
+Specify your currently pursuing,Укажите текущую ступень обучения
+Only 3 attachments are allowed,Допускаются только 3 вложения
+* Max of 3 attachments,* Максимум 3 вложения
+photo selected,фото выбрано
+photos selected,фото выбраны
+* Required,* Обязательно
+Please specify,"Пожалуйста, уточните"
+Please enter full name,"Пожалуйста, введите полное имя"
+You do not have permission to delete this image.,У вас нет прав удалять это изображение
+All Photos,Все фото
+Discount Rewards,ВОЗНАГРАЖДЕНИЯ В ВИДЕ СКИДОК
+Optional,Необязательно
+as per NRIC,согласно NRIC
+Remaining,Оставшееся
+Featured Rewards,Новые вознаграждения
+Events & Activities,События и мероприятия
+Principal,Основной
+Deputy Centre Lead,Заместитель руководителя центра
+English Teacher,Преподаватель английского
+Chinese Teacher,Преподаватель китайского
+Malay Teacher,Преподаватель малайского
+Tamil Teacher,Преподаватель тамильского
+Infant Care Teacher,Воспитатель
+Student Care Supervisor,Ответственный по службе работы со студентами
+Student Care Teacher,Преподаватель службы работы со студентами
+Trainee Teacher,Преподаватель-стажер
+Trainee Infant Care Teacher,Воспитатель-стажер
+Assistant Teacher,Помощник учителя
+Center Attendant (Cook),Сотрудник центра (повар)
+Center Attendant (Cleaner),Сотрудник центра (уборщик)
+Others,Другие
+Master Degree,Магистр
+Bachelor Degree,Бакалавр
+Diploma,Диплом
+NITEC,NITEC
+GCE A Level,GCE A Level
+GCE N/O Level,GCE N/O Level
+Secondary 2 and below,Дополнительные баллы уровня 2 и ниже
+Others,Другие
+Master Degree,Магистр
+Bachelor Degree,Бакалавр
+Diploma,Диплом
+NITEC,NITEC
+ACECCE,ACECCE
+CPT,CPT
+CIT,CIT
+ACEY,ACEY
+HCIC,HCIC
+Not Applicable,Не применимо
+Others,Другие
+Bachelor Degree,Бакалавр
+Diploma,Диплом
+NITEC,NITEC
+ACECCE,ACECCE
+ACEY,ACEY
+HCIC,HCIC
+Not Applicable,Не применимо
+Others,Другие
+1 day,1 день
+1 week,1 неделя
+1 month,1 месяц
+Always,Всегда
+JAN,Январь
+FEB,Февраль
+MAR,Март
+APR,Апрель
+MAY,Май
+JUN,Июнь
+JUL,Июль
+AUG,Август
+SEP,Сентябрь
+OCT,Октябрь
+NOV,Ноябрь
+DEC,Декабрь
+Su,Вск
+Mo,Пн
+Tu,Вт
+We,Ср
+Th,Чт
+Fr,Пт
+Sa,Сб
+Specify Here,Укажите здесь
+You need,Вам необходимо
+Change Language,Изменить язык
+Choose Language,Выберите язык
+English,Английский
+Chinese(中文),Китайский
+,
+Username or Email Address,Имя пользователя или адрес эл. почты
+Password,Пароль
+Login,Логин
+Enter your email address below and we\'ll send you instructions on how to change your password.,"Введите ниже свой адрес эл. почты, и мы отправим вам инструкции по изменению пароля."
+RECEIPTS,ЧЕКИ
+UPLOAD RECEIPTS,ЗАГРУЗИТЬ ЧЕК
+Receipt Number,Номер чека
+Brand,Бренд
+dd/mm/yyyy,дд/мм/гггг
+Approved,Одобрено
+Rejected,Отклонено
+Search Receipts,Поиск по чекам
+Garmin,Garmin
+Sign Up,Зарегистрироваться
+E-mail,Эл.почта
+Select,Выберите
+Branch,Филиал
+Confirm Password,Подтвердите пароль
+Registration Code,Код регистрации
+Loading Company....,Загрузка компании...
+Loading Branch....,Загрузка филиала...
+Registering....,Регистрация...
+Thanks for Sign up,Благодарим за регистрацию
+Please Login now,"Пожалуйста, войдите в систему"
+Select your department,Выберите ваш департамент
+Select your company,Выберите вашу компанию
+No company found,Компания не найдена
+Password must be same.,Пароли должны совпадать.
+Enter confirm password.,Введите пароль подтверждения.
+"Password must have 1 digit, 1 UpperCase and 1 LowerCase letters.","Пароль должен содержать 1 цифру, 1 заглавную и 1 строчную буквы."
+Enter password.,Введите пароль.
+Select your branch.,Выберите свой филиал.
+Enter valid e-mail ID.,Введите адрес эл.почты.
+Enter e-mail ID.,Введите адрес эл.почты.
+Enter last name.,Введите фамилию.
+Enter first name.,Введите имя.
+First select your company,Сначала выберите вашу компанию
+Enter registration code.,Введите код регистрации.
+Skip,Пропустить
+Enter Receipt Number,Введите номер чека
+Choose Brand Name,Выберите название бренда
+You cannot select this photo,Вы не можете выбрать это фото
+Do you want to delete,Вы действительно хотите удалить
+selected photos?,выделенные фото?
+Your Card Number:,Номер вашей карты:
+PIN,ПИН
+Verifying....,Проверка...
+Requesting new OTP,Запрос нового одноразового пароля
+Success,Удачно
+Select org,Выберите организацию
+Change Org,Изменить организацию
+You will be logged out for app settings to take place.,"Необходимо выйти из системы, чтобы настройки вступили в силу"
+New settings found,Найдены новые настройки
+Recognize,Признать
+Thanks for recognizing,Спасибо за признание
+Select at least one strength to recognize,Выберите хотя бы одно качество для признания
+No Updates,Обновлений нет
+Take Survey,Пройти опрос
+WORKPLACE,РАБОЧЕЕ МЕСТО
+ALLOCATE POINTS,РАСПРЕДЕЛИТЬ БАЛЛЫ
+Server is facing heavy load. Please try again later.,"Сервер испытывает большую нагрузку. Пожалуйста, попробуйте позже"
+"* Password must be minimum 8 characters and contain a combination of uppercase letters, lowercase letters & numbers.","* Пароль должен состоять минимум из 8 символов и содержать комбинацию прописных букв, строчных букв и цифр."
+Please enter your home address. Use of Nexperia ATSN office address is not allowed.,"Пожалуйста, введите свой домашний адрес. Использование адреса офиса Nexperia ATSN не допускается."
+1 colleague\'s anniversary,годовщина у вашего коллеги
+It\'s your anniversary,У Вас годовщина
+%d colleagues\' anniversary,годовщина у %d коллег
+Monthly appreciation remaining:,"Благодарности, оставшиеся на конец месяца:"
+Monthly appreciations remaining:,"Благодарности, оставшиеся на конец месяца:"
+Employee ID,Идентификатор сотрудника
+Please enter your email address and change your password,"Пожалуйста, введите свой адрес эл. почты и измените пароль"
+SET EMAIL ID & PASSWORD,УСТАНОВИТЬ АДРЕС ЭЛ. ПОЧТЫ И ПАРОЛЬ
+* Please enter your work or personal contact email for password reset and points redemption purposes.,"* Пожалуйста, введите свой рабочий или личный контактный адрес эл. почты для сброса пароля и обмена баллов."
+Postal Code,Почтовый индекс
+Home,Домой
+points,баллы
+Please select a delivery mode,"Пожалуйста, выберите вид доставки"
+I have read and accept the Terms of Service & Privacy Policy of Rewardz and Nexperia Malaysia.,Я прочитал и принимаю Условия использования и Политику конфиденциальности Rewardz и Nexperia Malaysia.
+Please enter you email address,"Пожалуйста, введите свой адрес эл. почты"
+Target Units,Желаемые единицы
+Units Sold,Продано единиц
+Special Campaigns Tracker,Трекер избранных кампаний
+You are in,Вы в
+tier,уровень
+User is in,Пользователь на
+You are nominating,Вы номинируете
+You are recognizing,Вы признаете
+Private,Приватное
+This user has chosen to keep the appreciations private,Пользователь сделал свои благодарности приватными
+Make my appreciations public,Сделать мои благодарности публичными
+Appreciations,Благодарности
+Nominations,Номинирования
+Recongnizations,Признания
+Workplace by Facebook,Рабочее место Facebook
+Share with,Поделиться с
+Please long click on message and select at least one message that you would like to share.,"Пожалуйста, нажмите и удерживайте сообщение, которым вы хотите поделиться."
+appreciated,оценено
+Remaining Monthly appreciation points:,"Баллы благодарностей, оставшиеся на конец месяца:"
+Remaining Monthly appreciations points:,"Баллы благодарностей, оставшиеся на конец месяца:"
+Appreciation,Благодарность
+Appreciations,Благодарности
+Nomination,Номинирование
+Nominations,Номинирования
+Recognition,Признание
+Recognitions,Признания
+day. Kindly update asap,"день. Пожалуйста, обновите как можно скорее"
+days. Kindly update asap,"дней. Пожалуйста, обновите как можно скорее"
+Posting to workplace.....,Публикация на рабочее место....
+does not exists on your workplace group,не существует в вашей рабочей группе
+Successfully posted to your workplace group.,Успешно опубликовано в вашей рабочей группе.
+Something went wrong while posting to your workplace group.,Что-то пошло не так при публикации в вашей рабочей группе.
+with this message,с этим сообщением
+New settings updated.,Настройки обновлены.
+Hide my appreciation messages,Скрыть мои сообщения с благодарностями
+There was a problem subscribing to Recording API,Возникла проблема подписки Recording API
+Fetching Details....,Получение подробностей ....
+Select Frame Category,Выберите категорию
+Enter Date of Receipt,Введите дату получения
+Enter Number of Units sold,Введите количество проданных единиц
+Receipt is missing,Нет чека
+Loading Receipts....,Загрузка чеков...
+Uploading Receipt,Загрузка чека
+Receipt Upload Failed,Неудачная загрузка чека
+Upload Complete,Загрузка завершена
+Italian,Итальянский
+German,Немецкий
+Frame Category,Категория
+Brand Model,"Модель, бренд"
+Date of Receipt,Дата получения
+Amount,Сумма
+No. of units sold,Количество проданных единиц
+View Receipt,Просмотр чека
+Upload,Загрузка
+Spanish,Испанский
+NRIC/email,NRIC / эл. почта
+Notify members of,Уведомить участников
+Quantity should be less than 9,Количество должно составлять менее 9
+Add less than 9,Добавить меньше 9
+You can redeem this reward,Вы можете получить это вознаграждение
+Enter your email address below and we\'ll send you instructions on how to change your password,"Введите ниже свой адрес эл. почты, и мы отправим вам инструкции по изменению пароля"
+Country,Страна
+Store,Магазин
+Select your country,Выберите вашу страну
+First select your country,Сначала выберите вашу страну
+Loading stores....,Загрузка магазинов...
+No countries found,Страны не найдены
+Select your store,Выберите ваш магазин
+Loading countries....,Загрузка стран ....
+Processing,В обработке
+Redeem e-Cash,Приобрести эл. наличные
+Enter Amount,Введите сумму
+"Minimum redemption of $10 is required, subsequent increase in multiples of $1","Минимальная сумма обмена составляет 10 долларов, последующее увеличение суммы должно быть кратно 1 доллару."
+Enter PayNow bank account number,Введите номер банковского счета PayNow
+OR,ИЛИ
+Enter PayNow registered phone number,"Введите номер телефона, зарегистрированного в PayNow"
+100 points required,необходимо 100 баллов
+Please enter amount,Пожалуйста введите сумму
+Please enter either PayNow bank account number or PayNow registered mobile number,"Введите номер банковского счета PayNow или введите номер телефона, зарегистрированного в PayNow"
+Please enter valid mobile number,"Пожалуйста, введите действующий номер мобильного телефона"
+Please enter minimum $10,"Пожалуйста, введите минимум 10 долларов"
+$10,10 долларов
+Not registered with PayNow? Register now!,Не зарегистрированы в PayNow? Зарегистрироваться!
+"Mobile number update failed, please try again","Не удалось обновить номер мобильного телефона, попробуйте еще раз"
+Last Name,Фамилия
+Scan was cancelled by you.,Вы прервали сканирование.
+Place QR code in the frame,Поместите QR-код в рамку
+Courier Option,Курьерская доставка
+Office Delivery (Free service),Доставка в офис (Бесплатная услуга)
+fee of,комиссия в размере
+points apply,баллы применяются
+Any subsequent redemptions within the day will be free of charge,Любые последующие обмены в течение дня будут бесплатными.
+Collect your reward/s every 1st working day of the month (redemptions done from the 9th to 23rd of the previous month) OR 15th of the month (redemptions done from the 24th of the previous month to the 8th of the current month),Получайте свои награды каждый 1-й рабочий день месяца (обмен производятся с 9 по 23 числа предыдущего месяца) ИЛИ 15 числа месяца (обмен производятся с 24 числа предыдущего месяца по 8 число текущего месяца)
+Are you sure you want to redeem this reward?,"Вы уверены, что хотите обменять баллы на это вознаграждение?"
+Logging out....,Выход...
+Your password will expire in,Срок действия вашего пароля истечет через
+Alert,Оповещение
+Your password has expired. Kindly reset your password using forget password to login,"Ваш пароль истек. Чтобы восстановить пароль, войдите в систему, кликнув «Забыли пароль?»"
+ATSN Dashboard,Панель управления ATSN 
+WW47\'18,WW47\'18
+Output,Вывод
+ICAR,ICAR
+Departmental Performance,Достижения департамента
+Quarter,Квартал
+Q,Q
+QTD,QTD
+M,M
+,
+$XXX,$XXX
+Enter brand model,Введите бренд / модель
+Membership Privileges,Привилегии членства
+since,с
+Please enter minimum %1$d characters,"Пожалуйста, введите минимум %1$d символов"
+entered,введено
+Confirm your mobile number,Подтвердите свой номер мобильного телефона
+Recognition Heroes,Стена почета
+Feed,Фид
+users,пользователи
+Clear,Очистить
+appreciated by,благодарность начислена от
+Weekly data as updated on,Еженедельные данные обновлены
+Scan QR Code in store to enjoy your offer!,"Отсканируйте QR-код в магазине, чтобы воспользоваться своим предложением!"
+Scan QR Code,Сканировать QR-код
+Look for the QR code with a red logo in the middle to scan,Найдите QR-код с красным логотипом посередине для сканирования.
+Available Points for Redemption,Доступные баллы для обмена
+Total Points Redeemed,Всего баллов потрачено
+More Details,Больше подробностей
+My Points,Мои баллы
+Used Points,Использованные баллы
+Points Available to Redeem,"Баллы, доступные для обмена"
+Learn More,Подробнее
+Points Available for Redemption,"Баллы, доступные для обмена"
+Steps Summary,СТАТИСТИКА ШАГОВ
+CLOSE,ЗАКРЫТЬ
+MONTHLY,ЕЖЕМЕСЯЧНО
+See Points History >,Посмотреть историю баллов>
+Greetings,Поздравления
+Popular Merchants,Популярные продавцы
+View Event,Просмотреть событие
+View Reward,Просмотреть вознаграждение
+View Message,Просмотреть сообщение
+Organization has,Организация имеет
+Selected,Выбрано
+RSVP,Приглашение
+Event Venue,Место проведения мероприятия
+Contact Person for the Event,Контактное лицо по событию
+Location,Местоположение
+See All,Просмотреть все
+My Strengths,Мои качества
+Click on each to view more,Более подробные данные доступны по щелчку на самих объектах.
+but people call me as,но люди называют меня
+I\'m,Я
+First & Last name,Имя и фамилия
+Please enter address line one,Введите адрес 1
+Please enter address line 2,Введите адрес 2
+SUPPORT,ПОДДЕРЖКА
+GET MY TREATS,ПОЛУЧИТЬ МОЙ ПОДАРОК
+Total Points Received,Всего баллов получено
+Give High 5,Присвоить похвалу
+with,с
+Thanks for giving a High 5.,Спасибо за похвалу.
+You are giving a High 5,Вы присваиваете похвалу
+Minimum %1$d characters required,Требуется минимум %1$d символов
+High 5 Awards,Похвала
+Joined,Присоединились
+Direct access of the application is restricted; Kindly go to the Your Choice app and click on the Your Treat option.,"Прямой доступ к приложению ограничен; Пожалуйста, перейдите в приложение « Your Choice» и нажмите «Your Treat»."
+Remaining points budget,Оставшиеся баллы
+New version available,Доступна новая версия.
+A new version is available. Please update to the latest version.,"Доступна новая версия. Пожалуйста, обновитесь до последней версии."
+Update,Обновить
+EventPhotosActivity,EventPhotosActivity
+1 character,1 символ
+0 characters,0 символов
+%d characters,%d символов
+1 Like,1 лайк
+0 Likes,0 лайков
+%d Likes,%d лайков
+1 Pt,1 балл
+0 Pts,0 баллов
+%d Pts,%d баллов
+1 clap,1 лайк
+claps,лайки
+%d claps,%d лайков
+Tab 1,Вкладка 1
+Tab 2,Вкладка 2
+Event Points,Баллы события
+Security,Безопасность
+Preferences,Предпочтения
+App Support,Тех. поддержка приложения
+How to earn points?,Как заработать баллы?
+Frequently Asked Questions (FAQ),Часто задаваемые вопросы (FAQ)
+Live chat,Живой чат
+"Mon to Fri, 10am - 6pm",ПН-ПТ с 10:00-18:00
+Email us,Написать нам
+Send logs,Отправка логов
+Save Password,Сохранить пароль
+Refreshed on,Обновлено
+Redeemed on,Обменяно
+Steps,Действия
+Workplace,Рабочее место
+Upload Receipts,Загрузить чек
+Receipts,Чеки
+Calendar,Календарь
+Leaderboard,Таблица лидеров
+Rewards,Вознаграждения
+Facility Check In,Регистрация на площадку
+Referral,Реферал
+History,История
+Notifications,Уведомления
+Settings,Настройки
+Connect Apps,Подключить приложения
+Appreciation,Благодарность
+Dashboard,Панель управления
+Recognize,Признать
+Nominate,Номинировать
+Allocate Points,Распределить баллы
+Browse All,Поиск по всем
+My Wallet,Мой кошелек
+Valid Till:,Срок действия до:
+Use Now,Воспользоваться сейчас
+USED,ИСПОЛЬЗОВАННЫЕ
+EXPIRED,ИСТЕК СРОК
+TIME LEFT,ОСТАВШЕЕСЯ ВРЕМЯ
+Filter by,Фильтровать по
+Notify Me,Уведомить меня
+OUT OF STOCK,РАСПРОДАНО
+FILTERS,ФИЛЬТРЫ
+Select Category,Выберите категорию
+Sort By,Сортировать по
+Latest,Последнее
+A to Z,От А до Я
+Z to A,От Я до А
+Special Deals,Специальные предложения
+Points required to redeem,"Баллы, необходимые для обмена"
+Outlet,Пункт выдачи
+No Selection,Ничего не выбрано
+Select Outlet,Выберите пункт выдачи
+Please select the outlet first,"Пожалуйста, сначала выберите пункт выдачи "
+Choose your preferred  outlet:,Выберите желаемый пункт выдачи
+Change Outlet,Изменить пункт выдачи
+Website address not available.,Адрес веб-сайта недоступен.
+No location found,Местоположение не найдено
+Click here for more details,"Нажмите здесь, чтобы узнать больше"
+Register Now,Зарегистрироваться
+Not registered with PayNow?,Не зарегистрированы в PayNow?
+Enter PayNow registered phone number,"Введите номер телефона, зарегистрированного в PayNow"
+"Minimum redemption of $10 is required, subsequent increase in multiples of $1.","Минимальная сумма обмена составляет 10 долларов, последующее увеличение суммы должно быть кратно 1 доллару."
+Do you wish to proceed?,Вы хотите продолжить?
+Redeeming this reward will deduct %1d points from your account.,Обмен этого вознаграждения приведет к вычету %1d баллов из вашей учетной записи.
+"To proceed, select ‘Use Now’ to use your reward. If you select ‘Use Later’, your reward will be stored in ‘My Wallet’ for later use. To exit, click ‘X’, points will NOT be deducted.","Чтобы продолжить и воспользоваться вознаграждением, щелкните «Воспользоваться сейчас». При выборе опции «Воспользоваться позднее» вознаграждение сохранится в разделе «Мой кошелек» с возможностью использовать его позднее. Чтобы выйти, нажмите «X», баллы НЕ будут вычитаться."
+Use Later,Воспользоваться позднее
+Phone number is not available,Номер телефона недоступен
+Successfully Redeemed!,Обмен прошел успешно!
+Back to Rewards,Обратно к вознаграждениям
+View in My Wallet,Посмотреть в разделе «Мой кошелек»
+$1,1 доллар
+Reference Code,Справочный код
+Pass your phone to the counter staff to key in the pin code.,Передайте телефон сотрудникам за стойкой – они введут ПИН-код.
+Select your mode of delivery.,Выберите способ доставки.
+By courier,Курьером
+(Additional,(Применяется
+applies),дополнительно)
+Any subsequent redemptions made within the day will  be free of charge. Delivered within 5 working days.,"Любые последующие обмены, совершенные в течение дня, будут бесплатными. Доставка в течении 5 рабочих дней."
+To your office reception,К стойке регистрации вашего офиса
+(Free delivery),(Бесплатная доставка)
+Please note the cut off is every 23rd of the month. You will receive your vouchers on the 30th or 31st of the month or the next working day if it falls on weekends or public holidays.,"Обратите внимание, что пересчет происходит каждое 23 число месяца Вы получите ваучеры 30 или 31 числа месяца или на следующий рабочий день, если эти даты выпадают на выходные или праздничные дни."
+(Delivery cut-off date is on every 8th & 26th of the month. e.g. You will receive on 15th May if redemption is made on 27th April.),"(Дата окончания доставки - каждое 8 и 26 число месяца. Например, вы получите 15 мая, если обмен был произведен 27 апреля.)"
+Delivery Address,Адрес доставки
+BARCODE:,БАРКОД:
+Please enter code,"Пожалуйста, введите код"
+Only %1d quantities are available for redemption,Только %1d элементов доступно для обмена
+Please select at least one subcategory,Выберите хотя бы одну подкатегорию
+Brand Name,Название бренда
+Select Brand,Выберите бренд
+Select Frame,Выберите фрейм
+Starting Soon,Скоро начнется
+Event starts on,Событие начинается 
+Yet to start,Еще не началось
+Email or Username,Эл. почта или имя пользователя
+HURRY UP!,ПОТОРОПИТЕСЬ!
+items left,единиц осталось
+Please enter Paytm registered mobile number,"Пожалуйста, введите номер мобильного телефона, зарегистрированный в Paytm"
+Please enter correct mobile number,"Пожалуйста, введите правильный номер мобильного телефона"
+This voucher will be marked as ‘Used’.,Этот ваучер будет отмечен как «Использованный».
+Please enter your mobile number,"Пожалуйста, введите номер своего мобильного телефона"
+RECEIVED,ПОЛУЧЕННЫЕ
+Please select at least one filter,Выберите хотя бы один фильтр
+Select All,Выбрать все
+Oops! There are no events in this month,Упс! В этом месяце нет событий
+Oops! There are no greetings in this month,Упс! В этом месяце нет поздравлений
+Oops! There are no announcements in this month,Упс! В этом месяце нет анонсов
+Oops! You did not redeem any %1$s this year,Упс! Вы не обменяли %1$s в этом году
+Oops! No receipts are uploaded,Упс! Чеки не загружены
+No receipts are currently being processed,Ни один чек не находится в обработке
+Oops! No receipts are approved,Упс! Чеки не утверждены
+No receipts are rejected,Чеки не отклонены
+Used,Использованные
+Not Used,Неиспользованные
+Received,Полученные
+No redemption available,Обмен недоступен
+Top Rewards,Топ вознаграждений
+Your %1d Points will expire on %1d %s,Срок действия ваших %1d баллов истечет %1d%s
+Acknowledge,Подтвердить
+Have you received your physical voucher?,Вы получили ваучер на физическом носителе?
+Thanks for acknowledging!,Спасибо за подтверждение!
+We hope you enjoy your  vouchers. Have a nice day ahead.,"Надеемся, вам понравятся ваучеры. Хорошего дня."
+Enter email address,Введите адрес эл. почты
+At the max only 3 subcategories can be selected.,Можно выбрать не более 3 подкатегорий.
+Oops! No rewards found.,Упс! Вознаграждения не найдены
+Explore,Исследовать
+Recently Viewed,Недавно просмотрено
+Redeem,Обменять
+%1d rewards found matching,Найдено %1d совпавших вознаграждений
+"In high demand. Only %1d left, don\'t miss out!","Пользуется большим спросом. Осталось всего %1d, не пропустите!"
+Nothing found matching %s,Ничего не найдено
+Recent Searches,Недавние запросы
+IN HIGH DEMAND!,ПОЛЬЗУЕТСЯ БОЛЬШИМ СПРОСОМ.
+"Only %1d left, don\'t miss out!","Осталось всего %1d, не пропустите!"
+Point History,История баллов
+Address line 2 (Building/ Block/ House No.),Адрес 2 (строение/блок/номер дома)
+for strength,для качеств
+Redeem,Обменять
+Reward Used!,Вознаграждение использовано!
+Voucher Received!,Ваучер получен!
+Open Link,Открыть ссылку
+Quantity:,Количество:
+Please go to My Wallet Tab to use the redeemed reward.,"Перейдите на вкладку «Мой кошелек», чтобы использовать полученное вознаграждение."
+Please acknowledge in My Wallet once you receive the voucher.,"Подтвердите в «Мой кошелек», как только получите ваучер."
+Congratulations..!,Поздравляем!
+Checked-in Successfully,Регистрация прошла успешно.
+When you check-in successfully  to a\nevent you will receive a scratch card\nfrom which you can win points,"Когда вы успешно зарегистрируетесь на \ n мероприятии, вы получите скретч-карту \ n, с помощью которой вы можете выиграть баллы."
+Points won,Баллов выиграно
+Points won will be reflected within 2 hours.,Выигранные очки отобразятся в течение 2 часов.
+Congratulations! \nYou have won a scratch card.,Поздравляем! \ nВы выиграли скретч-карту.
+Swipe back and forth to see how many points you have won.,"Проведите по экрану пальцем влево, затем вправо – появится количество заработанных баллов."
+You have won,Вы выиграли
+Have you received the amount?,Вы получили сумму?
+Please contact support team.,Обратитесь в службу поддержки.
+Search by username,Поиск по имени пользователя
+You have won a scratch card.,Вы выиграли скретч-карту.
+"At the max, you can select only 1000 quantities.",Максимально вы можете выбрать 1000 единиц
+"At the max, you can award 1000000 points.",Максимально вы можете получить 1 000 000 баллов
+You\'re exceeding the points lmit of %d,Вы превысили лимит %d баллов
+Maximum 1000000 is allowed.,Допускается максимум 1 000 000.
+No photos are added.,Фото не добавлены.
+Enter less quantity,Введите меньшее количество
+Delete All,Удалить все
+Are you sure you want to delete all notification?,"Вы уверены в том, что хотите удалить все уведомления?"
+Please enter search query,"Пожалуйста, введите запрос"
+Processed,Обработано
+Please enter wish message.,"Пожалуйста, введите ваши пожелания."
+Sending your wish.....,Отправка ваших пожеланий...
+Your message has been sent.,Ваше сообщение было отправлено.
+Flexi benefits,Flexi benefits
+You have not made your selection for the benefit period for the year 2020.\n\nPlease proceed with benefits selection before logging into Flexi Benefits app.,Вы еще не выбрали бонусный период на 2020 год. \ N \ nПеред входом в приложение Flexi Benefits перейдите к выбору бонуса.
+Please enter contact number,"Пожалуйста, введите контактный номер"
+Please enter valid contact number,"Пожалуйста, введите действующий контактный номер"
+Please enter country,"Пожалуйста, введите страну"
+Please acknowledge in My Wallet once you receive the product.,"Пожалуйста, подтвердите в ""Мой кошелек"", как только получите товар."
+We hope you enjoy the product. Have a nice day ahead.,"Надеемся, вам понравится этот товар. Хорошего дня."
+Have you received the product?,Вы получили товар?
+Last Name,Фамилия
+Pincode (Optional),Пин-код (необязательно)
+Product Received!,Товар получен!
+*Delivery fee of %d will be charged,* Взимается плата за доставку в размере %d.
+Thai,Тайский
+contacts,Контакты
+Thailand,Таиланд
+Flexi Benefits,Flexi benefits
+Benefit Category,Категория бонуса
+Benefit Type,Тип бонуса
+Selected Benefit Plan,Выберите бонусный план
+Remarks,Замечания
+Select Benefit,Выберите бонус
+Select Benefit Category,Выберите категорию бонуса
+Enter description,Введите описание
+No Records Found,Записи не найдены
+Enter remark,Введите замечание
+Units,Единицы
+Organisation,Организация
+First select your organization,Сначала выберите свою организацию
+No Organisation Found,Организация не найдена
+See More,Смотреть еще
+Official Email ID,Официальный адрес эл. почты
+Postcode (Optional),Почтовый индекс (необязательно)
+Remarks(Optional),Примечания (необязательно)
+Approver Comments,Комментарии модератора
+Amount entered is more than the entitled amount.,Введенная сумма превышает разрешенную.
+Your claim has been uploaded successfully.,Ваш запрос успешно загружен.
+Enter your E-mail ID or Emp ID,Введите свой адрес эл.почты или идентификатор сотрудника
+Order Placed,Заказ размещен
+In Process,В процессе
+Ready for pick up,Готово к выдаче
+Shipped,Отправлено
+Upload Resume,Загрузить резюме
+OPEN GALLERY,ОТКРЫТЬ ГАЛЕРЕЮ
+FILE MANAGER,ФАЙЛОВЫЙ МЕНЕДЖЕР
+External storage permission is required to show the documents.,Для отображения документов требуется доступ к внешнему хранилищу.
+Past Week,Прошлая неделя
+Past Month,Прошлый месяц
+Last 3 months,Последние 3 месяца
+Last 6 months,Последние 6 месяцев
+Past year,Прошлый год
+Custom,Свой
+Filter By Feed Origin,Фильтровать по источнику фида
+,
+Go to Permissions to Grant external storage,"Перейдите к Разрешениям, чтобы дать доступ к внешнему хранилищу"
+Find by name or mobile number,Поиск по имени или номеру мобильного телефона
+Please type search text,"Пожалуйста, введите запрос"
+*Weekly sales achievement will be refreshed every Monday,* Достижения по продажам за неделю обновляются каждый понедельник
+LE Code,Код LE
+Please enter valid LE Code and Password,"Пожалуйста, введите действующий код LE и пароль"
+Enter valid LE Code,Введите действующий код LE
+Password,Пароль
+%1d Points,%1d баллов
+Saved Address,Сохраненный адрес
++ Add New,+ Добавить новый
+Make Default,"Установить, как вариант по умолчанию"
+Edit,Редактировать
+Delete,Удалить
+Edit Address,Редактировать адрес
+Add New Address,Добавить новый адрес
+Save Address,Сохранить адрес
+No address added.,Ни один адрес не добавлен.
+Please select delivery address,"Пожалуйста, выберите адрес доставки"
+*Default Address,* адрес по умолчанию
+Delete Address,Удалить адрес
+Are you sure you want to delete the address?,"Вы уверены, что хотите удалить этот адрес?"
+Your product will be delivered to,Ваш товар будет доставлен по адресу
+New address added successfully,Новый адрес успешно добавлен
+Updated your address successfully,Ваш адрес успешно обновлен
+Tap Here,Нажмите здесь
+Reset Password,Сбросить пароль
+App needs Physical activity permission to track the steps.,"Приложению требуется доступ к Физической активности, чтобы отслеживать шаги."
+Please grant Physical activity permission to track the steps,"Пожалуйста, предоставьте доступ к Физической активности, чтобы отслеживать шаги"
+Overall,Всего
+Last 7 days,Последние 7 дней
+Last 30 days,Последние 30 дней
+Last 90 days,Последние 90 дней
+Received,Полученные
+Sent,Отправленные
+All,Все
+FILTER,ФИЛЬТР
+Filter by Strength,Фильтровать по качествам
+,
+Filter by organization,Фильтр по организации
+Filter By Feed Type,Фильтровать по типу фида
+Filter By Feed Range,Фильтровать по рейтингу фида
+Clear All,Очистить все
+Reset All,Сбросить все
+Apply,Принять
+STRENGTHS,КАЧЕСТВА
+Are you sure you want to reset all  filter\nselections to default?,Вы действительно хотите сбросить \n выбор всех фильтров к варианту по умолчанию?
+Reset Selection,Сбросить выделение
+(Enter candidate\'s details),(Введите данные кандидата)
+Tutorial not available.,Туториал недоступен
+Whats on your mind?,Что думаете?
+Enter your comment here,Введите свой комментарий сюда
+%d comments,% комментариев
+%d claps,%d лайков
+Comments,Комментарии
+Claps,Лайки
+News Feed,Фид новостей
+Comment cannot be empty!,Комментарий не может быть пустым!
+Please select one option,"Пожалуйста, выберите один вариант"
+Create Post,Создать пост
+Create Poll,Создать опрос
+Choice 1,Вариант 1
+Ask Something,Спросите что-нибудь
+Choice 2,Вариант 2
+Choice 3 (Optional),Вариант 3 (необязательно)
+Choice 4 (Optional),Вариант 4 (необязательно)
+25,25
+Poll description is empty.,Описание опроса пустое.
+Choice 1 is required!,Вариант 1 обязателен!
+Choice 2 is required!,Вариант 2 обязателен!
+Choice characters should be less than 26,Ответ должен состоять из менее чем 26 символов
+Poll Active for (days) :,Опрос активен в течение (дней):
+Minimum poll active time is 1 day,Минимальное время активности опроса — 1 день.
+Poll cannot be active for more than 30 days.,Опрос не может быть активен более 30 дней.
+Title,Должность
+80,80
+Post,Опубликовать
+200,200
+Photos,Фото
+Successfully Posted!,Успешно опубликовано
+Length of the title should not exceed 80 characters.,Длина заголовка не должна превышать 80 символов.
+Length of this field should not exceed 200 characters.,Длина этого поля не должна превышать 200 символов.
+Cannot create empty post.,Невозможно создать пустой пост.
+App needs external storage permission to access the media files,Для доступа к медиа приложению необходим доступ к внешнему хранилищу.
+Please provide the external storage permission to continue using this functionality.,"Для использования этой функции, предоставьте доступ к внешнему хранилищу."
+%d%%,%d%%
+Your vote has been casted successfully.,Ваш голос был засчитан.
+Post to my department only,Пост только для своего департамента
+left,слева
+Final Result,Окончательный результат
+Cannot select more than 10 images.,Невозможно выбрать более 10 изображений.
+Successfully created poll.,Опрос успешно создан.
+This field cannot be empty.,Это поле не может быть пустым.
+Photo saved to this device.,Фото сохранено на устройство.
+Edit Post,Редактировать пост
+Successfully edited the post.,Пост успешно отредактирован.
+Cannot save empty post.,Невозможно сохранить пустой пост.
+Deleted successfully.,Удалено успешно.
+Be the first one to comment.,"Будьте первым, кто прокомментирует."
+Comment,Комментарий
+Delete Post,Удалить пост
+Are you sure you want to delete the post?,"Вы уверены, что хотите удалить этот пост?"
+Are you sure you want to delete the poll?,"Вы уверены, что хотите удалить этот опрос?"
+Delete Poll,Удалить опрос
+Only S3 and S4 messages can be shared on this platform,На этой платформе можно делиться только сообщениями S3 и S4.
+"Internet connection lost, please retry again","Интернет-соединение потеряно, повторите попытку позже"
+1 comment,1 Комментарий
+comments,комментарии
+%d comments,% комментариев
+1 vote,1 голос
+votes,голоса 
+%d votes,голосa(ов)
+"Something wrong happened, please retry again",Произошла ошибка. Повторите попытку позже.
+"Our systems got an error, please retry again",В наших системах произошла ошибка. Повторите попытку позже.
+"Our services are under maintenance, please retry after some time
+","Наши сервисы находятся на техобслуживании. Повторите попытку позже.
+"
+"Not able to connect, please retry again",Невозможно подключиться. Повторите попытку позже.
+No feeds are available at the moment.,В настоящее время фид недоступен
+Cannot retrieve cropped image.,Невозможно получить обрезанное изображение.
+Error fetching the GIF,Ошибка при загрузке GIF
+Please remove GIF to attach media files,"Удалите GIF, чтобы прикрепить медиафайлы"
+Please remove media files to attach GIF,"Удалите медиафайлы, чтобы прикрепить GIF"
+Reset,Сбросить
+Crop Image,Обрезать изображение
+View Feed,Просмотр ленты
+Not found.,Не найдено.
+The feed you are looking for does not exist as it may be deleted.,"Фид, который вы искали, не существует или был удален"
+Feed not found.,Фид не найден
+Go to Feeds list,Перейти к списку фидов
+Card Number,Номер карты
+URL,URL
+App needs external storage permission to save the downloaded images.,Для загрузки изображений приложению необходим доступ к внешнему хранилищу.
+Please enter the valid reason,"Пожалуйста, введите вескую причину"
+Reported,Отправлено
+Report Abuse,Сообщить о нарушении
+Comments,Комментарии
+Please type in your concerns,"Пожалуйста, напишите, что вас интересует"
+If you have any concerns regarding the feed please share below.,"Если у вас есть какие-либо вопросы об этом фиде, напишите об этом ниже."
+Connect,Подключить
+Select GIF,Выберите GIF
+Search Tenor,Искать в Tenor
+GIF,GIF
+Like,Лайк
+Select Province,Выберите провинцию
+Please Select Province,"Пожалуйста, выберите провинцию"
+Province,Провинция
+Please Enter Pincode,"Пожалуйста, введите пин-код"
+Please set province in your saved address,"Пожалуйста, укажите провинцию в вашем сохраненном адресе"
+Check-In,Регистрация
+Unable to Scan,Невозможно отсканировать
+LOCATION CHECK IN,Регистрация по местоположению
+Select Product Category,Выберите категорию товара
+Choose Product Category,Выбрать категорию товара
+Product Category,Категория товара
+Benefit For,Боунс для
+Self,Себе
+Dependent,Подчиненый
+Available Credit for,Доступный кредит для
+Maximum Annual Credit for Selected Benefit Type,Максимальная годовая сумма для выбранного типа бонусов
+Enter name of vendor/brand/shop name..,Введите название продавца / бренда / магазина…
+Enter any remarks regarding the receipt. (Optional),Введите примечания к чеку. (Необязательно)
+Select Benefit For,Выбрать бонус для
+Select Dependent,Выбрать подчиненного 
+Select Benefit Type,Выбрать тип бонуса
+Flexi Benefits,Flexi benefits
+Add additional invoice pages or product images here,Добавьте сюда дополнительные страницы счетов или изображения товаров
+ADD DOCUMENTS,ДОБАВИТЬ ДОКУМЕНТЫ
+Supporting Documents,Сопутствующие документы
+Add Supporting Documents,Добавить сопутствующие документы
+No Items added,Ничего не добавлено
+ADD PRODUCT DETAILS,ДОБАВИТЬ ДЕТАЛИ О ТОВАРЕ
+Added Items,Добавленные элементы
+Notes (Optional),Примечания (необязательно)
+Delete item,Удалить элемент
+Are you Sure you want to delete this item?,"Вы уверены, что хотите удалить этот элемент?"
+Enter any remarks regarding the receipt,Введите примечания к чеку 
+Item Details,Детали о товаре
+Product Group,Группа товара
+Amount (optional),Сумма (необязательно)
+Update,Обновить
+ADD MORE,ДОБАВИТЬ ЕЩЕ
+Choose Product Group,Выберите группу товара
+Add product details,Добавить детали о товаре
+Secondary Points Balance,Баланс дополнительных баллов
+Secondary Points,Дополнительные баллы
+"On sale of every Product; you will receive Primary Points and Secondary Points on the App. You can use the Primary Points to redeem rewards within the app; whereas, Secondary Points are those that get accumulated in your account to reward your customers when they make a sale. These accumulated Secondary Points will be added back to your Primary Points Wallet after 12 months from the date they were awarded in case your customers have not made a sale.","От продажи каждого товара в приложении вы получите основные и дополнительные баллы. Вы можете использовать основные баллы для получения вознаграждений в приложении; вторичные баллы накапливаются в вашей учетной записи для вознаграждения ваших клиентов, когда они совершают продажу. Накопленные дополнительные баллы вернутся в ваш кошелек основных баллов через 12 месяцев с даты их получения, если ваши клиенты ничего не продали."
+Approver Remarks,Комментарии модератора
+Click on the receipts to get started,"Нажмите на Чеки, чтобы начать"
+Your receipt has been uploaded successfully.,Ваш чек был успешно загружен
+View summary of your total points,Просмотр сводки по всем вашим баллам
+Redeem your points for numerous rewards,Обменивайте свои баллы на многочисленные вознаграждения
+Upload your sales invoices,Загрузите ваши счета
+Keep track of your points history,Следите за своей историей баллов
+Appreciate your colleague,Отправьте благодарность коллеге
+Add Receipts,Добавить чеки
+Qty : %1$d,Кол-во: %1$d
+Please wait while your receipt is being submitted,"Подождите, пока ваш чек будет подтвержден"
+Info Requested,Информация запрошена
+EDIT RECEIPTS,РЕДАКТИРОВАТЬ ЧЕКИ
+Edit Image,Редактировать изображение
+Re-Submission,Повторное представление
+Remaining monthly appreciation budget,Остаток ежемесячных благодарностей
+Malay,Малайский
+Vietnamese,Вьетнамский
+No gif support from keypad,В клавиатуре нет поддержки gif
+Pin this post to top,Закрепить пост наверху
+Unpin the post,Открепить пост
+Unpin the poll,Открепить опрос
+Pin this poll to top,Закрепить опрос наверху
+No chart data available.,Данные графика недоступны
+User Type,Тип пользователя
+Category,Категория
+Challenge ID,Идентификатор челленджа
+Challenge Date,Дата челленджа
+Number,Номер
+Activity Date,Дата активности
+Customer Name,Имя клиента
+Solution Portfolio,Портфолио решений
+Proof of Evidence,Доказательства
+Notes,Примечания
+This is a free text section. Please highlight anything that needs reviewers attention,"Это раздел для текста Выделите все, что требует внимания рецензентов."
+Claim Number,Номер запроса
+Date of submission,Дата подачи
+UPLOAD CLAIM,Загрузить запрос
+Add Claim,Добавить запрос
+Enter Number,Введите номер
+dd MMM yyyy,дд МММ ГГГГ
+Cloud One,Cloud One
+Apex One,Apex One
+Network One (ATP),Сеть 1 (ATP)
+Network One (IPS),Сеть 1 (IPS)
+#2345,#2345
+"Input number of Meetings Confirmed, eDemos, Testimonials etc.","Введите количество подтвержденных встреч, презентаций, отзывов клиентов и т. д."
+yyyy-MM-dd,гггг-ММ-дд
+Tap here to get started.,"Нажмите здесь, чтобы начать."
+Claims,Запросы
+EDIT CLAIM,РЕДАКТИРОВАТЬ ЗАПРОС
+Uploading Claim,Загрузка запроса...
+Loading Claims....,Загрузка запросов...
+CLAIMS,ЗАПРОСЫ
+No claims are currently being processed,В настоящее время запросы не обрабатываются
+No Claims Found.,Запросы не найдены.
+Your claim is successfully submitted,Ваш запрос успешно отправлен
+Your claim number is\u0020,Номер вашего запроса — \u0020
+Upload your claims,Загрузите ваши запросы

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+
+
+    <!-- Dashboard referral screen -->
+
+
+    <!-- Dashboard referral screen -->
+
+    <!-- Dashboard referral screen items end here -->
+    <string-array name="citizenship_array">
+    </string-array>
+
+    <string-array name="position_array">
+    </string-array>
+
+    <string-array name="highest_academic_qualification_array">
+    </string-array>
+
+    <string-array name="highest_early_childhood_education_arry">
+    </string-array>
+
+    <string-array name="currently_pursuing_arry">
+    </string-array>
+
+    <string-array name="array_priority_validity">
+    </string-array>
+
+
+
+
+
+
+
+
+    <plurals name="birthday_plurals">
+    </plurals>
+
+    <plurals name="anniversary_plurals">
+    </plurals>
+
+    <plurals name="message_appreciations_remaining">
+    </plurals>
+
+    <plurals name="message_appreciations_points">
+    </plurals>
+
+    <plurals name="no_of_appreciations">
+    </plurals>
+
+    <plurals name="no_of_nominations">
+    </plurals>
+
+    <plurals name="no_of_recognitions">
+    </plurals>
+
+
+
+
+
+    <plurals name="days_kindly_update">
+    </plurals>
+
+
+    <plurals name="character_count">
+    </plurals>
+
+    <plurals name="likes">
+    </plurals>
+
+
+    <plurals name="pts">
+    </plurals>
+
+
+
+
+
+
+
+
+
+    <!--    Unilever win app-->
+
+
+
+
+
+    <!--    Appreciation Strings-->
+
+
+
+    <!-- Feeds  -->
+
+
+
+    <plurals name="clap_plurals">
+    </plurals>
+
+    <plurals name="comment_plurals">
+    </plurals>
+
+    <plurals name="vote_plurals">
+    </plurals>
+
+    </string>
+
+
+
+
+    <string-array name="province_state_names">
+    </string-array>
+
+    <string-array name="province_state_names_english">
+    </string-array>
+    <string-array name="benefit_for_array">
+    </string-array>
+
+
+
+
+
+    <!--    Nomination Strings-->
+
+
+
+
+    <!--Admin Pin-->
+    <string name="quantity_total">Общее количество:</string>
+    <string name="total_points_receipt">Итого:</string>
+    <string name="quick_link_integration">Быстрые ссылки</string>
+
+    <string name="units_sold_value">Единицы - %1$s</string>
+    <string name="add_item_name">ДОБАВИТЬ ЭЛЕМЕНТ</string>
+    <string name="supporting_docs_optional">(Необязательно) Сопутствующие документы</string>
+    <string name="add_number_units">Добавить количество единиц</string>
+    <string name="add_receipt_amount">Добавить сумму чека</string>
+    <string name="add_receipt_number">Добавить номер чека</string>
+
+    <string name="biometric_prompt_title">Биометрический вход в мое приложение</string>
+    <string name="biometric_prompt_sub_title">Войти, используя биометрические учетные данные</string>
+    <string name="enable">Включить</string>
+    <string name="biometric_prompt_enable_title_finger">НАСТРОИТЬ TOUCH ID</string>
+    <string name="biometric_prompt_enable_sub_title_finger">Включить Touch ID для облегчения доступа.</string>
+    <string name="biometric_prompt_enable_title_face">НАСТРОИТЬ FACE ID</string>
+    <string name="biometric_prompt_enable_sub_title_face">Включить Face ID для облегчения доступа.</string>
+    <string name="login_with_email_id">Войти с адресом электронной почты</string>
+    <string name="biometric_prompt_auth_fail_cancel_title_finger">ОТПЕЧАТКИ НЕ СОВПАДАЮТ</string>
+    <string name="biometric_prompt_auth_fail_cancel_sub_title_finger">Мы не смогли считать отпечаток пальца. Повторите попытку.</string>
+    <string name="biometric_prompt_auth_fail_cancel_button_text_finger">ВОЙТИ С TOUCH ID</string>
+    <string name="biometric_prompt_auth_fail_cancel_title_face">FACE ID НЕ СОВПАДАЮТ</string>
+    <string name="biometric_prompt_auth_fail_cancel_sub_title_face">Мы не смогли считать Face id. Повторите попытку.</string>
+    <string name="biometric_prompt_auth_fail_cancel_button_text_face">ВОЙТИ С FACE ID</string>
+    <string name="no_biometric_enrolled">Вы не привязали к устройству какие-либо биометрические учетные данные. </string>
+    <string name="biometric_enroll_finger">Пожалуйста, зарегистрируйте отпечаток пальца</string>
+    <string name="biometric_enroll_face">Пожалуйста, зарегистрируйте Face ID</string>
+    <string name="biometric_finger_print">TOUCH ID</string>
+    <string name="biometric_face_id">FACE ID</string>
+    <string name="validate_user_type">Пожалуйста, выберите тип пользователя</string>
+    <string name="validate_category">Пожалуйста, выберите категорию</string>
+    <string name="validate_challenge_id">Пожалуйста, заполните идентификатор челленджа</string>
+    <string name="validate_challenge_date">Пожалуйста, выберите дату челленджа</string>
+    <string name="validate_number">Пожалуйста, введите номер</string>
+    <string name="validate_activity_date">Пожалуйста, выберите дату активности</string>
+    <string name="validate_customer_name">Пожалуйста, выберите имя клиента</string>
+    <string name="validate_solution_portfolio">Пожалуйста, выберите портфолио решений</string>
+    <string name="validate_attachment">Пожалуйста, добавьте хотя бы одно приложение</string>
+    <string name="validate_notes">Пожалуйста, введите примечания</string>
+    <string name="arabic">Арабский</string>
+    <!--Mark as used feature Texts-->
+
+    <string name="error_add_item_details">Добавить детали об элементе</string>
+
+
+
+</resources>

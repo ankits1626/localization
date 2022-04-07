@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="hint_search">بحث</string>
+    <string name="top_ten">أفضل 10 مشاركين</string>
+    <string name="facility_error_message">ليس لدينا مرافق ضمن هذه الفئة</string>
+    <string name="filter_by_category">تصفية حسب الفئة</string>
+    <string name="error_message">هناك خطأ ما. الرجاء معاودة المحاولة في وقت لاحق.</string>
+    <string name="otp_message">لقد أرسلنا لك كلمة مرور OTP آمنة إلى رقم هاتفك المحمول المسجل</string>
+    <string name="facility_nearby_error_message">في الوقت الحالي ليس لدينا أي مرافق بالقرب منك</string>
+    <string name="action_details">تفاصيل المحادثة</string>
+    <string name="action_add_members">إضافة عضو</string>
+    <string name="alert_message_delete_message">حذف رسالة؟</string>
+    <string name="alert_message_delete_conversation">مسح المحادثة؟</string>
+    <string name="alert_button_cancel">يلغي</string>
+    <string name="alert_button_delete_my_devices">حذف</string>
+    <string name="alert_button_delete_all_participants">من جميع</string>
+    <string name="alert_dialog_logout">تسجيل الخروج…</string>
+    <string name="notifications_num_more">٪ 1 $ d أخرى</string>
+    <string name="notifications_new_messages">٪ 1 $ d رسائل جديدة</string>
+    <string name="title_select_conversation">رسالة جديدة</string>
+    <string name="push_notification_no_content_title">رسالة جديدة (انقر للمزامنة)</string>
+    <string name="attachment_menu_camera">الة تصوير</string>
+    <string name="attachment_menu_gallery">صالة عرض</string>
+    <string name="attachment_menu_location">موقع</string>
+    <string name="conversation_details_title_options">خيارات</string>
+    <string name="conversation_details_switch_show_notifications">إظهار الإخطارات</string>
+    <string name="conversation_details_button_leave_group">اترك الدردشة</string>
+    <string name="conversation_details_title_participants">مشاركون</string>
+    <string name="alert_button_block">حاجز</string>
+    <string name="alert_button_unblock">رفع الحظر</string>
+    <string name="settings_title_account">حساب</string>
+    <string name="settings_title_presence">حضور</string>
+    <string name="settings_switch_show_notifications">إظهار الإخطارات</string>
+    <string name="settings_title_notifications">إشعارات</string>
+    <string name="settings_content_connected">متصل</string>
+    <string name="settings_content_disconnected">انقطع الاتصال</string>
+    <string name="conversation_name">اسم المحادثة</string>
+    <string name="hint_conversation_name">أضف اسم المحادثة</string>
+    <string name="privacy_policy">\ u0020 أقبل</string>
+    <string name="policy_link">شروط الخدمة</string>
+    <string name="accept_privacy_policy">يُرجى قبول شروط الخدمة وسياسة الخصوصية الخاصة بنا للمتابعة</string>
+    <string name="award_points">نقاط الجائزة</string>
+    <string name="you_are_not_authenticated">لم تتم مصادقتك لبدء المحادثة. الرجاء تسجيل الخروج وتسجيل الدخول.</string>
+    <string name="please_start_sending_msg">يرجى البدء في إرسال الرسائل لمعرفة تفاصيل المحادثة.</string>
+    <string name="out_of_30">من أصل 30</string>
+    <string name="add_members">إضافة أعضاء</string>
+    <string name="start_conversation">ابدأ المحادثة</string>
+    <string name="no_internet_connection">لا يوجد اتصال بالإنترنت</string>
+    <string name="something_went_wrong">هناك خطأ ما.</string>
+    <string name="sorry_no_user_authenticated">عذرًا ، لم تتم مصادقة أي مستخدم للدردشة في الوقت الحالي.</string>
+    <string name="error">خطأ</string>
+    <string name="only_25_member_restriction">عذرًا ، يمكنك الآن إنشاء مجموعة تضم 25 عضوًا فقط</string>
+    <string name="group_name">أسم المجموعة</string>
+    <string name="please_enter_the_name">الرجاء إدخال الاسم</string>
+    <string name="cancel">يلغي</string>
+    <string name="okay">نعم</string>
+    <string name="enter_group_name">أدخل اسم المجموعة</string>
+    <string name="failed_to_authenticate_layer">فشل المصادقة مع Layer:</string>
+    <string name="welcome_to_the">أهلا بك في</string>
+    <string name="group">مجموعة.</string>
+    <string name="unknown_participant">مشارك غير معروف</string>
+    <string name="is_typing">يكتب</string>
+    <string name="please_grant_location_permission">يرجى منح إذن الموقع لمواصلة استخدام التطبيق</string>
+    <string name="not_attending">عدم حضوره</string>
+    <string name="attending">حضور</string>
+    <string name="attended">حضرها</string>
+    <string name="there_are_no_email_client_installed">لا يوجد عملاء بريد إلكتروني مثبت.</string>
+    <string name="please_install_google_map_application">الرجاء تثبيت تطبيق Google Map من متجر Play.</string>
+    <string name="no_user_joined_this_group">حاليا لا يوجد مستخدمين انضموا إلى هذه المجموعة.</string>
+    <string name="message">رسالة</string>
+    <string name="select_source">اختر مصدر</string>
+    <string name="sure_dont_want_title">هل أنت متأكد أنك لا تريد إضافة العنوان؟</string>
+    <string name="image_size_less_than_6mb">يجب أن يكون حجم الصورة أقل من 6 ميجا بايت</string>
+    <string name="updated_successfully">تم التحديث بنجاح</string>
+    <string name="server_technical_error">لقد واجهنا خطأ تقني ، فريقنا يعمل على حله. الرجاء معاودة المحاولة في وقت لاحق</string>
+    <string name="attend">من فضلك، أرسل رد</string>
+    <string name="successfully_attending_event">أنت تحضر الحدث بنجاح</string>
+    <string name="successfully_skip_event">لقد نجحت في تخطي الحدث</string>
+    <string name="skip_event">حدث التخطي</string>
+    <string name="check_in">تحقق في</string>
+    <string name="checked_in">تم إيداعه</string>
+    <string name="successfully_checked_in_event">لقد نجحت في تسجيل الوصول إلى الحدث</string>
+    <string name="start">بداية:</string>
+    <string name="at">في</string>
+    <string name="end">نهاية:</string>
+    <string name="failed_sync_conversation">فشلت مزامنة المحادثة. الرجاء الضغط على أيقونة الدردشة لبدء المحادثة</string>
+    <string name="oops">وجه الفتاة</string>
+    <string name="storage_permisison_manually">تعذر فتح المعرض. يرجى النقر فوق الإعدادات ، والانتقال إلى معلومات التطبيق&gt; الأذونات ، ثم السماح بإذن التخزين والمحاولة مرة أخرى.</string>
+    <string name="grant_calendar_permission_rsvp_event">يرجى منح إذن التقويم لإضافة حدث RSVPed إلى تطبيق التقويم</string>
+    <string name="please_enter_the_password">الرجاء إدخال كلمة المرور</string>
+    <string name="see_all_photo">مشاهدة كل الصور</string>
+    <string name="attendance_confirmed">شكرا لك. تم تأكيد حضورك. نراكم في الحدث!</string>
+    <string name="checkin_confirmed">تأكيد تسجيل الوصول</string>
+    <string name="rsvp_withdrawn">تم سحب RSVP</string>
+    <string name="join_chat_room">الانضمام إلى غرفة الدردشة</string>
+    <string name="would_you_like_to_join_chat_room">هل ترغب في الانضمام إلى غرفة الدردشة هذه؟</string>
+    <string name="join">انضم</string>
+    <string name="no">لا</string>
+    <string name="successfully_joined_chat_group">لقد انضممت بنجاح إلى مجموعة الدردشة</string>
+    <string name="subscribed">مشترك</string>
+    <string name="waiting_for_network">في انتظار الشبكة!</string>
+    <string name="image_size_less_than_20mb">يجب أن يكون حجم الصورة أقل من 20 ميغا بايت</string>
+    <string name="delete">حذف</string>
+    <string name="sure_delete_photo">هل أنت متأكد من مسح الصورة؟</string>
+    <string name="yes">نعم</string>
+    <string name="by">بواسطة</string>
+    <string name="social_apps_not_installed">لم يتم تثبيت Whatsapp و Instagram و Twitter و Facebook.</string>
+    <string name="edit_caption">تحرير التعليق</string>
+    <string name="enter_caption">أدخل التعليق</string>
+    <string name="search">بحث</string>
+    <string name="nearby">مجاور</string>
+    <string name="location_not_found">الموقع غير موجود</string>
+    <string name="unable_to_get_your_location">غير قادر على الحصول على موقعك</string>
+    <string name="grant_location_permission">يرجى منح إذن الموقع لمواصلة استخدام هذه الوظيفة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="pts">نقاط</string>
+    <string name="total_points_as_of">مجموع النقاط اعتبارًا من</string>
+    <string name="no_data_in_health_activity">لا توجد بيانات في النشاط الصحي.</string>
+    <string name="not_connected_to_any_apps">أنت غير متصل بأي تطبيقات</string>
+    <string name="no_data_in_program">لا توجد بيانات في البرامج / الأنشطة.</string>
+    <string name="dont_have_referal_now">ليس لديك أي إحالة حتى الآن</string>
+    <string name="add_referral">أضف الإحالة</string>
+    <string name="havent_checked_any_facility_event">لم تقم بالتحقق في أي منشأة أو أحداث حتى الآن.</string>
+    <string name="event_check_in">تحقق في الحدث</string>
+    <string name="facility_check_in">تسجيل الوصول للمنشأة</string>
+    <string name="havent_checked_any_event">أنت لم تحقق في أي أحداث حتى الآن.</string>
+    <string name="no_data_to_display">وجه الفتاة! لا توجد بيانات لعرض</string>
+    <string name="colleague_bday_today">إنه عيد ميلاد زميلك اليوم.</string>
+    <string name="is_your_colleague_bday_on">إنه عيد ميلاد زميلك في</string>
+    <string name="was_your_colleague_bday_on">كان عيد ميلاد زميلك في يوم</string>
+    <string name="your_bday_today">إنه عيد ميلادك اليوم.</string>
+    <string name="is_your_bday_on">إنه عيد ميلادك</string>
+    <string name="was_your_bday_on">كان يوم عيد ميلادك</string>
+    <string name="colleague_anniversary_today">إنها الذكرى السنوية لزميلك٪ 1 $ اليوم.</string>
+    <string name="is_colleague_anniversary_on">إنها الذكرى السنوية لزميلك٪ 1 $ في</string>
+    <string name="was_colleague_anniversary_on">لقد كانت الذكرى السنوية لزميلك٪ 1 $ في</string>
+    <string name="your_anniversary_today">إنها الذكرى السنوية لـ٪ 1 $ اليوم.</string>
+    <string name="is_your_anniversary_on">إنها الذكرى٪ 1 $ الخاصة بك في</string>
+    <string name="was_your_anniversary_on">لقد كان يوم٪ 1 $ sanniversary الخاص بك</string>
+    <string name="wish_you_a_wonderful_birthday">أتمنى لك عيد ميلاد رائع.</string>
+    <string name="no_email_client_installed">لا يوجد عملاء بريد إلكتروني مثبت.</string>
+    <string name="wish_you_a_wonderful_anniversary">أتمنى لك ذكرى سنوية رائعة!</string>
+    <string name="send_mail">ارسل بريد....</string>
+    <string name="you_have_earned">كنت قد كسبت</string>
+    <string name="points_to_redeem">النقاط التي يجب استبدالها</string>
+    <string name="rewards_to_redeem">المكافآت لتخليصها</string>
+    <string name="you_have">عندك</string>
+    <string name="nearby_rewards">المكافآت القريبة</string>
+    <string name="code">الشفرة</string>
+    <string name="redeemed_on_the">استردت على</string>
+    <string name="your_promo_code">الرمز الترويجي الخاص بك</string>
+    <string name="code_copied_to_clipboard">تم نسخ الرمز إلى الحافظة</string>
+    <string name="not_available">في</string>
+    <string name="press_link_for_more_detail">اضغط على الرابط لمزيد من التفاصيل</string>
+    <string name="please_select_any_mobile_number_for_call">الرجاء تحديد أي رقم هاتف للاتصال</string>
+    <string name="please_enter_vendor_passcode">الرجاء إدخال رمز مرور البائع</string>
+    <string name="redeeming_this_reward_will_deduct">استرداد هذه المكافأة سيخصم</string>
+    <string name="from_your_account">من حسابك.</string>
+    <string name="delivery_fee_of">رسوم التوصيل</string>
+    <string name="points_will_deducted_no_further">سيتم خصم النقاط. لن يتم خصم أي نقاط أخرى لعمليات الاسترداد اللاحقة اليوم.</string>
+    <string name="collect_from_your_office">استلم من مكتبك الشخص المسؤول في التاريخ المحدد كل شهر.</string>
+    <string name="error_caps">خطأ!</string>
+    <string name="please_enter_your_customer_id_number">الرجاء إدخال رقم هوية العميل الخاص بك</string>
+    <string name="please_enter_your_pln_number">الرجاء إدخال رقم PLN الخاص بك</string>
+    <string name="please_enter_your_phone">الرجاء إدخال رقم هاتفك</string>
+    <string name="confirmation">تأكيد</string>
+    <string name="are_you_sure_you_want_to_redeem">هل أنت متأكد أنك تريد الاسترداد</string>
+    <string name="reward_for_this_phone_number">مكافأة لهذا الهاتف لا</string>
+    <string name="thank_you">اشكرك!</string>
+    <string name="error_response">الاستجابة للخطأ</string>
+    <string name="are_you_sure">هل أنت متأكد؟</string>
+    <string name="loading_profile">تحميل الملف الشخصي ....</string>
+    <string name="loading_strengths">قدرات التحميل ....</string>
+    <string name="nominate">ترشح</string>
+    <string name="thanks_for_nominating">شكرا للترشيح</string>
+    <string name="appreciate">يقدر</string>
+    <string name="points_remaining_for_allocations">النقاط المتبقية للتخصيصات:</string>
+    <string name="thanks_for_appreciating">شكرا لتقديرك</string>
+    <string name="endorsing">مصادقة ....</string>
+    <string name="select_at_least_one_strengths">حدد قوة واحدة على الأقل لتقديرها</string>
+    <string name="select_at_least_one_strengths_to_nominate">حدد قوة واحدة على الأقل للترشيح</string>
+    <string name="add_subject_related_to">أضف موضوعًا متعلقًا بـ</string>
+    <string name="add_message_related_to">أضف رسالة متعلقة بـ</string>
+    <string name="password_should_be_same">يجب أن تكون كلمة المرور الجديدة وتأكيد كلمة المرور متطابقتين.</string>
+    <string name="password_eight_character">يجب أن تتكون كلمة المرور من 8 أحرف!</string>
+    <string name="password_changed_successfully">تم تغيير الرقم السري بنجاح.</string>
+    <string name="enter_valid_mobile_number">ادخل رقم هاتف خلوي ساري المفعول.</string>
+    <string name="please_enter_your_dob">الرجاء إدخال DOB الخاص بك</string>
+    <string name="please_enter_mobile_number">الرجاء إدخال رقم الهاتف المحمول.</string>
+    <string name="please_enter_first_name">الرجاء إدخال الاسم الأول</string>
+    <string name="please_enter_last_name">الرجاء إدخال الاسم الأخير</string>
+    <string name="please_enter_address1">الرجاء إدخال العنوان 1</string>
+    <string name="required_permission_not_granted">لم يتم منح الأذونات المطلوبة</string>
+    <string name="cant_select_future_date">لا يمكنك تحديد التاريخ في المستقبل</string>
+    <string name="use_location">استخدام الموقع؟</string>
+    <string name="switch_on_location_accurate_steps_tracking">قم بتشغيل الموقع لتتبع الخطوات وتسجيلات الوصول بدقة</string>
+    <string name="ignore">يتجاهل</string>
+    <string name="go_to_settings">اذهب للاعدادات</string>
+    <string name="no_google_fit_app_installed">لم يتم تثبيت تطبيق Google Fit</string>
+    <string name="go_to_dashboard">الذهاب إلى لوحة القيادة</string>
+    <string name="download_google_fit_app">قم بتنزيل تطبيق Google fit.</string>
+    <string name="google_play_services_not_installed">خدمات Google Play غير مثبتة</string>
+    <string name="enter_valid_username_password">أدخل اسم مستخدم وكلمة مرور صالحين.</string>
+    <string name="enter_valid_username">أدخل اسم مستخدم صالح.</string>
+    <string name="enter_valid_password">أدخل كلمة مرور صالحة.</string>
+    <string name="request">طلب</string>
+    <string name="loggin_in">تسجيل الدخول....</string>
+    <string name="logout_text">تسجيل خروج</string>
+    <string name="please_change_password">الرجاء تغيير كلمة المرور.</string>
+    <string name="proceed">تقدم</string>
+    <string name="authenticating">مصادقة ....</string>
+    <string name="logout_login_setting">يرجى تسجيل الخروج وتسجيل الدخول لإعدادات التطبيق لتحدث</string>
+    <string name="warning">تحذير</string>
+    <string name="install_google_fit_app_continue">الرجاء تثبيت تطبيق Google Fit للمتابعة. انقر فوق &quot;موافق&quot; للاتصال بأداة تعقب أخرى متوفرة.</string>
+    <string name="get_google_fit_app">احصل على تطبيق Google Fit</string>
+    <string name="click_back_again_to_exit">الرجاء النقر مرة أخرى للخروج</string>
+    <string name="notice">تنويه</string>
+    <string name="all_permission_acquired">يجب الحصول على جميع الأذونات</string>
+    <string name="connection_shealth_not_available">الاتصال بـ S Health غير متاح</string>
+    <string name="install_shealth">الرجاء تثبيت S Health</string>
+    <string name="upgrade_shealth">الرجاء ترقية S Health</string>
+    <string name="enable_shealth">الرجاء تمكين S Health</string>
+    <string name="agree_shealth_policy">الرجاء الموافقة على سياسة S Health</string>
+    <string name="make_shealth_available">يرجى إتاحة تطبيق S Health</string>
+    <string name="get_in_touch">ابقى على تواصل:</string>
+    <string name="birthday">عيد الميلاد</string>
+    <string name="anniversary">عيد</string>
+    <string name="my_role_is">دوري هو</string>
+    <string name="but_known_as">، لكنني معروف باسم</string>
+    <string name="please_enter_the_otp">الرجاء إدخال كلمة المرور لمرة واحدة</string>
+    <string name="otp_incorrect_try_again">الرمز الخاص بك غير صحيح. حاول مرة اخرى</string>
+    <string name="resent_otp_check_inbox">استاء من OTP ، يرجى التحقق من صندوق الوارد الخاص بك</string>
+    <string name="server">الخادم</string>
+    <string name="please_fill_email_id">الرجاء إدخال معرف البريد الإلكتروني</string>
+    <string name="service_url">عنوان URL للخدمة</string>
+    <string name="please_add_service_url">الرجاء إضافة عنوان URL الخدمة.</string>
+    <string name="submit">يقدم</string>
+    <string name="provide_right_platform">يرجى تقديم نموذج اللوحة الصحيح</string>
+    <string name="fill_base_url">الرجاء ملء عنوان URL الأساسي</string>
+    <string name="successfully_sent">أرسلت بنجاح</string>
+    <string name="already_connected_to_tracker">أنت متصل بالفعل بالمتعقب</string>
+    <string name="successfully_connected">تم الاتصال بنجاح</string>
+    <string name="already_connected_with_this_account">متصل بالفعل بهذا الحساب.</string>
+    <string name="redemption_code">رمز التأكيد</string>
+    <string name="loading_image">تحميل الصورة ....</string>
+    <string name="image_not_exist_network_error">الصورة غير موجودة أو خطأ في الشبكة</string>
+    <string name="downloading">جارى التحميل....</string>
+    <string name="members">أعضاء</string>
+    <string name="rank">مرتبة :</string>
+    <string name="you">أنت</string>
+    <string name="points_required">النقاط المطلوبة</string>
+    <string name="no_greetings_for_today">لا تحية لهذا اليوم</string>
+    <string name="announcements">الإعلانات</string>
+    <string name="isc_announcements">(ISC) 2 تحديثات</string>
+    <string name="no_announcements">لا توجد إعلانات</string>
+    <string name="no_appointments_today">لا توجد مواعيد اليوم</string>
+    <string name="activities_and_events">الأنشطة والأحداث</string>
+    <string name="isc_activities_and_events">الأحداث وفرص CPE</string>
+    <string name="no_events_or_training">لا توجد أحداث أو تدريب</string>
+    <string name="google_fit">جوجل فيت</string>
+    <string name="samsung_health">Samsung Health</string>
+    <string name="read_less">أقرأ أقل</string>
+    <string name="its_your">انه لك</string>
+    <string name="its_your_and_one_colleague">إنه زميلك أنت وزميل واحد</string>
+    <string name="today">اليوم</string>
+    <string name="colleague">كلية</string>
+    <string name="colleagues">زملاء</string>
+    <string name="its_your_and">انها لك و</string>
+    <string name="fcm_message">رسالة FCM</string>
+    <string name="successfully_disconnected">قطع الاتصال بنجاح</string>
+    <string name="you_are_appreciating">أنت تقدر</string>
+    <string name="this_will_deduct">. هذا سوف يخصم</string>
+    <string name="by_awarding">من خلال المنح</string>
+    <string name="point_rewards">مكافآت النقاط</string>
+    <string name="discount">خصم</string>
+    <string name="discount_reward">مكافآت الخصم</string>
+    <string name="activity_trackers">تعقب النشاط</string>
+    <string name="step_trackers">تعقب الخطوة</string>
+    <string name="not_connected_with_google_fit">أنت غير متصل بـ Google Fit.</string>
+    <string name="connected_with_google_fit">أنت غير متصل بـ Google Fit.</string>
+    <string name="google_fit_disabled">تم تعطيل Google Fit</string>
+    <string name="jawbone">عظم الفك</string>
+    <string name="please_disconnect_fitbit_first">يرجى فصل FitBit أولاً</string>
+    <string name="please_disconnect_jawbone_first">يرجى فصل Jawbone أولاً</string>
+    <string name="redeem_discount_at_merchant_partner">استرداد الخصومات لدى شركاء التجار</string>
+    <string name="astellas_reward_program">برنامج المكافآت Astellas عبارة عن مكافأة عبر الإنترنت</string>
+    <string name="welcome_to_astellas_rewards">مرحبًا بك في برنامج مكافآت Astellas</string>
+    <string name="get_the_latest_info">احصل على أحدث المعلومات</string>
+    <string name="get_real_time_update">احصل على تحديثات في الوقت الفعلي حول ما يجري في شركتك وشاهد الأحداث والأنشطة القادمة</string>
+    <string name="your_team_rank_is">تصنيف فريقك هو</string>
+    <string name="top_ten_participants">أفضل 10 مشاركين</string>
+    <string name="hide_top_ten_participants">إخفاء أفضل 10 مشاركين</string>
+    <string name="unable_to_login_with_provided_credentials">تعذر تسجيل الدخول ببيانات الاعتماد المقدمة.</string>
+    <string name="redemption_history">تاريخ الفداء</string>
+    <string name="loading_users">تحميل المستخدمين ....</string>
+    <string name="points_earned_on">النقاط المكتسبة في</string>
+    <string name="total_points_earned">مجموع النقاط المكتسبة</string>
+    <string name="congrats_you_are_now">تهاني! انت الآن</string>
+    <string name="more_points_to_become">المزيد من النقاط لتصبح</string>
+    <string name="more_points_to_get_this_rewards">المزيد من النقاط لتحصل على هذه المكافأة</string>
+    <string name="none">لا أحد</string>
+    <string name="announcement">الإعلانات</string>
+    <string name="event">حدث</string>
+    <string name="view_detail">عرض التفاصيل</string>
+    <string name="reward">جائزة او مكافاة</string>
+    <string name="phone_number_is_not_valid">رقم الهاتف غير صالح.</string>
+    <string name="please_fill_all_fields">لو سمحت أملأ كل الحقول.</string>
+    <string name="email_address_is_not_valid">عنوان البريد الإلكتروني غير صالح.</string>
+    <string name="successfully_submit">تم إرسال الطلب بنجاح.</string>
+    <string name="please_input_some_text">الرجاء إدخال بعض النص.</string>
+    <string name="address_line_one">سطر العنوان 1 (اختياري)</string>
+    <string name="address_line_two">سطر العنوان 2 (اختياري)</string>
+    <string name="address_line_one_no_optional">العنوان السطر 1</string>
+    <string name="address_line_two_no_optional">سطر العنوان 2</string>
+    <string name="contact_number">رقم الاتصال</string>
+    <string name="pincode">الرمز السري</string>
+    <string name="all_fields_are_mandatory">كل الحقول إلزامية</string>
+    <string name="are_you_sre">هل أنت متأكد؟</string>
+    <string name="toggle_to_enable_google_fit">تبديل لتمكين Google Fit</string>
+    <string name="toggle_to_enable_samsung_shealth">قم بالتبديل لتمكين Samsung Health</string>
+    <string name="tracker_disconnect_warning">سيؤدي إلى تتبع الخطوات من الهاتف وقد يؤدي إلى تكرار الخطوات لهذا اليوم. هذا لن يساعد في مزامنة أسرع للخطوات من</string>
+    <string name="points_summary">ملخص النقاط</string>
+    <string name="point_allocation">تخصيص النقاط</string>
+    <string name="repeated_event">حدث متكرر</string>
+    <string name="install_google_calender_app">يرجى تثبيت تطبيق تقويم Google من متجر Play لاستخدام هذه الوظيفة</string>
+    <string name="loading_data">تحميل البيانات....</string>
+    <string name="updating_data">تحديث البيانات....</string>
+    <string name="deleting">جاري الحذف ....</string>
+    <string name="event_">حدث:</string>
+    <string name="for_">ل</string>
+    <string name="processing">يتم المعالجة</string>
+    <string name="team_filter">التصفية حسب الفرق</string>
+    <string name="profile_settings">إعدادات الملف الشخصي</string>
+    <string name="username_braces">[اسم االمستخدم]</string>
+    <string name="connection_state_braces">[حالة الاتصال]</string>
+    <string name="done">منتهي</string>
+    <string name="select_strength">حدد القوة</string>
+    <string name="subject">موضوعات</string>
+    <string name="change">يتغيرون</string>
+    <string name="add_your_subject_here">أضف موضوعك هنا</string>
+    <string name="add_your_message_here">أضف رسالتك هنا</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="old_password">كلمة سر قديمة</string>
+    <string name="new_password">كلمة مرور جديدة</string>
+    <string name="confirm_new_password">تأكيد كلمة المرور الجديدة</string>
+    <string name="details">تفاصيل</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="change_photo">غير الصوره</string>
+    <string name="first_name">الاسم الأول</string>
+    <string name="last_name">الاسم الاخير (اختياري)</string>
+    <string name="official_title">اللقب الرسمي (اختياري)</string>
+    <string name="real_title">العنوان الحقيقي (اختياري)</string>
+    <string name="dob">DOB</string>
+    <string name="make_my_bday_public">اجعل عيد ميلادي عامًا</string>
+    <string name="mobile">الجوال (اختياري)</string>
+    <string name="company">شركة</string>
+    <string name="department">قسم</string>
+    <string name="emergency_call">مكالمة طارئة</string>
+    <string name="phone">هاتف</string>
+    <string name="phone_all_small">هاتف</string>
+    <string name="sms">رسالة قصيرة</string>
+    <string name="business_referral">إحالة الأعمال</string>
+    <string name="employee_referral">إحالة موظف</string>
+    <string name="position">موقع</string>
+    <string name="name_of_the_candidate">اسم المرشح</string>
+    <string name="phone_home">هاتف المنزل</string>
+    <string name="phone_mobile">الهاتف المحمول</string>
+    <string name="information">معلومة</string>
+    <string name="feedback_and_support">استجابة</string>
+    <string name="faqs">أسئلة وأجوبة</string>
+    <string name="tutorial">الدورة التعليمية</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="edit">تعديل</string>
+    <string name="no_rewards_available">عذرا ، لا توجد مكافآت متاحة في هذا الموقع في الوقت الحالي.</string>
+    <string name="copy">ينسخ</string>
+    <string name="redeemed">استرداد</string>
+    <string name="enter_phone_number">أدخل رقم الهاتف</string>
+    <string name="phone_number_to_redeem_topup">الرجاء إدخال رقم الهاتف لاسترداد هذا الرصيد.</string>
+    <string name="enter_your_mobile_number">أدخل رقم هاتفك المحمول</string>
+    <string name="confirm">تؤكد</string>
+    <string name="confirm_small">يتأكد</string>
+    <string name="referral">الإحالة</string>
+    <string name="full_name">الاسم بالكامل</string>
+    <string name="apps_and_devices">تطبيقات</string>
+    <string name="runkeeper">رنكيبير</string>
+    <string name="connected">متصل</string>
+    <string name="connect">الاتصال</string>
+    <string name="strava">حمية</string>
+    <string name="Jawbone">عظم الفك</string>
+    <string name="fitbit">فيتبيت</string>
+    <string name="google_fit_account">حساب GOOGLE FIT</string>
+    <string name="disconnect">قطع الاتصال</string>
+    <string name="which_mechanism_you_would_like">ما هي الآلية التي تريدها</string>
+    <string name="to_connect_to_track_your_steps">للاتصال لتتبع خطواتك؟</string>
+    <string name="msg">msg</string>
+    <string name="view_more">عرض المزيد</string>
+    <string name="be_fit_and_healthy">كن لائقًا وصحيًا</string>
+    <string name="our_step_tracker_will_help_you">سيساعدك متتبع الخطوات الخاص بنا على تتبع لياقتك وصحتك أينما كنت</string>
+    <string name="swipe_to_see_what_next">انتقد لرؤية ما التالي</string>
+    <string name="text">نص</string>
+    <string name="send_your_wishes">أرسل رغباتك</string>
+
+    <string name="greetings">تحيات</string>
+    <string name="appointments">تعيينات</string>
+    <string name="july_2015">يوليو 2015</string>
+    <string name="week">أسبوع</string>
+    <string name="month">شهر</string>
+    <string name="add_appointments">أضف المواعيد</string>
+    <string name="redeem">يسترد</string>
+    <string name="dashboard">لوحة القيادة</string>
+    <string name="whats_on_today">ما هو عليه اليوم</string>
+    <string name="you_want_to_redeem_this_reward">تريد استرداد هذه المكافأة</string>
+    <string name="member">عضو</string>
+    <string name="total_points">مجمل النقاط</string>
+    <string name="average_points">متوسط نقطة</string>
+    <string name="enter_customer_id_to_redeem_topup">الرجاء إدخال معرف العميل لاسترداد هذه الزيادة.</string>
+    <string name="preview_message">عرض الرسالة</string>
+    <string name="donwloaded_image">الصورة التي تم تنزيلها</string>
+    <string name="enter_pln_number">أدخل رقم Pln</string>
+    <string name="enter_pln_to_redeem_topup">الرجاء إدخال رقم Pln لاسترداد قيمة هذا الرصيد.</string>
+    <string name="description">وصف</string>
+    <string name="event_timing">وقت الحدث</string>
+    <string name="website">موقع الكتروني</string>
+    <string name="points">نقاط</string>
+    <string name="address">عنوان</string>
+    <string name="whom_to_contact_for_event">بمن تتصل بهذا الحدث</string>
+    <string name="photo">صورة فوتوغرافية</string>
+    <string name="add_photo">إضافة صورة</string>
+    <string name="save">حفظ</string>
+    <string name="title">عنوان</string>
+    <string name="read_more">اقرأ أكثر</string>
+    <string name="terms_and_conditions">الأحكام والشروط</string>
+    <string name="terms_and_conditions_small">مصطلحات</string>
+    <string name="option">اختيار</string>
+    <string name="filter_categories_by">تصفية الفئات حسب</string>
+    <string name="vendor_passcode">رمز مرور البائع</string>
+    <string name="please_enter_your_passcode">الرجاء إدخال رمز المرور الخاص بك</string>
+    <string name="conversations">المحادثات</string>
+    <string name="direct_delivery_address">عنوان التسليم المباشر</string>
+    <string name="confirm_redemption">قم بتأكيد الاسترداد</string>
+    <string name="facility_checkin">فحص المنشأة</string>
+    <string name="select_contact">حدد جهة اتصال</string>
+    <string name="search_by_name_or_email">البحث بالاسم أو البريد الإلكتروني</string>
+    <string name="enable_google_fit">تمكين Google Fit</string>
+    <string name="get_organized">كن منظمًا</string>
+    <string name="synchronize_app_with_calendar">قم بمزامنة التطبيق مع تقويم هاتفك لمساعدتك على تنظيم جدولك بشكل أفضل</string>
+    <string name="get_rewards">احصل على مكافآت</string>
+    <string name="collect_point_redeem_reward">اجمع النقاط واستبدل مكافآتك لدى شركاء التجار</string>
+    <string name="connect_google_fit_help">تواصل مع تطبيق google fit ، فهذا سيحدث تغييرًا صحيًا في حياتك من خلال أن تصبح أكثر نشاطًا ووعيًا وتحفيزًا.</string>
+    <string name="google_fit_app_installed">تم تثبيت تطبيق Google Fit</string>
+    <string name="location_services_enable">تمكين خدمات الموقع</string>
+    <string name="authenticated_to_google_fit">مؤتمن لجوجل فيت</string>
+    <string name="note_to_ensure">ملاحظة: للتأكد من أن هذا التطبيق يعمل على النحو الأمثل على هاتفك ، قم بتنزيل Google Fit ومزامنة هذا التطبيق مع نفس حساب gmail مثل Google Fit.</string>
+    <string name="greet_your_colleagues">قم بتحية زملائك</string>
+    <string name="send_personalized_birthday_wishes">إرسال رغبات عيد ميلاد شخصية وتحيات إلى زملائك</string>
+    <string name="history">التاريخ</string>
+    <string name="scan">مسح</string>
+    <string name="select_delivery_mode">حدد وضع التسليم</string>
+    <string name="direct_delivery">التسليم المباشر</string>
+    <string name="office_pickup">مكتب البيك اب</string>
+    <string name="next">التالي</string>
+    <string name="leaderboard">المتصدرين</string>
+    <string name="individual">فرد</string>
+    <string name="week_view">أسبوع</string>
+    <string name="month_view">شهر</string>
+    <string name="total_pts">مجموع النقاط</string>
+    <string name="total_pts_small">مجموع النقاط</string>
+    <string name="average_pts">متوسط نقاط</string>
+    <string name="average_pts_small">متوسط النقاط</string>
+    <string name="team">فريق</string>
+    <string name="location_alert">تنبيه الموقع</string>
+    <string name="location_not_found_switch_on">الموقع غير موجود الرجاء تشغيل الموقع.</string>
+    <string name="locations">المواقع</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="point_summary">ملخص النقاط</string>
+    <string name="remaining_points">النقاط المتبقية</string>
+    <string name="total_redeemed">إجمالي المسترد</string>
+    <string name="map_voucher">قسيمة الخريطة</string>
+    <string name="view_point_rewardz">عرض مكافآت النقاط</string>
+    <string name="view_discount_rewardz">عرض مكافآت الخصم</string>
+    <string name="year">عام</string>
+    <string name="overall">شاملة</string>
+    <string name="basic">أساسي</string>
+    <string name="pro">ل</string>
+    <string name="elite">نخبة</string>
+    <string name="notifications">إشعارات</string>
+    <string name="no_notification_at_moment">أووبس. لا توجد إشعارات في الوقت الحالي.</string>
+    <string name="slide_left_to_delete">حرك لليسار للحذف</string>
+    <string name="password_reset">تم إرسال تعليمات إعادة التعيين إلى عنوان بريدك الإلكتروني</string>
+    <string name="rewards">المكافآت</string>
+    <string name="your_rewards">مكافآتك</string>
+    <string name="all_rewards">كل المكافآت</string>
+    <string name="contact">اتصل</string>
+    <string name="about">حول</string>
+    <string name="about_small">عن</string>
+    <string name="add">يضيف</string>
+    <string name="organizer">منظم</string>
+    <string name="community">تواصل اجتماعي</string>
+    <string name="steps_summary">ملخص الخطوات</string>
+    <string name="weekly">أسبوعي</string>
+    <string name="steps_tracked_today">الخطوات المتعقبة اليوم</string>
+    <string name="your_daily_average_steps">متوسط خطواتك اليومية</string>
+    <string name="connected_with">متصل مع</string>
+    <string name="photos">الصور</string>
+    <string name="view_all">مشاهدة الكل</string>
+    <string name="chat">دردشة</string>
+    <string name="calendar">التقويم</string>
+    <string name="add_activity">أضف نشاطًا</string>
+    <string name="emergency_services">خدمات الطوارئ</string>
+    <string name="connect_apps_and_devices">ربط التطبيقات</string>
+    <string name="employee_engagement_program">برنامج إشراك الموظفين</string>
+    <string name="axa_drive">أكسا درايف</string>
+    <string name="my_axa_health">صحتي أكسا</string>
+    <string name="employee_engagement">خطوبة موظف</string>
+    <string name="password">كلمه السر</string>
+    <string name="forgot_password">هل نسيت كلمة السر؟</string>
+    <string name="forgot_your_password">نسيت رقمك السري؟</string>
+    <string name="enter_email_forgot_pass">أدخل عنوان بريدك الإلكتروني أدناه وسنرسل لك إرشادات حول كيفية تغيير كلمة المرور الخاصة بك.</string>
+    <string name="requesting">جاري الطلب....</string>
+    <string name="whats_happening">ماذا يحدث</string>
+    <string name="otp_email_message">لقد أرسلنا لك كلمة مرور OTP آمنة إلى بريدك الإلكتروني المسجل</string>
+    <string name="btn_submit">إرسال</string>
+    <string name="reset_password">تم إرسال تعليمات إعادة التعيين إلى</string>
+    <string name="no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="barcode_message">الباركود للاسترداد</string>
+    <string name="disconnecting_dots">قطع الاتصال ....</string>
+    <string name="disconnecting">قطع الاتصال</string>
+    <string name="please_wait">ارجوك انتظر....</string>
+    <string name="version">إصدار</string>
+    <string name="hello_blank_fragment">مرحبا جزء فارغ</string>
+    <string name="btn_cancel">يلغي</string>
+    <string name="search_result">نتيجة البحث</string>
+    <string name="ok">نعم</string>
+    <string name="select_email">حدد معرف البريد الإلكتروني</string>
+    <string name="select_phone">حدد رقم الهاتف</string>
+    <string name="staff_referral">إحالة الموظفين</string>
+    <string name="email">بريد الالكتروني</string>
+    <string name="residential_address">عنوان السكن</string>
+    <string name="citizenship">المواطنة</string>
+    <string name="highest_academic_qualification">أعلى مؤهل أكاديمي</string>
+    <string name="highest_early_childhood_qualification">أعلى مؤهل تعليمي في مرحلة الطفولة المبكرة</string>
+    <string name="currently_pursuing">متابعة حاليا</string>
+    <string name="enter_full_name">الرجاء إدخال الاسم الكامل</string>
+    <string name="enter_contact_number">الرجاء إدخال رقم الاتصال</string>
+    <string name="enter_email">الرجاء إدخال البريد الإلكتروني</string>
+    <string name="enter_address">الرجاء إدخال العنوان</string>
+    <string name="select_citizenship">الرجاء تحديد الجنسية</string>
+    <string name="select_position">الرجاء تحديد الوظيفة</string>
+    <string name="select_highest_qualification">الرجاء تحديد أعلى مؤهل</string>
+    <string name="select_early_qualification">يرجى تحديد التأهيل المبكر الذي تم الحصول عليه</string>
+    <string name="select_currently_pursuing">الرجاء تحديد متابعة حاليا</string>
+    <string name="successfully_referred">تمت الإحالة بنجاح</string>
+    <string name="redeeming">استرداد ....</string>
+    <string name="events_capital">الأحداث</string>
+    <string name="greetings_capital">تحية طيبة</string>
+    <string name="announcements_capital">الإعلانات</string>
+    <string name="appointments_capital">تعيينات</string>
+    <string name="reading_contacts">قراءة جهات الاتصال:</string>
+    <string name="healthy_activities">الأنشطة الصحية</string>
+    <string name="referral_small">الإحالة</string>
+    <string name="check_in_events">تسجيل الوصول في الأحداث</string>
+    <string name="check_in_events_facilities">تسجيل الوصول-المناسبات-المرافق</string>
+    <string name="corporate_program">برنامج الشركات</string>
+    <string name="employee_rewards">مكافآت الموظفين</string>
+    <string name="cbo_rewards">مكافآت CBO</string>
+    <string name="choose">يختار</string>
+    <string name="view_profile">عرض الصفحة الشخصية</string>
+    <string name="enter_otp">أدخل OTP</string>
+    <string name="resend_code">أعد إرسال الرمز</string>
+    <string name="btn_settings">إعدادات</string>
+    <string name="your_and">انها لك و</string>
+    <string name="your_birthday">انها عيد ميلادك</string>
+    <string name="your_anniversary">انها الذكرى السنوية الخاصة بك</string>
+    <string name="multiple_colleague_birthday">عيد ميلاد الزملاء</string>
+    <string name="multiple_colleague_anniversary">ذكرى الزملاء</string>
+    <string name="external_storage_permission">يرجى تقديم إذن التخزين لمواصلة استخدام هذه الوظيفة</string>
+    <string name="external_storage_and_camera_permission">يرجى تقديم أذونات التخزين والكاميرا لمواصلة استخدام هذه الوظيفة</string>
+    <string name="location_permission">يرجى منح إذن الموقع لمواصلة استخدام الوظيفة</string>
+    <string name="checking_in">تسجيل الدخول....</string>
+    <string name="uploading_image">تحميل الصورة ....</string>
+    <string name="checking">تدقيق....</string>
+    <string name="appreciate_small">يقدر</string>
+    <string name="valid_till">صالحة ل</string>
+    <string name="point_reward_header">نقطة</string>
+    <string name="discount_reward_header">خصم</string>
+    <string name="app_permission_calendar">يحتاج التطبيق إلى الوصول إلى التقويم لإضافة أحداث RSVPed</string>
+    <string name="app_permission_camera_storage">يحتاج التطبيق إلى الوصول إلى وحدة التخزين الخارجية والكاميرا لاختيار الصورة</string>
+    <string name="app_permission_share_image">يحتاج التطبيق إلى الوصول إلى وحدة تخزين خارجية لمشاركة الصورة</string>
+    <string name="app_nearby_location_rewards">يحتاج التطبيق إلى الوصول إلى الموقع للعثور على المكافآت القريبة</string>
+    <string name="app_nearby_location_facilities">يحتاج التطبيق إلى الوصول إلى الموقع للعثور على المرافق القريبة</string>
+    <string name="app_location_permission_checkin">يحتاج التطبيق إلى الوصول إلى الموقع لتسجيل الوصول إلى الأحداث</string>
+    <string name="app_location_permission_facility">يحتاج التطبيق إلى الوصول إلى الموقع لتسجيل الوصول إلى المنشأة</string>
+    <string name="verificatoin_failed">فشل التحقق</string>
+    <string name="cannot_edit">لا يمكنك تحرير هذا.</string>
+    <string name="select_organization">حدد المنظمة</string>
+    <string name="only_one_org">لا توجد منظمة أخرى متاحة.</string>
+
+
+    <!-- Dashboard referral screen -->
+
+
+    <!-- Dashboard referral screen -->
+    <string name="bronze_category">1 الإحالة</string>
+    <string name="silver_category">3 الإحالات</string>
+    <string name="gold_category">5 الإحالات</string>
+    <string name="platinum_category">8 الإحالات</string>
+    <string name="referrals">الإحالات</string>
+    <string name="successful_referral">التنسيب الناجح:</string>
+    <string name="referral_bronze_detail">قم بالإشارة إلى 2 للحصول على المستوى الفضي</string>
+    <string name="referral_silver_detail">احصل على 10000 نقطة إضافية عند الوصول إلى هذا المستوى</string>
+    <string name="referral_gold_detail">احصل على 60000 نقطة إضافية عند بلوغك هذه الفئة</string>
+    <string name="referral_platinum_detail">احصل على 80،000 نقطة إضافية عندما تصل إلى هذه الفئة</string>
+    <string name="others">آحرون</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="referral_bronze_detail_refer_zero">قم بالإشارة رقم 1 بنجاح للوصول إلى المستوى البرونزي</string>
+    <string name="select_your_citizenship">اختر جنسيتك</string>
+    <string name="select_your_position">حدد موقعك</string>
+    <string name="select_your_highest_acdemic_qualification">حدد أعلى مؤهل أكاديمي</string>
+    <string name="select_your_highest_childhood_qualification">حدد أعلى مؤهل للطفولة المبكرة</string>
+    <string name="select_currently_persuing">حدد متابعة حاليًا</string>
+    <string name="share">يشارك</string>
+    <string name="selected_images_are_being_download">يتم تنزيل الصور المحددة ، تحقق من قسم الإشعارات</string>
+    <string name="thank_referral_submission">شكرا لك على تقديم الإحالة الخاص بك.</string>
+    <string name="enter_referral_full_name">الرجاء إدخال الاسم الكامل للإحالة</string>
+    <string name="enter_referral_contact_number">الرجاء إدخال رقم الاتصال الخاص بالإحالة</string>
+    <string name="specify_position">يرجى تحديد الموقف</string>
+    <string name="specify_highest_qualification">الرجاء تحديد أعلى مؤهل</string>
+    <string name="need_permission">تحتاج إذن</string>
+    <string name="app_need_contact_permission">يحتاج هذا التطبيق إلى إذن جهة اتصال لتحميل جهات الاتصال.</string>
+    <string name="grant">منحة</string>
+    <string name="permission_grant_contact">انتقل إلى أذونات منح جهة الاتصال</string>
+    <string name="unable_to_get_permission">غير قادر على الحصول على إذن</string>
+    <string name="send_log">إرسال سجلات</string>
+    <string name="no_department_found">لم يتم العثور على قسم.</string>
+    <string name="please_select_department">الرجاء تحديد قسم واحد</string>
+    <string name="specify_your_position">حدد موقعك</string>
+    <string name="specify_your_highest_academic_qualification">حدد أعلى مؤهل أكاديمي لديك</string>
+    <string name="specify_highest_early_childhood_qualification">حدد أعلى مؤهل في مرحلة الطفولة المبكرة</string>
+    <string name="specify_your_currently_persuing">حدد سعيك الحالي</string>
+    <string name="max_restrict_file_popoup">يسمح فقط بـ 3 مرفقات</string>
+    <string name="max_limit">* 3 ملحقات كحد أقصى</string>
+    <string name="photo_selected">الصورة المختارة</string>
+    <string name="photos_selected">الصور المختارة</string>
+    <string name="mandatory_required">* مطلوب</string>
+    <string name="please_scpecify">رجاء حدد</string>
+    <string name="please_enter_full_name">الرجاء إدخال الاسم الكامل</string>
+    <string name="no_permission_to_Delete_image">ليس لديك إذن بحذف هذه الصورة.</string>
+    <string name="all_photos">جميع الصور</string>
+    <string name="discount_rewards">مكافآت الخصم</string>
+    <string name="optional">اختياري</string>
+    <string name="as_per_nric">حسب NRIC</string>
+    <string name="remaining">متبقي</string>
+    <string name="featured_rewards">مكافآت مميزة</string>
+    <string name="event_and_activities">الأحداث</string>
+
+    <!-- Dashboard referral screen items end here -->
+    <string-array name="citizenship_array">
+        <item>مواطن سنغافورة</item>
+        <item>مقيم دائم في سنغافورة</item>
+        <item>أجنبي يحتاج إلى تصريح عمل للعمل في سنغافورة</item>
+    </string-array>
+
+    <string-array name="position_array">
+        <item>المالك</item>
+        <item>نائب رئيس المركز</item>
+        <item>معلم لغة انجليزية</item>
+        <item>مدرس صيني</item>
+        <item>مدرس الملايو</item>
+        <item>مدرس التاميل</item>
+        <item>مدرس رعاية الرضع</item>
+        <item>مشرف رعاية الطلاب</item>
+        <item>مدرس رعاية الطلاب</item>
+        <item>المعلم المتدرب</item>
+        <item>متدرب مدرس رعاية الرضع</item>
+        <item>مدرس مساعد</item>
+        <item>مسؤول مركز (كوك)</item>
+        <item>عامل في المركز (عامل نظافة)</item>
+        <item>آحرون</item>
+    </string-array>
+
+    <string-array name="highest_academic_qualification_array">
+        <item>درجة الماجستير</item>
+        <item>درجة البكلاريوس</item>
+        <item>شهادة دبلوم</item>
+        <item>NITEC</item>
+        <item>GCE A Level</item>
+        <item>مستوى GCE N / O</item>
+        <item>ثانوي 2 وما دون</item>
+        <item>آحرون</item>
+    </string-array>
+
+    <string-array name="highest_early_childhood_education_arry">
+        <item>درجة الماجستير</item>
+        <item>درجة البكلاريوس</item>
+        <item>شهادة دبلوم</item>
+        <item>NITEC</item>
+        <item>ACECCE</item>
+        <item>CPT</item>
+        <item>كيف</item>
+        <item>ACEY</item>
+        <item>HCIC</item>
+        <item>لا ينطبق</item>
+        <item>آحرون</item>
+    </string-array>
+
+    <string-array name="currently_pursuing_arry">
+        <item>درجة البكلاريوس</item>
+        <item>شهادة دبلوم</item>
+        <item>NITEC</item>
+        <item>ACECCE</item>
+        <item>ACEY</item>
+        <item>HCIC</item>
+        <item>لا ينطبق</item>
+        <item>آحرون</item>
+    </string-array>
+
+    <string-array name="array_priority_validity">
+        <item>يوم 1</item>
+        <item>أسبوع 1</item>
+        <item>شهر واحد</item>
+        <item>دائما</item>
+    </string-array>
+
+    <string name="JAN">يناير</string>
+    <string name="FEB">فبراير</string>
+    <string name="MAR">لحر</string>
+    <string name="APR">أبريل</string>
+    <string name="MAY">قد</string>
+    <string name="JUN">يونيو</string>
+    <string name="JUL">يوليو</string>
+    <string name="AUG">أغسطس</string>
+    <string name="SEP">سبتمبر</string>
+    <string name="OCT">أكتوبر</string>
+    <string name="NOV">نوفمبر</string>
+    <string name="DEC">ديسمبر</string>
+
+    <string name="Su">إنه</string>
+    <string name="Mo">مو</string>
+    <string name="Tu">أنت</string>
+    <string name="We">نحن</string>
+    <string name="Th">ذ</string>
+    <string name="Fr">الاب</string>
+    <string name="Sa">إلى</string>
+    <string name="specify_here">حدد هنا</string>
+    <string name="you_need">انت تحتاج</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="choose_language">اختر اللغة</string>
+    <string name="english">إنجليزي</string>
+    <string name="chinese">صينى</string>
+    <string name="blank_year">في</string>
+    <string name="username_or_email_address">اسم المستخدم أو البريد الالكتروني</string>
+    <string name="caps_password">كلمه السر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="email_address_for_reset_password">أدخل عنوان بريدك الإلكتروني أدناه وسنرسل لك إرشادات حول كيفية تغيير كلمة المرور الخاصة بك.</string>
+
+    <string name="receipts">المستلمون</string>
+    <string name="upload_receipts">تحميل إيصالات</string>
+    <string name="receipt_number">عدد إيصال</string>
+    <string name="brand">ماركة</string>
+
+    <string name="dd_mm_yyyy">يوم / شهر / سنة</string>
+    <string name="approved">وافق</string>
+    <string name="rejected">مرفوض</string>
+    <string name="search_receipts">البحث في الإيصالات</string>
+    <string name="garmin">جارمين</string>
+    <string name="sign_up">اشتراك</string>
+    <string name="e_mail">بريد الالكتروني</string>
+    <string name="select">يختار</string>
+    <string name="branch">فرع</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="registration_code">رمز التسجيل</string>
+    <string name="loading_company">تحميل الشركة ....</string>
+    <string name="loading_branch">تحميل الفرع ....</string>
+    <string name="registering">تسجيل ....</string>
+    <string name="thanks_for_sign_up">شكرا للتسجيل</string>
+    <string name="please_login_now">الرجاء تسجيل الدخول الآن</string>
+    <string name="select_your_department">حدد قسمك</string>
+    <string name="select_your_company">حدد شركتك</string>
+    <string name="no_company_found">لم يتم العثور على شركة</string>
+    <string name="password_must_be_same">يجب أن تكون كلمة المرور هي نفسها.</string>
+    <string name="enter_confirm_password">أدخل تأكيد كلمة المرور.</string>
+    <string name="password_digit_uppercase_lowercase">يجب أن تحتوي كلمة المرور على رقم واحد ، وحرف علوي واحد ، وحرف صغير واحد.</string>
+    <string name="enter_password">أدخل كلمة المرور.</string>
+    <string name="select_your_branch">حدد الفرع الخاص بك.</string>
+    <string name="enter_valid_email">أدخل معرف بريد إلكتروني صالح.</string>
+    <string name="enter_email_id">أدخل معرف البريد الإلكتروني.</string>
+    <string name="enter_last_name">إدخال اسم آخر.</string>
+    <string name="enter_first_name">أدخل الاسم الأول.</string>
+    <string name="first_select_your_company">حدد أولاً شركتك</string>
+    <string name="enter_registration_code">أدخل رمز التسجيل.</string>
+    <string name="skip">يتخطى</string>
+    <string name="enter_receipt_number">أدخل رقم الإيصال</string>
+    <string name="choose_brand_name">اختر اسم العلامة التجارية</string>
+    <string name="you_cannot_select_this_photo">لا يمكنك تحديد هذه الصورة</string>
+    <string name="do_you_want_to_delete">هل تريد أن تحذف</string>
+    <string name="selected_photos">الصور المختارة؟</string>
+    <string name="your_card_number">رقم بطاقتك:</string>
+    <string name="pin_capital">دبوس</string>
+    <string name="verify">التحقق ....</string>
+    <string name="request_new_otp">طلب OTP جديد</string>
+    <string name="success">النجاح</string>
+    <string name="select_org">حدد org</string>
+    <string name="change_org">تغيير المؤسسة</string>
+    <string name="logout_message">سيتم تسجيل خروجك لتحدث إعدادات التطبيق.</string>
+    <string name="new_settings_found">تم العثور على إعدادات جديدة</string>
+    <string name="recognize">تعرف</string>
+    <string name="thanks_for_recognizing">شكرا للاعتراف</string>
+    <string name="select_at_least_one_strengths_to_recognize">حدد قوة واحدة على الأقل للتعرف عليها</string>
+
+    <string name="no_updates">لا توجد تحديثات</string>
+    <string name="take_survey">شارك في الاستطلاع</string>
+    <string name="workplace">مكان العمل</string>
+    <string name="allocate_points">تخصيص النقاط</string>
+    <string name="server_facing_heavy_load">الخادم يواجه حمولة ثقيلة. الرجاء معاودة المحاولة في وقت لاحق.</string>
+    <string name="password_policy">* يجب ألا تقل كلمة المرور عن 8 أحرف وأن تحتوي على مجموعة من الأحرف الكبيرة والأحرف الصغيرة</string>
+    <string name="only_home_delivery_text_for_nexperia">الرجاء إدخال عنوان منزلك. لا يُسمح باستخدام عنوان مكتب Nexperia ATSN.</string>
+
+
+    <plurals name="birthday_plurals">
+        <item quantity="one">عيد ميلاد 1 زميل</item>
+        <item quantity="zero">انها عيد ميلادك</item>
+        <item quantity="other">عيد ميلاد٪ d من الزملاء</item>
+    </plurals>
+
+    <plurals name="anniversary_plurals">
+        <item quantity="one">الذكرى 1 زميل</item>
+        <item quantity="zero">انها الذكرى السنوية الخاصة بك</item>
+        <item quantity="other">ذكرى٪ d من الزملاء</item>
+    </plurals>
+
+    <string name="hint_email_emp_id">هوية الموظف</string>
+    <string name="message_change_email">الرجاء إدخال عنوان بريدك الإلكتروني وتغيير كلمة المرور الخاصة بك</string>
+    <string name="title_change_email_password">تعيين معرف البريد الإلكتروني</string>
+    <string name="email_policy">* يرجى إدخال البريد الإلكتروني الخاص بالعمل أو الاتصال الشخصي لإعادة تعيين كلمة المرور واسترداد النقاط.</string>
+    <string name="label_postcode">رمز بريدي</string>
+    <string name="title_dashboard_nexperia">الصفحة الرئيسية</string>
+    <string name="label_points">نقاط</string>
+    <string name="message_select_delivery_mode">الرجاء تحديد وضع التسليم</string>
+    <string name="label_privacy_policy_nexperia">لقد قرأت شروط الخدمة وأوافق عليها</string>
+    <string name="hint_enter_email_address">الرجاء إدخال عنوان البريد الإلكتروني الخاص بك</string>
+    <string name="target_units">الوحدات المستهدفة</string>
+    <string name="units_sold">الوحدات المباعة</string>
+    <string name="campaign_tracker">تعقب الحملات الخاصة</string>
+    <string name="you_are_in">أنت في</string>
+    <string name="tier">الطبقة</string>
+    <string name="user_is_in">المستخدم في</string>
+    <string name="you_are_nominating">أنت ترشح</string>
+    <string name="you_are_recognizing">أنت تعترف</string>
+    <string name="private_msg">نشر</string>
+    <string name="appreciation_private_message">اختار هذا المستخدم الحفاظ على خصوصية التقدير</string>
+    <string name="make_appreciation_public">اجعل تقديري عام</string>
+    <string name="appreciations">التقدير</string>
+    <string name="nominations">ترشيح</string>
+    <string name="recongnizations">الاستعادة</string>
+    <string name="workplace_by_facebook">مكان العمل عن طريق Facebook</string>
+    <string name="share_with">شارك مع</string>
+    <string name="select_at_least_one_message_to_share">يرجى النقر مطولاً على الرسالة واختيار رسالة واحدة على الأقل ترغب في مشاركتها.</string>
+    <plurals name="message_appreciations_remaining">
+        <item quantity="one">التقدير الشهري المتبقي:</item>
+        <item quantity="other">التقديرات الشهرية المتبقية:</item>
+    </plurals>
+
+    <plurals name="message_appreciations_points">
+        <item quantity="one">نقاط التقدير المتبقية الشهرية:</item>
+        <item quantity="other">نقاط التقدير المتبقية الشهرية:</item>
+    </plurals>
+
+    <plurals name="no_of_appreciations">
+        <item quantity="one">تقدير</item>
+        <item quantity="other">التقدير</item>
+    </plurals>
+
+    <plurals name="no_of_nominations">
+        <item quantity="one">ترشيح</item>
+        <item quantity="other">ترشيح</item>
+    </plurals>
+
+    <plurals name="no_of_recognitions">
+        <item quantity="one">تعرف</item>
+        <item quantity="other">الاعترافات</item>
+    </plurals>
+
+
+    <string name="appreciated">محل تقدير</string>
+    <string name="posting_workplace">الإرسال إلى مكان العمل .....</string>
+    <string name="does_not_exists_on_workplace">غير موجود في مجموعة مكان عملك</string>
+    <string name="posted_to_workplace">تم النشر بنجاح إلى مجموعة مكان عملك.</string>
+    <string name="something_went_wrong_posting_to_workplace">حدث خطأ ما أثناء النشر في مجموعة مكان عملك.</string>
+    <string name="with_this_message">بهذه الرسالة</string>
+    <string name="new_settings_updated">تم تحديث الإعدادات الجديدة.</string>
+    <string name="hide_my_appreciation_messages">إخفاء رسائل تقديري</string>
+    <string name="failed_to_subscribe_recording_api">حدثت مشكلة في الاشتراك في Recording API</string>
+    <string name="fetching_details">إحضار التفاصيل ....</string>
+    <string name="enter_frame_category">حدد فئة الإطار</string>
+    <string name="enter_date_of_receipt">أدخل تاريخ الاستلام</string>
+    <string name="enter_no_of_units_sold">أدخل عدد الوحدات المباعة</string>
+    <string name="validate_no_of_units_sold">يجب أن يكون عدد الوحدات المباعة أقل من 8</string>
+    <string name="receipts_missing">الإيصال مفقود</string>
+    <string name="loading_receipts">تحميل الإيصالات ....</string>
+    <string name="uploading_receipt">تحميل الإيصال</string>
+    <string name="receipt_upload_failed">فشل تحميل الإيصال</string>
+    <string name="upload_complete">اكتمل التحميل</string>
+    <string name="italian">إيطالي</string>
+    <string name="german">ألمانية</string>
+    <string name="frame_category">فئة الإطار</string>
+    <string name="brand_model">نموذج العلامة التجارية</string>
+    <string name="date_of_receipt">تاريخ استلام</string>
+    <string name="amount">كمية</string>
+    <string name="no_of_units_sold">عدد الوحدات المباعة</string>
+    <string name="view_receipt">استلام عرض</string>
+    <string name="upload">تحميل</string>
+    <string name="spanish">الأسبانية</string>
+    <string name="nric_email">NRIC / البريد الإلكتروني</string>
+    <string name="notify_members">إخطار أعضاء</string>
+    <string name="quantity_less_than">يجب أن تكون الكمية أقل من 9</string>
+    <string name="add_quantity_less_than">أضف أقل من 9</string>
+    <string name="you_can_redeem">يمكنك استرداد هذه المكافأة</string>
+
+    <string name="enter_your_email_to_reset_pwd">أدخل عنوان بريدك الإلكتروني أدناه وسنرسل لك تعليمات حول كيفية تغيير كلمة المرور الخاصة بك</string>
+    <string name="country">دولة</string>
+    <string name="store">متجر</string>
+    <string name="select_your_country">اختر بلدك</string>
+    <string name="first_select_country">حدد بلدك أولاً</string>
+    <string name="loading_stores">تحميل المخازن ....</string>
+    <string name="no_countries_found">لم يتم العثور على دول</string>
+    <string name="select_your_store">حدد متجرك</string>
+    <string name="loading_countries">تحميل البلدان ....</string>
+    <string name="process">يعالج</string>
+    <string name="redeem_e_cash">استرداد النقود الإلكترونية</string>
+    <string name="enter_amount">أدخل المبلغ</string>
+    <string name="min_amt_reqd">الحد الأدنى من الاسترداد هو 10 دولارات أمريكية ، وزيادة لاحقة في مضاعفات 1 دولار</string>
+    <string name="enter_paynow_acc_no">أدخل رقم حساب PayNow المصرفي</string>
+    <string name="or">أو</string>
+    <string name="enter_reg_mob_no">أدخل رقم هاتف PayNow المسجل</string>
+    <string name="hundred_pts_reqd">100 نقطة مطلوبة</string>
+    <string name="pls_enter_amount">الرجاء إدخال المبلغ</string>
+    <string name="enter_bank_or_mob_no">يرجى إدخال رقم حساب PayNow المصرفي أو رقم الهاتف المحمول المسجل في PayNow</string>
+    <string name="pls_enter_valid_mob_no">الرجاء إدخال رقم هاتف محمول صحيح</string>
+    <string name="pls_enter_min_amount">الرجاء إدخال 10 دولارات كحد أدنى</string>
+    <string name="ten_dollar">10 دولارات</string>
+    <string name="paynow_link">غير مسجل في PayNow؟ سجل الان!</string>
+    <string name="mobile_update_fail_try_again">فشل تحديث رقم الهاتف المحمول ، يرجى المحاولة مرة أخرى</string>
+    <string name="just_last_name">الكنية</string>
+    <string name="scan_cancelled">تم إلغاء الفحص بواسطتك.</string>
+    <string name="place_qr_code_in_frame">ضع رمز الاستجابة السريعة في الإطار</string>
+    <string name="courier_option">خيار البريد السريع</string>
+    <string name="office_delivery">توصيل المكتب (خدمة مجانية)</string>
+    <string name="fee_of">رسوم</string>
+    <string name="points_apply">يتم تطبيق النقاط</string>
+    <string name="courier_sub_text">أي عمليات استرداد لاحقة خلال اليوم ستكون مجانية</string>
+    <string name="office_delivery_sub_text">احصل على مكافأتك / مكافآتك كل يوم عمل أول من الشهر (عمليات الاسترداد تتم من 9 إلى 23 من الشهر السابق) أو 15 من الشهر (عمليات الاسترداد تتم من 24 من الشهر السابق إلى 8 من الشهر الحالي)</string>
+    <string name="are_you_sure_you_want_to_redeem_reward">هل أنت متأكد أنك تريد استرداد هذه المكافأة؟</string>
+    <string name="logging_out">تسجيل الخروج....</string>
+    <string name="your_pwd_expire">ستنتهي صلاحية كلمة مرورك في</string>
+    <string name="alert">انذار</string>
+    <string name="pwd_update_logout_message">لقد انتهت صلاحية كلمة المرور الخاصة بك. يرجى إعادة تعيين كلمة المرور الخاصة بك باستخدام نسيت كلمة المرور لتسجيل الدخول</string>
+    <string name="atsn_dashboard">لوحة القيادة ATSN</string>
+    <string name="dummy_text">WW47\'18</string>
+    <string name="output">انتاج |</string>
+    <string name="icar">أنا سيارة</string>
+    <string name="dept_performance">أداء الأقسام</string>
+    <string name="quarter">ربع</string>
+    <string name="label_quarter">س</string>
+    <string name="label_qtd">الكمية</string>
+    <string name="label_month">م</string>
+    <string name="hint_brand_model">في</string>
+    <string name="hint_amount">XXX دولار</string>
+    <string name="enter_brand_model">أدخل نموذج العلامة التجارية</string>
+    <string name="membership_privileges">امتيازات العضوية</string>
+    <string name="since">حيث</string>
+    <string name="character_limit_error_message">الرجاء إدخال٪ 1 $ d حرفًا كحد أدنى</string>
+    <string name="entered">دخلت</string>
+    <string name="confirm_edit_mobile_number">قم بتأكيد رقم هاتفك المحمول</string>
+    <string name="recognition_heroes">أبطال الاعتراف</string>
+    <string name="feeds">تغذية</string>
+    <string name="users">المستخدمين</string>
+    <string name="clear">واضح</string>
+    <string name="appreciated_by">يقدرها</string>
+    <string name="updated_week">البيانات الأسبوعية كما تم تحديثها في</string>
+    <string name="scan_qr_code_text_one">امسح رمز الاستجابة السريعة في المتجر للاستمتاع بعرضك!</string>
+    <string name="scan_qr_code">مسح رمز الاستجابة السريعة</string>
+    <string name="scan_qr_code_text_two">ابحث عن رمز الاستجابة السريعة الذي يحمل شعارًا أحمر في المنتصف لمسحه ضوئيًا</string>
+    <string name="available_points_for_redemption">النقاط المتاحة للاسترداد</string>
+    <string name="total_points_redeemed">مجموع النقاط المستبدلة</string>
+    <string name="more_details">المزيد من التفاصيل</string>
+    <string name="my_points">نقاطي</string>
+    <string name="used_points">النقاط المستخدمة</string>
+    <string name="points_available_to_redeem">النقاط المتاحة للاسترداد</string>
+    <string name="learn_more">يتعلم أكثر</string>
+    <string name="points_available_for_redemption">النقاط المتاحة للاسترداد</string>
+    <string name="steps_summary_small">ملخص الخطوات</string>
+    <string name="close">أغلق</string>
+    <string name="monthly">شهريا</string>
+    <string name="see_points_history">انظر سجل النقاط&gt;</string>
+    <string name="greetings_small">تحيات</string>
+    <string name="popular_merchants">التجار المشهورين</string>
+    <string name="view_event">عرض المناسبة</string>
+    <string name="view_reward">مشاهدة المكافأة</string>
+    <string name="view_message">شاهد الرساله</string>
+    <string name="organisation_has">المنظمة لديها</string>
+    <string name="selected">المحدد</string>
+    <string name="rsvp">من فضلك، أرسل رد</string>
+    <string name="event_venue">مكان الحدث</string>
+    <string name="event_contact_person">الشخص المسؤول عن الحدث</string>
+    <string name="location">موقع</string>
+    <string name="see_all">اظهار الكل</string>
+    <string name="my_strengths">نقاط قوتي</string>
+    <string name="click_on_each_to_view_more">انقر فوق كل لعرض المزيد</string>
+    <string name="but_people_call_me_as">لكن الناس ينادونني باسم</string>
+    <string name="i_am">انا</string>
+    <string name="first_and_last_name">أولا</string>
+    <string name="pls_enter_address_line_1">الرجاء إدخال سطر العنوان الأول</string>
+    <string name="pls_enter_address_line_2">الرجاء إدخال سطر العنوان 2</string>
+    <string name="support">الدعم</string>
+    <string name="get_my_treats">احصل على معالجاتي</string>
+    <string name="total_points_received">مجموع النقاط المستلمة</string>
+    <string name="high_5">أعط عالية 5</string>
+    <string name="with">مع</string>
+    <string name="thanks_for_high5">شكرا لإعطاء السامي 5.</string>
+    <string name="you_are_giving_high_5">أنت تعطي السامي 5</string>
+    <string name="min_appreciation_character">الحد الأدنى المطلوب هو٪ 1 $ d حرفًا</string>
+    <string name="high_5_awards">5 جوائز عالية</string>
+    <string name="joined">انضم</string>
+    <string name="your_treats_error_message">الوصول المباشر للتطبيق مقيد ؛ يرجى الانتقال إلى تطبيق Your Choice والنقر على خيار Your Treat.</string>
+    <string name="remaining_points_budget">ميزانية النقاط المتبقية</string>
+    <string name="title_new_app_version">نسخة جديدة متاحة</string>
+    <string name="message_app_update">إصدار جديد متوفر. يرجى التحديث إلى أحدث إصدار.</string>
+    <string name="button_update">تحديث</string>
+
+
+    <plurals name="days_kindly_update">
+        <item quantity="one">يوم. يرجى التحديث في اسرع وقت ممكن</item>
+        <item quantity="other">أيام. يرجى التحديث في اسرع وقت ممكن</item>
+    </plurals>
+
+
+    <plurals name="character_count">
+        <item quantity="one">حرف واحد</item>
+        <item quantity="zero">0 حرف</item>
+        <item quantity="other">٪ d حرفًا</item>
+    </plurals>
+
+    <plurals name="likes">
+        <item quantity="one">1 مثل</item>
+        <item quantity="zero">0 إعجابات</item>
+        <item quantity="other">٪ d إبداءات الإعجاب</item>
+    </plurals>
+
+
+    <plurals name="pts">
+        <item quantity="one">1 نقطة</item>
+        <item quantity="zero">0 نقاط</item>
+        <item quantity="other">٪ d نقاط</item>
+    </plurals>
+    <string name="title_activity_event_photos">EventPhotosActivity</string>
+    <string name="tab_text_1">علامة التبويب 1</string>
+    <string name="tab_text_2">علامة التبويب 2</string>
+    <string name="event_points">نقاط الحدث</string>
+    <string name="security">حماية</string>
+    <string name="preferences">التفضيلات</string>
+    <string name="app_support">دعم التطبيق</string>
+    <string name="how_to_earn_points">كيف تكسب النقاط؟</string>
+    <string name="faq">أسئلة وأجوبة (FAQ)</string>
+    <string name="live_chat">دردشة مباشرة</string>
+    <string name="mon_to_fri">من الإثنين إلى الجمعة ، من 10 صباحًا حتى 6 مساءً</string>
+    <string name="email_us">ارسل لنا عبر البريد الإلكتروني</string>
+    <string name="send_logs">إرسال سجلات</string>
+    <string name="save_pwd">حفظ كلمة المرور</string>
+    <string name="refreshed_on">انتعش على</string>
+    <string name="redeemed_on">استرداد في</string>
+    <string name="steps">خطوات</string>
+    <string name="workplace_small">مكان العمل</string>
+    <string name="upload_receipts_small">تحميل الإيصالات</string>
+    <string name="tab_upload_receipts">الإيصالات</string>
+    <string name="calendar_small">التقويم</string>
+    <string name="leaderboard_small">ليدربورد</string>
+    <string name="rewards_small">المكافآت</string>
+    <string name="facility_check_in_small">تسجيل الوصول إلى المنشأة</string>
+    <string name="referral_smalll">الإحالة</string>
+    <string name="history_small">تاريخ</string>
+    <string name="notifications_small">إشعارات</string>
+    <string name="settings_small">إعدادات</string>
+    <string name="connect_apps">ربط التطبيقات</string>
+    <string name="appreciation_small">تقدير</string>
+    <string name="title_dashboard">لوحة القيادة</string>
+    <string name="recognize_small">تعرف</string>
+    <string name="nominate_small">ترشح</string>
+    <string name="allocate_points_small">تخصيص النقاط</string>
+    <string name="browse_all">تصفح الكل</string>
+    <string name="my_wallet">محفظتى</string>
+    <string name="valid_till_small">صالحة ل:</string>
+    <string name="use_now">استخدم الان</string>
+    <string name="used_caps">تستخدم</string>
+    <string name="expired_caps">منتهية الصلاحية</string>
+    <string name="time_left_caps">الوقت المتبقي</string>
+    <string name="filter_by">مصنف بواسطة</string>
+    <string name="notify_me">أشعرني، أعلمني، بلغني</string>
+    <string name="out_of_stock">إنتهى من المخزن</string>
+    <string name="filters">فلاتر</string>
+    <string name="select_category">اختر الفئة</string>
+    <string name="sort_by">صنف حسب</string>
+    <string name="latest">أحدث</string>
+    <string name="a_to_z">من الألف إلى الياء</string>
+    <string name="z_to_a">ي إلى أ</string>
+    <string name="special_deals">صفقة خاصة</string>
+    <string name="points_required_to_redeem">النقاط المطلوبة للاستبدال</string>
+    <string name="outlet">مخرج</string>
+    <string name="no_selection">لا اختيار</string>
+    <string name="select_outlet">حدد منفذ</string>
+    <string name="please_select_outlet">الرجاء تحديد المنفذ أولاً</string>
+    <string name="choose_preferred_oulet">اختر المنفذ المفضل لديك:</string>
+    <string name="change_outlet">تغيير المخرج</string>
+    <string name="website_address_not_available">عنوان موقع الويب غير متوفر.</string>
+    <string name="no_location_found">لم يتم العثور على موقع</string>
+    <string name="click_for_more_details">انقر هنا لمزيد من التفاصيل</string>
+    <string name="register_now">سجل الان</string>
+    <string name="not_registered_with_paynow">غير مسجل في PayNow؟</string>
+    <string name="enter_paynow_registered_number">أدخل رقم هاتف PayNow المسجل</string>
+    <string name="paynow_min_transaction_message">الحد الأدنى من الاسترداد هو 10 دولارات أمريكية ، وزيادة لاحقة في مضاعفات 1 دولار.</string>
+    <string name="wish_to_proceed">هل ترغب في المتابعة؟</string>
+    <string name="redemption_confirmation_text">سيؤدي استرداد هذه المكافأة إلى خصم نقاط من حسابك.</string>
+    <string name="deferred_redemption_confirmation">للمتابعة ، حدد &quot;استخدم الآن&quot; لاستخدام مكافأتك. إذا اخترت &quot;الاستخدام لاحقًا&quot; ، فسيتم تخزين مكافأتك في &quot;محفظتي&quot; لاستخدامها لاحقًا. للخروج ، انقر فوق &quot;X&quot; ، لن يتم خصم النقاط.</string>
+    <string name="use_later">استخدم لاحقًا</string>
+    <string name="phone_number_not_available">رقم الهاتف غير متوفر</string>
+    <string name="successfully_redeemed">تم الاسترداد بنجاح!</string>
+    <string name="back_to_rewards">رجوع إلى المكافآت</string>
+    <string name="view_in_wallet">عرض في محفظتي</string>
+    <string name="one_dollar">1 دولار</string>
+    <string name="reference_code">الكود المرجعي</string>
+    <string name="pin_code_info">قم بتمرير هاتفك إلى موظفي الكاونتر لإدخال الرمز السري.</string>
+    <string name="select_your_delivery_mode">حدد طريقة التسليم الخاصة بك.</string>
+    <string name="by_courier">عن طريق البريد</string>
+    <string name="additional">(إضافي</string>
+    <string name="applies">ينطبق)</string>
+    <string name="courier_info">أي عمليات استرداد لاحقة تتم خلال اليوم ستكون مجانية. تسليم خلال 5 أيام عمل.</string>
+    <string name="office_reception">إلى مكتب الاستقبال الخاص بك</string>
+    <string name="free_delivery">(توصيل مجاني)</string>
+    <string name="office_delivery_info">يرجى ملاحظة أن القطع هو كل 23 من الشهر. ستتلقى قسائمك في اليوم الثلاثين أو الحادي والثلاثين من الشهر أو في يوم العمل التالي إذا كان في عطلات نهاية الأسبوع أو العطلات الرسمية.</string>
+    <string name="office_delivery_sub_info">(الموعد النهائي للتسليم هو في الثامن من كل شهر</string>
+    <string name="delivery_address">عنوان التسليم</string>
+    <string name="barcode_caps">الرمز الشريطي:</string>
+    <string name="please_enter_code">الرجاء إدخال الرمز</string>
+    <string name="only_x_rewards_remaining">الكميات فقط متاحة للاسترداد</string>
+    <string name="please_select_at_least_one_subcategory">الرجاء تحديد فئة فرعية واحدة على الأقل</string>
+    <string name="brand_name">اسم العلامة التجارية</string>
+    <string name="select_brand">اختر الماركة</string>
+    <string name="select_frame_category">حدد الإطار</string>
+    <string name="starting_soon">تبدأ قريبا</string>
+    <string name="event_starts_on">يبدأ الحدث في</string>
+    <string name="yet_to_start">ولكن للبدء</string>
+    <string name="email_or_username">البريد الإلكتروني أو اسم المستخدم</string>
+    <string name="hurry_up">عجلوا!</string>
+    <string name="items_left">العناصر المتبقية</string>
+    <string name="paytm_info">الرجاء إدخال رقم الهاتف المحمول المسجل Paytm</string>
+    <string name="please_enter_correct_mobile_number">الرجاء إدخال رقم الهاتف المحمول الصحيح</string>
+    <string name="use_redeemed_reward_info">سيتم وضع علامة &quot;مستعملة&quot; على هذه القسيمة.</string>
+    <string name="please_enter_your_mobile_number">الرجاء إدخال رقم هاتفك المحمول</string>
+    <string name="received">تم الاستلام</string>
+    <string name="select_one_voucher_status">الرجاء تحديد مرشح واحد على الأقل</string>
+    <string name="select_all">اختر الكل</string>
+    <string name="no_events_this_month">وجه الفتاة! لا توجد أحداث في هذا الشهر</string>
+    <string name="no_greetings_this_month">وجه الفتاة! لا توجد تحيات في هذا الشهر</string>
+    <string name="no_announcements_this_month">وجه الفتاة! لا توجد إعلانات في هذا الشهر</string>
+    <string name="no_redemption_this_year">وجه الفتاة! لم تقم باسترداد قيمة أي٪ 1 $ s هذا العام</string>
+    <string name="no_receipts_uploaded">وجه الفتاة! لم يتم تحميل إيصالات</string>
+    <string name="no_receipts_processing">لا توجد إيصالات قيد المعالجة حاليًا</string>
+    <string name="no_receipts_approved">وجه الفتاة! تمت الموافقة على أي إيصالات</string>
+    <string name="no_receipts_rejected">لم يتم رفض أي إيصالات</string>
+    <string name="status_used">مستخدم</string>
+    <string name="status_not_used">غير مستعمل</string>
+    <string name="status_received">تم الاستلام</string>
+    <string name="no_redemptions_available">لا يوجد استرداد متاح</string>
+    <string name="top_rewards">أفضل المكافآت</string>
+    <string name="points_expiry_info">ستنتهي صلاحية نقاط٪ s الخاصة بك في٪ 1D٪ s</string>
+    <string name="acknowledge">الإقرار</string>
+    <string name="have_you_received_voucher">هل تلقيت القسيمة المادية الخاصة بك؟</string>
+    <string name="thanks_for_acknowledging">شكرا على الاعتراف!</string>
+    <string name="voucher_acknowledgement_message">نأمل أن تستمتع بقسائمك. استمتع بيومك.</string>
+    <string name="enter_email_address">أدخل عنوان البريد الالكتروني</string>
+    <string name="at_max_only_3_subcategories">يمكن اختيار 3 فئات فرعية فقط بحد أقصى.</string>
+    <string name="no_rewards_found">وجه الفتاة! لم يتم العثور على مكافآت.</string>
+    <string name="explore">يكتشف</string>
+    <string name="recently_viewed">شوهدت مؤخرا</string>
+    <string name="btn_redeem">يسترد</string>
+    <string name="rewards_found_matching">وجدت المكافآت مطابقة</string>
+    <string name="reward_expiring_soon_message">كثير الطلب. فقط اليسار ، لا تفوت!</string>
+    <string name="nothing_found_matching">لم يتم العثور على شيء يطابق٪ s</string>
+    <string name="recent_searches">عمليات البحث الأخيرة</string>
+    <string name="in_high_demand">كثير الطلب!</string>
+    <string name="only_few_left">فقط اليسار ، لا تفوت!</string>
+    <string name="point_history">تاريخ النقطة</string>
+    <string name="address_line_two_no_optional_building_block">سطر العنوان 2 (مبنى / بلوك / رقم المنزل)</string>
+    <string name="for_strength">للقوة</string>
+    <string name="redeem_small">يسترد</string>
+    <string name="reward_used">تم استخدام المكافأة!</string>
+    <string name="voucher_received">تم استلام القسيمة!</string>
+    <string name="open_link">افتح الرابط</string>
+    <string name="quantity">كمية:</string>
+    <string name="evoucher_use_later_message">يرجى الانتقال إلى علامة التبويب My Wallet لاستخدام المكافأة التي تم استردادها.</string>
+    <string name="physical_voucher_use_later_message">يرجى الإقرار في My Wallet بمجرد استلام القسيمة.</string>
+    <string name="congratulations">تهانينا..!</string>
+    <string name="checked_in_successfully">تم تسجيل الوصول بنجاح</string>
+    <string name="checked_in_successfully_scratch_msg">عند تسجيل الوصول بنجاح إلى \ n حدث ما ، ستتلقى بطاقة تعبئة \ n يمكنك من خلالها ربح نقاط</string>
+    <string name="points_won">فازت بالنقاط</string>
+    <string name="points_won_reflected">ستظهر النقاط التي تم ربحها في غضون ساعتين.</string>
+    <string name="congratulations_you_have_won_scratch_card">تهانينا! \ n لقد ربحت بطاقة خدش.</string>
+    <string name="swipe_back_forth_to_see_points_won">مرر للخلف وللأمام لمعرفة عدد النقاط التي فزت بها.</string>
+    <string name="you_have_won">لقد فزت</string>
+    <string name="have_you_received_amount">هل تلقيت المبلغ؟</string>
+    <string name="contact_support_team">يرجى الاتصال بفريق الدعم.</string>
+    <string name="search_by_username">البحث عن طريق اسم المستخدم</string>
+    <string name="you_have_won_scratch_card">لقد ربحت بطاقة خدش.</string>
+    <string name="at_max_1000_quantities">كحد أقصى ، يمكنك تحديد 1000 كمية فقط.</string>
+    <string name="at_max_appreciation_points">كحد أقصى ، يمكنك منح 1000000 نقطة.</string>
+    <string name="exceeding_allocated_points_limit">أنت تتجاوز عدد النقاط lmit من٪ d</string>
+    <string name="max_ecash_amount">الحد الأقصى المسموح به 1000000.</string>
+    <string name="no_photos_added">لم يتم إضافة صور.</string>
+    <string name="enter_less_quantity">أدخل كمية أقل</string>
+    <string name="delete_all">حذف الكل</string>
+    <string name="are_you_sure_you_want_to_delete_all_notification">هل أنت متأكد أنك تريد حذف كل الإشعارات؟</string>
+    <string name="pls_enter_srch_query">الرجاء إدخال استعلام البحث</string>
+    <string name="processed">معالجتها</string>
+    <string name="please_enter_wish_message">الرجاء إدخال رسالة الأمنيات.</string>
+    <string name="sending_your_wish">إرسال رغبتك .....</string>
+    <string name="your_msg_sent">تم ارسال رسالتك.</string>
+    <string name="flexi_benefits">الفوائد المرنة</string>
+    <string name="text_selection_period">لم تقم باختيارك لفترة الاستحقاقات لعام 2020. \ n \ n يرجى متابعة اختيار المزايا قبل تسجيل الدخول إلى تطبيق المزايا المرنة.</string>
+    <string name="pls_enter_contact_number">الرجاء إدخال رقم الاتصال</string>
+    <string name="enter_valid_contact_number">الرجاء إدخال رقم اتصال صحيح</string>
+    <string name="pls_enter_country">الرجاء إدخال الدولة</string>
+    <string name="physical_product_use_later_message">يرجى الإقرار في My Wallet بمجرد استلام المنتج.</string>
+    <string name="product_acknowledgement_message">نأمل أن تستمتع بالمنتج. استمتع بيومك.</string>
+    <string name="have_you_received_product">هل تلقيت المنتج؟</string>
+    <string name="last_name_not_optional">الكنية</string>
+    <string name="pincode_optional">الرمز السري (اختياري)</string>
+    <string name="product_received">تم استلام المنتج!</string>
+    <string name="product_delivery_fees_info">* سيتم فرض رسوم التوصيل٪ d</string>
+    <string name="thai">التايلاندية</string>
+    <string name="contacts">جهات الاتصال</string>
+
+    <string name="thailand">تايلاند</string>
+    <string name="flexi_benefit">الفوائد المرنة</string>
+    <string name="benefit_category">فئة المنفعة</string>
+    <string name="benefit_type">نوع المنفعة</string>
+    <string name="selected_benefit_plan">خطة المزايا المختارة</string>
+    <string name="remarks">ملاحظات</string>
+    <string name="select_benefit">حدد فائدة</string>
+    <string name="select_benefit_category">حدد تاريخ الاستلام</string>
+    <string name="enter_description">أدخل الوصف</string>
+    <string name="no_records_found">لا توجد سجلات</string>
+    <string name="enter_remark">أدخل الملاحظة</string>
+    <string name="units">الوحدات</string>
+    <string name="organisation">منظمة</string>
+    <string name="first_select_your_organisation">حدد أولاً مؤسستك</string>
+    <string name="no_organisation_found">لم يتم العثور على منظمة</string>
+    <string name="see_more">شاهد المزيد</string>
+
+    <string name="official_email_id">معرف البريد الإلكتروني الرسمي</string>
+    <string name="postcode_optional">الرمز البريدي (اختياري)</string>
+    <string name="remarks_optional">ملاحظات (اختياري)</string>
+    <string name="approver_comments">تعليقات الموافق</string>
+    <string name="enter_amount_less_than_selected_plan_amount">المبلغ الذي تم إدخاله أكبر من المبلغ المستحق.</string>
+    <string name="receipt_uploaded_successfully">تم تحميل مطالبتك بنجاح.</string>
+
+    <string name="email_or_emp_id">أدخل معرف البريد الإلكتروني الخاص بك أو معرف الإم</string>
+    <string name="order_placed">تم الطلب</string>
+    <string name="in_process">تحت المعالجة</string>
+    <string name="ready_for_pick_up">جاهز للإستلام</string>
+    <string name="shipped">شحنها</string>
+    <string name="upload_resume">تحميل استئناف</string>
+    <string name="open_gallery">معرض مفتوح</string>
+    <string name="file_manager">مدير الملفات</string>
+    <string name="app_need_read_external_storage_permission">مطلوب إذن التخزين الخارجي لإظهار المستندات.</string>
+
+    <string name="past_week">الأسبوع الماضي</string>
+    <string name="past_month">الشهر الماضي</string>
+    <string name="last_3_months">آخر 3 أشهر</string>
+    <string name="last_6_months">آخر 6 أشهر</string>
+    <string name="past_year">السنة الفائتة</string>
+    <string name="custom">مخصص</string>
+    <string name="filter_by_feed_origin">تصفية حسب أصل العلف</string>
+    <string name="underlied_select_all"><u>اختر الكل</u></string>
+    <string name="permission_grant_read_external_storage">انتقل إلى أذونات منح التخزين الخارجي</string>
+    <string name="find_by_name_or_mobile_no">ابحث بالاسم أو رقم الهاتف المحمول</string>
+    <string name="please_type_search_query">الرجاء كتابة نص البحث</string>
+
+
+<!--    Unilever win app-->
+    <string name="sales_update">* سيتم تحديث إنجاز المبيعات الأسبوعية كل يوم إثنين</string>
+    <string name="le_code">الرمز</string>
+    <string name="enter_valid_le_code_password">الرجاء إدخال رمز LE وكلمة المرور صالحين</string>
+    <string name="enter_valid_le_code">أدخل رمز LE صالحًا</string>
+    <string name="password_capital">كلمه السر</string>
+    <string name="x_points_required">نقاط</string>
+    <string name="saved_address">العنوان المحفوظ</string>
+    <string name="add_new">اضف جديد</string>
+    <string name="make_default">جعل الافتراضي</string>
+    <string name="edit_small">يحرر</string>
+    <string name="delete_small">حذف</string>
+    <string name="edit_address">تعديل العنوان</string>
+    <string name="add_new_address">أضف عنوان جديد</string>
+    <string name="save_address">حفظ العنوان</string>
+    <string name="no_address_found_info">لا يوجد عنوان مضاف.</string>
+    <string name="pls_select_address">الرجاء تحديد عنوان التسليم</string>
+    <string name="default_address">*العنوان الافتراضي</string>
+    <string name="delete_address">حذف العنوان</string>
+    <string name="delete_confirmation">هل أنت متأكد أنك تريد حذف العنوان؟</string>
+
+
+    <string name="product_will_delivered">سيتم تسليم المنتج الخاص بك إلى</string>
+    <string name="new_address_success">تمت إضافة العنوان الجديد بنجاح</string>
+    <string name="update_address_success">تم تحديث عنوانك بنجاح</string>
+    <string name="tap_here">أنقر هنا</string>
+    <string name="reset_password_btn">إعادة تعيين كلمة المرور</string>
+
+    <string name="app_permission_activity">يحتاج التطبيق إلى إذن النشاط البدني لتتبع الخطوات.</string>
+    <string name="grant_activity_permission">يرجى منح إذن النشاط البدني لتتبع الخطوات</string>
+
+
+    <!--    Appreciation Strings-->
+    <string name="rdo_btn_overall">شاملة</string>
+    <string name="rdo_btn_last_seven_days">اخر 7 ايام</string>
+    <string name="rdo_btn_last_thirty_days">آخر 30 يومًا</string>
+    <string name="rdo_btn_last_ninety_days">آخر 90 يومًا</string>
+    <string name="received_non_cap">تم الاستلام</string>
+    <string name="sent">أرسلت</string>
+    <string name="all">الجميع</string>
+    <string name="filter">منقي</string>
+    <string name="filter_by_strengths">تصفية حسب القوة</string>
+    <string name="underlied_see_all"><u>اظهار الكل</u></string>
+    <string name="filter_by_orgainsation">تصفية حسب المنظمة</string>
+    <string name="filter_by_feed_type">تصفية حسب نوع التغذية</string>
+    <string name="filter_by_feed_range">تصفية حسب نطاق التغذية</string>
+    <string name="clear_all">امسح الكل</string>
+    <string name="reset_all">إعادة ضبط الجميع</string>
+    <string name="btn_apply">تطبيق</string>
+    <string name="strengths">القوة</string>
+    <string name="clear_selection_text">هل تريد بالتأكيد إعادة تعيين كافة اختيارات \ n عوامل التصفية إلى الوضع الافتراضي؟</string>
+    <string name="reset_selection">إعادة تعيين التحديد</string>
+
+    <string name="txt_candidate_details">(أدخل تفاصيل المرشح)</string>
+    <string name="tutorial_not_available">البرنامج التعليمي غير متوفر.</string>
+
+
+    <!-- Feeds  -->
+
+
+    <string name="whats_on_your_mind">ماذا يدور بعقلك؟</string>
+    <string name="enter_comment_here">أدخل تعليقك هنا</string>
+    <string name="no_of_comments">٪ d تعليق</string>
+    <string name="no_of_claps">٪ d تصفيق</string>
+    <string name="comments">تعليقات</string>
+    <string name="claps">التصفيق</string>
+    <string name="news_feed">موجز الأخبار</string>
+    <string name="comment_cannot_be_empty">لا يمكن ترك التعليق فارغًا!</string>
+    <string name="pls_select_one_option">ارجوك اختر خيار واحد</string>
+    <string name="create_post">إنشاء منشور</string>
+    <string name="create_poll">إنشاء استطلاع</string>
+    <string name="poll_choice1_hint">الاختيار 1</string>
+    <string name="ask_something">اسأل شيئا</string>
+    <string name="poll_choice2_hint">الاختيار 2</string>
+    <string name="poll_choice3_hint">الاختيار 3 (اختياري)</string>
+    <string name="poll_choice4_hint">الاختيار 4 (اختياري)</string>
+    <string name="poll_choice_count">25</string>
+    <string name="poll_description_empty">وصف الاستطلاع فارغ.</string>
+    <string name="poll_choice_one_required">الخيار 1 مطلوب!</string>
+    <string name="poll_choice_two_required">الخيار 2 مطلوب!</string>
+    <string name="choice_char_length_warning">يجب أن تكون أحرف الاختيار أقل من 26</string>
+    <string name="poll_active_for_days">الاستطلاع نشط لمدة (أيام):</string>
+    <string name="min_no_of_active_days_warning">أقل وقت نشط للاستطلاع هو يوم واحد</string>
+    <string name="poll_active_max_days_warning">لا يمكن أن يكون الاستطلاع نشطًا لأكثر من 30 يومًا.</string>
+    <string name="poll_title">عنوان</string>
+    <string name="post_title_max_char">80</string>
+    <string name="post">بريد</string>
+    <string name="poll_title_max_char">200</string>
+    <string name="photos_small">الصور</string>
+    <string name="successful_posted">تم النشر بنجاح!</string>
+    <string name="post_title_char_length_warning">يجب ألا يتجاوز طول العنوان 80 حرفًا.</string>
+    <string name="poll_ask_something_char_length_warning">يجب ألا يتجاوز طول هذا الحقل 200 حرف.</string>
+    <string name="post_empty_warning">لا يمكن إنشاء منشور فارغ.</string>
+    <string name="app_needs_external_to_access_media_files">يحتاج التطبيق إلى إذن تخزين خارجي للوصول إلى ملفات الوسائط</string>
+    <string name="external_storage_permission_required">يرجى تقديم إذن التخزين الخارجي لمواصلة استخدام هذه الوظيفة.</string>
+    <string name="vote_percentage">٪د٪٪</string>
+    <string name="successful_vote_on_poll">تم التصويت الخاص بك بنجاح.</string>
+    <string name="post_same_dept">انشر في قسمي فقط</string>
+    <string name="left">اليسار</string>
+    <string name="poll_final_result">النتيجة النهائية</string>
+    <string name="cannot_select_more_images">لا يمكن تحديد أكثر من 10 صور.</string>
+    <string name="successful_created_poll">تم إنشاء الاستطلاع بنجاح.</string>
+    <string name="field_cannot_be_empty">هذا الحقل لا يمكن ان يكون فارغا.</string>
+    <string name="photo_saved_device">تم حفظ الصورة على هذا الجهاز.</string>
+    <string name="edit_post">تعديل المنشور</string>
+    <string name="successful_edit_post">تم تحرير المنشور بنجاح.</string>
+    <string name="post_empty_edit_warning">لا يمكن حفظ المنشور الفارغ.</string>
+    <string name="feed_deleted">حذف بنجاح.</string>
+    <string name="no_comments_error">كن أول من يعلق.</string>
+    <string name="comment">تعليق</string>
+    <string name="delete_feed">حذف آخر</string>
+    <string name="feed_delete_confirmation">هل أنت متأكد أنك تريد حذف المنشور؟</string>
+    <string name="poll_delete_confirmation">هل أنت متأكد أنك تريد حذف الاستطلاع؟</string>
+    <string name="delete_poll">حذف الاستطلاع</string>
+    <string name="bridgestone_feed_info">يمكن فقط مشاركة رسائل S3 و S4 على هذا النظام الأساسي</string>
+
+    <plurals name="clap_plurals">
+        <item quantity="one">1 صفق</item>
+        <item quantity="zero">التصفيق</item>
+        <item quantity="other">٪ d تصفيق</item>
+    </plurals>
+
+    <plurals name="comment_plurals">
+        <item quantity="one">تعليق واحد</item>
+        <item quantity="zero">تعليقات</item>
+        <item quantity="other">٪ d تعليق</item>
+    </plurals>
+
+    <plurals name="vote_plurals">
+        <item quantity="one">صوت واحد</item>
+        <item quantity="zero">أصوات</item>
+        <item quantity="other">٪ d تصويتات</item>
+    </plurals>
+
+    <string name="network_connection_error">انقطع الاتصال بالإنترنت ، يرجى إعادة المحاولة</string>
+    <string name="network_default_error">حدث خطأ ما ، يرجى إعادة المحاولة</string>
+    <string name="network_internal_error">حصلت أنظمتنا على خطأ ، يرجى إعادة المحاولة مرة أخرى</string>
+    <string name="network_server_not_available">خدماتنا قيد الصيانة ، يرجى إعادة المحاولة بعد مرور بعض الوقت</string>
+    </string>
+    <string name="server_connection_error">غير قادر على الاتصال ، يرجى إعادة المحاولة</string>
+    <string name="no_feeds_available">لا توجد تغذية متاحة في الوقت الحالي.</string>
+    <string name="cannot_retrieve_crop_image">لا يمكن استرداد الصورة التي تم اقتصاصها.</string>
+    <string name="error_fetch_gif">خطأ في جلب ملف GIF</string>
+    <string name="media_attachment_disabled">يرجى إزالة GIF لإرفاق ملفات الوسائط</string>
+    <string name="remove_media_for_gif">يرجى إزالة ملفات الوسائط لإرفاق GIF</string>
+    <string name="reset">إعادة ضبط</string>
+    <string name="label_crop_image">قص الصوره</string>
+    <string name="view_feed">مشاهدة موجز</string>
+    <string name="not_found">غير موجود.</string>
+    <string name="feed_detail_not_found">الخلاصة التي تبحث عنها غير موجودة حيث قد يتم حذفها.</string>
+    <string name="feed_not_found">الخلاصة غير موجودة.</string>
+    <string name="go_to_feeds">انتقل إلى قائمة الخلاصات</string>
+
+    <string name="card_number">رقم البطاقة</string>
+    <string name="url">URL</string>
+    <string name="app_permission_download_image">يحتاج التطبيق إلى إذن تخزين خارجي لحفظ الصور التي تم تنزيلها.</string>
+
+    <string name="valid_reason">الرجاء إدخال السبب الصحيح</string>
+    <string name="feed_report_success">ذكرت</string>
+    <string name="report_abuse">بلغ عن سوء معاملة</string>
+    <string name="feed_report_abuse_comment">تعليقات</string>
+    <string name="type_concerns">الرجاء كتابة مخاوفك</string>
+    <string name="feed_report_abuse_information">إذا كان لديك أي مخاوف بشأن الخلاصة ، يرجى المشاركة أدناه.</string>
+    <string name="menu_news_feed">الاتصال</string>
+    <string name="select_gif">حدد GIF</string>
+    <string name="search_tenor">ابحث في Tenor</string>
+    <string name="gif">GIF</string>
+    <string name="appreciation_feeds_no_like">يحب</string>
+    <string name="select_province">حدد مقاطعة</string>
+    <string name="pls_select_province_error">يرجى تحديد المقاطعة</string>
+    <string name="province">مقاطعة</string>
+    <string name="pls_enter_pincode">الرجاء إدخال الرمز السري</string>
+    <string name="pls_set_province">يرجى تعيين المقاطعة في عنوانك المحفوظ</string>
+    <string name="_check_in">تحقق في</string>
+    <string name="cannot_scan">غير قادر على المسح</string>
+    <string name="location_check_in">تسجيل الوصول</string>
+    <string name="select_prodcut_category">حدد فئة المنتج</string>
+    <string name="choose_product_category">اختر فئة المنتج</string>
+    <string name="product_category">فئة المنتج</string>
+
+    <string-array name="province_state_names">
+        <item>كرابي</item>
+        <item>بانكوك</item>
+        <item>كانشانابوري</item>
+        <item>كلاسين</item>
+        <item>كامبينغ فيت</item>
+        <item>Khon kean</item>
+        <item>شانثابوري</item>
+        <item>تشاتشونجساو</item>
+        <item>تشون بوري</item>
+        <item>تشاي نات</item>
+        <item>ذهب الشاي</item>
+        <item>تشوم فون</item>
+        <item>شيانج راي</item>
+        <item>شيانغ ماي</item>
+        <item>صفحة</item>
+        <item>صعدت</item>
+        <item>وبالتالي</item>
+        <item>ناخون نايوك</item>
+        <item>ناخون باتوم</item>
+        <item>ناخون فانوم</item>
+        <item>ناخون راتشاسيما</item>
+        <item>ناخون سي ثامارات</item>
+        <item>ناخون صوان</item>
+        <item>نونثابوري</item>
+        <item>ناراثيوات</item>
+        <item>في</item>
+        <item>كبش بوري</item>
+        <item>باثوم ثاني</item>
+        <item>براشواب خيرى خان</item>
+        <item>براتشينبوري</item>
+        <item>باتاني</item>
+        <item>أيوثايا</item>
+        <item>فاياو</item>
+        <item>فانغ نغا</item>
+        <item>فاتثالونج</item>
+        <item>فيشيت</item>
+        <item>فيتسانولوك</item>
+        <item>فيتشابوري</item>
+        <item>فيتشابون</item>
+        <item>فراي</item>
+        <item>فوكيت</item>
+        <item>محاساراخام</item>
+        <item>مكداهان</item>
+        <item>نجل ماي هونغ</item>
+        <item>ياسوثون</item>
+        <item>Yala</item>
+        <item>الملك و</item>
+        <item>رانونج</item>
+        <item>رايونغ</item>
+        <item>راشابوري</item>
+        <item>لوبوري</item>
+        <item>لوي</item>
+        <item>لامبانج</item>
+        <item>لامفون</item>
+        <item>سريساكيت</item>
+        <item>ساكوناخون</item>
+        <item>سونغكلا</item>
+        <item>ساتون</item>
+        <item>ساموتبراكان</item>
+        <item>ساموت سونغخرام</item>
+        <item>ساموت ساخون</item>
+        <item>سرا كايو</item>
+        <item>سارابوري</item>
+        <item>سينغبوري</item>
+        <item>سوخوثاي</item>
+        <item>سوفان بوري</item>
+        <item>سورات ثاني</item>
+        <item>سورين</item>
+        <item>نونغ خاي</item>
+        <item>Nongbualamphu</item>
+        <item>أنجثونج</item>
+        <item>أمنات تشاروين</item>
+        <item>أودونثاني</item>
+        <item>أوتاراديت</item>
+        <item>يوثاني</item>
+        <item>بوريثاتش</item>
+        <item>بوينج كان</item>
+    </string-array>
+
+    <string-array name="province_state_names_english">
+        <item>كرابي</item>
+        <item>بانكوك</item>
+        <item>كانشانابوري</item>
+        <item>كلاسين</item>
+        <item>كامبينغ فيت</item>
+        <item>Khon kean</item>
+        <item>شانثابوري</item>
+        <item>تشاتشونجساو</item>
+        <item>تشون بوري</item>
+        <item>تشاي نات</item>
+        <item>ذهب الشاي</item>
+        <item>تشوم فون</item>
+        <item>شيانج راي</item>
+        <item>شيانغ ماي</item>
+        <item>صفحة</item>
+        <item>صعدت</item>
+        <item>وبالتالي</item>
+        <item>ناخون نايوك</item>
+        <item>ناخون باتوم</item>
+        <item>ناخون فانوم</item>
+        <item>ناخون راتشاسيما</item>
+        <item>ناخون سي ثامارات</item>
+        <item>ناخون صوان</item>
+        <item>نونثابوري</item>
+        <item>ناراثيوات</item>
+        <item>في</item>
+        <item>كبش بوري</item>
+        <item>باثوم ثاني</item>
+        <item>براشواب خيرى خان</item>
+        <item>براتشينبوري</item>
+        <item>باتاني</item>
+        <item>أيوثايا</item>
+        <item>فاياو</item>
+        <item>فانغ نغا</item>
+        <item>فاتثالونج</item>
+        <item>فيشيت</item>
+        <item>فيتسانولوك</item>
+        <item>فيتشابوري</item>
+        <item>فيتشابون</item>
+        <item>فراي</item>
+        <item>فوكيت</item>
+        <item>محاساراخام</item>
+        <item>مكداهان</item>
+        <item>نجل ماي هونغ</item>
+        <item>ياسوثون</item>
+        <item>Yala</item>
+        <item>الملك و</item>
+        <item>رانونج</item>
+        <item>رايونغ</item>
+        <item>راشابوري</item>
+        <item>لوبوري</item>
+        <item>لوي</item>
+        <item>لامبانج</item>
+        <item>لامفون</item>
+        <item>سريساكيت</item>
+        <item>ساكوناخون</item>
+        <item>سونغكلا</item>
+        <item>ساتون</item>
+        <item>ساموتبراكان</item>
+        <item>ساموت سونغخرام</item>
+        <item>ساموت ساخون</item>
+        <item>سرا كايو</item>
+        <item>سارابوري</item>
+        <item>سينغبوري</item>
+        <item>سوخوثاي</item>
+        <item>سوفان بوري</item>
+        <item>سورات ثاني</item>
+        <item>سورين</item>
+        <item>نونغ خاي</item>
+        <item>Nongbualamphu</item>
+        <item>أنجثونج</item>
+        <item>أمنات تشاروين</item>
+        <item>أودونثاني</item>
+        <item>أوتاراديت</item>
+        <item>يوثاني</item>
+        <item>بوريثاتش</item>
+        <item>بوينج كان</item>
+    </string-array>
+    <string name="benefit_for">فائدة ل</string>
+    <string name="available_credit_for">الرصيد المتاح لـ</string>
+    <string name="maximum_annual_credit_for_selected_benefit_type">الحد الأقصى للائتمان السنوي لنوع المزايا المحدد</string>
+    <string name="enter_name_of_vendor_brand_shop_name">أدخل اسم البائع / العلامة التجارية / اسم المحل ..</string>
+    <string name="enter_any_remarks_regarding_the_receipt_optional">أدخل أي ملاحظات بخصوص الإيصال. (اختياري)</string>
+    <string name="select_benefit_for">حدد Benefit For</string>
+    <string name="select_dependent">حدد المعال</string>
+    <string name="select_benefit_type">حدد نوع الميزة</string>
+    <string name="pru_rewards">الفوائد المرنة</string>
+    <string name="add_led_document_title">أضف صفحات الفاتورة الإضافية أو صور المنتج هنا</string>
+    <string name="add_documents">أضف المستندات</string>
+    <string name="documents_list_title_receipt_detail">الوثائق الداعمة</string>
+    <string name="add_pru_document_title">أضف المستندات الداعمة</string>
+    <string-array name="benefit_for_array">
+        <item>الذات</item>
+        <item>متكل</item>
+    </string-array>
+    <string name="no_items_added">لا توجد عناصر مضافة</string>
+    <string name="add_item">أضف تفاصيل المنتج</string>
+    <string name="added_items">العناصر المضافة</string>
+    <string name="notes_optional">ملاحظات (اختياري)</string>
+    <string name="delete_item">حذف البند</string>
+    <string name="are_you_sure_you_want_to_delete_this_item">هل أنت متأكد أنك تريد حذف هذا البند؟</string>
+    <string name="enter_any_remarks_regarding_the_receipt">أدخل أي ملاحظات بخصوص الإيصال</string>
+    <string name="item_details">تفاصيل العنصر</string>
+    <string name="product_group">مجموعة المنتجات</string>
+    <string name="amount_optional">المبلغ (اختياري)</string>
+    <string name="update">تحديث</string>
+    <string name="add_more">أضف المزيد</string>
+    <string name="choose_product_group">اختر مجموعة المنتجات</string>
+    <string name="ledvance_receipt_list_empty">أضف تفاصيل المنتج</string>
+    <string name="secondary_points_balance">رصيد النقاط الثانوية</string>
+    <string name="secondary_points">النقاط الثانوية</string>
+    <string name="secondary_points_description">عند بيع كل منتج ؛ سوف تتلقى النقاط الأساسية والنقاط الثانوية على التطبيق. يمكنك استخدام النقاط الأساسية لاسترداد المكافآت داخل التطبيق ؛ بينما ، النقاط الثانوية هي تلك التي يتم تجميعها في حسابك لمكافأة عملائك عند إجراء عملية بيع. ستتم إضافة هذه النقاط الثانوية المتراكمة مرة أخرى إلى محفظة النقاط الأساسية الخاصة بك بعد 12 شهرًا من تاريخ منحها في حالة عدم قيام عملائك بإجراء عملية بيع.</string>
+    <string name="approver_remarks">ملاحظات الموافق</string>
+    <string name="receipt_on_boarding_help_message">انقر فوق الإيصالات للبدء</string>
+    <string name="ledvance_receipt_uploaded_successfully">تم تحميل إيصالك بنجاح.</string>
+    <string name="dashboard_pop_up_message">عرض ملخص لمجموع نقاطك</string>
+    <string name="rewards_pop_up_message">استبدل نقاطك بالعديد من المكافآت</string>
+    <string name="receipts_pop_up_message">قم بتحميل فواتير المبيعات الخاصة بك</string>
+    <string name="history_pop_up_message">تتبع سجل النقاط الخاص بك</string>
+    <string name="appreciate_pop_up_message">نقدر زميلك</string>
+    <string name="add_receipts">أضف الإيصالات</string>
+    <string name="quantitiy_title">الكمية:٪ 1 $ d</string>
+    <string name="total_qty">إجمالي الكمية :</string>
+
+    <string name="uploading_ledvance_receipt">يرجى الانتظار حتى يتم تقديم إيصالك</string>
+    <string name="info_requested">المعلومات المطلوبة</string>
+    <string name="edit_receipt">تحرير الاستلام</string>
+    <string name="edit_image">تعديل الصورة</string>
+    <string name="re_submission">إعادة التقديم</string>
+    <string name="remaining_monthly_appreciation_budget">الميزانية التقديرية الشهرية المتبقية</string>
+    <string name="malay">لغة الملايو</string>
+
+    <string name="vietnamese">فيتنامي</string>
+    <string name="no_gif_support">لا يوجد دعم gif من لوحة المفاتيح</string>
+
+
+<!--    Nomination Strings-->
+    <string name="nom_categories">التصنيفات</string>
+    <string name="step_no_one">الخطوة 1/3</string>
+    <string name="step_no_two">الخطوة 2/3</string>
+    <string name="step_no_three">الخطوة 3/3</string>
+
+    <string name="thumbs_up_boss">ممتاز يا رئيس!</string>
+    <string name="ideas_award">أفكار! جائزة</string>
+    <string name="my_nominations">ترشيحاتي</string>
+    <string name="for_my_review">لمراجعي</string>
+    <string name="your_ideas">افكارك</string>
+    <string name="team_members_ideas">أفكار أعضاء الفريق</string>
+    <string name="nominate_yourself">رشح نفسك</string>
+    <string name="txt_nominate_team_member">ترشيح عضو الفريق</string>
+    <string name="search_team_member">ابحث عن فكرتك بالاسم</string>
+    <string name="txt_nominated_for">لقد رشحت</string>
+    <string name="txt_nominated_award_name"><b>ممتاز يا رئيس! جائزة</b></string>
+    <string name="txt_selected_team_mate">عضو الفريق المختار</string>
+
+    <string name="hint_department_name">أدخل اسم القسم</string>
+    <string name="hint_line_mnger_name">أدخل اسم مدير الخط</string>
+    <string name="human_resource_dept">قسم الموارد البشرية</string>
+    <string name="line_resource_dept">٪ 1 $ s قسم</string>
+    <string name="select_line_manager">حدد المدير المباشر</string>
+    <string name="number_of_contacts">لديك٪ 1 $ s جهات اتصال</string>
+    <string name="search_line_manager">البحث عن طريق مدير الخط</string>
+    <string name="search_functional_leader">البحث عن طريق القائد الوظيفي</string>
+    <string name="functional_leader">حدد القائد الوظيفي</string>
+    <string name="please_enter_title">الرجاء إدخال العنوان</string>
+    <string name="please_enter_description">الرجاء إدخال الوصف</string>
+    <string name="please_select_line_manager">الرجاء تحديد مدير الخط</string>
+    <string name="please_enter_fields">الرجاء إدخال كافة الحقول</string>
+    <string name="please_upload_file">الرجاء تحميل الملف</string>
+    <string name="select_leader">حدد القائد الوظيفي *</string>
+    <string name="btn_approve">يوافق</string>
+    <string name="btn_reject">رفض</string>
+    <string name="reject_comment">أدخل تعليقات للرفض</string>
+    <string name="reject_comment_idea">تعليقات للرفض</string>
+    <string name="hint_reject_comment">أدخل التعليقات</string>
+    <string name="approve_dialog">لقد وافقت بنجاح على هذا الترشيح</string>
+    <string name="select_functional_leader">الرجاء تحديد القائد الوظيفي</string>
+    <string name="upload_file">رفع ملف</string>
+    <string name="submit_dialog_confirm">هل أنت متأكد أنك تريد تقديم الترشيح بموجب</string>
+    <string name="team_member_confirm">هل أنت متأكد أنك تريد أن ترشح</string>
+    <string name="explain_idea">الحالة الحالية</string>
+    <string name="ends_on">ينتهي في٪ 1 $ s</string>
+    <string name="enter_above_fields">الرجاء إدخال الحقل أعلاه</string>
+    <string name="enter_comments">الرجاء إدخال التعليقات</string>
+
+    <string name="thumbs_up_screen_search">ابحث عن طريق الأبجدية أو الاسم أو البريد الإلكتروني أو القسم</string>
+    <string name="screen_search_list_my_nomination">ابحث عن ترشيحك بالاسم</string>
+    <string name="screen_search_list_for_my_review">ابحث عن ترشيح عضو فريقك بالاسم</string>
+
+     <!--Admin Pin-->
+    <string name="feed_pin_it">تثبيت هذا المنشور في الأعلى</string>
+    <string name="feed_unpin_it">قم بإلغاء تثبيت المنشور</string>
+    <string name="feed_poll_unpin_it">قم بإلغاء تثبيت الاستطلاع</string>
+    <string name="feed_poll_pin_it">تثبيت هذا الاستطلاع في الأعلى</string>
+    <string name="no_chart_data">لا توجد بيانات الرسم البياني المتاحة.</string>
+    <string name="user_type">نوع المستخدم</string>
+    <string name="category">فئة</string>
+    <string name="challenge_id">معرف التحدي</string>
+    <string name="challenge_date">تاريخ التحدي</string>
+    <string name="number">عدد</string>
+    <string name="activity_date">تاريخ النشاط</string>
+    <string name="customer_name">اسم الزبون</string>
+    <string name="solution_portfolio">محفظة الحلول</string>
+    <string name="proof_of_evidence">إثبات الدليل</string>
+    <string name="notes">ملحوظات</string>
+    <string name="enter_any_remarks_regarding_the_trend_receipt">هذا قسم نص حر. يرجى إبراز أي شيء يحتاج إلى اهتمام المراجعين</string>
+    <string name="claim_number">رقم المطالبة</string>
+    <string name="date_of_submission">تاريخ التقديم</string>
+    <string name="upload_claim">تحميل المطالبة</string>
+    <string name="add_claim">إضافة مطالبة</string>
+    <string name="enter_number">أدخل رقم</string>
+    <string name="dd_MMM_yyyy">dd MMM yyyy</string>
+    <string name="trend_solution_portfolio_item_one">سحابة واحدة</string>
+    <string name="trend_solution_portfolio_item_two">ابيكس وان</string>
+    <string name="trend_solution_portfolio_item_three">الشبكة الأولى (ATP)</string>
+    <string name="trend_solution_portfolio_item_four">الشبكة الأولى (IPS)</string>
+    <string name="trend_challenge_id"></string>
+    <string name="trend_number_info">عدد المدخلات للاجتماعات التي تم تأكيدها ، eDemos ، الشهادات ، إلخ.</string>
+    <string name="yyyy_MM_dd">yyyy-MM-dd</string>
+    <string name="trend_receipt_on_boarding_help_message">اضغط هنا للبدء.</string>
+    <string name="tab_upload_claims">المطالبات</string>
+    <string name="edit_claim">تحرير المطالبة</string>
+    <string name="uploading_claim">رفع المطالبة</string>
+    <string name="loading_claims">تحميل المطالبات ....</string>
+    <string name="claims">المطالبات</string>
+    <string name="no_claims_processing">لا توجد مطالبات قيد المعالجة حاليا</string>
+    <string name="no_claims_uploaded">لم يتم العثور على مطالبات.</string>
+    <string name="claim_upload_success">تم تقديم مطالبتك بنجاح</string>
+    <string name="claim_number_text">رقم مطالبتك هو \ u0020</string>
+    <string name="trend_setter_receipts_pop_up_message">قم بتحميل مطالباتك</string>
+    <string name="github_token">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</string>
+    <string name="quantity_total">إجمالي الكمية :</string>
+    <string name="total_points_receipt">مجمل النقاط :</string>
+    <string name="quick_link_integration">روابط سريعة</string>
+</resources>

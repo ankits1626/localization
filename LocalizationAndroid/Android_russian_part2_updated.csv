@@ -1,0 +1,41 @@
+Translations Required,Russian
+quantity_total,Общее количество:
+total_points_receipt,Итого:
+quick_link_integration,Быстрые ссылки
+units_sold_value,Единицы - %1$s
+add_item_name,ДОБАВИТЬ ЭЛЕМЕНТ
+error_add_item_details,Добавить детали об элементе
+supporting_docs_optional,(Необязательно) Сопутствующие документы
+add_number_units,Добавить количество единиц
+add_receipt_amount,Добавить сумму чека
+add_receipt_number,Добавить номер чека
+biometric_prompt_title,Биометрический вход в мое приложение
+biometric_prompt_sub_title,"Войти, используя биометрические учетные данные"
+enable,Включить
+biometric_prompt_enable_title_finger,НАСТРОИТЬ TOUCH ID
+biometric_prompt_enable_sub_title_finger,Включить Touch ID для облегчения доступа.
+biometric_prompt_enable_title_face,НАСТРОИТЬ FACE ID
+biometric_prompt_enable_sub_title_face,Включить Face ID для облегчения доступа.
+login_with_email_id,Войти с адресом электронной почты
+biometric_prompt_auth_fail_cancel_title_finger,ОТПЕЧАТКИ НЕ СОВПАДАЮТ
+biometric_prompt_auth_fail_cancel_sub_title_finger,Мы не смогли считать отпечаток пальца. Повторите попытку.
+biometric_prompt_auth_fail_cancel_button_text_finger,ВОЙТИ С TOUCH ID
+biometric_prompt_auth_fail_cancel_title_face,FACE ID НЕ СОВПАДАЮТ
+biometric_prompt_auth_fail_cancel_sub_title_face,Мы не смогли считать Face id. Повторите попытку.
+biometric_prompt_auth_fail_cancel_button_text_face,ВОЙТИ С FACE ID
+no_biometric_enrolled,Вы не привязали к устройству какие-либо биометрические учетные данные. 
+biometric_enroll_finger,"Пожалуйста, зарегистрируйте отпечаток пальца"
+biometric_enroll_face,"Пожалуйста, зарегистрируйте Face ID"
+biometric_finger_print,TOUCH ID
+biometric_face_id,FACE ID
+validate_user_type,"Пожалуйста, выберите тип пользователя"
+validate_category,"Пожалуйста, выберите категорию"
+validate_challenge_id,"Пожалуйста, заполните идентификатор челленджа"
+validate_challenge_date,"Пожалуйста, выберите дату челленджа"
+validate_number,"Пожалуйста, введите номер"
+validate_activity_date,"Пожалуйста, выберите дату активности"
+validate_customer_name,"Пожалуйста, выберите имя клиента"
+validate_solution_portfolio,"Пожалуйста, выберите портфолио решений"
+validate_attachment,"Пожалуйста, добавьте хотя бы одно приложение"
+validate_notes,"Пожалуйста, введите примечания"
+arabic,Арабский

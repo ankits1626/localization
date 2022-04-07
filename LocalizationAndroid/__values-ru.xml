@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="hint_search">Поиск</string>
+    <string name="top_ten">Топ 10 участников</string>
+    <string name="facility_error_message">В этой категории нет доступных объектов</string>
+    <string name="filter_by_category">Фильтровать по категории</string>
+    <string name="error_message">Что-то пошло не так. Пожалуйста, попробуйте позже</string>
+    <string name="otp_message">Надежный одноразовый пароль отправлен на мобильный телефон, указанный при регистрации</string>
+    <string name="facility_nearby_error_message">В настоящее время поблизости от Вас нет доступных объектов</string>
+    <string name="action_details">Подробности диалога</string>
+    <string name="action_add_members">Добавить участника</string>
+    <string name="alert_message_delete_message">Удалить сообщение?</string>
+    <string name="alert_message_delete_conversation">Удалить диалог?</string>
+    <string name="alert_button_cancel">Отмена</string>
+    <string name="alert_button_delete_my_devices">Удалить</string>
+    <string name="alert_button_delete_all_participants">Во всех</string>
+    <string name="alert_dialog_logout">Выход из системы...</string>
+    <string name="notifications_num_more">+ еще %1$d</string>
+    <string name="notifications_new_messages">%1$d новых сообщений</string>
+    <string name="title_select_conversation">Новое сообщение</string>
+    <string name="push_notification_no_content_title">Новое сообщение (щелкните для синхронизации)</string>
+    <string name="attachment_menu_camera">Камера</string>
+    <string name="attachment_menu_gallery">Галерея</string>
+    <string name="attachment_menu_location">Местоположение</string>
+    <string name="conversation_details_title_options">Параметры</string>
+    <string name="conversation_details_switch_show_notifications">Показать Уведомления</string>
+    <string name="conversation_details_button_leave_group">Покинуть чат</string>
+    <string name="conversation_details_title_participants">Участники</string>
+    <string name="alert_button_block">Блокировать</string>
+    <string name="alert_button_unblock">Разблокировать</string>
+    <string name="settings_title_account">Аккаунт</string>
+    <string name="settings_title_presence">Присутствие</string>
+    <string name="settings_switch_show_notifications">Показать Уведомления</string>
+    <string name="settings_title_notifications">Уведомления</string>
+    <string name="settings_content_connected">Подключено</string>
+    <string name="settings_content_disconnected">Отключено</string>
+    <string name="conversation_name">Название диалога</string>
+    <string name="hint_conversation_name">Добавить название диалога</string>
+    <string name="privacy_policy">\u0020 Я принимаю</string>
+    <string name="policy_link">Условия использования и Политику конфиденциальности</string>
+    <string name="accept_privacy_policy">"Чтобы продолжить, необходимо подтвердить согласие с нашими условиями обслуживания и Политикой конфиденциальности</string>
+    <string name="award_points">Поощрительные баллы</string>
+    <string name="you_are_not_authenticated">Чтобы начать диалог, необходимо авторизоваться. Необходимо выйти и войти заново.</string>
+    <string name="please_start_sending_msg">Чтобы увидеть подробности диалога, начните отправлять сообщения.</string>
+    <string name="out_of_30">из 30</string>
+    <string name="add_members">Добавить участников</string>
+    <string name="start_conversation">Начать диалог</string>
+    <string name="no_internet_connection">Нет интернет-подключения</string>
+    <string name="something_went_wrong">Что-то пошло не так.</string>
+    <string name="sorry_no_user_authenticated">К сожалению, нет ни одного аутентифицированного пользователя, с кем можно начать диалог.</string>
+    <string name="error">Ошибка</string>
+    <string name="only_25_member_restriction">Извините, прямо сейчас вы можете создать группу только из 25 участников.</string>
+    <string name="group_name">Название группы</string>
+    <string name="please_enter_the_name">Пожалуйста, введите название</string>
+    <string name="cancel">Отмена</string>
+    <string name="okay">OK</string>
+    <string name="enter_group_name">Введите название группы</string>
+    <string name="failed_to_authenticate_layer">Failed to authenticate with Layer:</string>
+    <string name="welcome_to_the">Добро пожаловать в</string>
+    <string name="group">группу.</string>
+    <string name="unknown_participant">Неизвестный участник</string>
+    <string name="is_typing">печатает...</string>
+    <string name="please_grant_location_permission">Пожалуйста, предоставьте доступ к местоположению для использования этого приложения</string>
+    <string name="not_attending">посещение_не_планируется</string>
+    <string name="attending">планируется посещение</string>
+    <string name="attended">посещенное(-ые)</string>
+    <string name="there_are_no_email_client_installed">Почтовые клиенты не установлены.</string>
+    <string name="please_install_google_map_application">Установите приложение Google Map из магазина Play Store.</string>
+    <string name="no_user_joined_this_group">На данный момент ни один пользователь не присоединился к группе.</string>
+    <string name="message">Сообщение</string>
+    <string name="select_source">Выберите источник</string>
+    <string name="sure_dont_want_title">Вы уверены, что не будете добавлять должность?</string>
+    <string name="image_size_less_than_6mb">Размер изображения должен быть меньше 6 Мб</string>
+    <string name="updated_successfully">Успешно обновлено</string>
+    <string name="server_technical_error">Техническая ошибка. Наша команда уже работает над проблемой. Повторите попытку позже.</string>
+    <string name="attend">Приглашение</string>
+    <string name="successfully_attending_event">Вы успешно зарегистрированы на событие</string>
+    <string name="successfully_skip_event">Вы успешно зарегистрированы как пропускающий событие</string>
+    <string name="skip_event">Пропустить событие</string>
+    <string name="check_in">Регистрация</string>
+    <string name="checked_in">Регистрация успешна</string>
+    <string name="successfully_checked_in_event">Вы успешно зарегистрировали событие</string>
+    <string name="start">НАЧАЛО:</string>
+    <string name="at">в</string>
+    <string name="end">ОКОНЧАНИЕ:</string>
+    <string name="failed_sync_conversation">Не удалось синхронизировать диалог. Щелкните иконку чата, чтобы начать диалог</string>
+    <string name="oops">Ой.</string>
+    <string name="storage_permisison_manually">Не удалось открыть галерею. Нажмите «Настройки», откройте О приложении > Разрешения, включите разрешение для Хранилища и повторите попытку.</string>
+    <string name="grant_calendar_permission_rsvp_event">Чтобы добавить приглашение на событие в приложение Календарь, включите разрешение для календаря</string>
+    <string name="please_enter_the_password">Введите пароль</string>
+    <string name="see_all_photo">Посмотреть все фотографии</string>
+    <string name="attendance_confirmed">Благодарим Вас. Ваше участие подтверждено. До встречи на мероприятии.</string>
+    <string name="checkin_confirmed">Регистрация подтверждена</string>
+    <string name="rsvp_withdrawn">Приглашение отозвано</string>
+    <string name="join_chat_room">Войти в переговорную комнату</string>
+    <string name="would_you_like_to_join_chat_room">"Присоединиться к чату события?</string>
+    <string name="join">Присоединиться</string>
+    <string name="no">Нет</string>
+    <string name="successfully_joined_chat_group">Вы успешно присоединились к чату</string>
+    <string name="subscribed">подписка оформлена</string>
+    <string name="waiting_for_network">Ожидание сети!</string>
+    <string name="image_size_less_than_20mb">Размер изображения должен быть меньше 20 Мб</string>
+    <string name="delete">УДАЛИТЬ</string>
+    <string name="sure_delete_photo">Вы точно хотите удалить это фото?</string>
+    <string name="yes">ДА</string>
+    <string name="by">от</string>
+    <string name="social_apps_not_installed">Whatsapp, Instagram, Twitter, Facebook не установлены.</string>
+    <string name="edit_caption">РЕДАКТИРОВАТЬ ОПИСАНИЕ</string>
+    <string name="enter_caption">Введите текст описания</string>
+    <string name="search">Поиск</string>
+    <string name="nearby">Рядом</string>
+    <string name="location_not_found">Местоположение не найдено</string>
+    <string name="unable_to_get_your_location">Невозможно получить местоположение</string>
+    <string name="grant_location_permission">Пожалуйста, предоставьте разрешение на доступ к местоположению для использования этого функционала</string>
+    <string name="settings">НАСТРОЙКИ</string>
+    <string name="pts">баллы</string>
+    <string name="total_points_as_of">Общее количество баллов на</string>
+    <string name="no_data_in_health_activity">Нет данных по занятиям для здоровья.</string>
+    <string name="not_connected_to_any_apps">Вы не подключены ни к каким приложениям</string>
+    <string name="no_data_in_program">Нет данных в Программах/Мероприятиях.</string>
+    <string name="dont_have_referal_now">На данный момент у вас нет рефералов</string>
+    <string name="add_referral">Добавить реферала</string>
+    <string name="havent_checked_any_facility_event">Вы еще не зарегистрировались на площадку или событие.</string>
+    <string name="event_check_in">Регистрация на событие</string>
+    <string name="facility_check_in">РЕГИСТРАЦИЯ НА ПЛОЩАДКУ</string>
+    <string name="havent_checked_any_event">Вы еще не зарегистрированы ни в одном событии.</string>
+    <string name="no_data_to_display">Упс! Нет данных для отображения</string>
+    <string name="colleague_bday_today">Сегодня день рождения вашего коллеги.</string>
+    <string name="is_your_colleague_bday_on">День рождения вашего коллеги</string>
+    <string name="was_your_colleague_bday_on">День рождения вашего коллеги был</string>
+    <string name="your_bday_today">Сегодня ваш день рождения.</string>
+    <string name="is_your_bday_on">Ваш день рождения</string>
+    <string name="was_your_bday_on">Ваш день рождения был</string>
+    <string name="colleague_anniversary_today">Сегодня у вашего коллеги %1$ годовщина.</string>
+    <string name="is_colleague_anniversary_on">У вашего коллеги %1$ годовщина </string>
+    <string name="was_colleague_anniversary_on">У вашего коллеги была годовщина %1$</string>
+    <string name="your_anniversary_today">Сегодня у вас %1$ годовщина.</string>
+    <string name="is_your_anniversary_on">У вас %1$ годовщина</string>
+    <string name="was_your_anniversary_on">У вас была %1$ годовщина</string>
+    <string name="wish_you_a_wonderful_birthday">Желаем Вам чудесного дня рождения.</string>
+    <string name="no_email_client_installed">Почтовые клиенты не установлены.</string>
+    <string name="wish_you_a_wonderful_anniversary">Желаем Вам чудесной годовщины!</string>
+    <string name="send_mail">Отправить письмо...</string>
+    <string name="you_have_earned">Вы заработали</string>
+    <string name="points_to_redeem">баллы для обмена</string>
+    <string name="rewards_to_redeem">вознаграждения за баллы</string>
+    <string name="you_have">У вас есть</string>
+    <string name="nearby_rewards">Награды рядом</string>
+    <string name="code">КОД</string>
+    <string name="redeemed_on_the">Обменяно</string>
+    <string name="your_promo_code">Ваш промокод</string>
+    <string name="code_copied_to_clipboard">Код скопирован в буфер обмена </string>
+    <string name="not_available">N/A</string>
+    <string name="press_link_for_more_detail">Нажмите ссылку для получения более подробной информации</string>
+    <string name="please_select_any_mobile_number_for_call">Пожалуйста, выберите любой номер мобильного телефона для звонка</string>
+    <string name="please_enter_vendor_passcode">Пожалуйста, введите код поставщика</string>
+    <string name="redeeming_this_reward_will_deduct">При получении этого вознаграждения будет вычтено</string>
+    <string name="from_your_account">из вашего аккаунта</string>
+    <string name="delivery_fee_of">Комиссия за доставку в размере</string>
+    <string name="points_will_deducted_no_further">баллов будет вычтено. Сегодня Вы больше не сможете снимать баллы для последующего погашения</string>
+    <string name="collect_from_your_office">Ежемесячно выдается ответственным сотрудником вашего офиса в запланированный день</string>
+    <string name="error_caps">ОШИБКА!</string>
+    <string name="please_enter_your_customer_id_number">Пожалуйста, введите свой идентификатор клиента</string>
+    <string name="please_enter_your_pln_number">Пожалуйста, введите пин-код</string>
+    <string name="please_enter_your_phone">Пожалуйста, введите номер вашего телефона</string>
+    <string name="confirmation">Подтверждение</string>
+    <string name="are_you_sure_you_want_to_redeem">Вы уверены, что хотите обменять</string>
+    <string name="reward_for_this_phone_number">Вознаграждение для этого номера телефона</string>
+    <string name="thank_you">Спасибо!</string>
+    <string name="error_response">ОШИБКА</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="loading_profile">Загрузка профиля...</string>
+    <string name="loading_strengths">Загрузка качеств...</string>
+    <string name="nominate">НОМИНИРОВАТЬ</string>
+    <string name="thanks_for_nominating">Благодарим за номинирование</string>
+    <string name="appreciate">НАЧИСЛИТЬ БЛАГОДАРНОСТЬ</string>
+    <string name="points_remaining_for_allocations">Осталось баллов к распределению:</string>
+    <string name="thanks_for_appreciating">Спасибо за оценку</string>
+    <string name="endorsing">Одобрение...</string>
+    <string name="select_at_least_one_strengths">Выберите хотя бы одно качество для оценки</string>
+    <string name="select_at_least_one_strengths_to_nominate">Выберите хотя бы одно качество для номинирования</string>
+    <string name="add_subject_related_to">Добавить тему к</string>
+    <string name="add_message_related_to">Добавить сообщение, относящееся к</string>
+    <string name="password_should_be_same">Пароли должны совпадать.</string>
+    <string name="password_eight_character">Пароль должен состоять из 8 символов!</string>
+    <string name="password_changed_successfully">Пароль успешно изменен.</string>
+    <string name="enter_valid_mobile_number">Введите действующий номер телефона.</string>
+    <string name="please_enter_your_dob">Пожалуйста, введите вашу дату рождения</string>
+    <string name="please_enter_mobile_number">Пожалуйста, введите ваш номер телефона</string>
+    <string name="please_enter_first_name">Пожалуйста, введите ваше имя.</string>
+    <string name="please_enter_last_name">Пожалуйста, введите вашу фамилию.</string>
+    <string name="please_enter_address1">Пожалуйста, введите адрес 1</string>
+    <string name="required_permission_not_granted">Необходимые разрешения не получены</string>
+    <string name="cant_select_future_date">Вы не можете выбрать будущую дату</string>
+    <string name="use_location">Использовать местоположение?</string>
+    <string name="switch_on_location_accurate_steps_tracking">Включите местоположение для точного отслеживания шагов и отметок</string>
+    <string name="ignore">Игнорировать</string>
+    <string name="go_to_settings">Перейти к Настройкам</string>
+    <string name="no_google_fit_app_installed">Приложение Google Fit не установлено</string>
+    <string name="go_to_dashboard">Перейти к Панели управления</string>
+    <string name="download_google_fit_app">Загрузить приложение Google fit.</string>
+    <string name="google_play_services_not_installed">Google Play Services не установлены.</string>
+    <string name="enter_valid_username_password">Введите текущие имя пользователя и пароль.</string>
+    <string name="enter_valid_username">Введите текущее имя пользователя.</string>
+    <string name="enter_valid_password">Введите текущий пароль.</string>
+    <string name="request">Запрос</string>
+    <string name="loggin_in">Вход в систему...</string>
+    <string name="logout_text">ВЫХОД</string>
+    <string name="please_change_password">Пожалуйста, измените пароль.</string>
+    <string name="proceed">Продолжить</string>
+    <string name="authenticating">Аутентификация...</string>
+    <string name="logout_login_setting">Пожалуйста, выйдите и войдите заново, чтобы настройки приложения вступили в силу</string>
+    <string name="warning">Предупреждение</string>
+    <string name="install_google_fit_app_continue">Для продолжения, пожалуйста, установите Google Fit. Щелкните ОК для подключения к другому доступному трекеру.</string>
+    <string name="get_google_fit_app">Получить приложение Google Fit</string>
+    <string name="click_back_again_to_exit">Пожалуйста, нажмите еще раз, чтобы выйти</string>
+    <string name="notice">Заметка</string>
+    <string name="all_permission_acquired">Все разрешения должны быть получены</string>
+    <string name="connection_shealth_not_available">Подключение к S Health недоступно</string>
+    <string name="install_shealth">Пожалуйста, установите S Health</string>
+    <string name="upgrade_shealth">Пожалуйста, обновите S Health</string>
+    <string name="enable_shealth">Пожалуйста, запустите S Health</string>
+    <string name="agree_shealth_policy">Пожалуйста, согласитесь с политикой S Health</string>
+    <string name="make_shealth_available">Пожалуйста, сделайте S Health доступным</string>
+    <string name="get_in_touch">Оставайтесь на связи:</string>
+    <string name="birthday">День рождения</string>
+    <string name="anniversary">Годовщина</string>
+    <string name="my_role_is">Моя роль</string>
+    <string name="but_known_as">, но меня знают как</string>
+    <string name="please_enter_the_otp">Пожалуйста, введите одноразовый пароль</string>
+    <string name="otp_incorrect_try_again">Неверный код Пожалуйста, попробуйте снова.</string>
+    <string name="resent_otp_check_inbox">Одноразовый пароль отправлен повторно, проверьте ваш почтовый ящик</string>
+    <string name="server">Сервер</string>
+    <string name="please_fill_email_id">Пожалуйста, введите адрес эл. почты</string>
+    <string name="service_url">URL-адрес сервиса</string>
+    <string name="please_add_service_url">Пожалуйста, добавьте URL-адрес сервиса.</string>
+    <string name="submit">Отправить</string>
+    <string name="provide_right_platform">Пожалуйста, укажите правильную платформу</string>
+    <string name="fill_base_url">Пожалуйста, заполните базовый URL</string>
+    <string name="successfully_sent">Успешно отправлено</string>
+    <string name="already_connected_to_tracker">Вы уже подключены к трекеру</string>
+    <string name="successfully_connected">Успешно подключено</string>
+    <string name="already_connected_with_this_account">Уже подключено к этому аккаунту</string>
+    <string name="redemption_code">Код обмена</string>
+    <string name="loading_image">Загрузка изображения...</string>
+    <string name="image_not_exist_network_error">Изображение не существует или ошибка сети</string>
+    <string name="downloading">Загрузка...</string>
+    <string name="members">Участники</string>
+    <string name="rank">Рейтинг:</string>
+    <string name="you">Вы</string>
+    <string name="points_required">баллов требуется</string>
+    <string name="no_greetings_for_today">На сегодня нет поздравлений</string>
+    <string name="announcements">Анонсы</string>
+    <string name="isc_announcements">2 ОБНОВЛЕНИЯ</string>
+    <string name="no_announcements">Нет анонсов</string>
+    <string name="no_appointments_today">Сегодня нет назначений</string>
+    <string name="activities_and_events">МЕРОПРИЯТИЯ И СОБЫТИЯ</string>
+    <string name="isc_activities_and_events">СОБЫТИЯ И ВОЗМОЖНОСТИ CPE</string>
+    <string name="no_events_or_training">Нет мероприятий или тренировок</string>
+    <string name="google_fit">Google Fit</string>
+    <string name="samsung_health">Samsung Health</string>
+    <string name="read_less">Скрыть</string>
+    <string name="its_your">Ваш</string>
+    <string name="its_your_and_one_colleague">У вас и коллеги</string>
+    <string name="today">Сегодня</string>
+    <string name="colleague">Коллега</string>
+    <string name="colleagues">Коллеги</string>
+    <string name="its_your_and">Ваш и</string>
+    <string name="fcm_message">Сообщение FCM</string>
+    <string name="successfully_disconnected">Успешно отключено</string>
+    <string name="you_are_appreciating">Вы начисляете благодарность</string>
+    <string name="this_will_deduct">. Этим действием будет вычтено</string>
+    <string name="by_awarding">путем поощрения</string>
+    <string name="point_rewards">ВОЗНАГРАЖДЕНИЯ В ВИДЕ БАЛЛОВ</string>
+    <string name="discount">СКИДКА</string>
+    <string name="discount_reward">ВОЗНАГРАЖДЕНИЯ В ВИДЕ СКИДОК</string>
+    <string name="activity_trackers">Трекеры активности</string>
+    <string name="step_trackers">Трекеры шагов</string>
+    <string name="not_connected_with_google_fit">Вы не подключили Google Fit.</string>
+    <string name="connected_with_google_fit">Вы не подключили Google Fit.</string>
+    <string name="google_fit_disabled">Google Fit выключен</string>
+    <string name="jawbone">Jawbone</string>
+    <string name="please_disconnect_fitbit_first">Пожалуйста, отключите сначала FitBit</string>
+    <string name="please_disconnect_jawbone_first">Пожалуйста, отключите сначала Jawbone</string>
+    <string name="redeem_discount_at_merchant_partner">Обменяйте баллы на скидки у компаний-партнеров</string>
+    <string name="astellas_reward_program">"Программа вознаграждений Astellas Reward Program – система поощрений и учета заслуг, которую разработала Astellas SESA. Цель программы – дать менеджменту компании инструмент учета заслуг и вознаграждений для сотрудников за высокие профессиональные и производственные достижения."</string>
+    <string name="welcome_to_astellas_rewards">Добро пожаловать в Astellas Rewards</string>
+    <string name="get_the_latest_info">Получите самую свежую информацию</string>
+    <string name="get_real_time_update">Получайте в режиме реального времени обновления о том, что происходит в вашей компании, и следите за предстоящими событиями и мероприятиями.</string>
+    <string name="your_team_rank_is">Ваш рейтинг в отделе — </string>
+    <string name="top_ten_participants">Топ 10 участников</string>
+    <string name="hide_top_ten_participants">Скрыть топ 10 участников</string>
+    <string name="unable_to_login_with_provided_credentials">Невозможно войти в систему с предоставленными учетными данными.</string>
+    <string name="redemption_history">История обмена</string>
+    <string name="loading_users">Загрузка пользователей...</string>
+    <string name="points_earned_on">Заработано баллов</string>
+    <string name="total_points_earned">Всего баллов заработано</string>
+    <string name="congrats_you_are_now">Поздравляю! Вы сейчас</string>
+    <string name="more_points_to_become">больше баллов, чтобы стать</string>
+    <string name="more_points_to_get_this_rewards">больше очков, чтобы получить это вознаграждение</string>
+    <string name="none">НЕТ</string>
+    <string name="announcement">Анонсы</string>
+    <string name="event">Событие</string>
+    <string name="view_detail">Просмотреть детали</string>
+    <string name="reward">Вознаграждение</string>
+    <string name="phone_number_is_not_valid">Номер телефона недействителен.</string>
+    <string name="please_fill_all_fields">Пожалуйста, заполните все поля.</string>
+    <string name="email_address_is_not_valid">Адрес эл. почты недействителен.</string>
+    <string name="successfully_submit">Запрос успешно отправлен</string>
+    <string name="please_input_some_text">Пожалуйста, введите любой текст</string>
+    <string name="address_line_one">Адресная строка 1 (необязательно)</string>
+    <string name="address_line_two">Адресная строка 2 (необязательно)</string>
+    <string name="address_line_one_no_optional">Адресная строка 1</string>
+    <string name="address_line_two_no_optional">Адресная строка 2</string>
+    <string name="contact_number">Контактный номер</string>
+    <string name="pincode">ПИН-код</string>
+    <string name="all_fields_are_mandatory">Все поля обязательны для заполнения</string>
+    <string name="are_you_sre">Вы уверены?</string>
+    <string name="toggle_to_enable_google_fit">Переключите, чтобы включить Google Fit</string>
+    <string name="toggle_to_enable_samsung_shealth">Переключите, чтобы включить Samsung Health</string>
+    <string name="tracker_disconnect_warning">приведет к отслеживанию шагов с телефона и может привести к дублированию шагов за сегодня. Это не поможет ускорить синхронизацию шагов из</string>
+    <string name="points_summary">СТАТИСТИКА ПО БАЛЛАМ</string>
+    <string name="point_allocation">Распределение баллов</string>
+    <string name="repeated_event">Повторяющееся событие</string>
+    <string name="install_google_calender_app">Пожалуйста, установите Google Calendar из Play Store для использования этого функционала</string>
+    <string name="loading_data">Загрузка данных...</string>
+    <string name="updating_data">Обновление данных...</string>
+    <string name="deleting">Удаление...</string>
+    <string name="event_">Событие:</string>
+    <string name="for_">для</string>
+    <string name="processing">В ОБРАБОТКЕ</string>
+    <string name="team_filter">ФИЛЬТРОВАТЬ ПО ОТДЕЛАМ</string>
+    <string name="profile_settings">Настройки профиля</string>
+    <string name="username_braces">[имя пользователя]</string>
+    <string name="connection_state_braces">[состояние подключения]</string>
+    <string name="done">Завершено</string>
+    <string name="select_strength">Выбрать качества</string>
+    <string name="subject">Тема</string>
+    <string name="change">Изменить</string>
+    <string name="add_your_subject_here">Добавьте сюда свою тему</string>
+    <string name="add_your_message_here">Добавьте сюда свое сообщение</string>
+    <string name="change_password">Изменить пароль</string>
+    <string name="old_password">Старый пароль</string>
+    <string name="new_password">Новый пароль</string>
+    <string name="confirm_new_password">Подтвердить новый пароль</string>
+    <string name="details">Детали</string>
+    <string name="edit_profile">РЕДАКТИРОВАТЬ ПРОФИЛЬ</string>
+    <string name="change_photo">Изменить фото</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия (необязательно)</string>
+    <string name="official_title">Официальная должность (необязательно)</string>
+    <string name="real_title">Фактическая должность(необязательно)</string>
+    <string name="dob">Дата рождения</string>
+    <string name="make_my_bday_public">Сделать дату рождения публичной </string>
+    <string name="mobile">Мобильный (необязательно)</string>
+    <string name="company">Компания</string>
+    <string name="department">Департамент</string>
+    <string name="emergency_call">Экстренный звонок</string>
+    <string name="phone">ТЕЛЕФОН</string>
+    <string name="phone_all_small">Телефон</string>
+    <string name="sms">SMS</string>
+    <string name="business_referral">БИЗНЕС-РЕФЕРАЛ</string>
+    <string name="employee_referral">РЕФЕРАЛЫ СОТРУДНИКОВ</string>
+    <string name="position">Положение</string>
+    <string name="name_of_the_candidate">Имя кандидата</string>
+    <string name="phone_home">Телефон - домашний</string>
+    <string name="phone_mobile">Телефон - мобильный</string>
+    <string name="information">Информация</string>
+    <string name="feedback_and_support">ОБРАТНАЯ СВЯЗЬ И ПОДДЕРЖКА</string>
+    <string name="faqs">FAQ (Часто задаваемые вопросы)</string>
+    <string name="tutorial">Туториал</string>
+    <string name="profile">Профиль</string>
+    <string name="edit">РЕДАКТИРОВАТЬ</string>
+    <string name="no_rewards_available">К сожалению, на данный момент в этом месте нет вознаграждений.</string>
+    <string name="copy">КОПИРОВАТЬ</string>
+    <string name="redeemed">ОБМЕНЯНО</string>
+    <string name="enter_phone_number">Введите номер телефона</string>
+    <string name="phone_number_to_redeem_topup">"Введите номер телефона, чтобы получить это вознаграждение."</string>
+    <string name="enter_your_mobile_number">Введите ваш номер мобильного телефона</string>
+    <string name="confirm">ПОДТВЕРДИТЬ</string>
+    <string name="referral">РЕФЕРАЛ</string>
+    <string name="full_name">Полное имя</string>
+    <string name="apps_and_devices">ПРИЛОЖЕНИЯ И УСТРОЙСТВА</string>
+    <string name="runkeeper">Runkeeper</string>
+    <string name="connected">Подключено</string>
+    <string name="connect">Подключить</string>
+    <string name="strava">Strava</string>
+    <string name="Jawbone">Jawbone</string>
+    <string name="fitbit">Fitbit</string>
+    <string name="google_fit_account">GOOGLE FIT АККАУНТ</string>
+    <string name="disconnect">Отключить</string>
+    <string name="which_mechanism_you_would_like">Какие устройства вы хотите</string>
+    <string name="to_connect_to_track_your_steps">подключить для отслеживания количества шагов?</string>
+    <string name="msg">Сообщение</string>
+    <string name="view_more">Смотреть еще</string>
+    <string name="be_fit_and_healthy">Поддерживайте здоровую форму</string>
+    <string name="our_step_tracker_will_help_you">Наш шагомер поможет вам отслеживать вашу физическую форму и здоровье, где бы вы ни находились.</string>
+    <string name="swipe_to_see_what_next">проведите пальцем, чтобы увидеть, что будет дальше</string>
+    <string name="text">текст</string>
+    <string name="send_your_wishes">Отправьте ваши пожелания</string>
+
+    <string name="greetings">Поздравления</string>
+    <string name="appointments">ДЕЛОВЫЕ ВСТРЕЧИ</string>
+    <string name="july_2015">Июль 2015</string>
+    <string name="week">НЕДЕЛЯ</string>
+    <string name="month">МЕСЯЦ</string>
+    <string name="add_appointments">Добавить деловую встречу</string>
+    <string name="redeem">ОБМЕНЯТЬ</string>
+    <string name="dashboard">ПАНЕЛЬ УПРАВЛЕНИЯ</string>
+    <string name="whats_on_today">НА СЕГОДНЯ</string>
+    <string name="you_want_to_redeem_this_reward">Вы хотите получить это вознаграждение</string>
+    <string name="member">участник</string>
+    <string name="total_points">Общее количество баллов</string>
+    <string name="average_points">Среднее количество баллов</string>
+    <string name="enter_customer_id_to_redeem_topup">Введите идентификатор клиента, чтобы получить это вознаграждение.</string>
+    <string name="preview_message">Предпросмотр сообщения</string>
+    <string name="donwloaded_image">ЗАГРУЖЕННОЕ ИЗОБРАЖЕНИЕ</string>
+    <string name="enter_pln_number">Введите пин-код</string>
+    <string name="enter_pln_to_redeem_topup">Пожалуйста, введите пин-код, чтобы получить это вознаграждение.</string>
+    <string name="description">Описание</string>
+    <string name="event_timing">Время события</string>
+    <string name="website">Веб-сайт</string>
+    <string name="points">Баллы</string>
+    <string name="address">АДРЕС</string>
+    <string name="whom_to_contact_for_event">С КЕМ СВЯЗАТЬСЯ ПО ПОВОДУ ЭТОГО СОБЫТИЯ</string>
+    <string name="photo">Фото</string>
+    <string name="add_photo">ДОБАВИТЬ ФОТО </string>
+    <string name="save">Сохранить</string>
+    <string name="title">Должность</string>
+    <string name="read_more">Читать дальше</string>
+    <string name="terms_and_conditions">УСЛОВИЯ И ПОЛОЖЕНИЯ</string>
+    <string name="terms_and_conditions_small">Условия и положения</string>
+    <string name="option">ПАРАМЕТР</string>
+    <string name="filter_categories_by">Фильтровать категории по</string>
+    <string name="vendor_passcode">Код поставщика</string>
+    <string name="please_enter_your_passcode">Пожалуйста, введите ваш код</string>
+    <string name="conversations">ДИАЛОГИ</string>
+    <string name="direct_delivery_address">Адрес для прямой доставки</string>
+    <string name="confirm_redemption">Подтвердите обмен</string>
+    <string name="facility_checkin">РЕГИСТРАЦИЯ НА ПЛОЩАДКУ</string>
+    <string name="select_contact">Выбрать контакт</string>
+    <string name="search_by_name_or_email">Поиск по имени или эл.почте</string>
+    <string name="enable_google_fit">Запустите Google Fit</string>
+    <string name="get_organized">Упорядочить дела</string>
+    <string name="synchronize_app_with_calendar">Для оптимизации расписания синхронизуйте приложение с календарем в телефоне</string>
+    <string name="get_rewards">Получить вознаграждения</string>
+    <string name="collect_point_redeem_reward">Набирайте баллы и обменивайте их на вознаграждения у торговых партнеров</string>
+    <string name="connect_google_fit_help">Подключитесь к Google Fit. Это изменит вашу жизнь к лучшему: вы станете более активным, осознанным и мотивированным.</string>
+    <string name="google_fit_app_installed">Приложение Google Fit установлено</string>
+    <string name="location_services_enable">Местоположение включено</string>
+    <string name="authenticated_to_google_fit">Подключено к Google Fit</string>
+    <string name="note_to_ensure">Примечание. Чтобы это приложение оптимально работало на вашем телефоне, загрузите Google Fit и синхронизируйте это приложение с той же учетной записью Gmail, что и Google Fit.</string>
+    <string name="greet_your_colleagues">Приветствуйте своих коллег</string>
+    <string name="send_personalized_birthday_wishes">Создавайте для коллег уникальные поздравления в честь Дня рождения или других событий.</string>
+    <string name="history">ИСТОРИЯ</string>
+    <string name="scan">Сканирование</string>
+    <string name="select_delivery_mode">Выбрать вид доставки</string>
+    <string name="direct_delivery">Прямая доставка</string>
+    <string name="office_pickup">Забрать в пункте выдачи</string>
+    <string name="next">Дальше</string>
+    <string name="leaderboard">ТАБЛИЦА ЛИДЕРОВ</string>
+    <string name="individual">Личное</string>
+    <string name="week_view">Неделя</string>
+    <string name="month_view">Месяц</string>
+    <string name="total_pts">ОБЩЕЕ КОЛИЧЕСТВО БАЛЛОВ</string>
+    <string name="total_pts_small">Общее количество баллов</string>
+    <string name="average_pts">Среднее количество баллов</string>
+    <string name="average_pts_small">Ср. кол-во баллов</string>
+    <string name="team">Отдел</string>
+    <string name="location_alert">Оповещение о местоположении</string>
+    <string name="location_not_found_switch_on">Местоположение не найдено, включите местоположение.</string>
+    <string name="locations">МЕСТОПОЛОЖЕНИЯ</string>
+    <string name="username">Имя пользователя</string>
+    <string name="point_summary">СТАТИСТИКА ПО БАЛЛАМ</string>
+    <string name="remaining_points">Оставшиеся баллы</string>
+    <string name="total_redeemed">Всего обменяно</string>
+    <string name="map_voucher">Ваучер на карту</string>
+    <string name="view_point_rewardz">Просмотреть вознаграждение баллами</string>
+    <string name="view_discount_rewardz">Просмотреть вознаграждение скидками</string>
+    <string name="year">ГОД</string>
+    <string name="overall">ВСЕГО</string>
+    <string name="basic">БАЗОВЫЙ</string>
+    <string name="pro">PRO</string>
+    <string name="elite">ЭЛИТНЫЙ</string>
+    <string name="notifications">УВЕДОМЛЕНИЯ</string>
+    <string name="no_notification_at_moment">Упс! На данный момент уведомлений нет.</string>
+    <string name="slide_left_to_delete">Проведите влево для удаления</string>
+    <string name="password_reset">Инструкции по сбросу были отправлены на ваш адрес электронной почты.</string>
+    <string name="rewards">Вознаграждения</string>
+    <string name="your_rewards">ВАШИ ВОЗНАГРАЖДЕНИЯ</string>
+    <string name="all_rewards">ВСЕ ВОЗНАГРАЖДЕНИЯ</string>
+    <string name="contact">КОНТАКТ</string>
+    <string name="about">О НАС</string>
+    <string name="about_small">О нас</string>
+    <string name="add">Добавить</string>
+    <string name="organizer">Организатор</string>
+    <string name="community">Сообщество</string>
+    <string name="steps_summary">СТАТИСТИКА ШАГОВ</string>
+    <string name="weekly">Еженедельно</string>
+    <string name="steps_tracked_today">Сегодня пройдено шагов</string>
+    <string name="your_daily_average_steps">Среднее количество пройденных шагов за день</string>
+    <string name="connected_with">Подключено к</string>
+    <string name="photos">ФОТО</string>
+    <string name="view_all">ПРОСМОТРЕТЬ ВСЕ</string>
+    <string name="chat">ЧАТ</string>
+    <string name="calendar">КАЛЕНДАРЬ</string>
+    <string name="add_activity">ДОБАВИТЬ МЕРОПРИЯТИЕ</string>
+    <string name="emergency_services">ЭКСТРЕННЫЕ СЛУЖБЫ</string>
+    <string name="connect_apps_and_devices">ПОДКЛЮЧЕНИЕ ПРИЛОЖЕНИЙ И УСТРОЙСТВ</string>
+    <string name="employee_engagement_program">Программа вовлечения сотрудников</string>
+    <string name="axa_drive">AXA DRIVE</string>
+    <string name="my_axa_health">Мой Axa Health</string>
+    <string name="employee_engagement">Вовлечение сотрудников</string>
+    <string name="password">Пароль</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="forgot_your_password">Забыли свой пароль?</string>
+    <string name="enter_email_forgot_pass">Введите ниже свой адрес эл. почты, и мы отправим вам инструкции по изменению пароля.</string>
+    <string name="requesting">Запрашиваем...</string>
+    <string name="whats_happening">Что происходит</string>
+    <string name="otp_email_message">Мы отправили безопасный одноразовый пароль на ваш адрес эл. почты.</string>
+    <string name="btn_submit">ОТПРАВИТЬ</string>
+    <string name="reset_password">Инструкция по сбросу пароля была отправлена на</string>
+    <string name="no_internet">Нет интернет-подключения</string>
+    <string name="barcode_message">Баркод для обмена</string>
+    <string name="disconnecting_dots">Отключение...</string>
+    <string name="disconnecting">Отключение</string>
+    <string name="please_wait">Пожалуйста, подождите...</string>
+    <string name="version">Версия</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="search_result">Результаты поиска</string>
+    <string name="ok">OK</string>
+    <string name="select_email">Выберите адрес эл. почты</string>
+    <string name="select_phone">Выберите номер телефона</string>
+    <string name="staff_referral">Реферал сотрудника</string>
+    <string name="email">Эл. почта</string>
+    <string name="residential_address">Адрес проживания</string>
+    <string name="citizenship">Гражданство</string>
+    <string name="highest_academic_qualification">Максимальный достигнутый уровень образования</string>
+    <string name="highest_early_childhood_qualification">Высшая квалификация дошкольного образования</string>
+    <string name="currently_pursuing">Текущая ступень обучения</string>
+    <string name="enter_full_name">Пожалуйста, введите полное имя</string>
+    <string name="enter_contact_number">Пожалуйста, введите контактный номер</string>
+    <string name="enter_email">Пожалуйста, введите адрес эл. почты</string>
+    <string name="enter_address">Пожалуйста, введите адрес</string>
+    <string name="select_citizenship">Пожалуйста, выберите гражданство</string>
+    <string name="select_position">Пожалуйста, выберите положение</string>
+    <string name="select_highest_qualification">Пожалуйста, выберите высшую квалификацию</string>
+    <string name="select_early_qualification">Пожалуйста, выберите ранее полученную квалификацию</string>
+    <string name="select_currently_pursuing">Пожалуйста, выберите текущую ступень обучения</string>
+    <string name="successfully_referred">Успешно рекомендовано</string>
+    <string name="redeeming">Обмен...</string>
+    <string name="events_capital">СОБЫТИЯ</string>
+    <string name="greetings_capital">ПОЗДРАВЛЕНИЯ</string>
+    <string name="announcements_capital">АНОНСЫ</string>
+    <string name="appointments_capital">ДЕЛОВЫЕ ВСТРЕЧИ</string>
+    <string name="reading_contacts">Чтение контактов:</string>
+    <string name="healthy_activities">здоровый образ жизни</string>
+    <string name="referral_small">реферал</string>
+    <string name="check_in_events">регистрация на события</string>
+    <string name="check_in_events_facilities">регистрация на события и объекты</string>
+    <string name="corporate_program">корпоративная программа</string>
+    <string name="employee_rewards">Вознаграждения сотрудников</string>
+    <string name="cbo_rewards">Вознаграждения CBO</string>
+    <string name="choose">Выбрать</string>
+    <string name="view_profile">Просмотреть профиль</string>
+    <string name="enter_otp">ВВЕДИТЕ ОДНОРАЗОВЫЙ ПАРОЛЬ</string>
+    <string name="resend_code">Отправить код повторно</string>
+    <string name="btn_settings">Настройки</string>
+    <string name="your_and">Ваш и</string>
+    <string name="your_birthday">Ваш день рождения</string>
+    <string name="your_anniversary">У Вас годовщина</string>
+    <string name="multiple_colleague_birthday">день рождения коллеги</string>
+    <string name="multiple_colleague_anniversary">годовщина у ваших коллег</string>
+    <string name="external_storage_permission">Пожалуйста, предоставьте доступ к хранилищу, чтобы продолжить использование этой функции</string>
+    <string name="external_storage_and_camera_permission">Пожалуйста, предоставьте доступ к хранилищу и камере, чтобы продолжить использование этой функции</string>
+    <string name="location_permission">Пожалуйста, предоставьте разрешение на доступ к местоположению, чтобы продолжить использование этой функции</string>
+    <string name="checking_in">Регистрация...</string>
+    <string name="uploading_image">Загрузка изображения...</string>
+    <string name="checking">Проверка...</string>
+    <string name="appreciate_small">Начислить благодарность</string>
+    <string name="valid_till">СРОК ДЕЙСТВИЯ ДО</string>
+    <string name="point_reward_header">БАЛЛ</string>
+    <string name="discount_reward_header">СКИДКА</string>
+    <string name="app_permission_calendar">Приложению необходим доступ к календарю для добавления события</string>
+    <string name="app_permission_camera_storage">Приложению необходим доступ к внешнему хранилищу и камере для выбора фото</string>
+    <string name="app_permission_share_image">Приложению необходим доступ к внешнему хранилищу для публикации изображения</string>
+    <string name="app_nearby_location_rewards">Приложению необходим доступ к местоположению для поиска наград поблизости</string>
+    <string name="app_nearby_location_facilities">Приложению необходим доступ к местоположению для поиска ближайших объектов</string>
+    <string name="app_location_permission_checkin">Приложению необходим доступ к местоположению для регистрации событий</string>
+    <string name="app_location_permission_facility">Приложению необходим доступ к местоположению для регистрации на площадку</string>
+    <string name="verificatoin_failed">Проверка не пройдена</string>
+    <string name="cannot_edit">Вы не можете редактировать это.</string>
+    <string name="select_organization">Выбрать организацию</string>
+    <string name="only_one_org">Другие организации недоступны.</string>
+
+
+    <!-- Dashboard referral screen -->
+
+
+    <!-- Dashboard referral screen -->
+    <string name="bronze_category">1 реферал</string>
+    <string name="silver_category">3 реферала</string>
+    <string name="gold_category">5 рефералов</string>
+    <string name="platinum_category">8 рефералов</string>
+    <string name="referrals">Рефералы</string>
+    <string name="successful_referral">Успешное размещение:</string>
+    <string name="referral_bronze_detail">Пригласите еще двух рефералов, чтобы получить серебряный уровень</string>
+    <string name="referral_silver_detail">Получите 10 000 бонусных баллов при достижении этого уровня</string>
+    <string name="referral_gold_detail">Получите 60 000 бонусных баллов при достижении этого уровня</string>
+    <string name="referral_platinum_detail">Получите 80 000 бонусных баллов при достижении этого уровня</string>
+    <string name="others">Другие</string>
+    <string name="logout">Выход</string>
+    <string name="referral_bronze_detail_refer_zero">Пригласите одного реферала, чтобы получить бронзовый уровень</string>
+    <string name="select_your_citizenship">Выберите ваше гражданство</string>
+    <string name="select_your_position">Выберите ваше положение</string>
+    <string name="select_your_highest_acdemic_qualification">Выберите максимальный достигнутый уровень образования</string>
+    <string name="select_your_highest_childhood_qualification">Выберите квалификацию для детей младшего возраста</string>
+    <string name="select_currently_persuing">Текущая ступень обучения</string>
+    <string name="share">Поделиться</string>
+    <string name="selected_images_are_being_download">Выбранные изображения загружаются, проверьте раздел уведомлений</string>
+    <string name="thank_referral_submission">Благодарим за представленных рефералов.</string>
+    <string name="enter_referral_full_name">Пожалуйста, введите полное имя реферала</string>
+    <string name="enter_referral_contact_number">Пожалуйста, введите контактный номер реферала</string>
+    <string name="specify_position">Пожалуйста, укажите ваше положение</string>
+    <string name="specify_highest_qualification">Пожалуйста, укажите высшую квалификацию</string>
+    <string name="need_permission">Необходимо разрешение</string>
+    <string name="app_need_contact_permission">Приложению необходим доступ к контактам для загрузки контактов</string>
+    <string name="grant">Дать доступ</string>
+    <string name="permission_grant_contact">Перейдите в Разрешения и дайте приложению доступ к контактам</string>
+    <string name="unable_to_get_permission">Невозможно получить разрешение</string>
+    <string name="send_log">Отправка логов</string>
+    <string name="no_department_found">Департамент не найден.</string>
+    <string name="please_select_department">Пожалуйста, выберите один департамент</string>
+    <string name="specify_your_position">Укажите ваше положение</string>
+    <string name="specify_your_highest_academic_qualification">Укажите максимальный достигнутый уровень образования</string>
+    <string name="specify_highest_early_childhood_qualification">Укажите достижения в раннем детстве</string>
+    <string name="specify_your_currently_persuing">Укажите текущую ступень обучения</string>
+    <string name="max_restrict_file_popoup">Допускаются только 3 вложения</string>
+    <string name="max_limit">* Максимум 3 вложения</string>
+    <string name="photo_selected">фото выбрано</string>
+    <string name="photos_selected">фото выбраны</string>
+    <string name="mandatory_required">* Обязательно</string>
+    <string name="please_scpecify">Пожалуйста, уточните</string>
+    <string name="please_enter_full_name">Пожалуйста, введите полное имя</string>
+    <string name="no_permission_to_Delete_image">У вас нет прав удалять это изображение</string>
+    <string name="all_photos">Все фото</string>
+    <string name="discount_rewards">ВОЗНАГРАЖДЕНИЯ В ВИДЕ СКИДОК</string>
+    <string name="optional">Необязательно</string>
+    <string name="as_per_nric">согласно NRIC</string>
+    <string name="remaining">Оставшееся</string>
+    <string name="featured_rewards">Новые вознаграждения</string>
+    <string name="event_and_activities">События и мероприятия</string>
+
+    <!-- Dashboard referral screen items end here -->
+    <string-array name="citizenship_array">
+        <item>Singapore Citizen</item>
+        <item>Singapore Permanent Resident</item>
+        <item>Foreigner requiring work pass to work in Singapore</item>
+    </string-array>
+
+    <string-array name="position_array">
+        <item>Основной</item>
+        <item>Заместитель руководителя центра</item>
+        <item>Преподаватель английского</item>
+        <item>Преподаватель китайского</item>
+        <item>Преподаватель малайского</item>
+        <item>Преподаватель тамильского</item>
+        <item>Воспитатель</item>
+        <item>Ответственный по службе работы со студентами</item>
+        <item>Преподаватель службы работы со студентами</item>
+        <item>Преподаватель-стажер</item>
+        <item>Воспитатель-стажер</item>
+        <item>Помощник учителя</item>
+        <item>Сотрудник центра (повар)</item>
+        <item>Сотрудник центра (уборщик)</item>
+        <item>Другие</item>
+    </string-array>
+
+    <string-array name="highest_academic_qualification_array">
+        <item>Магистр</item>
+        <item>Бакалавр</item>
+        <item>Диплом</item>
+        <item>NITEC</item>
+        <item>GCE A Level</item>
+        <item>GCE N/O Level</item>
+        <item>Дополнительные баллы уровня 2 и ниже</item>
+        <item>Другие</item>
+    </string-array>
+
+    <string-array name="highest_early_childhood_education_arry">
+        <item>Магистр</item>
+        <item>Бакалавр</item>
+        <item>Диплом</item>
+        <item>NITEC</item>
+        <item>ACECCE</item>
+        <item>CPT</item>
+        <item>CIT</item>
+        <item>ACEY</item>
+        <item>HCIC</item>
+        <item>Не применимо</item>
+        <item>Другие</item>
+    </string-array>
+
+    <string-array name="currently_pursuing_arry">
+        <item>Бакалавр</item>
+        <item>Диплом</item>
+        <item>NITEC</item>
+        <item>ACECCE</item>
+        <item>ACEY</item>
+        <item>HCIC</item>
+        <item>Не применимо</item>
+        <item>Другие</item>
+    </string-array>
+
+    <string-array name="array_priority_validity">
+        <item>1 день</item>
+        <item>1 неделя</item>
+        <item>1 месяц</item>
+        <item>Всегда</item>
+    </string-array>
+
+    <string name="JAN">Январь</string>
+    <string name="FEB">Февраль</string>
+    <string name="MAR">Март</string>
+    <string name="APR">Апрель</string>
+    <string name="MAY">Май</string>
+    <string name="JUN">Июнь</string>
+    <string name="JUL">Июль</string>
+    <string name="AUG">Август</string>
+    <string name="SEP">Сентябрь</string>
+    <string name="OCT">Октябрь</string>
+    <string name="NOV">Ноябрь</string>
+    <string name="DEC">Декабрь</string>
+
+    <string name="Su">Вск</string>
+    <string name="Mo">Пн</string>
+    <string name="Tu">Вт</string>
+    <string name="We">Ср</string>
+    <string name="Th">Чт</string>
+    <string name="Fr">Пт</string>
+    <string name="Sa">Сб</string>
+    <string name="specify_here">Укажите здесь</string>
+    <string name="you_need">Вам необходимо</string>
+    <string name="change_language">Изменить язык</string>
+    <string name="choose_language">Выберите язык</string>
+    <string name="english">Английский</string>
+    <string name="chinese">Китайский</string>
+    <string name="blank_year"></string>
+    <string name="username_or_email_address">Имя пользователя или адрес эл. почты</string>
+    <string name="caps_password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="email_address_for_reset_password">Введите ниже свой адрес эл. почты, и мы отправим вам инструкции по изменению пароля.</string>
+
+    <string name="receipts">ЧЕКИ</string>
+    <string name="upload_receipts">ЗАГРУЗИТЬ ЧЕК</string>
+    <string name="receipt_number">Номер чека</string>
+    <string name="brand">Бренд</string>
+
+    <string name="dd_mm_yyyy">дд/мм/гггг</string>
+    <string name="approved">Одобрено</string>
+    <string name="rejected">Отклонено</string>
+    <string name="search_receipts">Поиск по чекам</string>
+    <string name="garmin">Garmin</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="e_mail">Эл.почта</string>
+    <string name="select">Выберите</string>
+    <string name="branch">Филиал</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="registration_code">Код регистрации</string>
+    <string name="loading_company">Загрузка компании...</string>
+    <string name="loading_branch">Загрузка филиала...</string>
+    <string name="registering">Регистрация...</string>
+    <string name="thanks_for_sign_up">Благодарим за регистрацию</string>
+    <string name="please_login_now">Пожалуйста, войдите в систему</string>
+    <string name="select_your_department">Выберите ваш департамент</string>
+    <string name="select_your_company">Выберите вашу компанию</string>
+    <string name="no_company_found">Компания не найдена</string>
+    <string name="password_must_be_same">Пароли должны совпадать.</string>
+    <string name="enter_confirm_password">Введите пароль подтверждения.</string>
+    <string name="password_digit_uppercase_lowercase">Пароль должен содержать 1 цифру, 1 заглавную и 1 строчную буквы.</string>
+    <string name="enter_password">Введите пароль.</string>
+    <string name="select_your_branch">Выберите свой филиал.</string>
+    <string name="enter_valid_email">Введите адрес эл.почты.</string>
+    <string name="enter_email_id">Введите адрес эл.почты.</string>
+    <string name="enter_last_name">Введите фамилию.</string>
+    <string name="enter_first_name">Введите имя.</string>
+    <string name="first_select_your_company">Сначала выберите вашу компанию</string>
+    <string name="enter_registration_code">Введите код регистрации.</string>
+    <string name="skip">Пропустить</string>
+    <string name="enter_receipt_number">Введите номер чека</string>
+    <string name="choose_brand_name">Выберите название бренда</string>
+    <string name="you_cannot_select_this_photo">Вы не можете выбрать это фото</string>
+    <string name="do_you_want_to_delete">Вы действительно хотите удалить</string>
+    <string name="selected_photos">выделенные фото?</string>
+    <string name="your_card_number">Номер вашей карты:</string>
+    <string name="pin_capital">ПИН</string>
+    <string name="verify">Проверка...</string>
+    <string name="request_new_otp">Запрос нового одноразового пароля</string>
+    <string name="success">Удачно</string>
+    <string name="select_org">Выберите организацию</string>
+    <string name="change_org">Изменить организацию</string>
+    <string name="logout_message">Необходимо выйти из системы, чтобы настройки вступили в силу</string>
+    <string name="new_settings_found">Найдены новые настройки</string>
+    <string name="recognize">Признать</string>
+    <string name="thanks_for_recognizing">Спасибо за признание</string>
+    <string name="select_at_least_one_strengths_to_recognize">Выберите хотя бы одно качество для признания</string>
+
+    <string name="no_updates">Обновлений нет</string>
+    <string name="take_survey">Пройти опрос</string>
+    <string name="workplace">РАБОЧЕЕ МЕСТО</string>
+    <string name="allocate_points">РАСПРЕДЕЛИТЬ БАЛЛЫ</string>
+    <string name="server_facing_heavy_load">Сервер испытывает большую нагрузку. Пожалуйста, попробуйте позже</string>
+    <string name="password_policy">* Пароль должен состоять минимум из 8 символов и содержать комбинацию прописных букв, строчных букв и цифр.</string>
+    <string name="only_home_delivery_text_for_nexperia">Пожалуйста, введите свой домашний адрес. Использование адреса офиса Nexperia ATSN не допускается.</string>
+
+
+    <plurals name="birthday_plurals">
+        <item quantity="one">день рождения у 1 коллеги</item>
+        <item quantity="zero">Ваш день рождения</item>
+        <item quantity="other">день рождения у %d коллег</item>
+    </plurals>
+
+    <plurals name="anniversary_plurals">
+        <item quantity="one">годовщина у вашего коллеги</item>
+        <item quantity="zero">У Вас годовщина</item>
+        <item quantity="other">годовщина у %d коллег</item>
+    </plurals>
+
+    <string name="hint_email_emp_id">Идентификатор сотрудника</string>
+    <string name="message_change_email">Пожалуйста, введите свой адрес эл. почты и измените пароль</string>
+    <string name="title_change_email_password">УСТАНОВИТЬ АДРЕС ЭЛ. ПОЧТЫ И ПАРОЛЬ</string>
+    <string name="email_policy">* Пожалуйста, введите свой рабочий или личный контактный адрес эл. почты для сброса пароля и обмена баллов.</string>
+    <string name="label_postcode">Почтовый индекс</string>
+    <string name="title_dashboard_nexperia">Домой</string>
+    <string name="label_points">баллы</string>
+    <string name="message_select_delivery_mode">Пожалуйста, выберите вид доставки</string>
+    <string name="label_privacy_policy_nexperia">Я прочитал и принимаю Условия использования и Политику конфиденциальности Rewardz и Nexperia Malaysia.</string>
+    <string name="hint_enter_email_address">Пожалуйста, введите свой адрес эл. почты</string>
+    <string name="target_units">Желаемые единицы</string>
+    <string name="units_sold">Продано единиц</string>
+    <string name="campaign_tracker">Трекер избранных кампаний</string>
+    <string name="you_are_in">Вы в</string>
+    <string name="tier">уровень</string>
+    <string name="user_is_in">Пользователь на</string>
+    <string name="you_are_nominating">Вы номинируете</string>
+    <string name="you_are_recognizing">Вы признаете</string>
+    <string name="private_msg">Приватное</string>
+    <string name="appreciation_private_message">Пользователь сделал свои благодарности приватными</string>
+    <string name="make_appreciation_public">Сделать мои благодарности публичными</string>
+    <string name="appreciations">Благодарности</string>
+    <string name="nominations">Номинирования</string>
+    <string name="recongnizations">Признания</string>
+    <string name="workplace_by_facebook">Рабочее место Facebook</string>
+    <string name="share_with">Поделиться с</string>
+    <string name="select_at_least_one_message_to_share">Пожалуйста, нажмите и удерживайте сообщение, которым вы хотите поделиться.</string>
+    <plurals name="message_appreciations_remaining">
+        <item quantity="one">Благодарности, оставшиеся на конец месяца:</item>
+        <item quantity="other">Благодарности, оставшиеся на конец месяца:</item>
+    </plurals>
+    <plurals name="message_appreciations_points">
+        <item quantity="one">Баллы благодарностей, оставшиеся на конец месяца:</item>
+        <item quantity="other">Баллы благодарностей, оставшиеся на конец месяца:</item>
+    </plurals>
+
+    <plurals name="no_of_appreciations">
+        <item quantity="one">Благодарность</item>
+        <item quantity="other">Благодарности</item>
+    </plurals>
+
+    <plurals name="no_of_nominations">
+        <item quantity="one">Номинирование</item>
+        <item quantity="other">Номинирования</item>
+    </plurals>
+
+    <plurals name="no_of_recognitions">
+        <item quantity="one">Признание</item>
+        <item quantity="other">Признания</item>
+    </plurals>
+
+
+    <string name="appreciated">оценено</string>
+    <string name="posting_workplace">Публикация на рабочее место....</string>
+    <string name="does_not_exists_on_workplace">не существует в вашей рабочей группе</string>
+    <string name="posted_to_workplace">Успешно опубликовано в вашей рабочей группе.</string>
+    <string name="something_went_wrong_posting_to_workplace">Что-то пошло не так при публикации в вашей рабочей группе.</string>
+    <string name="with_this_message">с этим сообщением</string>
+    <string name="new_settings_updated">Настройки обновлены.</string>
+    <string name="hide_my_appreciation_messages">Скрыть мои сообщения с благодарностями</string>
+    <string name="failed_to_subscribe_recording_api">Возникла проблема подписки Recording API</string>
+    <string name="fetching_details">Получение подробностей ....</string>
+    <string name="enter_frame_category">Выберите категорию</string>
+    <string name="enter_date_of_receipt">Введите дату получения</string>
+    <string name="enter_no_of_units_sold">Введите количество проданных единиц</string>
+    <string name="receipts_missing">Нет чека</string>
+    <string name="loading_receipts">Загрузка чеков...</string>
+    <string name="uploading_receipt">Загрузка чека</string>
+    <string name="receipt_upload_failed">Неудачная загрузка чека</string>
+    <string name="upload_complete">Загрузка завершена</string>
+    <string name="italian">Итальянский</string>
+    <string name="german">Немецкий</string>
+    <string name="frame_category">Категория</string>
+    <string name="brand_model">Модель, бренд</string>
+    <string name="date_of_receipt">Дата получения</string>
+    <string name="amount">Сумма</string>
+    <string name="no_of_units_sold">Количество проданных единиц</string>
+    <string name="view_receipt">Просмотр чека</string>
+    <string name="upload">Загрузка</string>
+    <string name="spanish">Испанский</string>
+    <string name="nric_email">NRIC / эл. почта</string>
+    <string name="notify_members">Уведомить участников</string>
+    <string name="quantity_less_than">Количество должно составлять менее 9</string>
+    <string name="add_quantity_less_than">Добавить меньше 9</string>
+    <string name="you_can_redeem">Вы можете получить это вознаграждение</string>
+
+    <string name="enter_your_email_to_reset_pwd">Введите ниже свой адрес эл. почты, и мы отправим вам инструкции по изменению пароля</string>
+    <string name="country">Страна</string>
+    <string name="store">Магазин</string>
+    <string name="select_your_country">Выберите вашу страну</string>
+    <string name="first_select_country">Сначала выберите вашу страну</string>
+    <string name="loading_stores">Загрузка магазинов...</string>
+    <string name="no_countries_found">Страны не найдены</string>
+    <string name="select_your_store">Выберите ваш магазин</string>
+    <string name="loading_countries">Загрузка стран ....</string>
+    <string name="process">В обработке</string>
+    <string name="redeem_e_cash">Приобрести эл. наличные</string>
+    <string name="enter_amount">Введите сумму</string>
+    <string name="min_amt_reqd">Минимальная сумма обмена составляет 10 долларов, последующее увеличение суммы должно быть кратно 1 доллару.</string>
+    <string name="enter_paynow_acc_no">Введите номер банковского счета PayNow</string>
+    <string name="or">ИЛИ</string>
+    <string name="enter_reg_mob_no">Введите номер телефона, зарегистрированного в PayNow</string>
+    <string name="hundred_pts_reqd">необходимо 100 баллов</string>
+    <string name="pls_enter_amount">Пожалуйста введите сумму</string>
+    <string name="enter_bank_or_mob_no">Введите номер банковского счета PayNow или введите номер телефона, зарегистрированного в PayNow</string>
+    <string name="pls_enter_valid_mob_no">Пожалуйста, введите действующий номер мобильного телефона</string>
+    <string name="pls_enter_min_amount">Пожалуйста, введите минимум 10 долларов</string>
+    <string name="ten_dollar">10 долларов</string>
+    <string name="paynow_link">Не зарегистрированы в PayNow? Зарегистрироваться!</string>
+    <string name="mobile_update_fail_try_again">Не удалось обновить номер мобильного телефона, попробуйте еще раз</string>
+    <string name="just_last_name">Фамилия</string>
+    <string name="scan_cancelled">Вы прервали сканирование.</string>
+    <string name="place_qr_code_in_frame">Поместите QR-код в рамку</string>
+    <string name="courier_option">Курьерская доставка</string>
+    <string name="office_delivery">Доставка в офис (Бесплатная услуга)</string>
+    <string name="fee_of">комиссия в размере</string>
+    <string name="points_apply">баллы применяются</string>
+    <string name="courier_sub_text">Любые последующие обмены в течение дня будут бесплатными.</string>
+    <string name="office_delivery_sub_text">Получайте свои награды каждый 1-й рабочий день месяца (обмен производятся с 9 по 23 числа предыдущего месяца) ИЛИ 15 числа месяца (обмен производятся с 24 числа предыдущего месяца по 8 число текущего месяца)</string>
+    <string name="are_you_sure_you_want_to_redeem_reward">Вы уверены, что хотите обменять баллы на это вознаграждение?</string>
+    <string name="logging_out">Выход...</string>
+    <string name="your_pwd_expire">Срок действия вашего пароля истечет через</string>
+    <string name="alert">Оповещение</string>
+    <string name="pwd_update_logout_message">Ваш пароль истек. Чтобы восстановить пароль, войдите в систему, кликнув «Забыли пароль?»</string>
+    <string name="atsn_dashboard">Панель управления ATSN </string>
+    <string name="dummy_text">WW47\'18</string>
+    <string name="output">Вывод</string>
+    <string name="icar">ICAR</string>
+    <string name="dept_performance">Достижения департамента</string>
+    <string name="quarter">Квартал</string>
+    <string name="label_quarter">Q</string>
+    <string name="label_qtd">QTD</string>
+    <string name="label_month">M</string>
+    <string name="hint_brand_model"><font size="10"><![CDATA[Enter 2 letters & 4 digits (e.g. AB1234)]]></font></string>
+    <string name="hint_amount">$XXX</string>
+    <string name="enter_brand_model">Введите бренд / модель</string>
+    <string name="membership_privileges">Привилегии членства</string>
+    <string name="since">с</string>
+    <string name="character_limit_error_message">Пожалуйста, введите минимум %1$d символов</string>
+    <string name="entered">введено</string>
+    <string name="confirm_edit_mobile_number">Подтвердите свой номер мобильного телефона</string>
+    <string name="recognition_heroes">Стена почета</string>
+    <string name="feeds">Фид</string>
+    <string name="users">пользователи</string>
+    <string name="clear">Очистить</string>
+    <string name="appreciated_by">благодарность начислена от</string>
+    <string name="updated_week">Еженедельные данные обновлены</string>
+    <string name="scan_qr_code_text_one">Отсканируйте QR-код в магазине, чтобы воспользоваться своим предложением!</string>
+    <string name="scan_qr_code">Сканировать QR-код</string>
+    <string name="scan_qr_code_text_two">Найдите QR-код с красным логотипом посередине для сканирования.</string>
+    <string name="available_points_for_redemption">Доступные баллы для обмена</string>
+    <string name="total_points_redeemed">Всего баллов потрачено</string>
+    <string name="more_details">Больше подробностей</string>
+    <string name="my_points">Мои баллы</string>
+    <string name="used_points">Использованные баллы</string>
+    <string name="points_available_to_redeem">Баллы, доступные для обмена</string>
+    <string name="learn_more">Подробнее</string>
+    <string name="points_available_for_redemption">Баллы, доступные для обмена</string>
+    <string name="steps_summary_small">СТАТИСТИКА ШАГОВ</string>
+    <string name="close">ЗАКРЫТЬ</string>
+    <string name="monthly">ЕЖЕМЕСЯЧНО</string>
+    <string name="see_points_history">Посмотреть историю баллов></string>
+    <string name="greetings_small">Поздравления</string>
+    <string name="popular_merchants">Популярные продавцы</string>
+    <string name="view_event">Просмотреть событие</string>
+    <string name="view_reward">Просмотреть вознаграждение</string>
+    <string name="view_message">Просмотреть сообщение</string>
+    <string name="organisation_has">Организация имеет</string>
+    <string name="selected">Выбрано</string>
+    <string name="rsvp">Приглашение</string>
+    <string name="event_venue">Место проведения мероприятия</string>
+    <string name="event_contact_person">Контактное лицо по событию</string>
+    <string name="location">Местоположение</string>
+    <string name="see_all">Просмотреть все</string>
+    <string name="my_strengths">Мои качества</string>
+    <string name="click_on_each_to_view_more">Более подробные данные доступны по щелчку на самих объектах.</string>
+    <string name="but_people_call_me_as">но люди называют меня</string>
+    <string name="i_am">Я</string>
+    <string name="first_and_last_name">Имя и фамилия</string>
+    <string name="pls_enter_address_line_1">Введите адрес 1</string>
+    <string name="pls_enter_address_line_2">Введите адрес 2</string>
+    <string name="support">ПОДДЕРЖКА</string>
+    <string name="get_my_treats">ПОЛУЧИТЬ МОЙ ПОДАРОК</string>
+    <string name="total_points_received">Всего баллов получено</string>
+    <string name="high_5">Присвоить похвалу</string>
+    <string name="with">с</string>
+    <string name="thanks_for_high5">Спасибо за похвалу.</string>
+    <string name="you_are_giving_high_5">Вы присваиваете похвалу</string>
+    <string name="min_appreciation_character">Требуется минимум %1$d символов</string>
+    <string name="high_5_awards">Похвала</string>
+    <string name="joined">Присоединились</string>
+    <string name="your_treats_error_message">Прямой доступ к приложению ограничен; Пожалуйста, перейдите в приложение « Your Choice» и нажмите «Your Treat».</string>
+    <string name="remaining_points_budget">Оставшиеся баллы</string>
+    <string name="title_new_app_version">Доступна новая версия.</string>
+    <string name="message_app_update">Доступна новая версия. Пожалуйста, обновитесь до последней версии.</string>
+    <string name="button_update">Обновить</string>
+
+
+    <plurals name="days_kindly_update">
+        <item quantity="one">день. Пожалуйста, обновите как можно скорее</item>
+        <item quantity="other">дней. Пожалуйста, обновите как можно скорее</item>
+    </plurals>
+
+
+    <plurals name="character_count">
+        <item quantity="one">1 символ</item>
+        <item quantity="zero">0 символов</item>
+        <item quantity="other">%d символов</item>
+    </plurals>
+
+    <plurals name="likes">
+        <item quantity="one">1 лайк</item>
+        <item quantity="zero">0 лайков</item>
+        <item quantity="other">%d лайков</item>
+    </plurals>
+
+
+    <plurals name="pts">
+        <item quantity="one">1 балл</item>
+        <item quantity="zero">0 баллов</item>
+        <item quantity="other">%d баллов</item>
+    </plurals>
+    <string name="title_activity_event_photos">EventPhotosActivity</string>
+    <string name="tab_text_1">Вкладка 1</string>
+    <string name="tab_text_2">Вкладка 2</string>
+    <string name="event_points">Баллы события</string>
+    <string name="security">Безопасность</string>
+    <string name="preferences">Предпочтения</string>
+    <string name="app_support">Тех. поддержка приложения</string>
+    <string name="how_to_earn_points">Как заработать баллы?</string>
+    <string name="faq">Часто задаваемые вопросы (FAQ)</string>
+    <string name="live_chat">Живой чат</string>
+    <string name="mon_to_fri">ПН-ПТ с 10:00-18:00</string>
+    <string name="email_us">Написать нам</string>
+    <string name="send_logs">Отправка логов</string>
+    <string name="save_pwd">Сохранить пароль</string>
+    <string name="refreshed_on">Обновлено</string>
+    <string name="redeemed_on">Обменяно</string>
+    <string name="steps">Действия</string>
+    <string name="workplace_small">Рабочее место</string>
+    <string name="upload_receipts_small">Загрузить чек</string>
+    <string name="tab_upload_receipts">Чеки</string>
+    <string name="calendar_small">Календарь</string>
+    <string name="leaderboard_small">Таблица лидеров</string>
+    <string name="rewards_small">Вознаграждения</string>
+    <string name="facility_check_in_small">Регистрация на площадку</string>
+    <string name="referral_smalll">Реферал</string>
+    <string name="history_small">История</string>
+    <string name="notifications_small">Уведомления</string>
+    <string name="settings_small">Настройки</string>
+    <string name="connect_apps">Подключить приложения</string>
+    <string name="appreciation_small">Благодарность</string>
+    <string name="title_dashboard">Панель управления</string>
+    <string name="recognize_small">Признать</string>
+    <string name="nominate_small">Номинировать</string>
+    <string name="allocate_points_small">Распределить баллы</string>
+    <string name="browse_all">Поиск по всем</string>
+    <string name="my_wallet">Мой кошелек</string>
+    <string name="valid_till_small">Срок действия до:</string>
+    <string name="use_now">Воспользоваться сейчас</string>
+    <string name="used_caps">ИСПОЛЬЗОВАННЫЕ</string>
+    <string name="expired_caps">ИСТЕК СРОК</string>
+    <string name="time_left_caps">ОСТАВШЕЕСЯ ВРЕМЯ</string>
+    <string name="filter_by">Фильтровать по</string>
+    <string name="notify_me">Уведомить меня</string>
+    <string name="out_of_stock">РАСПРОДАНО</string>
+    <string name="filters">ФИЛЬТРЫ</string>
+    <string name="select_category">Выберите категорию</string>
+    <string name="sort_by">Сортировать по</string>
+    <string name="latest">Последнее</string>
+    <string name="a_to_z">От А до Я</string>
+    <string name="z_to_a">От Я до А</string>
+    <string name="special_deals">Специальные предложения</string>
+    <string name="points_required_to_redeem">Баллы, необходимые для обмена</string>
+    <string name="outlet">Пункт выдачи</string>
+    <string name="no_selection">Ничего не выбрано</string>
+    <string name="select_outlet">Выберите пункт выдачи</string>
+    <string name="please_select_outlet">Пожалуйста, сначала выберите пункт выдачи </string>
+    <string name="choose_preferred_oulet">Выберите желаемый пункт выдачи</string>
+    <string name="change_outlet">Изменить пункт выдачи</string>
+    <string name="website_address_not_available">Адрес веб-сайта недоступен.</string>
+    <string name="no_location_found">Местоположение не найдено</string>
+    <string name="click_for_more_details">Нажмите здесь, чтобы узнать больше</string>
+    <string name="register_now">Зарегистрироваться</string>
+    <string name="not_registered_with_paynow">Не зарегистрированы в PayNow?</string>
+    <string name="enter_paynow_registered_number">Введите номер телефона, зарегистрированного в PayNow</string>
+    <string name="paynow_min_transaction_message">Минимальная сумма обмена составляет 10 долларов, последующее увеличение суммы должно быть кратно 1 доллару.</string>
+    <string name="wish_to_proceed">Вы хотите продолжить?</string>
+    <string name="redemption_confirmation_text">Обмен этого вознаграждения приведет к вычету %1d баллов из вашей учетной записи.</string>
+    <string name="deferred_redemption_confirmation">Чтобы продолжить и воспользоваться вознаграждением, щелкните «Воспользоваться сейчас». При выборе опции «Воспользоваться позднее» вознаграждение сохранится в разделе «Мой кошелек» с возможностью использовать его позднее. Чтобы выйти, нажмите «X», баллы НЕ будут вычитаться.</string>
+    <string name="use_later">Воспользоваться позднее</string>
+    <string name="phone_number_not_available">Номер телефона недоступен</string>
+    <string name="successfully_redeemed">Обмен прошел успешно!</string>
+    <string name="back_to_rewards">Обратно к вознаграждениям</string>
+    <string name="view_in_wallet">Посмотреть в разделе «Мой кошелек»</string>
+    <string name="one_dollar">1 доллар</string>
+    <string name="reference_code">Справочный код</string>
+    <string name="pin_code_info">Передайте телефон сотрудникам за стойкой – они введут ПИН-код.</string>
+    <string name="select_your_delivery_mode">Выберите способ доставки.</string>
+    <string name="by_courier">Курьером</string>
+    <string name="additional">(Применяется</string>
+    <string name="applies">дополнительно)</string>
+    <string name="courier_info">Любые последующие обмены, совершенные в течение дня, будут бесплатными. Доставка в течении 5 рабочих дней.</string>
+    <string name="office_reception">К стойке регистрации вашего офиса</string>
+    <string name="free_delivery">(Бесплатная доставка)</string>
+    <string name="office_delivery_info">Обратите внимание, что пересчет происходит каждое 23 число месяца Вы получите ваучеры 30 или 31 числа месяца или на следующий рабочий день, если эти даты выпадают на выходные или праздничные дни.</string>
+    <string name="office_delivery_sub_info">(Дата окончания доставки - каждое 8 и 26 число месяца. Например, вы получите 15 мая, если обмен был произведен 27 апреля.)</string>
+    <string name="delivery_address">Адрес доставки</string>
+    <string name="barcode_caps">БАРКОД:</string>
+    <string name="please_enter_code">Пожалуйста, введите код</string>
+    <string name="only_x_rewards_remaining">Только %1d элементов доступно для обмена</string>
+    <string name="please_select_at_least_one_subcategory">Выберите хотя бы одну подкатегорию</string>
+    <string name="brand_name">Название бренда</string>
+    <string name="select_brand">Выберите бренд</string>
+    <string name="select_frame_category">Выберите фрейм</string>
+    <string name="starting_soon">Скоро начнется</string>
+    <string name="event_starts_on">Событие начинается </string>
+    <string name="yet_to_start">Еще не началось</string>
+    <string name="email_or_username">Эл. почта или имя пользователя</string>
+    <string name="hurry_up">ПОТОРОПИТЕСЬ!</string>
+    <string name="items_left">единиц осталось</string>
+    <string name="paytm_info">Пожалуйста, введите номер мобильного телефона, зарегистрированный в Paytm</string>
+    <string name="please_enter_correct_mobile_number">Пожалуйста, введите правильный номер мобильного телефона</string>
+    <string name="use_redeemed_reward_info">Этот ваучер будет отмечен как «Использованный».</string>
+    <string name="please_enter_your_mobile_number">Пожалуйста, введите номер своего мобильного телефона</string>
+    <string name="received">ПОЛУЧЕННЫЕ</string>
+    <string name="select_one_voucher_status">Выберите хотя бы один фильтр</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="no_events_this_month">Упс! В этом месяце нет событий</string>
+    <string name="no_greetings_this_month">Упс! В этом месяце нет поздравлений</string>
+    <string name="no_announcements_this_month">Упс! В этом месяце нет анонсов</string>
+    <string name="no_redemption_this_year">Упс! Вы не обменяли %1$s в этом году</string>
+    <string name="no_receipts_uploaded">Упс! Чеки не загружены</string>
+    <string name="no_receipts_processing">Ни один чек не находится в обработке</string>
+    <string name="no_receipts_approved">Упс! Чеки не утверждены</string>
+    <string name="no_receipts_rejected">Чеки не отклонены</string>
+    <string name="status_used">Использованные</string>
+    <string name="status_not_used">Неиспользованные</string>
+    <string name="status_received">Полученные</string>
+    <string name="no_redemptions_available">Обмен недоступен</string>
+    <string name="top_rewards">Топ вознаграждений</string>
+    <string name="points_expiry_info">Срок действия ваших %1d баллов истечет %1d%s</string>
+    <string name="acknowledge">Подтвердить</string>
+    <string name="have_you_received_voucher">Вы получили ваучер на физическом носителе?</string>
+    <string name="thanks_for_acknowledging">Спасибо за подтверждение!</string>
+    <string name="voucher_acknowledgement_message">Надеемся, вам понравятся ваучеры. Хорошего дня.</string>
+    <string name="enter_email_address">Введите адрес эл. почты</string>
+    <string name="at_max_only_3_subcategories">Можно выбрать не более 3 подкатегорий.</string>
+    <string name="no_rewards_found">Упс! Вознаграждения не найдены</string>
+    <string name="explore">Исследовать</string>
+    <string name="recently_viewed">Недавно просмотрено</string>
+    <string name="btn_redeem">Обменять</string>
+    <string name="rewards_found_matching">Найдено %1d совпавших вознаграждений</string>
+    <string name="reward_expiring_soon_message">Пользуется большим спросом. Осталось всего %1d, не пропустите!</string>
+    <string name="nothing_found_matching">Ничего не найдено</string>
+    <string name="recent_searches">Недавние запросы</string>
+    <string name="in_high_demand">ПОЛЬЗУЕТСЯ БОЛЬШИМ СПРОСОМ.</string>
+    <string name="only_few_left">Осталось всего %1d, не пропустите!</string>
+    <string name="point_history">История баллов</string>
+    <string name="address_line_two_no_optional_building_block">Адрес 2 (строение/блок/номер дома)</string>
+    <string name="for_strength">для качеств</string>
+    <string name="redeem_small">Обменять</string>
+    <string name="reward_used">Вознаграждение использовано!</string>
+    <string name="voucher_received">Ваучер получен!</string>
+    <string name="open_link">Открыть ссылку</string>
+    <string name="quantity">Количество:</string>
+    <string name="evoucher_use_later_message">Перейдите на вкладку «Мой кошелек», чтобы использовать полученное вознаграждение.</string>
+    <string name="physical_voucher_use_later_message">Подтвердите в «Мой кошелек», как только получите ваучер.</string>
+    <string name="congratulations">Поздравляем!</string>
+    <string name="checked_in_successfully">Регистрация прошла успешно.</string>
+    <string name="checked_in_successfully_scratch_msg">Когда вы успешно зарегистрируетесь на \ n мероприятии, вы получите скретч-карту \ n, с помощью которой вы можете выиграть баллы.</string>
+    <string name="points_won">Баллов выиграно</string>
+    <string name="points_won_reflected">Выигранные очки отобразятся в течение 2 часов.</string>
+    <string name="congratulations_you_have_won_scratch_card">Поздравляем! \ nВы выиграли скретч-карту.</string>
+    <string name="swipe_back_forth_to_see_points_won">Проведите по экрану пальцем влево, затем вправо – появится количество заработанных баллов.</string>
+    <string name="you_have_won">Вы выиграли</string>
+    <string name="have_you_received_amount">Вы получили сумму?</string>
+    <string name="contact_support_team">Обратитесь в службу поддержки.</string>
+    <string name="search_by_username">Поиск по имени пользователя</string>
+    <string name="you_have_won_scratch_card">Вы выиграли скретч-карту.</string>
+    <string name="at_max_1000_quantities">Максимально вы можете выбрать 1000 единиц</string>
+    <string name="at_max_appreciation_points">Максимально вы можете получить 1 000 000 баллов</string>
+    <string name="exceeding_allocated_points_limit">Вы превысили лимит %d баллов</string>
+    <string name="max_ecash_amount">Допускается максимум 1 000 000.</string>
+    <string name="no_photos_added">Фото не добавлены.</string>
+    <string name="enter_less_quantity">Введите меньшее количество</string>
+    <string name="delete_all">Удалить все</string>
+    <string name="are_you_sure_you_want_to_delete_all_notification">Вы уверены в том, что хотите удалить все уведомления?</string>
+    <string name="pls_enter_srch_query">Пожалуйста, введите запрос</string>
+    <string name="processed">Обработано</string>
+    <string name="please_enter_wish_message">Пожалуйста, введите ваши пожелания.</string>
+    <string name="sending_your_wish">Отправка ваших пожеланий...</string>
+    <string name="your_msg_sent">Ваше сообщение было отправлено.</string>
+    <string name="flexi_benefits">Flexi benefits</string>
+    <string name="text_selection_period">Вы еще не выбрали бонусный период на 2020 год. \ N \ nПеред входом в приложение Flexi Benefits перейдите к выбору бонуса.</string>
+    <string name="pls_enter_contact_number">Пожалуйста, введите контактный номер</string>
+    <string name="enter_valid_contact_number">Пожалуйста, введите действующий контактный номер</string>
+    <string name="pls_enter_country">Пожалуйста, введите страну</string>
+    <string name="physical_product_use_later_message">Пожалуйста, подтвердите в "Мой кошелек", как только получите товар.</string>
+    <string name="product_acknowledgement_message">Надеемся, вам понравится этот товар. Хорошего дня.</string>
+    <string name="have_you_received_product">Вы получили товар?</string>
+    <string name="last_name_not_optional">Фамилия</string>
+    <string name="pincode_optional">Пин-код (необязательно)</string>
+    <string name="product_received">Товар получен!</string>
+    <string name="product_delivery_fees_info">* Взимается плата за доставку в размере %d.</string>
+    <string name="thai">Тайский</string>
+    <string name="contacts">Контакты</string>
+
+    <string name="thailand">Таиланд</string>
+    <string name="flexi_benefit">Flexi benefits</string>
+    <string name="benefit_category">Категория бонуса</string>
+    <string name="benefit_type">Тип бонуса</string>
+    <string name="selected_benefit_plan">Выберите бонусный план</string>
+    <string name="remarks">Замечания</string>
+    <string name="select_benefit">Выберите бонус</string>
+    <string name="select_benefit_category">Выберите категорию бонуса</string>
+    <string name="enter_description">Введите описание</string>
+    <string name="no_records_found">Записи не найдены</string>
+    <string name="enter_remark">Введите замечание</string>
+    <string name="units">Единицы</string>
+    <string name="organisation">Организация</string>
+    <string name="first_select_your_organisation">Сначала выберите свою организацию</string>
+    <string name="no_organisation_found">Организация не найдена</string>
+    <string name="see_more">Смотреть еще</string>
+
+    <string name="official_email_id">Официальный адрес эл. почты</string>
+    <string name="postcode_optional">Почтовый индекс (необязательно)</string>
+    <string name="remarks_optional">Примечания (необязательно)</string>
+    <string name="approver_comments">Комментарии модератора</string>
+    <string name="enter_amount_less_than_selected_plan_amount">Введенная сумма превышает разрешенную.</string>
+    <string name="receipt_uploaded_successfully">Ваш запрос успешно загружен.</string>
+
+    <string name="email_or_emp_id">Введите свой адрес эл.почты или идентификатор сотрудника</string>
+    <string name="order_placed">Заказ размещен</string>
+    <string name="in_process">В процессе</string>
+    <string name="ready_for_pick_up">Готово к выдаче</string>
+    <string name="shipped">Отправлено</string>
+    <string name="upload_resume">Загрузить резюме</string>
+    <string name="open_gallery">ОТКРЫТЬ ГАЛЕРЕЮ</string>
+    <string name="file_manager">ФАЙЛОВЫЙ МЕНЕДЖЕР</string>
+    <string name="app_need_read_external_storage_permission">Для отображения документов требуется доступ к внешнему хранилищу.</string>
+
+    <string name="past_week">Прошлая неделя</string>
+    <string name="past_month">Прошлый месяц</string>
+    <string name="last_3_months">Последние 3 месяца</string>
+    <string name="last_6_months">Последние 6 месяцев</string>
+    <string name="past_year">Прошлый год</string>
+    <string name="custom">Свой</string>
+    <string name="filter_by_feed_origin">Фильтровать по источнику фида</string>
+    <string name="underlied_select_all"><u>Select All</u></string>
+    <string name="permission_grant_read_external_storage">Перейдите к Разрешениям, чтобы дать доступ к внешнему хранилищу</string>
+    <string name="find_by_name_or_mobile_no">Поиск по имени или номеру мобильного телефона</string>
+    <string name="please_type_search_query">Пожалуйста, введите запрос</string>
+
+
+<!--    Unilever win app-->
+    <string name="sales_update">* Достижения по продажам за неделю обновляются каждый понедельник</string>
+    <string name="le_code">Код LE</string>
+    <string name="enter_valid_le_code_password">Пожалуйста, введите действующий код LE и пароль</string>
+    <string name="enter_valid_le_code">Введите действующий код LE</string>
+    <string name="password_capital">Пароль</string>
+    <string name="x_points_required">%1d баллов</string>
+    <string name="saved_address">Сохраненный адрес</string>
+    <string name="add_new">+ Добавить новый</string>
+    <string name="make_default">Установить, как вариант по умолчанию</string>
+    <string name="edit_small">Редактировать</string>
+    <string name="delete_small">Удалить</string>
+    <string name="edit_address">Редактировать адрес</string>
+    <string name="add_new_address">Добавить новый адрес</string>
+    <string name="save_address">Сохранить адрес</string>
+    <string name="no_address_found_info">Ни один адрес не добавлен.</string>
+    <string name="pls_select_address">Пожалуйста, выберите адрес доставки</string>
+    <string name="default_address">* адрес по умолчанию</string>
+    <string name="delete_address">Удалить адрес</string>
+    <string name="delete_confirmation">Вы уверены, что хотите удалить этот адрес?</string>
+
+
+    <string name="product_will_delivered">Ваш товар будет доставлен по адресу</string>
+    <string name="new_address_success">Новый адрес успешно добавлен</string>
+    <string name="update_address_success">Ваш адрес успешно обновлен</string>
+    <string name="tap_here">Нажмите здесь</string>
+    <string name="reset_password_btn">Сбросить пароль</string>
+
+    <string name="app_permission_activity">Приложению требуется доступ к Физической активности, чтобы отслеживать шаги.</string>
+    <string name="grant_activity_permission">Пожалуйста, предоставьте доступ к Физической активности, чтобы отслеживать шаги</string>
+
+
+    <!--    Appreciation Strings-->
+    <string name="rdo_btn_overall">Всего</string>
+    <string name="rdo_btn_last_seven_days">Последние 7 дней</string>
+    <string name="rdo_btn_last_thirty_days">Последние 30 дней</string>
+    <string name="rdo_btn_last_ninety_days">Последние 90 дней</string>
+    <string name="received_non_cap">Полученные</string>
+    <string name="sent">Отправленные</string>
+    <string name="all">Все</string>
+    <string name="filter">ФИЛЬТР</string>
+    <string name="filter_by_strengths">Фильтровать по качествам</string>
+    <string name="underlied_see_all"><u>See All</u></string>
+    <string name="filter_by_orgainsation">Фильтр по организации</string>
+    <string name="filter_by_feed_type">Фильтровать по типу фида</string>
+    <string name="filter_by_feed_range">Фильтровать по рейтингу фида</string>
+    <string name="clear_all">Очистить все</string>
+    <string name="reset_all">Сбросить все</string>
+    <string name="btn_apply">Принять</string>
+    <string name="strengths">КАЧЕСТВА</string>
+    <string name="clear_selection_text">Вы действительно хотите сбросить \n выбор всех фильтров к варианту по умолчанию?</string>
+    <string name="reset_selection">Сбросить выделение</string>
+
+    <string name="txt_candidate_details">(Введите данные кандидата)</string>
+    <string name="tutorial_not_available">Туториал недоступен</string>
+
+
+    <!-- Feeds  -->
+
+
+    <string name="whats_on_your_mind">Что думаете?</string>
+    <string name="enter_comment_here">Введите свой комментарий сюда</string>
+    <string name="no_of_comments">% комментариев</string>
+    <string name="no_of_claps">%d лайков</string>
+    <string name="comments">Комментарии</string>
+    <string name="claps">Лайки</string>
+    <string name="news_feed">Фид новостей</string>
+    <string name="comment_cannot_be_empty">Комментарий не может быть пустым!</string>
+    <string name="pls_select_one_option">Пожалуйста, выберите один вариант</string>
+    <string name="create_post">Создать пост</string>
+    <string name="create_poll">Создать опрос</string>
+    <string name="poll_choice1_hint">Вариант 1</string>
+    <string name="ask_something">Спросите что-нибудь</string>
+    <string name="poll_choice2_hint">Вариант 2</string>
+    <string name="poll_choice3_hint">Вариант 3 (необязательно)</string>
+    <string name="poll_choice4_hint">Вариант 4 (необязательно)</string>
+    <string name="poll_choice_count">25</string>
+    <string name="poll_description_empty">Описание опроса пустое.</string>
+    <string name="poll_choice_one_required">Вариант 1 обязателен!</string>
+    <string name="poll_choice_two_required">Вариант 2 обязателен!</string>
+    <string name="choice_char_length_warning">Ответ должен состоять из менее чем 26 символов</string>
+    <string name="poll_active_for_days">Опрос активен в течение (дней):</string>
+    <string name="min_no_of_active_days_warning">Минимальное время активности опроса — 1 день.</string>
+    <string name="poll_active_max_days_warning">Опрос не может быть активен более 30 дней.</string>
+    <string name="poll_title">Должность</string>
+    <string name="post_title_max_char">80</string>
+    <string name="post">Опубликовать</string>
+    <string name="poll_title_max_char">200</string>
+    <string name="photos_small">Фото</string>
+    <string name="successful_posted">Успешно опубликовано</string>
+    <string name="post_title_char_length_warning">Длина заголовка не должна превышать 80 символов.</string>
+    <string name="poll_ask_something_char_length_warning">Длина этого поля не должна превышать 200 символов.</string>
+    <string name="post_empty_warning">Невозможно создать пустой пост.</string>
+    <string name="app_needs_external_to_access_media_files">Для доступа к медиа приложению необходим доступ к внешнему хранилищу.</string>
+    <string name="external_storage_permission_required">Для использования этой функции, предоставьте доступ к внешнему хранилищу.</string>
+    <string name="vote_percentage">%d%%</string>
+    <string name="successful_vote_on_poll">Ваш голос был засчитан.</string>
+    <string name="post_same_dept">Пост только для своего департамента</string>
+    <string name="left">слева</string>
+    <string name="poll_final_result">Окончательный результат</string>
+    <string name="cannot_select_more_images">Невозможно выбрать более 10 изображений.</string>
+    <string name="successful_created_poll">Опрос успешно создан.</string>
+    <string name="field_cannot_be_empty">Это поле не может быть пустым.</string>
+    <string name="photo_saved_device">Фото сохранено на устройство.</string>
+    <string name="edit_post">Редактировать пост</string>
+    <string name="successful_edit_post">Пост успешно отредактирован.</string>
+    <string name="post_empty_edit_warning">Невозможно сохранить пустой пост.</string>
+    <string name="feed_deleted">Удалено успешно.</string>
+    <string name="no_comments_error">Будьте первым, кто прокомментирует.</string>
+    <string name="comment">Комментарий</string>
+    <string name="delete_feed">Удалить пост</string>
+    <string name="feed_delete_confirmation">Вы уверены, что хотите удалить этот пост?</string>
+    <string name="poll_delete_confirmation">Вы уверены, что хотите удалить этот опрос?</string>
+    <string name="delete_poll">Удалить опрос</string>
+    <string name="bridgestone_feed_info">На этой платформе можно делиться только сообщениями S3 и S4.</string>
+
+    <plurals name="clap_plurals">
+        <item quantity="one">1 лайк</item>
+        <item quantity="zero">лайки</item>
+        <item quantity="other">%d лайков</item>
+    </plurals>
+
+    <plurals name="comment_plurals">
+        <item quantity="one">1 Комментарий</item>
+        <item quantity="zero">комментарии</item>
+        <item quantity="other">% комментариев</item>
+    </plurals>
+
+    <plurals name="vote_plurals">
+        <item quantity="one">1 голос</item>
+        <item quantity="zero">голоса </item>
+        <item quantity="other">голосa(ов)</item>
+    </plurals>
+
+    <string name="network_connection_error">Интернет-соединение потеряно, повторите попытку позже</string>
+    <string name="network_default_error">Произошла ошибка. Повторите попытку позже.</string>
+    <string name="network_internal_error">В наших системах произошла ошибка. Повторите попытку позже.</string>
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time</string>
+    <string name="server_connection_error">Невозможно подключиться. Повторите попытку позже.</string>
+    <string name="no_feeds_available">В настоящее время фид недоступен</string>
+    <string name="cannot_retrieve_crop_image">Невозможно получить обрезанное изображение.</string>
+    <string name="error_fetch_gif">Ошибка при загрузке GIF</string>
+    <string name="media_attachment_disabled">Удалите GIF, чтобы прикрепить медиафайлы</string>
+    <string name="remove_media_for_gif">Удалите медиафайлы, чтобы прикрепить GIF</string>
+    <string name="reset">Сбросить</string>
+    <string name="label_crop_image">Обрезать изображение</string>
+    <string name="view_feed">Просмотр ленты</string>
+    <string name="not_found">Не найдено.</string>
+    <string name="feed_detail_not_found">Фид, который вы искали, не существует или был удален</string>
+    <string name="feed_not_found">Фид не найден</string>
+    <string name="go_to_feeds">Перейти к списку фидов</string>
+
+    <string name="card_number">Номер карты</string>
+    <string name="url">URL</string>
+    <string name="app_permission_download_image">Для загрузки изображений приложению необходим доступ к внешнему хранилищу.</string>
+
+    <string name="valid_reason">Пожалуйста, введите вескую причину</string>
+    <string name="feed_report_success">Отправлено</string>
+    <string name="report_abuse">Сообщить о нарушении</string>
+    <string name="feed_report_abuse_comment">Комментарии</string>
+    <string name="type_concerns">Пожалуйста, напишите, что вас интересует</string>
+    <string name="feed_report_abuse_information">Если у вас есть какие-либо вопросы об этом фиде, напишите об этом ниже.</string>
+    <string name="menu_news_feed">Подключить</string>
+    <string name="select_gif">Выберите GIF</string>
+    <string name="search_tenor">Искать в Tenor</string>
+    <string name="gif">GIF</string>
+    <string name="appreciation_feeds_no_like">Лайк</string>
+    <string name="select_province">Выберите провинцию</string>
+    <string name="pls_select_province_error">Пожалуйста, выберите провинцию</string>
+    <string name="province">Провинция</string>
+    <string name="pls_enter_pincode">Пожалуйста, введите пин-код</string>
+    <string name="pls_set_province">Пожалуйста, укажите провинцию в вашем сохраненном адресе</string>
+    <string name="_check_in">Регистрация</string>
+    <string name="cannot_scan">Невозможно отсканировать</string>
+    <string name="location_check_in">Регистрация по местоположению</string>
+    <string name="select_prodcut_category">Выберите категорию товара</string>
+    <string name="choose_product_category">Выбрать категорию товара</string>
+    <string name="product_category">Категория товара</string>
+
+    <string-array name="province_state_names">
+        <item>Krabi</item>
+        <item>Bangkok</item>
+        <item>Kanchanaburi</item>
+        <item>Kalasin</item>
+        <item>Kamphaeng phet</item>
+        <item>Khon kean</item>
+        <item>Chanthaburi</item>
+        <item>Chachoengsao</item>
+        <item>Chon buri</item>
+        <item>Chai nat</item>
+        <item>Chai yaphum</item>
+        <item>Chum phon</item>
+        <item>Chiang rai</item>
+        <item>Chiang mai</item>
+        <item>Trang</item>
+        <item>Trat</item>
+        <item>Tak</item>
+        <item>Nakhon nayok</item>
+        <item>Nakhon pathom</item>
+        <item>Nakhon phanom</item>
+        <item>Nakhon ratchasima</item>
+        <item>Nakhon si thammarat</item>
+        <item>Nakhon sawan</item>
+        <item>Nonthaburi</item>
+        <item>Narathiwat</item>
+        <item>Nan</item>
+        <item>Buri ram</item>
+        <item>Pathum thani</item>
+        <item>Prachuap khiri khan</item>
+        <item>Prachinburi</item>
+        <item>Pattani</item>
+        <item>Ayutthaya</item>
+        <item>Phayao</item>
+        <item>Phangnga</item>
+        <item>Phatthalung</item>
+        <item>phichit</item>
+        <item>Phitsanulok</item>
+        <item>Phetchaburi</item>
+        <item>Phetchabun</item>
+        <item>Phrae</item>
+        <item>Phuket</item>
+        <item>Mahasarakham</item>
+        <item>Mukdahan</item>
+        <item>Mae hong son</item>
+        <item>Yasothon</item>
+        <item>Yala</item>
+        <item>Roi et</item>
+        <item>Ranong</item>
+        <item>Rayong</item>
+        <item>Rachaburi</item>
+        <item>Lopburi</item>
+        <item>Loei</item>
+        <item>Lampang</item>
+        <item>Lamphun</item>
+        <item>Srisaket</item>
+        <item>Sakonnakhon</item>
+        <item>Songkhla</item>
+        <item>Satun</item>
+        <item>Samutprakan</item>
+        <item>Samut songkhram</item>
+        <item>Samut sakhon</item>
+        <item>Sra kaeo</item>
+        <item>Saraburi</item>
+        <item>Singburi</item>
+        <item>Sukhothai</item>
+        <item>Suphanburi</item>
+        <item>Surat thani</item>
+        <item>Surin</item>
+        <item>Nongkhai</item>
+        <item>Nongbualamphu</item>
+        <item>Angthong</item>
+        <item>Amnatcharoen</item>
+        <item>Udonthani</item>
+        <item>Uttaradit</item>
+        <item>Uthaithani</item>
+        <item>Uboratchathani</item>
+        <item>Bueng Kan</item>
+    </string-array>
+
+    <string-array name="province_state_names_english">
+        <item>Krabi</item>
+        <item>Bangkok</item>
+        <item>Kanchanaburi</item>
+        <item>Kalasin</item>
+        <item>Kamphaeng phet</item>
+        <item>Khon kean</item>
+        <item>Chanthaburi</item>
+        <item>Chachoengsao</item>
+        <item>Chon buri</item>
+        <item>Chai nat</item>
+        <item>Chai yaphum</item>
+        <item>Chum phon</item>
+        <item>Chiang rai</item>
+        <item>Chiang mai</item>
+        <item>Trang</item>
+        <item>Trat</item>
+        <item>Tak</item>
+        <item>Nakhon nayok</item>
+        <item>Nakhon pathom</item>
+        <item>Nakhon phanom</item>
+        <item>Nakhon ratchasima</item>
+        <item>Nakhon si thammarat</item>
+        <item>Nakhon sawan</item>
+        <item>Nonthaburi</item>
+        <item>Narathiwat</item>
+        <item>Nan</item>
+        <item>Buri ram</item>
+        <item>Pathum thani</item>
+        <item>Prachuap khiri khan</item>
+        <item>Prachinburi</item>
+        <item>Pattani</item>
+        <item>Ayutthaya</item>
+        <item>Phayao</item>
+        <item>Phangnga</item>
+        <item>Phatthalung</item>
+        <item>phichit</item>
+        <item>Phitsanulok</item>
+        <item>Phetchaburi</item>
+        <item>Phetchabun</item>
+        <item>Phrae</item>
+        <item>Phuket</item>
+        <item>Mahasarakham</item>
+        <item>Mukdahan</item>
+        <item>Mae hong son</item>
+        <item>Yasothon</item>
+        <item>Yala</item>
+        <item>Roi et</item>
+        <item>Ranong</item>
+        <item>Rayong</item>
+        <item>Rachaburi</item>
+        <item>Lopburi</item>
+        <item>Loei</item>
+        <item>Lampang</item>
+        <item>Lamphun</item>
+        <item>Srisaket</item>
+        <item>Sakonnakhon</item>
+        <item>Songkhla</item>
+        <item>Satun</item>
+        <item>Samutprakan</item>
+        <item>Samut songkhram</item>
+        <item>Samut sakhon</item>
+        <item>Sra kaeo</item>
+        <item>Saraburi</item>
+        <item>Singburi</item>
+        <item>Sukhothai</item>
+        <item>Suphanburi</item>
+        <item>Surat thani</item>
+        <item>Surin</item>
+        <item>Nongkhai</item>
+        <item>Nongbualamphu</item>
+        <item>Angthong</item>
+        <item>Amnatcharoen</item>
+        <item>Udonthani</item>
+        <item>Uttaradit</item>
+        <item>Uthaithani</item>
+        <item>Uboratchathani</item>
+        <item>Bueng Kan</item>
+    </string-array>
+    <string name="benefit_for">Боунс для</string>
+    <string name="available_credit_for">Доступный кредит для</string>
+    <string name="maximum_annual_credit_for_selected_benefit_type">Максимальная годовая сумма для выбранного типа бонусов</string>
+    <string name="enter_name_of_vendor_brand_shop_name">Введите название продавца / бренда / магазина…</string>
+    <string name="enter_any_remarks_regarding_the_receipt_optional">Введите примечания к чеку. (Необязательно)</string>
+    <string name="select_benefit_for">Выбрать бонус для</string>
+    <string name="select_dependent">Выбрать подчиненного </string>
+    <string name="select_benefit_type">Выбрать тип бонуса</string>
+    <string name="pru_rewards">Flexi benefits</string>
+    <string name="add_led_document_title">Добавьте сюда дополнительные страницы счетов или изображения товаров</string>
+    <string name="add_documents">ДОБАВИТЬ ДОКУМЕНТЫ</string>
+    <string name="documents_list_title_receipt_detail">Сопутствующие документы</string>
+    <string name="add_pru_document_title">Добавить сопутствующие документы</string>
+    <string-array name="benefit_for_array">
+        <item>Себе</item>
+        <item>Подчиненый</item>
+    </string-array>
+    <string name="no_items_added">Ничего не добавлено</string>
+    <string name="add_item">ДОБАВИТЬ ДЕТАЛИ О ТОВАРЕ</string>
+    <string name="added_items">Добавленные элементы</string>
+    <string name="notes_optional">Примечания (необязательно)</string>
+    <string name="delete_item">Удалить элемент</string>
+    <string name="are_you_sure_you_want_to_delete_this_item">Вы уверены, что хотите удалить этот элемент?</string>
+    <string name="enter_any_remarks_regarding_the_receipt">Введите примечания к чеку </string>
+    <string name="item_details">Детали о товаре</string>
+    <string name="product_group">Группа товара</string>
+    <string name="amount_optional">Сумма (необязательно)</string>
+    <string name="update">Обновить</string>
+    <string name="add_more">ДОБАВИТЬ ЕЩЕ</string>
+    <string name="choose_product_group">Выберите группу товара</string>
+    <string name="ledvance_receipt_list_empty">Добавить детали о товаре</string>
+    <string name="secondary_points_balance">Баланс дополнительных баллов</string>
+    <string name="secondary_points">Дополнительные баллы</string>
+    <string name="secondary_points_description">От продажи каждого товара в приложении вы получите основные и дополнительные баллы. Вы можете использовать основные баллы для получения вознаграждений в приложении; вторичные баллы накапливаются в вашей учетной записи для вознаграждения ваших клиентов, когда они совершают продажу. Накопленные дополнительные баллы вернутся в ваш кошелек основных баллов через 12 месяцев с даты их получения, если ваши клиенты ничего не продали.</string>
+    <string name="approver_remarks">Комментарии модератора</string>
+    <string name="receipt_on_boarding_help_message">Нажмите на Чеки, чтобы начать</string>
+    <string name="ledvance_receipt_uploaded_successfully">Ваш чек был успешно загружен</string>
+    <string name="dashboard_pop_up_message">Просмотр сводки по всем вашим баллам</string>
+    <string name="rewards_pop_up_message">Обменивайте свои баллы на многочисленные вознаграждения</string>
+    <string name="receipts_pop_up_message">Загрузите ваши счета</string>
+    <string name="history_pop_up_message">Следите за своей историей баллов</string>
+    <string name="appreciate_pop_up_message">Отправьте благодарность коллеге</string>
+    <string name="add_receipts">Добавить чеки</string>
+    <string name="quantitiy_title">Кол-во: %1$d</string>
+    <string name="uploading_ledvance_receipt">Подождите, пока ваш чек будет подтвержден</string>
+    <string name="info_requested">Информация запрошена</string>
+    <string name="edit_receipt">РЕДАКТИРОВАТЬ ЧЕКИ</string>
+    <string name="edit_image">Редактировать изображение</string>
+    <string name="re_submission">Повторное представление</string>
+    <string name="remaining_monthly_appreciation_budget">Остаток ежемесячных благодарностей</string>
+    <string name="malay">Малайский</string>
+
+    <string name="vietnamese">Вьетнамский</string>
+    <string name="no_gif_support">В клавиатуре нет поддержки gif</string>
+    <string name="feed_pin_it">Закрепить пост наверху</string>
+    <string name="feed_unpin_it">Открепить пост</string>
+    <string name="feed_poll_unpin_it">Открепить опрос</string>
+    <string name="feed_poll_pin_it">Закрепить опрос наверху</string>
+    <string name="no_chart_data">Данные графика недоступны</string>
+    <string name="user_type">Тип пользователя</string>
+    <string name="category">Категория</string>
+    <string name="challenge_id">Идентификатор челленджа</string>
+    <string name="challenge_date">Дата челленджа</string>
+    <string name="number">Номер</string>
+    <string name="activity_date">Дата активности</string>
+    <string name="customer_name">Имя клиента</string>
+    <string name="solution_portfolio">Портфолио решений</string>
+    <string name="proof_of_evidence">Доказательства</string>
+    <string name="notes">Примечания</string>
+    <string name="enter_any_remarks_regarding_the_trend_receipt">Это раздел для текста Выделите все, что требует внимания рецензентов.</string>
+    <string name="claim_number">Номер запроса</string>
+    <string name="date_of_submission">Дата подачи</string>
+    <string name="upload_claim">Загрузить запрос</string>
+    <string name="add_claim">Добавить запрос</string>
+    <string name="enter_number">Введите номер</string>
+    <string name="dd_MMM_yyyy">дд МММ ГГГГ</string>
+    <string name="trend_solution_portfolio_item_one">Cloud One</string>
+    <string name="trend_solution_portfolio_item_two">Apex One</string>
+    <string name="trend_solution_portfolio_item_three">Сеть 1 (ATP)</string>
+    <string name="trend_solution_portfolio_item_four">Сеть 1 (IPS)</string>
+    <string name="trend_challenge_id">#2345</string>
+    <string name="trend_number_info">Введите количество подтвержденных встреч, презентаций, отзывов клиентов и т. д.</string>
+    <string name="yyyy_MM_dd">гггг-ММ-дд</string>
+    <string name="trend_receipt_on_boarding_help_message">Нажмите здесь, чтобы начать.</string>
+    <string name="tab_upload_claims">Запросы</string>
+    <string name="edit_claim">РЕДАКТИРОВАТЬ ЗАПРОС</string>
+    <string name="uploading_claim">Загрузка запроса...</string>
+    <string name="loading_claims">Загрузка запросов...</string>
+    <string name="claims">ЗАПРОСЫ</string>
+    <string name="no_claims_processing">В настоящее время запросы не обрабатываются</string>
+    <string name="no_claims_uploaded">Запросы не найдены.</string>
+    <string name="claim_upload_success">Ваш запрос успешно отправлен</string>
+    <string name="claim_number_text">Номер вашего запроса — \u0020</string>
+    <string name="trend_setter_receipts_pop_up_message">Загрузите ваши запросы</string>
+</resources>

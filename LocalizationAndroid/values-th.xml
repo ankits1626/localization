@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Login & SignUp -->
+    <string name="privacy_policy">ฉันยอมรับ</string>
+    <string name="policy_link">เงื่อนไขการให้บริการ และนโยบายความเป็นส่วนตัว</string>
+    <string name="accept_privacy_policy">กรุณายอมรับข้อกำหนดของการให้บริการ และนโยบายความเป็นส่วนตัวของเราเพื่อดำเนินการต่อ</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="email_address_for_reset_password">ป้อนที่อยู่อีเมล์ของคุณด้านล่าง และเราจะส่งคำแนะนำเกี่ยวกับวิธีการเปลี่ยนรหัสผ่านให้คุณ</string>
+    <string name="sign_up">สมัครสมาชิก</string>
+    <string name="google_play_services_not_installed">ไม่ได้ติดตั้ง Google Play Services</string>
+    <string name="enter_valid_username_password">ป้อนชื่อผู้ใช้ และรหัสผ่านที่ถูกต้อง</string>
+    <string name="enter_valid_username">ป้อนชื่อผู้ใช้ที่ถูกต้อง</string>
+    <string name="enter_valid_password">ป้อนรหัสผ่านที่ถูกต้อง</string>
+    <string name="version">เวอร์ชั่น</string>
+    <string name="loggin_in">กำลังเข้าสู่ระบบ...</string>
+    <string name="message_change_email">กรุณาป้อนที่อยู่อีเมล์ของคุณ และเปลี่ยนรหัสผ่านของคุณ</string>
+    <string name="done">เสร็จสิ้น</string>
+    <string name="e_mail">อีเมล์</string>
+    <string name="company">บริษัท</string>
+    <string name="select">เลือก</string>
+    <string name="branch">สาขา</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="username_or_email_address">ชื่อผู้ใช้ และที่อยู่อีเมล์</string>
+    <string name="caps_password">รหัสผ่าน</string>
+    <string name="confirm_password">ยืนยันรหัสผ่าน</string>
+    <string name="registration_code">รหัสลงทะเบียน</string>
+    <string name="loading_company">กำลังโหลด บริษัท...</string>
+    <string name="loading_branch">กำลังโหลด สาขา...</string>
+    <string name="registering">กำลังลงทะเบียน</string>
+    <string name="thanks_for_sign_up">ขอบคุณสำหรับการสมัคร</string>
+    <string name="please_login_now">กรุณาเข้าสู่ระบบในขณะนี้</string>
+    <string name="select_your_country">เลือกประเทศของคุณ</string>
+    <string name="first_select_country">ก่อนอื่นให้เลือกประเทศของคุณ</string>
+    <string name="loading_stores">กำลังโหลด ร้านค้า...</string>
+    <string name="no_countries_found">ไม่พบประเทศ</string>
+    <string name="select_your_store">เลือกร้านค้าของคุณ</string>
+    <string name="loading_countries">กำลังโหลด ประเทศ...</string>
+    <string name="select_your_department">เลือกแผนกของคุณ</string>
+    <string name="select_your_company">เลือกบริษัทของคุณ</string>
+    <string name="no_company_found">ไม่พบบริษัท</string>
+    <string name="password_must_be_same">รหัสผ่านจะต้องเหมือนกัน</string>
+    <string name="enter_confirm_password">ป้อนรหัสผ่านเพื่อยืนยัน</string>
+    <string name="password_digit_uppercase_lowercase">รหัสผ่านจะต้องมี 1 หลัก, 1 ตัวอักษรตัวพิมพ์ใหญ่ และ 1 ตัวอักษรตัวพิมพ์เล็ก</string>
+    <string name="enter_password">ป้อนรหัสผ่าน</string>
+    <string name="select_your_branch">เลือกสาขาของคุณ</string>
+    <string name="enter_valid_email">ป้อน ID อีเมล์ที่ถูกต้อง</string>
+    <string name="enter_email_id">ป้อน ID อีเมล์</string>
+    <string name="enter_last_name">ป้อนนามสกุล</string>
+    <string name="enter_first_name">ป้อนชื่อ</string>
+    <string name="first_select_your_company">ก่อนอื่นให้เลือกบริษัทของคุณ</string>
+    <string name="enter_registration_code">ป้อนรหัสลงทะเบียน</string>
+    <string name="forgot_password">ลืมรหัสผ่าน?</string>
+    <string name="forgot_your_password">ลืมรหัสผ่านของคุณ?</string>
+    <string name="enter_email_forgot_pass">ป้อนที่อยู่อีเมล์ของคุณด้านล่าง และเราจะส่งคำแนะนำเกี่ยวกับวิธีการเปลี่ยนรหัสผ่านให้คุณ</string>
+    <string name="reset_password">คำแนะนำสำหรับการรีเซ็ทได้ส่งไปยังที่อยู่อีเมล์ของคุณ</string>
+    <string name="please_fill_email_id">กรุณาป้อน ID อีเมล์</string>
+    <string name="email_address">ที่อยู่อีเมล์</string>
+    <string name="submit">ส่ง</string>
+    <string name="unable_to_login_with_provided_credentials">ไม่สามารถเข้าสู่ระบบด้วยข้อมูลประจำตัวที่ให้ไว้</string>
+
+
+    <!-- Menu -->
+    <string name="view_profile">ดูข้อมูลโดยรวม</string>
+    <string name="dashboard">หน้าหลัก</string>
+    <string name="upload_receipts">อัพโหลดใบเสร็จ</string>
+    <string name="calendar">ปฏิทิน</string>
+    <string name="rewards">รางวัล</string>
+    <string name="history">ประวัติ</string>
+    <string name="notifications">การแจ้งเตือน</string>
+    <string name="settings">การตั้งค่า</string>
+
+
+    <!-- Dashboard -->
+    <string name="total_points_received">คะแนนรวมที่ได้รับ</string>
+    <string name="total_points_redeemed">คะแนนรวมที่แลกแล้ว</string>
+    <string name="view_more">ดูเพิ่มเติม</string>
+    <string name="available_points_for_redemption">คะแนนที่มีอยู่สำหรับการแลกรางวัล</string>
+    <string name="membership_privileges">สิทธิพิเศษสำหรับสมาชิก</string>
+    <string name="congrats_you_are_now">ยินดีด้วย! ตอนนี้คุณ</string>
+    <string name="more_points_to_become">ได้รับคะแนนเพิ่ม</string>
+    <string name="you_have_earned">คุณได้รับ</string>
+    <string name="points">คะแนน</string>
+    <string name="since">ตั้งแต่</string>
+    <string name="announcements">แจ้งข่าวสาร</string>
+    <string name="target_units">จำนวนเป้าหมาย</string>
+    <string name="units_sold">จำนวนที่ขายแล้ว</string>
+    <string name="campaign_tracker">ตัวติดตามแคมเปญพิเศษ</string>
+    <string name="featured_rewards">รางวัลที่น่าสนใจ</string>
+    <string name="event_and_activities">อีเวนท์ และกิจกรรมต่างๆ</string>
+    <string name="points_summary">สรุปคะแนน</string>
+    <string name="request">คำขอ</string>
+    <string name="logout_text">ออกจากระบบ</string>
+    <string name="please_change_password">กรุณาเปลี่ยนรหัสผ่าน</string>
+    <string name="proceed">ตกลง</string>
+    <string name="logout_login_setting">กรุณาออกจากระบบ และเข้าสู่ระบบเพื่อให้เกิดการตั้งค่าแอพ</string>
+    <string name="warning">คำเตือน</string>
+    <string name="click_back_again_to_exit">กรุณาคลิกย้อนกลับอีกครั้งเพื่อออกจากระบบ</string>
+    <string name="points_expiry_info">คะแนน %s ของคุณจะหมดอายุในวันที่ %1d%s</string>
+    <string name="logout_message">คุณจะออกจากระบบเพื่อให้เกิดการตั้งค่าแอพ</string>
+    <string name="new_settings_found">พบการตั้งค่าใหม่</string>
+    <string name="take_survey">ทำการสำรวจ</string>
+    <string name="event">อีเวนท์</string>
+    <string name="reward">รางวัล</string>
+    <string name="button_update">อัพเดท</string>
+    <string name="title_new_app_version">มีเวอร์ชั่นใหม่ให้ใช้งาน</string>
+    <string name="message_app_update">มีเวอร์ชั่นใหม่ให้ใช้งาน กรุณาอัพเดทเป็นเวอร์ชั่นล่าสุด</string>
+
+
+    <!-- Receipts -->
+    <string name="all">ทั้งหมด</string>
+    <string name="process">กำลังดำเนินการ</string>
+    <string name="approved">ได้รับการอนุมัติ</string>
+    <string name="rejected">ได้รับการปฏิเสธ</string>
+    <string name="receipts">ใบเสร็จ</string>
+    <string name="receipt_number">เลขที่ใบเสร็จ</string>
+    <string name="brand">แบรนด์</string>
+    <string name="dd_mm_yyyy">วันที่/เดือน/ปี</string>
+    <string name="search_receipts">ค้นหาใบเสร็จ</string>
+    <string name="fetching_details">กำลังดึงข้อมูล...</string>
+    <string name="enter_frame_category">ป้อนประเภทของแว่นตา</string>
+    <string name="enter_date_of_receipt">ป้อนวันที่ของใบเสร็จ</string>
+    <string name="enter_no_of_units_sold">ป้อนจำนวนหน่วยที่ขาย</string>
+    <string name="receipts_missing">ใบเสร็จรับเงินขาดหายไป</string>
+    <string name="loading_receipts">กำลังโหลดใบเสร็จ</string>
+    <string name="uploading_receipt">กำลังอัพโหลดใบเสร็จ</string>
+    <string name="receipt_upload_failed">การอัพโหลดใบเสร็จล้มเหลว</string>
+    <string name="upload_complete">อัพโหลดเสร็จสมบูรณ์</string>
+    <string name="frame_category">ประเภทของแว่นตา</string>
+    <string name="brand_model">รหัสรุ่น</string>
+    <string name="date_of_receipt">วันที่ของใบเสร็จ</string>
+    <string name="amount">ยอดขายสุทธิ</string>
+    <string name="no_of_units_sold">จำนวนสินค้า</string>
+    <string name="view_receipt">ดูใบเสร็จ</string>
+    <string name="upload">อัพโหลด</string>
+    <string name="add">เพิ่ม</string>
+    <string name="choose">เลือก</string>
+    <string name="hint_brand_model">ขนาดตัวหนังสือ ="10"ป้อน 2 ตัวอักษร และ 4 หลัก (เช่น AB1234)ป้อน 2 ตัวอักษร 4 หลัก</string>
+    <string name="hint_amount">$XXX</string>
+    <string name="enter_brand_model">ป้อนยี่ห้อรุ่น</string>
+    <string name="quantity_less_than">ปริมาณควรน้อยกว่า 9</string>
+    <string name="add_quantity_less_than">เพิ่มน้อยกว่า 9</string>
+    <string name="enter_receipt_number">ป้อนเลขที่ใบเสร็จ</string>
+    <string name="you_cannot_select_this_photo">คุณไม่สามารถเลือกรูปภาพนี้</string>
+    <string name="choose_brand_name">เลือกชื่อแบรนด์</string>
+    <string name="processing">กำลังดำเนินการ</string>
+
+
+    <!-- Calendar -->
+    <string name="announcement">แจ้งข่าวสาร</string>
+    <string name="week">สัปดาห์</string>
+    <string name="month">เดือน</string>
+    <string name="attending">การเข้าร่วม</string>
+    <string name="attended">ได้เข้าร่วม</string>
+    <string name="please_grant_location_permission">โปรดยินยอมให้ใช้ตำแหน่งที่ตั้งเพื่อใช้งานแอพต่อไป</string>
+    <string name="there_are_no_email_client_installed">ไม่มีการติดตั้งอีเมล์ลูกค้า</string>
+    <string name="please_install_google_map_application">โปรดติดตั้งแอพพลิเคชั่น Google Map จาก Play Store</string>
+    <string name="sure_dont_want_title">คุณแน่ใจหรือไม่ว่าไม่ต้องการเพิ่มคำนำหน้าชื่อ?</string>
+    <string name="image_size_less_than_6mb">ขนาดภาพควรน้อยกว่า 6 MB</string>
+    <string name="server_technical_error">เราพบข้อผิดพลาดทางเทคนิค ทีมงานของเรากำลังดำเนินการอยู่ กรุณาลองใหม่อีกครั้งในภายหลัง</string>
+    <string name="attend">โปรดตอบกลับ</string>
+    <string name="successfully_attending_event">คุณเข้าร่วมกิจกรรมสำเร็จแล้ว</string>
+    <string name="successfully_skip_event">คุณไม่เข้าร่วมกิจกรรมสำเร็จแล้ว</string>
+    <string name="skip_event">ข้ามอีเว้นท์</string>
+    <string name="check_in">ลงทะเบียน</string>
+    <string name="checked_in">ละทะเบียนแล้ว</string>
+    <string name="successfully_checked_in_event">คุณลงทะเบียนอีเวนท์สำเร็จแล้ว</string>
+    <string name="start">เริ่ม:</string>
+    <string name="at">ที่</string>
+    <string name="end">สิ่นสุด:</string>
+    <string name="oops">อุ๊บส์</string>
+    <string name="storage_permisison_manually">ไม่สามารถเปิดคลังภาพได้ กรุณาแตะที่ตั้งค่า ไปที่อนุญาตให้ใช้ข้อมูลแอพพลิเคชั่น จากนั้นอนุญาตให้จัดเก็บข้อมูล แล้วลองอีกครั้ง</string>
+    <string name="grant_calendar_permission_rsvp_event">โปรดยินยอมให้ใช้ปฏิทินเพื่อเพิ่มการตอบกลับร่วมงานอีเวนท์ที่ปฏิทินในแอพ</string>
+    <string name="please_enter_the_password">กรุณาป้อนรหัสผ่าน</string>
+    <string name="see_all_photo">ดูรูปภาพทั้งหมด</string>
+    <string name="attendance_confirmed">ยืนยันเข้าร่วม</string>
+    <string name="checkin_confirmed">ยืนยันการลงทะเบียน</string>
+    <string name="rsvp_withdrawn">ถอนการตอบกลับ</string>
+    <string name="waiting_for_network">รอการเชื่อมโยงเครือข่าย!</string>
+    <string name="image_size_less_than_20mb">ขนาดรูปภาพควรน้อยกว่า 20 MB</string>
+    <string name="delete">ลบ</string>
+    <string name="sure_delete_photo">คุณแน่ใจหรือไม่ว่าต้องการลบรูปภาพนี้?</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่ใช่</string>
+    <string name="by">โดย</string>
+    <string name="error">ผิดพลาด</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="okay">ตกลง</string>
+    <string name="social_apps_not_installed">ยังไม่ได้ติดตั้ง Whatsapp,Instagram,Twitter และ Facebook</string>
+    <string name="edit_caption">แก้ไขคำบรรยายภาพ</string>
+    <string name="enter_caption">ป้อนคำบรรยายภาพ</string>
+    <string name="send_mail">ส่งเมล์...</string>
+    <string name="app_permission_calendar">แอพต้องการเข้าถึงปฏิทินเพื่อเพิ่มการตอบรับงานอีเวนท์</string>
+    <string name="app_location_permission_checkin">แอพต้องการเข้าถึงตำแหน่งที่ตั้งเพื่อลงทะเบียนงานอีเวนท์</string>
+    <string name="cannot_edit">คุณไม่สามารถแก้ไขได้</string>
+    <string name="share">แชร์</string>
+    <string name="selected_images_are_being_download">กำลังดาวน์โหลดรูปภาพที่เลือก, ตรวจสอบส่วนการแจ้งเตือน</string>
+    <string name="grant">ยินยอม</string>
+    <string name="app_permission_camera_storage">แอพต้องการเข้าถึงที่เก็บข้อมูลภายนอก และกล้องเพื่อเลือกรูปภาพ</string>
+    <string name="app_permission_share_image">แอพต้องการเข้าถึงที่เก็บข้อมูลภายนอกเพื่อการแชร์รูปภาพ</string>
+    <string name="select_source">เลือกแหล่งที่มา</string>
+    <string name="location_permission">โปรดยินยอมให้ใช้ตำแหน่งที่ตั้งเพื่อการใช้งานฟังก์ชั่นต่อไป</string>
+    <string name="checking_in">กำลังลงทะเบียน...</string>
+    <string name="uploading_image">กำลังอัพโหลดรูปภาพ...</string>
+    <string name="unable_to_get_your_location">ไม่สามารถรับตำแหน่งที่ตั้งของคุณ</string>
+    <string name="grant_location_permission">โปรดยินยอมให้ใช้ตำแหน่งที่ตั้งเพื่อการใช้งานฟังก์ชั่นต่อไป</string>
+    <string name="are_you_sre">คุณแน่ใจหรือไม่?</string>
+    <string name="repeated_event">งานอีเวนท์ซ้ำ</string>
+    <string name="loading_data">กำลังโหลดข้อมูล...</string>
+    <string name="updating_data">กำลังอัพเดทข้อมูล...</string>
+    <string name="deleting">กำลังลบ...</string>
+    <string name="event_">งานอีเวนท์:</string>
+    <string name="for_">เพื่อ</string>
+    <string name="message">ข้อความ</string>
+    <string name="external_storage_and_camera_permission">โปรดให้สิทธิในการจัดเก็บ และใช้กล้องถ่ายรูปเพื่อการใช้งานฟังก์ชันนี้ต่อไป</string>
+    <string name="downloading">กำลังดาวน์โหลด...</string>
+    <string name="no_permission_to_Delete_image">คุณไม่ได้รับอนุญาตให้ลบภาพนี้</string>
+    <string name="unable_to_get_permission">ไม่สามารถรับสิทธิดำเนินการ</string>
+    <string name="photo_selected">รูปภาพที่เลือก</string>
+    <string name="photos_selected">รูปภาพต่างๆที่เลือก</string>
+    <string name="all_photos">รูปภาพทั้งหมด</string>
+    <string name="skip">ข้าม</string>
+    <string name="do_you_want_to_delete">คุณต้องการลบ</string>
+    <string name="selected_photos">รูปภาพที่เลือก?</string>
+    <string name="organizer">ออแกไนเซอร์</string>
+    <string name="community">คอมมูนิตี้</string>
+    <string name="photos">ภาพถ่าย</string>
+    <string name="view_all">ดูทั้งหมด</string>
+    <string name="description">คำอธิบาย</string>
+    <string name="event_timing">ระยะเวลาของอีเวนท์</string>
+    <string name="website">เว็บไซต์</string>
+    <string name="address">ที่อยู่</string>
+    <string name="whom_to_contact_for_event">ผู้ที่ติดต่อได้สำหรับอีเวนท์</string>
+    <string name="photo">ภาพถ่าย</string>
+    <string name="add_photo">เพิ่มรูปภาพ</string>
+    <string name="email">อีเมล์</string>
+    <string name="phone">โทรศัพท์</string>
+    <string name="event_check_in">ลงทะเบียนอีเวนท์</string>
+    <string name="havent_checked_any_event">คุณไม่ได้ลงทะเบียนในอีเวนท์ใดๆ</string>
+    <string name="no_announcements">ไม่มีประกาศแจ้งข่าวสาร</string>
+
+
+    <!-- History -->
+    <string name="pts">คะแนน</string>
+    <string name="code_copied_to_clipboard">คัดลอกรหัสไปยังคลิปบอร์ด</string>
+    <string name="your_card_number">เลขที่บัตรของคุณ:</string>
+    <string name="pin_capital">รหัสผ่าน:</string>
+    <string name="redemption_code">รหัสการแลกรางวัล</string>
+    <string name="open_link">เปิดลิงค์</string>
+    <string name="copy">คัดลอก</string>
+    <string name="scan">สแกน</string>
+    <string name="no_data_to_display">ไม่มีข้อมูลแสดง</string>
+
+
+    <!-- Notification -->
+    <string name="no_notification_at_moment">อุ๊บส์ ไม่มีการแจ้งเตือนในขณะนี้</string>
+    <string name="slide_left_to_delete">เลื่อนไปทางซ้ายเพื่อลบ</string>
+    <string name="view_detail">ดูรายละเอียด</string>
+
+
+    <!-- Settings -->
+    <string name="change_password">เปลี่ยนรหัสผ่าน</string>
+    <string name="old_password">รหัสผ่านเก่า</string>
+    <string name="new_password">รหัสผ่านใหม่</string>
+    <string name="confirm_new_password">ยืนยันรหัสผ่านใหม่</string>
+    <string name="feedback_and_support">แสดงความคิดเห็น และให้ความช่วยเหลือ</string>
+    <string name="make_my_bday_public">ทำให้วันเกิดของฉันเป็นสาธารณะ</string>
+    <string name="logout">ออกจากระบบ</string>
+    <string name="password_policy">* รหัสผ่านจะต้องมีอย่างน้อย 8 ตัวอักษร และประกอบด้วย ตัวอักษรตัวใหญ่, ตัวเล็ก และตัวเลข</string>
+    <string name="password_should_be_same">รหัสผ่านใหม่ และการยืนยันรหัสผ่านควรเหมือนกัน</string>
+    <string name="password_eight_character">รหัสผ่านต้องมีความยาว 8 ตัวอักษร!</string>
+    <string name="password_changed_successfully">เปลี่ยนรหัสผ่านสำเร็จ</string>
+    <string name="new_settings_updated">อัพเดทการตั้งค่าใหม่แล้ว</string>
+    <string name="success">สำเร็จ</string>
+    <string name="phone_all_small">โทรศัพท์</string>
+    <string name="faqs">คำถามที่พบบ่อย</string>
+    <string name="tutorial">คำแนะนำการใช้งาน</string>
+    <string name="not_available">N/A</string>
+    <string name="no_email_client_installed">ไม่มีการติดตั้งอีเมล์ลูกค้า</string>
+    <string name="select_delivery_mode">เลือกโหมดการนำส่ง</string>
+
+
+    <!-- Profile -->
+    <string name="profile">ข้อมูลโดยรวม</string>
+    <string name="edit">แก้ไข</string>
+    <string name="edit_profile">แก้ไขข้อมูล</string>
+    <string name="change_photo">เปลี่ยนรูปภาพ</string>
+    <string name="first_name">ชื่อ</string>
+    <string name="last_name">นามสกุล (เป็นทางเลือก)</string>
+    <string name="official_title">ตำแหน่งทางการ (เป็นทางเลือก)</string>
+    <string name="real_title">ตำแหน่งจริง (เป็นทางเลือก)</string>
+    <string name="dob">วันเดือนปีเกิด</string>
+    <string name="mobile">มือถือ (เป็นทางเลือก)</string>
+    <string name="my_role_is">บทบาทของฉันคือ</string>
+    <string name="but_known_as">, แต่ฉันเป็นที่รู้จัก</string>
+    <string name="get_in_touch">ติดต่อทางโทรศัพท์:</string>
+    <string name="birthday">วันเกิด</string>
+    <string name="you_are_in">คุณอยู่ใน</string>
+    <string name="tier">ระดับชั้น</string>
+    <string name="user_is_in">ผู้ใช้อยู่ใน</string>
+    <string name="loading_profile">กำลังโหลดข้อมูล...</string>
+    <string name="save">บันทึก</string>
+    <string name="phone_number_is_not_valid">หมายเลขโทรศัพท์ไม่ถูกต้อง</string>
+    <string name="please_fill_all_fields">กรุณากรอกข้อมูลให้ครบทุกช่อง</string>
+    <string name="address_line_one">ที่อยู่บรรทัดที่ 1 (เป็นทางเลือก)</string>
+    <string name="address_line_two">ที่อยู่บรรทัดที่ 2 (เป็นทางเลือก)</string>
+    <string name="all_fields_are_mandatory">ทุกสาขามีผลบังคับใช้</string>
+    <string name="enter_valid_mobile_number">ป้อนหมายเลขโทรศัพท์มือถือที่ถูกต้อง</string>
+    <string name="please_enter_your_dob">กรุณาป้อนวันเดือนปีเกิดของคุณ</string>
+    <string name="please_enter_mobile_number">กรุณาป้อนเบอร์โทรศัพท์มือถือ</string>
+    <string name="please_enter_first_name">กรุณาป้อนชื่อ</string>
+    <string name="please_enter_last_name">กรุณาป้อนนามสกุล</string>
+    <string name="please_enter_address1">กรุณาป้อนที่อยู่1</string>
+    <string name="required_permission_not_granted">การขออนุญาตใช้งานไม่ได้รับการยินยอม</string>
+    <string name="updated_successfully">อัพเดทสำเร็จแล้ว</string>
+
+
+    <!-- Rewards -->
+    <string name="search">ค้นหา</string>
+    <string name="nearby">ใกล้เคียง</string>
+    <string name="location_not_found">ไม่พบตำแหน่งที่ตั้ง</string>
+    <string name="total_points_as_of">คะแนนรวม ณ วันที่</string>
+    <string name="points_to_redeem">คะแนนเพื่อแลก</string>
+    <string name="rewards_to_redeem">รางวัลเพื่อแลกรับ</string>
+    <string name="you_have">คุณมี</string>
+    <string name="nearby_rewards">รางวัลใกล้เคียง</string>
+    <string name="code">รหัส</string>
+    <string name="redeemed_on_the">แลกของรางวัลเมื่อ</string>
+    <string name="your_promo_code">รหัสโปรโมชั่นของคุณ</string>
+    <string name="press_link_for_more_detail">กดลิงค์เพื่อดูรายละเอียดเพิ่มเติม</string>
+    <string name="please_select_any_mobile_number_for_call">กรุณาเลือกหมายเลขโทรศัพท์สำหรับการติดต่อ</string>
+    <string name="please_enter_vendor_passcode">กรุณาป้อนรหัสผู้ขาย</string>
+    <string name="redeeming_this_reward_will_deduct">การแลกรางวัลนี้ คะแนนของคุณจะถูกหักออก</string>
+    <string name="from_your_account">จากบัญชีของคุณ</string>
+    <string name="error_caps">ผิดพลาด!</string>
+    <string name="please_enter_your_customer_id_number">กรุณาป้อนหมายเลขรหัสลูกค้าของคุณ</string>
+    <string name="please_enter_your_pln_number">กรุณาป้อนรหัสผ่านของคุณ</string>
+    <string name="please_enter_your_phone">กรุณาป้อนโทรศัพท์ของคุณ</string>
+    <string name="confirmation">การยืนยัน</string>
+    <string name="are_you_sure_you_want_to_redeem">คุณแน่ใจหรือไม่ว่าต้องการแลกรางวัล</string>
+    <string name="reward_for_this_phone_number">รางวัลสำหรับหมายเลขโทรศัพท์นี้</string>
+    <string name="thank_you">ขอขอบคุณ!</string>
+    <string name="error_response">การตอบสนองผิดพลาด</string>
+    <string name="are_you_sure">คุณแน่ใจหรือไม่?</string>
+    <string name="point_reward_header">คะแนน</string>
+    <string name="discount_reward_header">ส่วนลด</string>
+    <string name="please_input_some_text">กรุณาป้อนข้อความ</string>
+    <string name="app_nearby_location_rewards">แอพต้องการเข้าถึงตำแหน่งที่ตั้งเพื่อค้นหารางวัลใกล้เคียง</string>
+    <string name="app_nearby_location_facilities">แอพต้องการเข้าถึงตำแหน่งเพื่อค้นหาสิ่งอำนวยความสะดวกในบริเวณใกล้เคียง</string>
+    <string name="hint_search">ค้นหา</string>
+    <string name="no_rewards_available">ขออภัย ไม่มีรางวัลในพื้นที่นี้ในช่วงเวลานี้</string>
+    <string name="redeem">แลกรางวัล</string>
+    <string name="you_want_to_redeem_this_reward">คุณต้องการแลกรางวัลนี้</string>
+    <string name="points_required">ต้องใช้ คะแนน</string>
+    <string name="out_of_stock">สินค้าหมด</string>
+    <string name="hurry_up_only">เร็วเข้า! เหลือเพียง</string>
+    <string name="left">ชิ้นเท่านั้น</string>
+    <string name="contact">ติดต่อ</string>
+    <string name="about">เกี่ยวกับ</string>
+    <string name="read_more">อ่านเพิ่มเติม</string>
+    <string name="read_less">อ่านลดลง</string>
+    <string name="terms_and_conditions">ข้อกำหนด และเงื่อนไข</string>
+    <string name="scan_cancelled">การสแกนถูกยกเลิกโดยคุณ</string>
+    <string name="place_qr_code_in_frame">วาง QR code ในกรอบ</string>
+    <string name="label_points">คะแนน</string>
+    <string name="courier_option">ตัวเลือกการจัดส่ง</string>
+    <string name="office_delivery">จัดส่งสำนักงาน (บริการฟรี)</string>
+    <string name="fee_of">ค่าธรรมเนียมของ</string>
+    <string name="points_apply">ใช้คะแนน</string>
+    <string name="courier_sub_text">การแลกรางวัลใดๆที่ตามมาภายในวันนั้นจะไม่เสียค่าใช้จ่าย</string>
+    <string name="office_delivery_sub_text">รวบรวมรางวัลของคุณทุกวันทำการที่ 1 ของเดือน (การแลกรางวัลดำเนินการแล้วเสร็จในวันที่ 9-23 ของเดือนก่อนหน้า) หรือวันที่ 15 ของเดือน (การแลกรางวัลดำเนินการแล้วเสร็จในวันที่ 24 ของเดือนก่อนหน้าถึงวันที่ 8 ของเดือนปัจจุบัน)</string>
+    <string name="message_select_delivery_mode">กรุณาเลือกรูปแบบการจัดส่ง</string>
+    <string name="valid_till">ใช้ได้ถึง</string>
+    <string name="redeeming">กำลังแลกรางวัล...</string>
+    <string name="are_you_sure_you_want_to_redeem_reward">คุณแน่ใจหรือไม่ว่าต้องการแลกรางวัลนี้?</string>
+    <string name="confirm_edit_mobile_number">ยืนยันหมายเลขโทรศัพท์มือถือของคุณ</string>
+    <string name="redeemed">แลกรางวัลแล้ว</string>
+    <string name="enter_phone_number">ป้อนหมายเลขโทรศัพท์มือถือของคุณ</string>
+    <string name="phone_number_to_redeem_topup">กรุณาป้อนหมายเลขโทรศัพท์เพื่อแลกการเติมเงินนี้</string>
+    <string name="enter_your_mobile_number">ป้อนหมายเลขโทรศัพท์มือถือของคุณ</string>
+    <string name="confirm">ยืนยัน</string>
+    <string name="enter_customer_id_to_redeem_topup">กรุณาป้อนรหัสลูกค้าเพื่อแลกการเติมเงินนี้</string>
+    <string name="enter_pln_number">ป้อนหมายเลข Pln</string>
+    <string name="enter_pln_to_redeem_topup">กรุณาป้อนหมายเลข Pln เพื่อแลกการเติมเงินนี้</string>
+    <string name="barcode_message">บาร์โค้ดสำหรับการแลกรางวัล</string>
+    <string name="redeem_e_cash">แลกเงินอิเล็กทรอนิกส์ (e-cash)</string>
+    <string name="enter_amount">ป้อนจำนวนรวม</string>
+    <string name="min_amt_reqd">การแลกขั้นต่ำที่ $1 เพิ่มขึ้นตามลำดับเป็นทวีคูณของ $1</string>
+    <string name="enter_paynow_acc_no">ป้อนหมายเลขบัญชีของ PayNow</string>
+    <string name="or">หรือ</string>
+    <string name="enter_reg_mob_no">ป้อนหมายเลขโทรศัพท์ที่ลงทะเบียนของ PayNow</string>
+    <string name="one_dollar">1</string>
+    <string name="paynow_link">ไม่ได้ลงทะเบียนกับ PayNow? สมัครตอนนี้!</string>
+    <string name="pls_enter_amount">กรุณาป้อนจำนวนรวม</string>
+    <string name="enter_bank_or_mob_no">กรุณาป้อนหมายเลขบัญชีธนาคาร PayNow หรือหมายเลขโทรศัพท์มือถือที่ลงทะเบียน PayNow</string>
+    <string name="pls_enter_valid_mob_no">กรุณาป้อนหมายเลขโทรศัพท์มือถือที่ถูกต้อง</string>
+    <string name="pls_enter_min_amount">กรุณาป้อนขั้นต่ำ $1</string>
+    <string name="mobile_update_fail_try_again">การอัพเดทหมายเลขโทรศัพท์ล้มเหลว โปรดลองอีกครั้ง</string>
+    <string name="direct_delivery_address">ที่อยู่จัดส่งโดยตรง</string>
+    <string name="confirm_redemption">ยืนยันการแลกรางวัล</string>
+    <string name="address_line_one_no_optional">ที่อยู่บรรทัดที่ 1</string>
+    <string name="address_line_two_no_optional">ที่อยู่บรรทัดที่ 2</string>
+    <string name="contact_number">หมายเลขติดต่อ</string>
+    <string name="label_postcode">รหัสไปรษณีย์</string>
+    <string name="search_result">ค้นหาผลลัพธ์</string>
+    <string name="external_storage_permission">โปรดให้สิทธิในการจัดเก็บเพื่อการใช้งานในฟังก์ชั่นนี้ต่อไป</string>
+    <string name="option">ทางเลือก</string>
+    <string name="filter_categories_by">ตัวกรองจัดประเภทโดย</string>
+    <string name="locations">ตำแหน่งที่ตั้ง</string>
+    <string name="office_delivery_info">โปรดทราบว่ามีการตัดทุกวันที่ 23 ของเดือน คุณจะได้รับบัตรกำนัลในวันที่ 30 หรือ 31 ของเดือนหรือวันทำการถัดไปหากตรงกับวันหยุดสุดสัปดาห์หรือวันหยุดนักขัตฤกษ์</string>
+
+
+    <!-- Points Summary -->
+    <string name="point_summary">สรุปคะแนน</string>
+    <string name="remaining_points">คะแนนคงเหลือ</string>
+    <string name="total_redeemed">แลกรางวัลแล้วรวมทั้งหมด</string>
+    <string name="view_point_rewardz">ดูคะแนนสะสม</string>
+    <string name="view_discount_rewardz">ดูรางวัลส่วนลด</string>
+    <string name="year">ปี</string>
+    <string name="overall">รวมทั้งสิ้น</string>
+    <string name="basic">เบสิค</string>
+    <string name="pro">โปร</string>
+    <string name="elite">อีลีท</string>
+    <string name="total_points_earned">คะแนนรวมทั้งหมดที่ได้รับ</string>
+    <string name="you_need">คุณต้องการ</string>
+    <string name="more_points_to_get_this_rewards">คะแนนเพิ่มเติมเพื่อรับรางวัลนี้</string>
+    <string name="you_can_redeem">คุณสามารถแลกรางวัลนี้</string>
+
+
+    <string name="error_message">มีบางอย่างผิดปกติ กรุณาลองใหม่อีกครั้งในภายหลัง</string>
+    <string name="no_internet_connection">ไม่มีการเชื่อมต่ออินเตอร์เน็ต</string>
+    <string name="something_went_wrong">มีบางอย่างผิดปกติ</string>
+    <string name="location_services_enable">เปิดใช้บริการตำแหน่งที่ตั้ง</string>
+    <string name="location_alert">การแจ้งเตือนตำแหน่งที่ตั้ง</string>
+    <string name="location_not_found_switch_on">ไม่พบตำแหน่ง กรุณาเปิดตำแหน่งที่ตั้ง</string>
+    <string name="server_facing_heavy_load">เซิร์ฟเวอร์กำลังโหลดข้อมูลจำนวนมาก กรุณาลองใหม่อีกครั้งในภายหลัง</string>
+    <string name="thai">ไทย</string>
+    <string name="english">ภาษาอังกฤษ</string>
+    <string name="chinese">ภาษาจีน(中文)</string>
+    <string name="choose_language">เลือกภาษา</string>
+    <string name="change_language">เปลี่ยนภาษา</string>
+    <string name="email_to_get_reset_password">ป้อนที่อยู่อีเมลของคุณด้านล่างและเราจะส่งคำแนะนำเกี่ยวกับวิธีการเปลี่ยนรหัสผ่านให้คุณ</string>
+    <string name="vendor_passcode">รหัสผ่านผู้จำหน่าย</string>
+
+    <string name="scan_qr_code_text_one">สแกนรหัส QR ในร้านเพื่อรับข้อเสนอของคุณ!</string>
+    <string name="scan_qr_code">สแกนรหัส QR</string>
+    <string name="scan_qr_code_text_two">มองหารหัส QR ที่มีโลโก้สีแดงอยู่ตรงกลางเพื่อสแกน</string>
+    <string name="title">เพิ่มชื่อภาพ</string>
+    <string name="please_enter_your_passcode">กรุณาใส่รหัสผ่านของคุณ</string>
+    <string name="next">ต่อไป</string>
+    <string name="no_photos_added">ยังไม่มีรูปเเนบ</string>
+    <string name="thailand">Thailand</string>
+    <string name="albums">อัลบั้ม</string>
+    <string name="galleries">แกลลอรี่</string>
+    <string name="you_reached_selection_limit">จำนวนสิทธิที่คุณเลือกเต็มเเล้ว</string>
+    <string name="today">วันนี้</string>
+
+
+    <string name="about_small">เกี่ยวกับ</string>
+    <string name="acknowledge">รับทราบ</string>
+    <string name="activities_and_events">กิจกรรมต่างๆ</string>
+    <string name="alert_button_cancel">ยกเลิก</string>
+    <string name="alert_button_delete_my_devices">ลบ</string>
+    <string name="announcements_capital">ประกาศข่าวสาร</string>
+    <string name="app_support">ช่วยเหลือด้านแอพฯ</string>
+    <string name="are_you_sure_you_want_to_delete_all_notification">คุณแน่ใจที่จะลบข้อความทั้งหมด?</string>
+    <string name="at_max_1000_quantities">สามารถเลือกสูงสุดได้ 1000 ชิ้น</string>
+    <string name="at_max_appreciation_points">สามารถให้คะแนนสูงสุดได้ 1000000 คะแนน</string>
+    <string name="attachment_menu_camera">กล้อง</string>
+    <string name="attachment_menu_gallery">อัลบั้ม</string>
+    <string name="attachment_menu_location">ตำแหน่ง</string>
+    <string name="back_to_rewards">กลับสู่รายการของรางวัล</string>
+    <string name="bronze_category">การแนะนำ 1 คน</string>
+    <string name="browse_all">ค้นหาทั้งหมด</string>
+    <string name="btn_apply">นำไปใช้</string>
+    <string name="btn_cancel">ยกเลิก</string>
+    <string name="btn_redeem">แลก</string>
+    <string name="btn_settings">ปรับแต่ง</string>
+    <string name="btn_submit">ยืนยัน</string>
+    <string name="by_courier">โดยบริการจัดส่ง</string>
+    <string name="calendar_small">ปฏิทิน</string>
+    <string name="change">เปลี่ยน</string>
+    <string name="change_outlet">เปลี่ยน Outlet</string>
+    <string name="check_in_events">เช็คอินกิจกรรม</string>
+    <string name="checked_in_successfully">เช็คอินสำเร็จ</string>
+    <string name="clear">ล้าง</string>
+    <string name="close">ปิด</string>
+    <string name="congratulations_you_have_won_scratch_card">ยินดีด้วย!! คุณได้รับรางวัลจากบัตรขูดชิงโชค</string>
+    <string name="country">ประเทศ</string>
+    <string name="title_dashboard">หน้าหลัก</string>
+    <string name="deferred_redemption_confirmation">หากต้องการดำเนินการต่อให้เลือก ‘ใช้ทันที’ เพื่อใช้รางวัล หากคุณเลือก ‘ใช้ในภายหลัง’ รางวัลของคุณจะถูกจัดเก็บไว้ใน ‘กระเป๋าของฉัน’ เพื่อใช้ในภายหลัง หากต้องการออกจากหน้านี้ ให้คลิก ‘x’ ระบบจะไม่หักคะแนน</string>
+    <string name="delete_all">ลบทั้งหมด</string>
+    <string name="delivery_address">ที่อยู่การจัดส่ง</string>
+    <string name="delivery_fee_of">ค่าจัดส่งของ</string>
+    <string name="discount">ส่วนลด</string>
+    <string name="email_or_username">อีเมล หรือ ชื่อผู้ใช้งาน</string>
+    <string name="email_us">อีเมลมาที่เรา</string>
+    <string name="enter_contact_number">กรุณาระบุเบอร์โทรติดต่อ</string>
+    <string name="enter_email">ระบุอีเมล</string>
+    <string name="enter_paynow_registered_number">ระบุเบอร์โทรที่ได้ลงทะเบียนกับ PayNow</string>
+    <string name="enter_your_email_to_reset_pwd">ระบุอีเมลด้านล่างและเราจะทำการจัดส่งคู่มือการเปลี่ยนรหัสผ่านให้ท่าน</string>
+    <string name="event_contact_person">ผู้ติดต่อสำหรับงานอีเว้นท์</string>
+    <string name="event_points">คะแนนงานอีเว้นท์</string>
+    <string name="event_venue">สถานที่จัดงาน</string>
+    <string name="events_capital">งานอีเว้นท์</string>
+    <string name="evoucher_use_later_message">กรุณาไปที่ กระเป๋าเงินของฉัน เพื่อใช้คะแนนในการแลกของรางวัล</string>
+    <string name="exceeding_allocated_points_limit">คุณมีคะแนนเกินจำนวน</string>
+    <string name="explore">สำรวจ</string>
+    <string name="faq">คำถามที่พบบ่อย</string>
+    <string name="first_and_last_name">ชื่อจริงและนามสกุล</string>
+    <string name="free_delivery">(จัดส่งฟรี)</string>
+    <string name="have_you_received_amount">คุณได้รับยอดรวมหรือไม่</string>
+    <string name="have_you_received_product">คุณได้รับสินค้าหรือไม่</string>
+    <string name="have_you_received_voucher">คุณได้รับบัตรกำนัลแล้วหรือยัง?</string>
+    <string name="history_small">ประวัติ</string>
+    <string name="facility_check_in_small">สิ่งอำนวยความสะดวก</string>
+    <string name="hundred_pts_reqd">ต้องการคะแนน 100 คะแนน</string>
+    <string name="in_high_demand">ของรางวัลยอดนิยม</string>
+    <string name="july_2015">กรกฎาคม 2558</string>
+    <string name="just_last_name">นามสกุล</string>
+    <string name="learn_more">ดูเพิ่มเติม</string>
+    <string name="live_chat">แชท</string>
+    <string name="location">ตำแหน่ง</string>
+    <string name="max_ecash_amount">สูงสุด 1000000</string>
+    <string name="mon_to_fri">จันทร์ ถึง ศุกร์, 10.00 - 18.00 น.</string>
+    <string name="monthly">รายเดือน</string>
+    <string name="my_wallet">กระเป๋าเงินของฉัน</string>
+    <string name="no_announcements_this_month">อุ๊ปส์! ไม่มีประกาศข่าวสารในเดือนนี้</string>
+    <string name="no_events_this_month">อุ๊ปส์! ไม่มีกิจกรรมในเดือนนี้</string>
+    <string name="no_internet">ไม่ได้เชื่อมต่ออินเตอร์เน็ต</string>
+    <string name="no_location_found">ไม่สามารถระบุตำแหน่งได้</string>
+    <string name="no_receipts_approved">อุ๊ปส์! ไม่มีใบเสร็จที่ได้รับการอนุมัติ</string>
+    <string name="no_receipts_processing">ไม่มีใบเสร็จที่อยู่ในระหว่างการตรวจสอบ</string>
+    <string name="no_receipts_rejected">ไม่มีใบเสร็จที่ถูกปฏิเสธ</string>
+    <string name="no_receipts_uploaded">อุ๊ปส์! ไม่มีรายการอัพโหลดใบเสร็จ</string>
+    <string name="no_redemptions_available">ไม่มีรายการของรางวัลให้แลก</string>
+    <string name="not_registered_with_paynow">ยังไม่ได้ทำการสมัคร PayNow</string>
+    <string name="nothing_found_matching">ไม่พบข้อมูลที่ตรงกับ %s</string>
+    <string name="notifications_small">การแจ้งเตือน</string>
+    <string name="ok">ตกลง</string>
+    <string name="only_few_left">เหลือเพียง %1d ชิ้นเท่านั้น อย่าพลาด!</string>
+    <string name="optional">ส่วนเสริม</string>
+    <string name="outlet">ลดราคา</string>
+    <string name="password_reset">วิธีการรีเซ็ทถูกส่งไปยังอีเมลของคุณ</string>
+    <string name="paynow_min_transaction_message">กรุณาระบุยอดการแลกขั้นต่ำของ $10 เพิ่มขึ้นได้จาก $1</string>
+    <string name="paytm_info">กรุณาระบุหมายเลขโทรศัพท์ที่ลงทะเบียนกับ Paytm</string>
+    <string name="physical_product_use_later_message">กรุณาแจ้งการได้รับสินค้าในกระเป๋าเงินของฉัน</string>
+    <string name="physical_voucher_use_later_message">กรุณาแจ้งการได้รับคูปองในกระเป๋าเงินของฉัน</string>
+    <string name="pincode">รหัส PinCode</string>
+    <string name="pincode_optional">รหัส PinCode (เพิ่มเติม)</string>
+    <string name="pls_enter_address_line_1">กรุณาระบุที่อยู่บรรทัด 1</string>
+    <string name="pls_enter_address_line_2">กรุณาระบุที่อยู่บรรทัด 2</string>
+    <string name="pls_enter_contact_number">กรุณาระบุหมายเลขโทรศัพท์ที่ติดต่อได้</string>
+    <string name="pls_enter_country">กรุณาระบุประเทศ</string>
+    <string name="point_history">ประวัติคะแนน</string>
+    <string name="points_available_for_redemption">คะแนนที่สามารถใช้แลกของรางวัลได้</string>
+    <string name="points_required_to_redeem">คะแนนที่ใช้ในการแลกของรางวัล</string>
+    <string name="points_won_reflected">คะแนนพิเศษจะปรากฏขึ้นใน 2 ชั่วโมง</string>
+    <string name="preferences">การตั้งค่า</string>
+    <string name="processed">การประมวลผล</string>
+    <string name="product_acknowledgement_message">หวังว่าจะชอบของรางวัลที่ได้รับไป ขอให้มีความสุข</string>
+    <string name="product_delivery_fees_info">จะมีการเก็บค่าจัดส่งของ %d เพิ่มเติม</string>
+    <string name="product_received">ได้รับสินค้าเรียบร้อย!</string>
+    <string name="pwd_update_logout_message">รหัสผ่านของคุณหมดอายุ กรุณากดลืมรหัสผ่านเพื่อทำการรีเซ็ท</string>
+    <string name="quantity">จำนวน:</string>
+    <string name="received">ได้รับเรียบร้อย</string>
+    <string name="recent_searches">การค้นหาก่อนหน้า</string>
+    <string name="recently_viewed">การเรียกดูไปก่อนหน้า</string>
+    <string name="redeem_small">แลก</string>
+    <string name="redemption_confirmation_text">การแลกของรางวัลชิ้นนี้จะถูกหักคะแนนจำนวน %1d คะแนนจากบัญชีคุณ</string>
+    <string name="register_now">ลงทะเบียน</string>
+    <string name="reward_expiring_soon_message">สินค้าใกล้จะหมด เหลือเพียง %1d ชิ้น อย่าพลาด!</string>
+    <string name="reward_used">รางวัลถูกใช้ไปแล้ว</string>
+    <string name="rewards_found_matching">พบของรางวัล %1d ชิ้น</string>
+    <string name="rewards_small">ของรางวัล</string>
+    <string name="rsvp">จอง</string>
+    <string name="save_pwd">บันทึกรหัสผ่าน</string>
+    <string name="see_points_history">ดูประวัติคะแนน ></string>
+    <string name="select_all">เลือกทั้งหมด</string>
+    <string name="select_brand">เลือกแบรนด์</string>
+    <string name="select_category">เลือกประเภท</string>
+    <string name="select_frame_category">เลือกกรอบ</string>
+    <string name="select_outlet">เลือก Outlet</string>
+    <string name="select_your_delivery_mode">เลือกวิธีการจัดส่ง</string>
+    <string name="send_logs">ส่ง Logs</string>
+    <string name="settings_small">การตั้งค่า</string>
+    <string name="settings_title_notifications">การแจ้งเตือน</string>
+    <string name="status_not_used">ยังไม่ถูกใช้</string>
+    <string name="status_received">ได้รับ</string>
+    <string name="status_used">ถูกใช้แล้ว</string>
+    <string name="support">ช่วยเหลือ</string>
+    <string name="swipe_back_forth_to_see_points_won">ปัดกลับเพื่อดูคะแนนที่ได้รับจากการชนะ</string>
+    <string name="terms_and_conditions_small">เงื่อนไขและข้อตกลง</string>
+    <string name="thanks_for_acknowledging">ขอบคุณที่แจ้งให้ทราบ</string>
+    <string name="top_rewards">ของรางวัลยอดนิยม</string>
+    <string name="upload_receipts_small">อัพโหลดใบเสร็จ</string>
+    <string name="use_later">ใช้ภายหลัง</string>
+    <string name="use_now">ใช้ตอนนี้</string>
+    <string name="use_redeemed_reward_info">คูปองจะถูกเปลี่ยนว่าใช้แล้ว</string>
+    <string name="used_caps">ถูกใช้แล้ว</string>
+    <string name="username">ชื่อผู้ใช้</string>
+    <string name="valid_till_small">ใช้ได้จนถึง :</string>
+    <string name="view_event">ดูอีเว้นท์</string>
+    <string name="view_in_wallet">ดูกระเป๋าเงินของฉัน</string>
+    <string name="view_reward">ดูของรางวัล</string>
+    <string name="voucher_acknowledgement_message">หวังว่าจะชอบคูปองที่ได้รับไป ขอให้มีความสุข</string>
+    <string name="website_address_not_available">เว็บไซต์ไม่สามารถใช้งานได้</string>
+    <string name="whats_happening">เป็นยังไงบ้าง</string>
+    <string name="wish_to_proceed">ต้องการให้ดำเนินการต่อหรือไม่</string>
+    <string name="with">กับ</string>
+    <string name="yet_to_start">เพื่อเริ่ม</string>
+    <string name="you">คุณ</string>
+    <string name="you_have_won">คุณชนะรางวัล</string>
+    <string name="you_have_won_scratch_card">คุณชนะรางวัลคูปองบัตรขูด</string>
+    <string name="your_pwd_expire">รหัสผ่านของคุณหมดอายุ</string>
+    <string name="my_points">คะแนนของฉัน</string>
+    <string name="more_details">รายละเอียดเพิ่มเติม</string>
+    <string name="greetings">ทักทาย</string>
+    <string name="security">ระบบความปลอดภัย</string>
+    <string name="see_all">ดูทั้งหมด</string>
+
+
+    <string name="appreciation_small">แสดงความขอบคุณ</string>
+    <string name="allocate_points_small">ให้คะแนน</string>
+
+    <string name="pls_enter_srch_query">กรอกข้อมูลที่ต้องการค้นหา</string>
+    <string name="leaderboard">กระดานอันดับ</string>
+    <string name="leaderboard_small">กระดานอันดับ</string>
+    <string name="individual">รายบุคคล</string>
+    <string name="team">ทีม</string>
+    <string name="total_pts_small">จำนวนทั้งหมด</string>
+    <string name="average_pts_small">จำนวนเฉลี่ย</string>
+    <string name="facility_error_message">เราไม่มีสิ่งอำนวยความสะดวกในหมวดหมู่นี้</string>
+    <string name="filter_by_category">กรองโดยประเภทสินค้า</string>
+    <string name="facility_nearby_error_message">ตอนนี้เรายังไม่มีสิ่งอำนวยความสะดวกใกล้คุณ</string>
+    <string name="members">สมาชิก</string>
+    <string name="your_team_rank_is">ทีมของคุณอยู่อันดับ</string>
+    <string name="top_ten_participants">10 อันดับ เพื่อนร่วมงาน</string>
+    <string name="hide_top_ten_participants">ซ่อน 10 อันดับเพื่อนร่วมงาน</string>
+    <string name="loading_users">กำลังโหลดผู้ใช้...</string>
+    <string name="department">แผนก</string>
+    <string name="recognition_heroes">ฮีโร่ที่ได้รับการยอมรับ</string>
+    <string name="feeds">ให้</string>
+    <plurals name="likes">
+        <item quantity="one">1 ไลค์</item>
+        <item quantity="zero">0 ไลค์</item>
+        <item quantity="other">%d ไลค์</item>
+    </plurals>
+
+
+    <plurals name="pts">
+        <item quantity="one">1 ชิ้น</item>
+        <item quantity="zero">0 ชิ้น</item>
+        <item quantity="other">%d ชิ้น</item>
+    </plurals>
+
+    <string name="filter_by_strengths">กรองโดยจุดเด่น</string>
+    <string name="filter_by_orgainsation">กรองโดยองค์กร</string>
+    <string name="select_contact">เลือกผู้ติดต่อ</string>
+    <string name="search_by_name_or_email">ค้นหาด้วยชื่อ หรือ อีเมล</string>
+    <string name="team_filter">กรองโดยทีม</string>
+    <string name="organisation_has">องค์กรมี</string>
+    <string name="selected">เลือก</string>
+    <string name="select_organization">เลือกองค์กร</string>
+    <string name="only_one_org">ไม่มีองค์กรอื่น</string>
+    <string name="select_strength">เลือกจุดเด่น</string>
+    <string name="subject">ชื่อเรื่อง</string>
+    <string name="add_your_subject_here">เพิ่มชื่อเรื่งตรงนี้</string>
+    <string name="add_your_message_here">เพิ่มข้อความตรงนี้</string>
+    <plurals name="message_appreciations_remaining">
+        <item quantity="one">ยอดคงเหลือสำหรับการขอบคุณ:</item>
+        <item quantity="other">ยอดคงเหลือสำหรับการขอบคุณ:</item>
+    </plurals>
+
+    <plurals name="message_appreciations_points">
+        <item quantity="one">คะแนนสะสมประจำเดือนที่เหลืออยู่:</item>
+        <item quantity="other">คะแนนสะสมประจำเดือนที่เหลืออยู่:</item>
+    </plurals>
+
+    <plurals name="no_of_appreciations">
+        <item quantity="one">การขอบคุณ</item>
+        <item quantity="other">การขอบคุณ</item>
+    </plurals>
+
+    <string name="appreciated">การขอบคุณ</string>
+    <string name="award_points">รางวัลคะแนน</string>
+    <string name="select_at_least_one_strengths">เลือกจุดเด่นเพื่อขอบคุณ</string>
+
+    <string name="add_subject_related_to">เพิ่มหัวข้อที่เกี่ยวข้องไปยัง</string>
+    <string name="add_message_related_to">เพิ่มข้อความที่เกี่ยวข้องไปยัง</string>
+    <string name="points_remaining_for_allocations">คะแนนคงเหลือในการให้</string>
+    <string name="thanks_for_appreciating">ขอบคุณที่แสดงความขอบคุณ</string>
+    <string name="character_limit_error_message">ระบุขั้นต่ำ %1$d ตัว</string>
+
+    <plurals name="character_count">
+        <item quantity="one">1 ตัว</item>
+        <item quantity="zero">0 ตัว</item>
+        <item quantity="other">%d ตัว</item>
+    </plurals>
+
+    <string name="you_are_appreciating">คุณกำลังแสดงความขอบคุณ</string>
+    <string name="this_will_deduct">ส่วนนี้จะถูกหัก</string>
+    <string name="by_awarding">ด้วยการให้รางวัล</string>
+
+    <string name="my_strengths">จุดเด่นของฉัน</string>
+    <string name="click_on_each_to_view_more">กดเพื่อดูข้อมูล</string>
+
+    <string name="facility_checkin">เช็คอินสิ่งอำนวยความสะดวก</string>
+
+    <string name="connect_apps">เชื่อมต่อแอพฯ</string>
+    <string name="activity_trackers">แทรกเกอร์กิจกรรม</string>
+    <string name="step_trackers">ตัวนับก้าวเดิน</string>
+    <string name="tracker_disconnect_warning">จะส่งผลให้ข้อมูลซ้ำกัน จะไม่ช่วยให้ข้อมูลมีมากขึ้น</string>
+    <string name="search_by_username">ค้นหาด้วยชื่อผู้ใช้</string>
+    <string name="appreciate">ซาบซึ้ง</string>
+    <string name="appreciate_small">ซาบซึ้ง</string>
+    <string name="last_name_not_optional">นามสกุล</string>
+
+    <string name="steps_summary">สรุปขั้นตอน</string>
+    <string name="steps_summary_small">สรุปขั้นตอน</string>
+    <string name="steps_tracked_today">ขั้นตอนการติดตามในวันนี้</string>
+    <string name="your_daily_average_steps">ขั้นตอนเฉลี่ยรายวันของคุณ</string>
+    <string name="connected_with">เชื่อมต่อกับ</string>
+    <string name="enter_valid_contact_number">กรุณาใส่หมายเลขติดต่อที่ถูกต้อง</string>
+    <string name="filters">ฟิลเตอร์</string>
+    <string name="sort_by">จัดเรียงตาม</string>
+    <string name="filter_by">Filter by</string>
+    <string name="contacts">contacts</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="referral_smalll">Referral</string>
+    <string name="greetings_small">ทักทาย</string>
+    <string name="send_your_wishes">ส่งความปรารถนาของคุณ</string>
+    <string name="hide_my_appreciation_messages">Hide my appreciation messages</string>
+    <string name="referral">REFERRAL</string>
+    <string name="employee_referral">EMPLOYEE REFERRAL</string>
+    <string name="position">Position</string>
+    <string name="name_of_the_candidate">Name of the Candidate</string>
+    <string name="phone_home">Phone - Home</string>
+    <string name="phone_mobile">Phone - Mobile</string>
+    <string name="information">Information</string>
+    <string name="successfully_submit">Successfully submitted the request.</string>
+    <string name="requesting">Requesting....</string>
+    <string name="organisation">Organisation</string>
+    <string name="first_select_your_organisation">First select your organization</string>
+    <string name="no_organisation_found">No Organisation Found</string>
+    <string name="see_more">See More</string>
+
+    <string name="official_email_id">Official Email ID</string>
+    <string name="postcode_optional">รหัสไปรษณีย์ (เป็นทางเลือก)</string>
+    <string name="remarks_optional">Remarks(Optional)</string>
+    <string name="enter_amount_less_than_selected_plan_amount">Amount entered is more than the entitled amount.</string>
+    <string name="receipt_uploaded_successfully">Your claim has been uploaded successfully.</string>
+
+
+
+    <string name="colleague_bday_today">มันเป็นเพื่อนร่วมงานของคุณ วันเกิด today.</string>
+    <string name="is_your_colleague_bday_on">มันเป็นเพื่อนร่วมงานของคุณ วันเกิด บน</string>
+    <string name="was_your_colleague_bday_on">มันเป็นเพื่อนร่วมงานของคุณ วันเกิด บน</string>
+    <string name="your_bday_today">มันเป็นของคุณ วันเกิด today.</string>
+    <string name="is_your_bday_on">มันเป็นของคุณ วันเกิด บน</string>
+    <string name="was_your_bday_on">มันเป็นของคุณ วันเกิด บน</string>
+    <string name="wish_you_a_wonderful_birthday">ขอให้คุณวิเศษ วันเกิด.</string>
+    <string name="wish_you_a_wonderful_anniversary">ขอให้คุณวิเศษ วันครบรอบ</string>
+    <string name="colleague_anniversary_today">วันนี้เป็นวันครบรอบ %1$sปี ของเพื่อนร่วมงานคุณ</string>
+    <string name="is_colleague_anniversary_on">วันครบรอบ %1$sปี ของเพื่อนร่วมงานคุณ ณ วันที่</string>
+    <string name="was_colleague_anniversary_on">วันครบรอบ %1$sปี ของเพื่อนร่วมงานคุณ ณ วันที่</string>
+    <string name="your_anniversary_today">วันนี้เป็นวันครบรอบ %1$sปี</string>
+    <string name="is_your_anniversary_on">วันครบรอบ %1$sปี ณ</string>
+    <string name="was_your_anniversary_on">วันครบรอบ %1$sปี ณ วันที่</string>
+
+    <string name="pin_code_info">ส่งผ่านโทรศัพท์ของคุณไปยังพนักงานเคาน์เตอร์เพื่อใส่รหัสพิน</string>
+
+    <string name="order_placed">สั่งซื้อสินค้า</string>
+    <string name="in_process">อยู่ในขั้นตอน</string>
+    <string name="ready_for_pick_up">พร้อมรับรถ</string>
+    <string name="shipped">การจัดส่ง</string>
+    <string name="no_greetings_this_month">อุ๊ปส์! ไม่มีคำทักทายในเดือนนี้</string>
+    <string name="for_strength">เพื่อความแข็งแรง</string>
+    <string name="i_am">ฉัน</string>
+    <string name="but_people_call_me_as">แต่ผู้คนเรียกฉันว่า</string>
+    <string name="special_deals">ข้อเสนอพิเศษ</string>
+    <string name="successfully_redeemed">แลกสำเร็จ!</string>
+    <string name="reference_code">รหัสอ้างอิง</string>
+    <string name="please_enter_your_mobile_number">กรุณาระบุเบอร์โทรติดต่อ</string>
+    <string name="please_enter_correct_mobile_number">ป้อนหมายเลขโทรศัพท์มือถือที่ถูกต้อง</string>
+    <string name="contact_support_team">โปรดติดต่อฝ่ายสนับสนุน</string>
+    <string name="appreciated_by">การขอบคุณ</string>
+    <string name="sales_update">* ความสำเร็จการขายรายสัปดาห์จะรีเฟรชทุกวันจันทร์</string>
+    <string name="saved_address">ที่อยู่ที่บันทึกไว้</string>
+    <string name="add_new">+ เพิ่มใหม่</string>
+    <string name="make_default">ทำให้เป็นค่าเริ่มต้น</string>
+    <string name="edit_small">แก้ไข</string>
+    <string name="delete_small">ลบ</string>
+    <string name="edit_address">แก้ไขที่อยู่</string>
+    <string name="add_new_address">เพิ่มที่อยู่ใหม่</string>
+    <string name="save_address">บันทึกที่อยู่</string>
+    <string name="no_address_found_info">ไม่มีการเพิ่มที่อยู่</string>
+    <string name="pls_select_address">กรุณาเลือกที่อยู่จัดส่ง</string>
+    <string name="default_address">*ที่อยู่ ค่าเริ่มต้น</string>
+    <string name="delete_address">ลบที่อยู่</string>
+    <string name="delete_confirmation">คุณแน่ใจหรือว่าต้องการลบที่อยู่?</string>
+    <string name="product_will_delivered">ผลิตภัณฑ์ของคุณจะถูกส่งไปยัง</string>
+    <string name="new_address_success">เพิ่มที่อยู่ใหม่สำเร็จแล้ว</string>
+    <string name="update_address_success">ที่อยู่ของคุณได้รับการปรับปรุงเรียบร้อยแล้ว</string>
+    <string name="ten_dollar">$10</string>
+    <string name="tap_here">Tap Here</string>
+    <string name="reset_password_btn">รีเซ็ตรหัสผ่าน</string>
+
+    <string name="app_permission_activity">App needs Physical activity permission to track the steps.</string>
+    <string name="grant_activity_permission">Please grant Physical activity permission to track the steps</string>
+    <string name="txt_candidate_details">(ป้อนรายละเอียดของผู้สมัคร)</string>
+    <string name="card_number">Card Number</string>
+    <string name="url">URL</string>
+
+    <string name="reset">Reset</string>
+    <string name="label_crop_image">Crop Image</string>
+    <string name="view_feed">View Feed</string>
+    <string name="feed_detail_not_found">Sorry, the feed does not exist.</string>
+
+
+    <!--    Appreciation Strings-->
+    <string name="rdo_btn_overall">Overall</string>
+    <string name="rdo_btn_last_seven_days">Last 7 days</string>
+    <string name="rdo_btn_last_thirty_days">Last 30 days</string>
+    <string name="rdo_btn_last_ninety_days">Last 90 days</string>
+    <string name="received_non_cap">Received</string>
+    <string name="sent">Sent</string>
+    <string name="filter">FILTER</string>
+    <string name="underlied_see_all"><u>See All</u></string>
+    <string name="filter_by_feed_type">Filter By Feed Type</string>
+    <string name="filter_by_feed_range">Filter By Feed Range</string>
+    <string name="clear_all">Clear All</string>
+    <string name="reset_all">Reset All</string>
+    <string name="strengths">STRENGTHS</string>
+    <string name="clear_selection_text">Are you sure you want to reset all  filter\nselections to default?</string>
+    <string name="reset_selection">Reset Selection</string>
+    <string name="tab_upload_receipts">ยอดขาย</string>
+    <string name="office_reception">ไปยังแผนกต้อนรับของบริษัทคุณ</string>
+    <string name="approver_comments">ความคิดเห็นของผู้อนุมัติ</string>
+    <string name="brand_name">ชื่อแบรนด์</string>
+    <string name="tutorial_not_available">Tutorial not available.</string>
+    <string name="app_permission_download_image">App needs external storage permission to save the downloaded images.</string>
+    <string name="valid_reason">Please enter the valid reason</string>
+    <string name="feed_report_success">Reported</string>
+    <string name="report_abuse">Report Abuse</string>
+    <string name="feed_report_abuse_comment">Comments</string>
+    <string name="type_concerns">Please type in your concerns</string>
+    <string name="feed_report_abuse_information">If you have any concerns regarding the feed please share below.</string>
+    <string name="menu_news_feed">เชื่อมต่อ</string>
+    <string name="select_gif">Select GIF</string>
+    <string name="search_tenor">Search Tenor</string>
+    <string name="gif">GIF</string>
+
+    <string name="select_province">เลือกจังหวัด</string>
+    <string name="pls_select_province_error">กรุณาเลือกจังหวัด</string>
+    <string name="province">จังหวัด</string>
+    <string name="pls_enter_pincode">โปรดป้อนรหัสพิน</string>
+    <string name="pls_set_province">กรุณาตั้งจังหวัดในที่อยู่ที่คุณบันทึกไว้</string>
+    <string name="appreciation_feeds_no_like">ชอบ</string>
+    <string name="_check_in">Check-In</string>
+    <string name="cannot_scan">Unable to Scan</string>
+    <string name="location_check_in">LOCATION CHECK IN</string>
+    <string name="select_prodcut_category">เลือกหมวดหมู่สินค้า</string>
+    <string name="choose_product_category">Choose Product Category</string>
+    <string name="product_category">ประเภทสินค้า</string>
+
+    <string-array name="province_state_names">
+        <item>กระบี</item>
+        <item>กรุงเทพมหานคร</item>
+        <item>กาญจนบรุี</item>
+        <item>กาฬสินธุ์</item>
+        <item>กําแพงเพชร</item>
+        <item>ขอนแก่น</item>
+        <item>จันทบรุี</item>
+        <item>ฉะเชงิเทรา</item>
+        <item>ชลบรุี</item>
+        <item>ชยันาท</item>
+        <item>ชยัภูมิ</item>
+        <item>ชมุพร</item>
+        <item>เชยีงราย</item>
+        <item>เชยีงใหม่</item>
+        <item>ตรัง</item>
+        <item>ตราด</item>
+        <item>ตาก</item>
+        <item>นครนายก</item>
+        <item>นครปฐม</item>
+        <item>นครพนม</item>
+        <item>นครราชสีมา</item>
+        <item>นครศรีธรรมราช</item>
+        <item>นครสวรรค์</item>
+        <item>นนทบรุี</item>
+        <item>นราธวิาส</item>
+        <item>น่าน</item>
+        <item>บรุีรัมย์</item>
+        <item>ปทุมธานี</item>
+        <item>ประจวบคีรีขันธ์</item>
+        <item>ปราจีนบรุี</item>
+        <item>ปัตตานี</item>
+        <item>พระนครศรีอยุธยา</item>
+        <item>พะเยา</item>
+        <item>พังงา</item>
+        <item>พัทลุง</item>
+        <item>พิจิตร</item>
+        <item>พิษณุโลก</item>
+        <item>เพชรบรุี</item>
+        <item>เพชรบรูณ์</item>
+        <item>แพร่</item>
+        <item>ภูเก็ต</item>
+        <item>มหาสารคาม</item>
+        <item>มุกดาหาร</item>
+        <item>แม่ฮ่องสอน</item>
+        <item>ยโสธร</item>
+        <item>ยะลา</item>
+        <item>รอ้ยเอ็ด</item>
+        <item>ระนอง</item>
+        <item>ระยอง</item>
+        <item>ราชบรุี</item>
+        <item>ลพบรุี</item>
+        <item>เลย</item>
+        <item>ลําปาง</item>
+        <item>ลําพูน</item>
+        <item>ศีรสะเกษ</item>
+        <item>สกลนคร</item>
+        <item>สงขลา</item>
+        <item>สตูล</item>
+        <item>สมุทรปราการ</item>
+        <item>สมุทรสงคราม</item>
+        <item>สมุทรสาคร</item>
+        <item>สระแกว้</item>
+        <item>สระบรุี</item>
+        <item>สิงห์บรุี</item>
+        <item>สุโขทัย</item>
+        <item>สุพรรณบรุี</item>
+        <item>สุราษฎร์ธานี</item>
+        <item>สุรินทร์</item>
+        <item>หนองคาย</item>
+        <item>หนองบวัลําภู</item>
+        <item>อ่างทอง</item>
+        <item>อํานาจเจริญ</item>
+        <item>อุดรธานี</item>
+        <item>อุตรดิตถ์</item>
+        <item>อุทัยธานี</item>
+        <item>อุบลราชธานี</item>
+        <item>บงึกาฬ</item>
+    </string-array>
+    <string name="benefit_for">Benefit For</string>
+    <string name="available_credit_for">Available Credit for</string>
+    <string name="maximum_annual_credit_for_selected_benefit_type">Maximum Annual Credit for Selected Benefit Type</string>
+    <string name="enter_name_of_vendor_brand_shop_name">Enter name of vendor/brand/shop name..</string>
+    <string name="remarks">Remarks</string>
+    <string name="enter_any_remarks_regarding_the_receipt_optional">Enter any remarks regarding the receipt. (Optional)</string>
+    <string name="select_benefit_for">Select Benefit For</string>
+    <string name="select_dependent">Select Dependent</string>
+    <string name="select_benefit_type">Select Benefit Type</string>
+    <string name="select_benefit_category">Select Benefit Category</string>
+    <string name="pru_rewards">Flexi Benefits</string>
+    <string name="add_led_document_title">Add additional invoice pages or product images here</string>
+    <string name="add_documents">ADD DOCUMENTS</string>
+    <string name="documents_list_title_receipt_detail">Supporting Documents</string>
+    <string name="add_pru_document_title">Add Supporting Documents</string>
+    <string-array name="benefit_for_array">
+        <item>Self</item>
+        <item>Dependent</item>
+    </string-array>
+    <string-array name="array_priority_validity">
+        <item>1 day</item>
+        <item>1 week</item>
+        <item>1 month</item>
+        <item>Always</item>
+    </string-array>
+    <string name="malay">มาเลย์</string>
+    <string name="no_items_added">No Items added</string>
+    <string name="add_item">ADD PRODUCT DETAILS</string>
+    <string name="added_items">Added Items</string>
+    <string name="notes_optional">Notes (Optional)</string>
+    <string name="delete_item">Delete item</string>
+    <string name="are_you_sure_you_want_to_delete_this_item">Are you Sure you want to delete this item?</string>
+    <string name="enter_any_remarks_regarding_the_receipt">Enter any remarks regarding the receipt</string>
+    <string name="item_details">Item Details</string>
+    <string name="product_group">Product Group</string>
+    <string name="amount_optional">Amount (optional)</string>
+    <string name="update">Update</string>
+    <string name="add_more">ADD MORE</string>
+    <string name="choose_product_group">Choose Product Group</string>
+    <string name="ledvance_receipt_list_empty">Add product details</string>
+    <string name="secondary_points_balance">Secondary Points Balance</string>
+    <string name="secondary_points">Secondary Points</string>
+    <string name="secondary_points_description">On sale of every Product; you will receive Primary Points and Secondary Points on the App. You can use the Primary Points to redeem rewards within the app; whereas, Secondary Points are those that get accumulated in your account to reward your customers when they make a sale. These accumulated Secondary Points will be added back to your Primary Points Wallet after 12 months from the date they were awarded in case your customers have not made a sale.</string>
+    <string name="approver_remarks">Approver Remarks</string>
+    <string name="receipt_on_boarding_help_message">Click on the receipts to get started</string>
+    <string name="ledvance_receipt_uploaded_successfully">Your receipt has been uploaded successfully.</string>
+    <string name="dashboard_pop_up_message">View summary of your total points</string>
+    <string name="rewards_pop_up_message">Redeem your points for numerous rewards</string>
+    <string name="receipts_pop_up_message">Upload your sales invoices</string>
+    <string name="history_pop_up_message">Keep track of your points history</string>
+    <string name="add_receipts">Add Receipts</string>
+    <string name="quantitiy_title">Qty : %1$d</string>
+    <string name="uploading_ledvance_receipt">Please wait while your receipt is being submitted</string>
+    <string name="info_requested">Info Requested</string>
+    <string name="edit_receipt">EDIT RECEIPTS</string>
+    <string name="edit_image">Edit Image</string>
+    <string name="re_submission">Re-Submission</string>
+    <string name="remaining_monthly_appreciation_budget">Remaining monthly appreciation budget</string>
+    <string name="vietnamese">เวียตนาม</string>
+    <string name="no_gif_support">No gif support from keypad</string>
+    <string name="feed_pin_it">Pin this post to top</string>
+    <string name="feed_unpin_it">Unpin the post</string>
+    <string name="x_points_required">ต้องใช้ %1d คะแนน</string>
+    <string name="feed_poll_unpin_it">Unpin the poll</string>
+    <string name="feed_poll_pin_it">Pin this poll to top</string>
+    <string name="no_chart_data">No chart data available.</string>
+    <string name="user_type">User Type</string>
+    <string name="category">Category</string>
+    <string name="challenge_id">Challenge ID</string>
+    <string name="challenge_date">Challenge Date</string>
+    <string name="number">Number</string>
+    <string name="activity_date">Activity Date</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="solution_portfolio">Solution Portfolio</string>
+    <string name="proof_of_evidence">Proof of Evidence</string>
+    <string name="notes">Notes</string>
+    <string name="enter_any_remarks_regarding_the_trend_receipt">This is a free text section. Please highlight anything that needs reviewers attention</string>
+    <string name="claim_number">Claim Number</string>
+    <string name="date_of_submission">Date of submission</string>
+    <string name="upload_claim">UPLOAD CLAIM</string>
+    <string name="add_claim">Add Claim</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="dd_MMM_yyyy">dd MMM yyyy</string>
+    <string name="trend_solution_portfolio_item_one">Cloud One</string>
+    <string name="trend_solution_portfolio_item_two">Apex One</string>
+    <string name="trend_solution_portfolio_item_three">Network One (ATP)</string>
+    <string name="trend_solution_portfolio_item_four">Network One (IPS)</string>
+    <string name="trend_challenge_id">#2345</string>
+    <string name="trend_number_info">Input number of Meetings Confirmed, eDemos, Testimonials etc.</string>
+    <string name="yyyy_MM_dd">yyyy-MM-dd</string>
+    <string name="trend_receipt_on_boarding_help_message">Tap here to get started.</string>
+    <string name="tab_upload_claims">Claims</string>
+    <string name="edit_claim">EDIT CLAIM</string>
+    <string name="uploading_claim">Uploading Claim</string>
+    <string name="loading_claims">Loading Claims....</string>
+    <string name="claims">CLAIMS</string>
+    <string name="no_claims_processing">No claims are currently being processed</string>
+    <string name="no_claims_uploaded">No Claims Found.</string>
+    <string name="claim_upload_success">Your claim is successfully submitted</string>
+    <string name="claim_number_text">Your claim number is\u0020</string>
+    <string name="trend_setter_receipts_pop_up_message">Upload your claims</string>
+    <string name="quick_link_integration">Quick Links</string>
+</resources>

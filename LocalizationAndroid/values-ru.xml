@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+
+    <string name="quantity_total">общее_количество</string>
+    <string name="total_points_receipt">количество_баллов_за_чек</string>
+    <string name="quick_link_integration">интеграция_быстрых_ссылок</string>
+
+    <string name="units_sold_value">количество_проданных_единиц</string>
+    <string name="add_item_name">добавить_название_элемента</string>
+    <string name="supporting_docs_optional">сопутствующие_документы_необязательно</string>
+    <string name="add_number_units">добавить_количество_элементов</string>
+    <string name="add_receipt_amount">добавить_сумму_чека</string>
+    <string name="add_receipt_number">добавить_номер_чека</string>
+
+    <string name="biometric_prompt_title">заголовок_биометрической_подсказки</string>
+    <string name="biometric_prompt_sub_title">подзаголовок_биометрической_подсказки</string>
+    <string name="enable">включить</string>
+    <string name="biometric_prompt_enable_title_finger">включить_заголовок_подсказки_для_биометрического_входа_по_отпечатку</string>
+    <string name="biometric_prompt_enable_sub_title_finger">включить_подзаголовок_подсказки_для_биометрического_входа_по_отпечатку</string>
+    <string name="biometric_prompt_enable_title_face">включить_заголовок_подсказки_для_биометрического_входа_по_лицу</string>
+    <string name="biometric_prompt_enable_sub_title_face">включить_подзаголовок_подсказки_для_биометрического_входа_по_лицу</string>
+    <string name="login_with_email_id">войти_с_адресом_электронной_почты</string>
+    <string name="biometric_prompt_auth_fail_cancel_title_finger">заголовок_подсказки_при_ошибке_авторизации_через_отпечаток_пальца</string>
+    <string name="biometric_prompt_auth_fail_cancel_sub_title_finger">подзаголовок_подсказки_при_ошибке_авторизации_через_отпечаток_пальца</string>
+    <string name="biometric_prompt_auth_fail_cancel_button_text_finger">текст_подсказки_при_ошибке_авторизации_через_отпечаток_пальца</string>
+    <string name="biometric_prompt_auth_fail_cancel_title_face">заголовок_подсказки_при_ошибке_авторизации_через_faceid</string>
+    <string name="biometric_prompt_auth_fail_cancel_sub_title_face">подзаголовок_подсказки_при_ошибке_авторизации_через_faceid</string>
+    <string name="biometric_prompt_auth_fail_cancel_button_text_face">текст_подсказки_при_ошибке_авторизации_через_faceid</string>
+    <string name="no_biometric_enrolled">биометрические_данные_не_зарегистрированы</string>
+    <string name="biometric_enroll_finger">биометрическая_регистрация_отпечатка_пальца</string>
+    <string name="biometric_enroll_face">биометрическая_регистрация_лица</string>
+    <string name="biometric_finger_print">биометрический_отпечаток_пальца</string>
+    <string name="biometric_face_id">биометрический_face_id</string>
+    <string name="validate_user_type">проверить_тип_пользователя</string>
+    <string name="validate_category">проверить_категорию</string>
+    <string name="validate_challenge_id">проверить_идентификатор_челленджа</string>
+    <string name="validate_challenge_date">проверить_дату_челленджа</string>
+    <string name="validate_number">проверить_номер</string>
+    <string name="validate_activity_date">проверить_дату_активности</string>
+    <string name="validate_customer_name">проверить_имя_клиента</string>
+    <string name="validate_solution_portfolio">проверить_портфолио_решений</string>
+    <string name="validate_attachment">проверить_вложение</string>
+    <string name="validate_notes">проверить_примечания</string>
+    <string name="arabic">арабский</string>
+    <!--Mark as used feature Texts-->
+
+    <string name="error_add_item_details">ошибка_добавления_деталей_об_элементе</string>
+
+
+
+</resources>

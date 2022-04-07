@@ -1,0 +1,1660 @@
+,string_type,key,en
+0,string,hint_search,Search
+1,string,top_ten,Top 10 Participants
+2,string,facility_error_message,We do not have facilities within this category
+3,string,filter_by_category,Filter by Category
+4,string,error_message,Something went wrong. Please try again later.
+5,string,otp_message,We have sent you a secure OTP to your registered mobile number
+6,string,facility_nearby_error_message,At the moment we do not have any facilities near to you
+7,string,action_details,Conversation Details
+8,string,action_add_members,Add Member
+9,string,alert_message_delete_message,Delete message?
+10,string,alert_message_delete_conversation,Delete conversation?
+11,string,alert_button_cancel,Cancel
+12,string,alert_button_delete_my_devices,Delete
+13,string,alert_button_delete_all_participants,From All
+14,string,alert_dialog_logout,Logging Out…
+15,string,notifications_num_more,+%1$d more
+16,string,notifications_new_messages,%1$d new messages
+17,string,title_select_conversation,New Message
+18,string,push_notification_no_content_title,New message (tap to sync)
+19,string,attachment_menu_camera,Camera
+20,string,attachment_menu_gallery,Gallery
+21,string,attachment_menu_location,Location
+22,string,conversation_details_title_options,Options
+23,string,conversation_details_switch_show_notifications,Show Notifications
+24,string,conversation_details_button_leave_group,Leave Chat
+25,string,conversation_details_title_participants,Participants
+26,string,alert_button_block,Block
+27,string,alert_button_unblock,Unblock
+28,string,settings_title_account,Account
+29,string,settings_title_presence,Presence
+30,string,settings_switch_show_notifications,Show Notifications
+31,string,settings_title_notifications,Notifications
+32,string,settings_content_connected,Connected
+33,string,settings_content_disconnected,Disconnected
+34,string,conversation_name,Conversation Name
+35,string,hint_conversation_name,Add Conversation Name
+36,string,privacy_policy,\u0020 I accept the
+37,string,policy_link,Terms of service & Privacy Policy
+38,string,accept_privacy_policy,Please accept our terms of Service and Privacy Policy to proceed
+39,string,award_points,Award Points
+40,string,you_are_not_authenticated,You\'re not authenticated to start conversation. Please logout and login.
+41,string,please_start_sending_msg,Please start sending messages to see the conversation details.
+42,string,out_of_30,out of 30
+43,string,add_members,Add Members
+44,string,start_conversation,Start Conversation
+45,string,no_internet_connection,No Internet Connection
+46,string,something_went_wrong,Something went wrong.
+47,string,sorry_no_user_authenticated,"Sorry, no users are authenticated to chat at the moment."
+48,string,error,Error
+49,string,only_25_member_restriction,"Sorry, right now you can create the group with only 25 members"
+50,string,group_name,Group Name
+51,string,please_enter_the_name,Please enter the name
+52,string,cancel,Cancel
+53,string,okay,OK
+54,string,enter_group_name,Enter group name
+55,string,failed_to_authenticate_layer,Failed to authenticate with Layer:
+56,string,welcome_to_the,Welcome to the
+57,string,group,group.
+58,string,unknown_participant,Unknown Participant
+59,string,is_typing,is typing
+60,string,please_grant_location_permission,Please grant location permission to continue using the app
+61,string,not_attending,not_attending
+62,string,attending,attending
+63,string,attended,attended
+64,string,there_are_no_email_client_installed,There are no email clients installed.
+65,string,please_install_google_map_application,Please install Google Map application from Play Store.
+66,string,no_user_joined_this_group,Currently there are no users joined this group.
+67,string,message,Message
+68,string,select_source,Select source
+69,string,sure_dont_want_title,Are you sure you dont want to add title?
+70,string,image_size_less_than_6mb,Image Size Should be less than 6 MB
+71,string,updated_successfully,Updated Successfully
+72,string,server_technical_error,We\'ve encountered a technical error.our team is working on it. please try again later
+73,string,attend,RSVP
+74,string,successfully_attending_event,You are successfully attending Event
+75,string,successfully_skip_event,You have successfully Skip Event
+76,string,skip_event,Skip Event
+77,string,check_in,Check In
+78,string,checked_in,Checked In
+79,string,successfully_checked_in_event,You have successfully Checked In Event
+80,string,start,START:
+81,string,at,at
+82,string,end,END:
+83,string,failed_sync_conversation,Failed to sync conversation. Please click on chat icon to start conversation
+84,string,oops,Oops
+85,string,storage_permisison_manually,"Unable to open the Gallery. Please tap Settings, go to Application info > Permissions, then allow Storage Permission and try again."
+86,string,grant_calendar_permission_rsvp_event,Please grant calendar permission to add RSVPed event to Calendar app
+87,string,please_enter_the_password,Please enter the password
+88,string,see_all_photo,See All Photos
+89,string,attendance_confirmed,Thank you. Your attendance has been confirmed. See you at the event!
+90,string,checkin_confirmed,Check-In Confirmed
+91,string,rsvp_withdrawn,RSVP Withdrawn
+92,string,join_chat_room,Join Chat Room
+93,string,would_you_like_to_join_chat_room,Would you like to join this event chat room?
+94,string,join,Join
+95,string,no,No
+96,string,successfully_joined_chat_group,You\'ve successfully joined the chat group
+97,string,subscribed,subscribed
+98,string,waiting_for_network,Waiting for network!
+99,string,image_size_less_than_20mb,Image Size Should be less than 20 MB
+100,string,delete,DELETE
+101,string,sure_delete_photo,Are you sure you want to delete this photo?
+102,string,yes,YES
+103,string,by,by
+104,string,social_apps_not_installed,"Whatsapp,Instagram,Twitter,Facebook have not been installed."
+105,string,edit_caption,EDIT CAPTION
+106,string,enter_caption,Enter caption
+107,string,search,Search
+108,string,nearby,Nearby
+109,string,location_not_found,Location not found
+110,string,unable_to_get_your_location,Unable to get your location
+111,string,grant_location_permission,Please grant location permission to continue using this functionality
+112,string,settings,SETTINGS
+113,string,pts,pts
+114,string,total_points_as_of,Total Points as of
+115,string,no_data_in_health_activity,No Data in Healthy Activity.
+116,string,not_connected_to_any_apps,You are not connected to any apps
+117,string,no_data_in_program,No Data in Programs/Activities.
+118,string,dont_have_referal_now,You dont have any referral as of now
+119,string,add_referral,Add Referral
+120,string,havent_checked_any_facility_event,You have not checked in any facility and events yet.
+121,string,event_check_in,Event Check In
+122,string,facility_check_in,FACILITY CHECK-IN
+123,string,havent_checked_any_event,You have not checked in any events yet.
+124,string,no_data_to_display,Oops! No data to display
+125,string,colleague_bday_today,It\'s your colleague\'s birthday today.
+126,string,is_your_colleague_bday_on,It\'s your colleague\'s birthday on
+127,string,was_your_colleague_bday_on,It was your colleague\'s birthday on
+128,string,your_bday_today,It\'s your birthday today.
+129,string,is_your_bday_on,It\'s your birthday on
+130,string,was_your_bday_on,It was your birthday on
+131,string,colleague_anniversary_today,It\'s your colleague\'s %1$sanniversary today.
+132,string,is_colleague_anniversary_on,It\'s your colleague\'s %1$sanniversary on
+133,string,was_colleague_anniversary_on,It was your colleague\'s %1$sanniversary on
+134,string,your_anniversary_today,It\'s your %1$sanniversary today.
+135,string,is_your_anniversary_on,It\'s your %1$sanniversary on
+136,string,was_your_anniversary_on,It was your %1$sanniversary on
+137,string,wish_you_a_wonderful_birthday,Wish you a wonderful birthday.
+138,string,no_email_client_installed,There are no email clients installed.
+139,string,wish_you_a_wonderful_anniversary,Wish you a wonderful Anniversary!
+140,string,send_mail,Send mail....
+141,string,you_have_earned,You have earned
+142,string,points_to_redeem,points to redeem
+143,string,rewards_to_redeem,rewards to redeem
+144,string,you_have,You have
+145,string,nearby_rewards,Nearby Rewards
+146,string,code,CODE
+147,string,redeemed_on_the,Redeemed on the
+148,string,your_promo_code,Your Promo code
+149,string,code_copied_to_clipboard,Code copied to clipboard
+150,string,not_available,N/A
+151,string,press_link_for_more_detail,Press Link for more detail
+152,string,please_select_any_mobile_number_for_call,Please select any mobile number for call
+153,string,please_enter_vendor_passcode,Please Enter vendor passcode
+154,string,redeeming_this_reward_will_deduct,Redeeming this reward will deduct
+155,string,from_your_account,from your account.
+156,string,delivery_fee_of,Delivery fee of
+157,string,points_will_deducted_no_further,points will be deducted. No further points will be deducted for subsequent redemptions today.
+158,string,collect_from_your_office,Collect from your office person-in-charge at the scheduled date each month.
+159,string,error_caps,ERROR!
+160,string,please_enter_your_customer_id_number,Please enter your Customer Id number
+161,string,please_enter_your_pln_number,Please enter your pln number
+162,string,please_enter_your_phone,Please Enter your phone
+163,string,confirmation,Confirmation
+164,string,are_you_sure_you_want_to_redeem,Are you sure you want to redeem
+165,string,reward_for_this_phone_number,Reward for this Phone No
+166,string,thank_you,Thank You!
+167,string,error_response,ERROR RESPONSE
+168,string,are_you_sure,Are you sure?
+169,string,loading_profile,Loading Profile....
+170,string,loading_strengths,Loading Strengths....
+171,string,nominate,NOMINATE
+172,string,thanks_for_nominating,Thanks for nominating
+173,string,appreciate,APPRECIATE
+174,string,points_remaining_for_allocations,Points remaining for allocations:
+175,string,thanks_for_appreciating,Thanks for appreciating
+176,string,endorsing,Endorsing....
+177,string,select_at_least_one_strengths,Select at least one strength to appreciate
+178,string,select_at_least_one_strengths_to_nominate,Select at least one strength to nominate
+179,string,add_subject_related_to,Add subject related to
+180,string,add_message_related_to,Add message related to
+181,string,password_should_be_same,New password and confirm password should be same.
+182,string,password_eight_character,Password must be 8 characters long!
+183,string,password_changed_successfully,Password changed successfully.
+184,string,enter_valid_mobile_number,Enter valid mobile number.
+185,string,please_enter_your_dob,Please enter your DOB
+186,string,please_enter_mobile_number,Please enter mobile number.
+187,string,please_enter_first_name,Please enter first name
+188,string,please_enter_last_name,Please enter last name
+189,string,please_enter_address1,Please enter address1
+190,string,required_permission_not_granted,Required permissions are not granted
+191,string,cant_select_future_date,You can\'t select future date
+192,string,use_location,Use Location ?
+193,string,switch_on_location_accurate_steps_tracking,Switch on location for accurate steps tracking and check-ins
+194,string,ignore,Ignore
+195,string,go_to_settings,Go To Settings
+196,string,no_google_fit_app_installed,No Google Fit App Installed
+197,string,go_to_dashboard,Go to Dashboard
+198,string,download_google_fit_app,Download Google fit App.
+199,string,google_play_services_not_installed,Google Play Services is not installed
+200,string,enter_valid_username_password,Enter Valid Username and Password.
+201,string,enter_valid_username,Enter Valid username.
+202,string,enter_valid_password,Enter Valid Password.
+203,string,request,Request
+204,string,loggin_in,Logging in....
+205,string,logout_text,LOGOUT
+206,string,please_change_password,Please change password.
+207,string,proceed,Proceed
+208,string,authenticating,Authenticating....
+209,string,logout_login_setting,Please Logout and Login for app settings to take place
+210,string,warning,Warning
+211,string,install_google_fit_app_continue,Please install Google Fit app to continue. Click OK to connect to other available tracker.
+212,string,get_google_fit_app,Get Google Fit app
+213,string,click_back_again_to_exit,Please click back again to exit
+214,string,notice,Notice
+215,string,all_permission_acquired,All permissions should be acquired
+216,string,connection_shealth_not_available,Connection with S Health is not available
+217,string,install_shealth,Please install S Health
+218,string,upgrade_shealth,Please upgrade S Health
+219,string,enable_shealth,Please enable S Health
+220,string,agree_shealth_policy,Please agree with S Health policy
+221,string,make_shealth_available,Please make S Health available
+222,string,get_in_touch,Get in touch:
+223,string,birthday,Birthday
+224,string,anniversary,Anniversary
+225,string,my_role_is,My role is
+226,string,but_known_as,", but I\'m known as"
+227,string,please_enter_the_otp,Please enter the OTP
+228,string,otp_incorrect_try_again,Your code is incorrect. Please try again
+229,string,resent_otp_check_inbox,"Resent the OTP, please check your inbox"
+230,string,server,Server
+231,string,please_fill_email_id,Please enter email-id
+232,string,service_url,Service Url
+233,string,please_add_service_url,Please Add Service Url.
+234,string,submit,Submit
+235,string,provide_right_platform,Please Provide Right Plateform
+236,string,fill_base_url,Please Fill Base URL
+237,string,successfully_sent,Successfully sent
+238,string,already_connected_to_tracker,You\'re already connected to tracker
+239,string,successfully_connected,Successfully Connected
+240,string,already_connected_with_this_account,Already connected with this account.
+241,string,redemption_code,Redemption Code
+242,string,loading_image,Loading Image ....
+243,string,image_not_exist_network_error,Image Does Not exist or Network Error
+244,string,downloading,Downloading....
+245,string,members,Members
+246,string,rank,Rank :
+247,string,you,You
+248,string,points_required,Points Required
+249,string,no_greetings_for_today,No Greetings for today
+250,string,announcements,Announcements
+251,string,isc_announcements,(ISC)2 UPDATES
+252,string,no_announcements,No Announcements
+253,string,no_appointments_today,No Appointments today
+254,string,activities_and_events,ACTIVITIES AND EVENTS
+255,string,isc_activities_and_events,EVENTS AND CPE OPPORTUNITIES
+256,string,no_events_or_training,No Events or Training
+257,string,google_fit,Google Fit
+258,string,samsung_health,Samsung Health
+259,string,read_less,Read Less
+260,string,its_your,It\'s your
+261,string,its_your_and_one_colleague,It\'s your and 1 colleague
+262,string,today,Today
+263,string,colleague,Colleague
+264,string,colleagues,Colleague\'s
+265,string,its_your_and,It\'s your and
+266,string,fcm_message,FCM Message
+267,string,successfully_disconnected,Successfully Disconnected
+268,string,you_are_appreciating,You are appreciating
+269,string,this_will_deduct,. This will deduct
+270,string,by_awarding,by awarding
+271,string,point_rewards,POINT REWARDS
+272,string,discount,DISCOUNT
+273,string,discount_reward,DISCOUNT REWARDS
+274,string,activity_trackers,Activity Trackers
+275,string,step_trackers,Step Trackers
+276,string,not_connected_with_google_fit,You are not connected with Google Fit.
+277,string,connected_with_google_fit,You are not connected with Google Fit.
+278,string,google_fit_disabled,Google Fit disabled
+279,string,jawbone,Jawbone
+280,string,please_disconnect_fitbit_first,Please Disconnect FitBit First
+281,string,please_disconnect_jawbone_first,Please Disconnect Jawbone First
+282,string,redeem_discount_at_merchant_partner,Redeem discounts at merchant partners
+283,string,astellas_reward_program,"Astellas Reward Program is an online Reward & Recognition system developed by Astellas SESA, aimed to EMPOWER leaders to RECOGNIZE and REWARD employees’ who demonstrate exception performance and professionalism in the daily work."
+284,string,welcome_to_astellas_rewards,Welcome to Astellas Rewards
+285,string,get_the_latest_info,Get the latest info
+286,string,get_real_time_update,Get real-time updates on what\'s going on in your company and see upcoming events and activities
+287,string,your_team_rank_is,Your Team Rank is
+288,string,top_ten_participants,Top 10 Participants
+289,string,hide_top_ten_participants,Hide Top 10 Participants
+290,string,unable_to_login_with_provided_credentials,Unable to log in with provided credentials.
+291,string,redemption_history,Redemption History
+292,string,loading_users,Loading Users....
+293,string,points_earned_on,Points Earned on
+294,string,total_points_earned,Total Points Earned
+295,string,congrats_you_are_now,Congrats! You are now
+296,string,more_points_to_become,more points to become
+297,string,more_points_to_get_this_rewards,more points to get this reward
+298,string,none,NONE
+299,string,announcement,Announcements
+300,string,event,Event
+301,string,view_detail,View Detail
+302,string,reward,Reward
+303,string,phone_number_is_not_valid,Phone Number is not valid.
+304,string,please_fill_all_fields,Please fill all fields.
+305,string,email_address_is_not_valid,Email address is not valid.
+306,string,successfully_submit,Successfully submitted the request.
+307,string,please_input_some_text,Please input some text.
+308,string,address_line_one,Address Line 1 (Optional)
+309,string,address_line_two,Address Line 2 (Optional)
+310,string,address_line_one_no_optional,Address Line 1
+311,string,address_line_two_no_optional,Address Line 2
+312,string,contact_number,Contact Number
+313,string,pincode,Pincode
+314,string,all_fields_are_mandatory,All fields are mandatory
+315,string,are_you_sre,Are you sure?
+316,string,toggle_to_enable_google_fit,Toggle to enable Google Fit
+317,string,toggle_to_enable_samsung_shealth,Toggle to enable Samsung Health
+318,string,tracker_disconnect_warning,will result in steps being tracked from phone and may result in duplicate steps for today. This won\'t help with faster syncing of steps from
+319,string,points_summary,POINTS SUMMARY
+320,string,point_allocation,Point allocation
+321,string,repeated_event,Repeated event
+322,string,install_google_calender_app,Please install Google Calendar app from Play Store to use this functionality
+323,string,loading_data,Loading Data....
+324,string,updating_data,Updating Data....
+325,string,deleting,Deleting....
+326,string,event_,Event:
+327,string,for_,for
+328,string,processing,PROCESSING
+329,string,team_filter,FILTER BY TEAMS
+330,string,profile_settings,Profile Settings
+331,string,username_braces,[username]
+332,string,connection_state_braces,[connection state]
+333,string,done,Done
+334,string,select_strength,Select Strength
+335,string,subject,Subject
+336,string,change,Change
+337,string,add_your_subject_here,Add your subject here
+338,string,add_your_message_here,Add your message here
+339,string,change_password,Change Password
+340,string,old_password,Old Password
+341,string,new_password,New Password
+342,string,confirm_new_password,Confirm New Password
+343,string,details,Details
+344,string,edit_profile,EDIT PROFILE
+345,string,change_photo,Change Photo
+346,string,first_name,First Name
+347,string,last_name,Last Name (Optional)
+348,string,official_title,Official Title (Optional)
+349,string,real_title,Real Title (Optional)
+350,string,dob,DOB
+351,string,make_my_bday_public,Make my birthday public
+352,string,mobile,Mobile (Optional)
+353,string,company,Company
+354,string,department,Department
+355,string,emergency_call,Emergency Call
+356,string,phone,PHONE
+357,string,phone_all_small,Phone
+358,string,sms,SMS
+359,string,business_referral,BUSINESS REFERRAL
+360,string,employee_referral,EMPLOYEE REFERRAL
+361,string,position,Position
+362,string,name_of_the_candidate,Name of the Candidate
+363,string,phone_home,Phone - Home
+364,string,phone_mobile,Phone - Mobile
+365,string,information,Information
+366,string,feedback_and_support,FEEDBACK & SUPPORT
+367,string,faqs,FAQs
+368,string,tutorial,Tutorial
+369,string,profile,Profile
+370,string,edit,EDIT
+371,string,no_rewards_available,"Sorry, no rewards available at this location at the moment."
+372,string,copy,COPY
+373,string,redeemed,REDEEMED
+374,string,enter_phone_number,Enter Phone Number
+375,string,phone_number_to_redeem_topup,Please Enter Phone Number   to Redeem this Topup.
+376,string,enter_your_mobile_number,Enter your mobile number
+377,string,confirm,CONFIRM
+378,string,confirm_small,Confirm
+379,string,referral,REFERRAL
+380,string,full_name,Full Name
+381,string,apps_and_devices,APPS & DEVICES
+382,string,runkeeper,Runkeeper
+383,string,connected,Connected
+384,string,connect,Connect
+385,string,strava,Strava
+386,string,Jawbone,Jawbone
+387,string,fitbit,Fitbit
+388,string,google_fit_account,GOOGLE FIT ACCOUNT
+389,string,disconnect,Disconnect
+390,string,which_mechanism_you_would_like,Which Mechanism You Would Like
+391,string,to_connect_to_track_your_steps,To Connect To Track Your Steps?
+392,string,msg,Msg
+393,string,view_more,View More
+394,string,be_fit_and_healthy,Be fit and healthy
+395,string,our_step_tracker_will_help_you,Our step tracker will help you keep track off your fitness and health Wherever you are
+396,string,swipe_to_see_what_next,swipe to see what\'s next
+397,string,text,text
+398,string,send_your_wishes,Send Your Wishes
+399,string,greetings,Greetings
+400,string,appointments,APPOINTMENTS
+401,string,july_2015,July 2015
+402,string,week,WEEK
+403,string,month,MONTH
+404,string,add_appointments,Add Appointments
+405,string,redeem,REDEEM
+406,string,dashboard,DASHBOARD
+407,string,whats_on_today,WHAT\'S ON TODAY
+408,string,you_want_to_redeem_this_reward,You want to redeem this reward
+409,string,member,member
+410,string,total_points,Total Points
+411,string,average_points,averagepoint
+412,string,enter_customer_id_to_redeem_topup,Please enter Customer Id to redeem this topup.
+413,string,preview_message,Preview Message
+414,string,donwloaded_image,DOWNLOADED IMAGE
+415,string,enter_pln_number,Enter Pln Number
+416,string,enter_pln_to_redeem_topup,Please enter Pln Number to redeem this topup.
+417,string,description,Description
+418,string,event_timing,Event Time
+419,string,website,Website
+420,string,points,Points
+421,string,address,ADDRESS
+422,string,whom_to_contact_for_event,WHOM TO CONTACT FOR THE EVENT
+423,string,photo,Photo
+424,string,add_photo,ADD PHOTO
+425,string,save,SAVE
+426,string,title,Title
+427,string,read_more,Read More
+428,string,terms_and_conditions,TERMS AND CONDITIONS
+429,string,terms_and_conditions_small,Terms & Conditions
+430,string,option,OPTION
+431,string,filter_categories_by,Filter Categories By
+432,string,vendor_passcode,Vendor Passcode
+433,string,please_enter_your_passcode,Please Enter Your Passcode
+434,string,conversations,CONVERSATIONS
+435,string,direct_delivery_address,Direct Delivery Address
+436,string,confirm_redemption,Confirm Redemption
+437,string,facility_checkin,FACILITY CHECKIN
+438,string,select_contact,Select Contact
+439,string,search_by_name_or_email,Search by name or email
+440,string,enable_google_fit,Enable Google Fit
+441,string,get_organized,Get organized
+442,string,synchronize_app_with_calendar,Synchronize the app with your phone calendar to help you organize your schedule better
+443,string,get_rewards,Get Rewards
+444,string,collect_point_redeem_reward,Collect points and redeem your rewards at merchant partners
+445,string,connect_google_fit_help,"Connect with google fit app.This will make a healthy change in your life by becoming more active, aware and motivated."
+446,string,google_fit_app_installed,Google Fit App Installed
+447,string,location_services_enable,Location Services Enable
+448,string,authenticated_to_google_fit,Autheticated to Google fit
+449,string,note_to_ensure,"Note: To ensure that this app functions optimally on your phone, download Google Fit and sync this app with the same gmail account as Google Fit."
+450,string,greet_your_colleagues,Greet your colleagues
+451,string,send_personalized_birthday_wishes,Send personalized birthday wishes and greetings to your colleagues
+452,string,history,HISTORY
+453,string,scan,Scan
+454,string,select_delivery_mode,Select Delivery Mode
+455,string,direct_delivery,Direct delivery
+456,string,office_pickup,Office Pick-up
+457,string,next,Next
+458,string,leaderboard,LEADERBOARD
+459,string,individual,Individual
+460,string,week_view,Week
+461,string,month_view,Month
+462,string,total_pts,TOTAL PTS
+463,string,total_pts_small,Total Pts
+464,string,average_pts,AVERAGE PTS
+465,string,average_pts_small,Avg Pts
+466,string,team,Team
+467,string,location_alert,Location Alert
+468,string,location_not_found_switch_on,Location not found please switch on the location.
+469,string,locations,LOCATIONS
+470,string,username,Username
+471,string,point_summary,POINTS SUMMARY
+472,string,remaining_points,Remaining Points
+473,string,total_redeemed,Total Redeemed
+474,string,map_voucher,Map Voucher
+475,string,view_point_rewardz,View Point Rewards
+476,string,view_discount_rewardz,View Discount Rewards
+477,string,year,YEAR
+478,string,overall,OVERALL
+479,string,basic,BASIC
+480,string,pro,PRO
+481,string,elite,ELITE
+482,string,notifications,NOTIFICATIONS
+483,string,no_notification_at_moment,Oops. No notifications at the moment.
+484,string,slide_left_to_delete,Slide Left To Delete
+485,string,password_reset,Reset instructions have been sent to your email address
+486,string,rewards,Rewards
+487,string,your_rewards,YOUR REWARDS
+488,string,all_rewards,ALL REWARDS
+489,string,contact,CONTACT
+490,string,about,ABOUT
+491,string,about_small,About
+492,string,add,Add
+493,string,organizer,Organizer
+494,string,community,Community
+495,string,steps_summary,STEPS SUMMARY
+496,string,weekly,Weekly
+497,string,steps_tracked_today,Steps Tracked Today
+498,string,your_daily_average_steps,Your Daily Average Steps
+499,string,connected_with,Connected With
+500,string,photos,PHOTOS
+501,string,view_all,View All
+502,string,chat,CHAT
+503,string,calendar,CALENDAR
+504,string,add_activity,ADD ACTIVITY
+505,string,emergency_services,EMERGENCY SERVICES
+506,string,connect_apps_and_devices,CONNECT APPS & DEVICES
+507,string,employee_engagement_program,Employee Engagement Program
+508,string,axa_drive,AXA DRIVE
+509,string,my_axa_health,My Axa Health
+510,string,employee_engagement,Employee Engagement
+511,string,password,Password
+512,string,forgot_password,Forgot Password?
+513,string,forgot_your_password,Forgot your password?
+514,string,enter_email_forgot_pass,Enter your email address below and we\'ll send you instructions on how to change your password.
+515,string,requesting,Requesting....
+516,string,whats_happening,What\'s Happening
+517,string,otp_email_message,We have sent you a secure OTP to your registered email
+518,string,btn_submit,SUBMIT
+519,string,reset_password,Reset instructions have been sent to
+520,string,no_internet,No Internet Connection
+521,string,barcode_message,Barcode for redemption
+522,string,disconnecting_dots,Disconnecting....
+523,string,disconnecting,Disconnecting
+524,string,please_wait,Please wait....
+525,string,version,Version
+526,string,hello_blank_fragment,Hello blank fragment
+527,string,btn_cancel,Cancel
+528,string,search_result,Search Result
+529,string,ok,OK
+530,string,select_email,Select email id
+531,string,select_phone,Select phone number
+532,string,staff_referral,Staff Referral
+533,string,email,Email
+534,string,residential_address,Residential Address
+535,string,citizenship,Citizenship
+536,string,highest_academic_qualification,Highest Academic Qualification
+537,string,highest_early_childhood_qualification,Highest Early Childhood Educational Qualification
+538,string,currently_pursuing,Currently Pursuing
+539,string,enter_full_name,Please enter full name
+540,string,enter_contact_number,Please enter contact number
+541,string,enter_email,Please enter email
+542,string,enter_address,Please enter the address
+543,string,select_citizenship,Please select citizenship
+544,string,select_position,Please select position
+545,string,select_highest_qualification,Please select highest qualification
+546,string,select_early_qualification,Please select early qualification attained
+547,string,select_currently_pursuing,Please select currently pursuing
+548,string,successfully_referred,Successfully Referred
+549,string,redeeming,Redeeming....
+550,string,events_capital,EVENTS
+551,string,greetings_capital,GREETINGS
+552,string,announcements_capital,ANNOUNCEMENTS
+553,string,appointments_capital,APPOINTMENTS
+554,string,reading_contacts,Reading contacts :
+555,string,healthy_activities,healthy-activities
+556,string,referral_small,referral
+557,string,check_in_events,check-in-events
+558,string,check_in_events_facilities,check-in-events-facilities
+559,string,corporate_program,corporate-program
+560,string,employee_rewards,employee-rewards
+561,string,cbo_rewards,CBO Rewards
+562,string,choose,Choose
+563,string,view_profile,View Profile
+564,string,enter_otp,ENTER OTP
+565,string,resend_code,Resend Code
+566,string,btn_settings,Settings
+567,string,your_and,It\'s yours and
+568,string,your_birthday,It\'s your birthday
+569,string,your_anniversary,It\'s your anniversary
+570,string,multiple_colleague_birthday,colleagues\'s birthday
+571,string,multiple_colleague_anniversary,colleagues\'s anniversary
+572,string,external_storage_permission,Please provide storage permission to continue using this functionality
+573,string,external_storage_and_camera_permission,Please provide storage and camera permissions to continue using this functionality
+574,string,location_permission,Please grant location permission to continue using the functionality
+575,string,checking_in,Checking in....
+576,string,uploading_image,Uploading image....
+577,string,checking,Checking....
+578,string,appreciate_small,Appreciate
+579,string,valid_till,VALID TILL
+580,string,point_reward_header,POINT
+581,string,discount_reward_header,DISCOUNT
+582,string,app_permission_calendar,App needs access to calendar for adding RSVPed events
+583,string,app_permission_camera_storage,App needs access to external storage and camera for selecting photo
+584,string,app_permission_share_image,App needs access to external storage for sharing the image
+585,string,app_nearby_location_rewards,App needs access to location for finding nearby rewards
+586,string,app_nearby_location_facilities,App needs access to location for finding nearby facilities
+587,string,app_location_permission_checkin,App needs access to location for checking in to events
+588,string,app_location_permission_facility,App needs access to location for checking in to facility
+589,string,verificatoin_failed,Verification Failed
+590,string,cannot_edit,You cannot edit this.
+591,string,select_organization,Select Organization
+592,string,only_one_org,There is no other organization available.
+593,string,bronze_category,1 Referral
+594,string,silver_category,3 Referrals
+595,string,gold_category,5 Referrals
+596,string,platinum_category,8 Referrals
+597,string,referrals,Referrals
+598,string,successful_referral,Successful Placement:
+599,string,referral_bronze_detail,Refer 2 more to attain Silver Tier
+600,string,referral_silver_detail,"Get 10,000 bonus points when you attain this tier"
+601,string,referral_gold_detail,"Get 60,000 bonus points when you attain this tier"
+602,string,referral_platinum_detail,"Get 80,000 bonus points when you attain this tier"
+603,string,others,Others
+604,string,logout,Logout
+605,string,referral_bronze_detail_refer_zero,Refer 1 successfully to attain Bronze Tier
+606,string,select_your_citizenship,Select your citizenship
+607,string,select_your_position,Select your position
+608,string,select_your_highest_acdemic_qualification,Select Highest Academic Qualification
+609,string,select_your_highest_childhood_qualification,Select Highest Early Childhood Qualification
+610,string,select_currently_persuing,Select Currently Pursuing
+611,string,share,Share
+612,string,selected_images_are_being_download,"Selected images are being download, check notification section"
+613,string,thank_referral_submission,Thank you for your referral submission.
+614,string,enter_referral_full_name,Please enter referral\'s full name
+615,string,enter_referral_contact_number,Please enter referral’s contact number
+616,string,specify_position,Please specify position
+617,string,specify_highest_qualification,Please specify highest qualification
+618,string,need_permission,Need Permission
+619,string,app_need_contact_permission,This app needs contact permission to load contacts.
+620,string,grant,Grant
+621,string,permission_grant_contact,Go to Permissions to Grant Contact
+622,string,unable_to_get_permission,Unable to get Permission
+623,string,send_log,Send Logs
+624,string,no_department_found,No department found.
+625,string,please_select_department,Please select one department
+626,string,specify_your_position,Specify your position
+627,string,specify_your_highest_academic_qualification,Specify your highest academic qualification
+628,string,specify_highest_early_childhood_qualification,Specify highest early childhood qualification
+629,string,specify_your_currently_persuing,Specify your currently pursuing
+630,string,max_restrict_file_popoup,Only 3 attachments are allowed
+631,string,max_limit,* Max of 3 attachments
+632,string,photo_selected,photo selected
+633,string,photos_selected,photos selected
+634,string,mandatory_required,* Required
+635,string,please_scpecify,Please specify
+636,string,please_enter_full_name,Please enter full name
+637,string,no_permission_to_Delete_image,You do not have permission to delete this image.
+638,string,all_photos,All Photos
+639,string,discount_rewards,Discount Rewards
+640,string,optional,Optional
+641,string,as_per_nric,as per NRIC
+642,string,remaining,Remaining
+643,string,featured_rewards,Featured Rewards
+644,string,event_and_activities,Events & Activities
+645,string,JAN,JAN
+646,string,FEB,FEB
+647,string,MAR,MAR
+648,string,APR,APR
+649,string,MAY,MAY
+650,string,JUN,JUN
+651,string,JUL,JUL
+652,string,AUG,AUG
+653,string,SEP,SEP
+654,string,OCT,OCT
+655,string,NOV,NOV
+656,string,DEC,DEC
+657,string,Su,Su
+658,string,Mo,Mo
+659,string,Tu,Tu
+660,string,We,We
+661,string,Th,Th
+662,string,Fr,Fr
+663,string,Sa,Sa
+664,string,specify_here,Specify Here
+665,string,you_need,You need
+666,string,change_language,Change Language
+667,string,choose_language,Choose Language
+668,string,english,English
+669,string,chinese,Chinese(中文)
+670,string,blank_year,
+671,string,username_or_email_address,Username or Email Address
+672,string,caps_password,Password
+673,string,login,Login
+674,string,email_address_for_reset_password,Enter your email address below and we\'ll send you instructions on how to change your password.
+675,string,receipts,RECEIPTS
+676,string,upload_receipts,UPLOAD RECEIPTS
+677,string,receipt_number,Receipt Number
+678,string,brand,Brand
+679,string,dd_mm_yyyy,dd/mm/yyyy
+680,string,approved,Approved
+681,string,rejected,Rejected
+682,string,search_receipts,Search Receipts
+683,string,garmin,Garmin
+684,string,sign_up,Sign Up
+685,string,e_mail,E-mail
+686,string,select,Select
+687,string,branch,Branch
+688,string,confirm_password,Confirm Password
+689,string,registration_code,Registration Code
+690,string,loading_company,Loading Company....
+691,string,loading_branch,Loading Branch....
+692,string,registering,Registering....
+693,string,thanks_for_sign_up,Thanks for Sign up
+694,string,please_login_now,Please Login now
+695,string,select_your_department,Select your department
+696,string,select_your_company,Select your company
+697,string,no_company_found,No company found
+698,string,password_must_be_same,Password must be same.
+699,string,enter_confirm_password,Enter confirm password.
+700,string,password_digit_uppercase_lowercase,"Password must have 1 digit, 1 UpperCase and 1 LowerCase letters."
+701,string,enter_password,Enter password.
+702,string,select_your_branch,Select your branch.
+703,string,enter_valid_email,Enter valid e-mail ID.
+704,string,enter_email_id,Enter e-mail ID.
+705,string,enter_last_name,Enter last name.
+706,string,enter_first_name,Enter first name.
+707,string,first_select_your_company,First select your company
+708,string,enter_registration_code,Enter registration code.
+709,string,skip,Skip
+710,string,enter_receipt_number,Enter Receipt Number
+711,string,choose_brand_name,Choose Brand Name
+712,string,you_cannot_select_this_photo,You cannot select this photo
+713,string,do_you_want_to_delete,Do you want to delete
+714,string,selected_photos,selected photos?
+715,string,your_card_number,Your Card Number:
+716,string,pin_capital,PIN
+717,string,verify,Verifying....
+718,string,request_new_otp,Requesting new OTP
+719,string,success,Success
+720,string,select_org,Select org
+721,string,change_org,Change Org
+722,string,logout_message,You will be logged out for app settings to take place.
+723,string,new_settings_found,New settings found
+724,string,recognize,Recognize
+725,string,thanks_for_recognizing,Thanks for recognizing
+726,string,select_at_least_one_strengths_to_recognize,Select at least one strength to recognize
+727,string,no_updates,No Updates
+728,string,take_survey,Take Survey
+729,string,workplace,WORKPLACE
+730,string,allocate_points,ALLOCATE POINTS
+731,string,server_facing_heavy_load,Server is facing heavy load. Please try again later.
+732,string,password_policy,"* Password must be minimum 8 characters and contain a combination of uppercase letters, lowercase letters & numbers."
+733,string,only_home_delivery_text_for_nexperia,Please enter your home address. Use of Nexperia ATSN office address is not allowed.
+734,string,hint_email_emp_id,Employee ID
+735,string,message_change_email,Please enter your email address and change your password
+736,string,title_change_email_password,SET EMAIL ID & PASSWORD
+737,string,email_policy,* Please enter your work or personal contact email for password reset and points redemption purposes.
+738,string,label_postcode,Postal Code
+739,string,title_dashboard_nexperia,Home
+740,string,label_points,points
+741,string,message_select_delivery_mode,Please select a delivery mode
+742,string,label_privacy_policy_nexperia,I have read and accept the Terms of Service & Privacy Policy of Rewardz and Nexperia Malaysia.
+743,string,hint_enter_email_address,Please enter you email address
+744,string,target_units,Target Units
+745,string,units_sold,Units Sold
+746,string,campaign_tracker,Special Campaigns Tracker
+747,string,you_are_in,You are in
+748,string,tier,tier
+749,string,user_is_in,User is in
+750,string,you_are_nominating,You are nominating
+751,string,you_are_recognizing,You are recognizing
+752,string,private_msg,Private
+753,string,appreciation_private_message,This user has chosen to keep the appreciations private
+754,string,make_appreciation_public,Make my appreciations public
+755,string,appreciations,Appreciations
+756,string,nominations,Nomination
+757,string,recongnizations,Recongnizations
+758,string,workplace_by_facebook,Workplace by Facebook
+759,string,share_with,Share with
+760,string,select_at_least_one_message_to_share,Please long click on message and select at least one message that you would like to share.
+761,string,appreciated,appreciated
+762,string,posting_workplace,Posting to workplace.....
+763,string,does_not_exists_on_workplace,does not exists on your workplace group
+764,string,posted_to_workplace,Successfully posted to your workplace group.
+765,string,something_went_wrong_posting_to_workplace,Something went wrong while posting to your workplace group.
+766,string,with_this_message,with this message
+767,string,new_settings_updated,New settings updated.
+768,string,hide_my_appreciation_messages,Hide my appreciation messages
+769,string,failed_to_subscribe_recording_api,There was a problem subscribing to Recording API
+770,string,fetching_details,Fetching Details....
+771,string,enter_frame_category,Select Frame Category
+772,string,enter_date_of_receipt,Enter Date of Receipt
+773,string,enter_no_of_units_sold,Enter Number of Units sold
+774,string,validate_no_of_units_sold,Number of Units sold should be less than 8
+775,string,receipts_missing,Receipt is missing
+776,string,loading_receipts,Loading Receipts....
+777,string,uploading_receipt,Uploading Receipt
+778,string,receipt_upload_failed,Receipt Upload Failed
+779,string,upload_complete,Upload Complete
+780,string,italian,Italian
+781,string,german,German
+782,string,frame_category,Frame Category
+783,string,brand_model,Brand Model
+784,string,date_of_receipt,Date of Receipt
+785,string,amount,Amount
+786,string,no_of_units_sold,No. of units sold
+787,string,view_receipt,View Receipt
+788,string,upload,Upload
+789,string,spanish,Spanish
+790,string,nric_email,NRIC/email
+791,string,notify_members,Notify members of
+792,string,quantity_less_than,Quantity should be less than 9
+793,string,add_quantity_less_than,Add less than 9
+794,string,you_can_redeem,You can redeem this reward
+795,string,enter_your_email_to_reset_pwd,Enter your email address below and we\'ll send you instructions on how to change your password
+796,string,country,Country
+797,string,store,Store
+798,string,select_your_country,Select your country
+799,string,first_select_country,First select your country
+800,string,loading_stores,Loading stores....
+801,string,no_countries_found,No countries found
+802,string,select_your_store,Select your store
+803,string,loading_countries,Loading countries....
+804,string,process,Processing
+805,string,redeem_e_cash,Redeem e-Cash
+806,string,enter_amount,Enter Amount
+807,string,min_amt_reqd,"Minimum redemption of $10 is required, subsequent increase in multiples of $1"
+808,string,enter_paynow_acc_no,Enter PayNow bank account number
+809,string,or,OR
+810,string,enter_reg_mob_no,Enter PayNow registered phone number
+811,string,hundred_pts_reqd,100 points required
+812,string,pls_enter_amount,Please enter amount
+813,string,enter_bank_or_mob_no,Please enter either PayNow bank account number or PayNow registered mobile number
+814,string,pls_enter_valid_mob_no,Please enter valid mobile number
+815,string,pls_enter_min_amount,Please enter minimum $10
+816,string,ten_dollar,$10
+817,string,paynow_link,Not registered with PayNow? Register now!
+818,string,mobile_update_fail_try_again,"Mobile number update failed, please try again"
+819,string,just_last_name,Last Name
+820,string,scan_cancelled,Scan was cancelled by you.
+821,string,place_qr_code_in_frame,Place QR code in the frame
+822,string,courier_option,Courier Option
+823,string,office_delivery,Office Delivery (Free service)
+824,string,fee_of,fee of
+825,string,points_apply,points apply
+826,string,courier_sub_text,Any subsequent redemptions within the day will be free of charge
+827,string,office_delivery_sub_text,Collect your reward/s every 1st working day of the month (redemptions done from the 9th to 23rd of the previous month) OR 15th of the month (redemptions done from the 24th of the previous month to the 8th of the current month)
+828,string,are_you_sure_you_want_to_redeem_reward,Are you sure you want to redeem this reward?
+829,string,logging_out,Logging out....
+830,string,your_pwd_expire,Your password will expire in
+831,string,alert,Alert
+832,string,pwd_update_logout_message,Your password has expired. Kindly reset your password using forget password to login
+833,string,atsn_dashboard,ATSN Dashboard
+834,string,dummy_text,WW47\'18
+835,string,output,Output
+836,string,icar,ICAR
+837,string,dept_performance,Departmental Performance
+838,string,quarter,Quarter
+839,string,label_quarter,Q
+840,string,label_qtd,QTD
+841,string,label_month,M
+842,string,hint_brand_model,
+843,string,hint_amount,$XXX
+844,string,enter_brand_model,Enter brand model
+845,string,membership_privileges,Membership Privileges
+846,string,since,since
+847,string,character_limit_error_message,Please enter minimum %1$d characters
+848,string,entered,entered
+849,string,confirm_edit_mobile_number,Confirm your mobile number
+850,string,recognition_heroes,Recognition Heroes
+851,string,feeds,Feed
+852,string,users,users
+853,string,clear,Clear
+854,string,appreciated_by,appreciated by
+855,string,updated_week,Weekly data as updated on
+856,string,scan_qr_code_text_one,Scan QR Code in store to enjoy your offer!
+857,string,scan_qr_code,Scan QR Code
+858,string,scan_qr_code_text_two,Look for the QR code with a red logo in the middle to scan
+859,string,available_points_for_redemption,Available Points for Redemption
+860,string,total_points_redeemed,Total Points Redeemed
+861,string,more_details,More Details
+862,string,my_points,My Points
+863,string,used_points,Used Points
+864,string,points_available_to_redeem,Points Available to Redeem
+865,string,learn_more,Learn More
+866,string,points_available_for_redemption,Points Available for Redemption
+867,string,steps_summary_small,Steps Summary
+868,string,close,CLOSE
+869,string,monthly,MONTHLY
+870,string,see_points_history,See Points History >
+871,string,greetings_small,Greetings
+872,string,popular_merchants,Popular Merchants
+873,string,view_event,View Event
+874,string,view_reward,View Reward
+875,string,view_message,View Message
+876,string,organisation_has,Organization has
+877,string,selected,Selected
+878,string,rsvp,RSVP
+879,string,event_venue,Event Venue
+880,string,event_contact_person,Contact Person for the Event
+881,string,location,Location
+882,string,see_all,See All
+883,string,my_strengths,My Strengths
+884,string,click_on_each_to_view_more,Click on each to view more
+885,string,but_people_call_me_as,but people call me as
+886,string,i_am,I\'m
+887,string,first_and_last_name,First & Last name
+888,string,pls_enter_address_line_1,Please enter address line one
+889,string,pls_enter_address_line_2,Please enter address line 2
+890,string,support,SUPPORT
+891,string,get_my_treats,GET MY TREATS
+892,string,total_points_received,Total Points Received
+893,string,high_5,Give High 5
+894,string,with,with
+895,string,thanks_for_high5,Thanks for giving a High 5.
+896,string,you_are_giving_high_5,You are giving a High 5
+897,string,min_appreciation_character,Minimum %1$d characters required
+898,string,high_5_awards,High 5 Awards
+899,string,joined,Joined
+900,string,your_treats_error_message,Direct access of the application is restricted; Kindly go to the Your Choice app and click on the Your Treat option.
+901,string,remaining_points_budget,Remaining points budget
+902,string,title_new_app_version,New version available
+903,string,message_app_update,A new version is available. Please update to the latest version.
+904,string,button_update,Update
+905,string,title_activity_event_photos,EventPhotosActivity
+906,string,tab_text_1,Tab 1
+907,string,tab_text_2,Tab 2
+908,string,event_points,Event Points
+909,string,security,Security
+910,string,preferences,Preferences
+911,string,app_support,App Support
+912,string,how_to_earn_points,How to earn points?
+913,string,faq,Frequently Asked Questions (FAQ)
+914,string,live_chat,Live chat
+915,string,mon_to_fri,"Mon to Fri, 10am - 6pm"
+916,string,email_us,Email us
+917,string,send_logs,Send logs
+918,string,save_pwd,Save Password
+919,string,refreshed_on,Refreshed on
+920,string,redeemed_on,Redeemed on
+921,string,steps,Steps
+922,string,workplace_small,Workplace
+923,string,upload_receipts_small,Upload Receipts
+924,string,tab_upload_receipts,Receipts
+925,string,calendar_small,Calendar
+926,string,leaderboard_small,Leaderboard
+927,string,rewards_small,Rewards
+928,string,facility_check_in_small,Facility Check In
+929,string,referral_smalll,Referral
+930,string,history_small,History
+931,string,notifications_small,Notifications
+932,string,settings_small,Settings
+933,string,connect_apps,Connect Apps
+934,string,appreciation_small,Appreciation
+935,string,title_dashboard,Dashboard
+936,string,recognize_small,Recognize
+937,string,nominate_small,Nominate
+938,string,allocate_points_small,Allocate Points
+939,string,browse_all,Browse All
+940,string,my_wallet,My Wallet
+941,string,valid_till_small,Valid Till:
+942,string,use_now,Use Now
+943,string,used_caps,USED
+944,string,expired_caps,EXPIRED
+945,string,time_left_caps,TIME LEFT
+946,string,filter_by,Filter by
+947,string,notify_me,Notify Me
+948,string,out_of_stock,OUT OF STOCK
+949,string,filters,FILTERS
+950,string,select_category,Select Category
+951,string,sort_by,Sort By
+952,string,latest,Latest
+953,string,a_to_z,A to Z
+954,string,z_to_a,Z to A
+955,string,special_deals,Special Deals
+956,string,points_required_to_redeem,Points required to redeem
+957,string,outlet,Outlet
+958,string,no_selection,No Selection
+959,string,select_outlet,Select Outlet
+960,string,please_select_outlet,Please select the outlet first
+961,string,choose_preferred_oulet,Choose your preferred  outlet:
+962,string,change_outlet,Change Outlet
+963,string,website_address_not_available,Website address not available.
+964,string,no_location_found,No location found
+965,string,click_for_more_details,Click here for more details
+966,string,register_now,Register Now
+967,string,not_registered_with_paynow,Not registered with PayNow?
+968,string,enter_paynow_registered_number,Enter PayNow registered phone number
+969,string,paynow_min_transaction_message,"Minimum redemption of $10 is required, subsequent increase in multiples of $1."
+970,string,wish_to_proceed,Do you wish to proceed?
+971,string,redemption_confirmation_text,Redeeming this reward will deduct %1d points from your account.
+972,string,deferred_redemption_confirmation,"To proceed, select ‘Use Now’ to use your reward. If you select ‘Use Later’, your reward will be stored in ‘My Wallet’ for later use. To exit, click ‘X’, points will NOT be deducted."
+973,string,use_later,Use Later
+974,string,phone_number_not_available,Phone number is not available
+975,string,successfully_redeemed,Successfully Redeemed!
+976,string,back_to_rewards,Back to Rewards
+977,string,view_in_wallet,View in My Wallet
+978,string,one_dollar,$1
+979,string,reference_code,Reference Code
+980,string,pin_code_info,Pass your phone to the counter staff to key in the pin code.
+981,string,select_your_delivery_mode,Select your mode of delivery.
+982,string,by_courier,By courier
+983,string,additional,(Additional
+984,string,applies,applies)
+985,string,courier_info,Any subsequent redemptions made within the day will  be free of charge. Delivered within 5 working days.
+986,string,office_reception,To your office reception
+987,string,free_delivery,(Free delivery)
+988,string,office_delivery_info,Please note the cut off is every 23rd of the month. You will receive your vouchers on the 30th or 31st of the month or the next working day if it falls on weekends or public holidays.
+989,string,office_delivery_sub_info,(Delivery cut-off date is on every 8th & 26th of the month. e.g. You will receive on 15th May if redemption is made on 27th April.)
+990,string,delivery_address,Delivery Address
+991,string,barcode_caps,BARCODE:
+992,string,please_enter_code,Please enter code
+993,string,only_x_rewards_remaining,Only %1d quantities are available for redemption
+994,string,please_select_at_least_one_subcategory,Please select at least one subcategory
+995,string,brand_name,Brand Name
+996,string,select_brand,Select Brand
+997,string,select_frame_category,Select Frame
+998,string,starting_soon,Starting Soon
+999,string,event_starts_on,Event starts on
+1000,string,yet_to_start,Yet to start
+1001,string,email_or_username,Email or Username
+1002,string,hurry_up,HURRY UP!
+1003,string,items_left,items left
+1004,string,paytm_info,Please enter Paytm registered mobile number
+1005,string,please_enter_correct_mobile_number,Please enter correct mobile number
+1006,string,use_redeemed_reward_info,This voucher will be marked as ‘Used’.
+1007,string,please_enter_your_mobile_number,Please enter your mobile number
+1008,string,received,RECEIVED
+1009,string,select_one_voucher_status,Please select at least one filter
+1010,string,select_all,Select All
+1011,string,no_events_this_month,Oops! There are no events in this month
+1012,string,no_greetings_this_month,Oops! There are no greetings in this month
+1013,string,no_announcements_this_month,Oops! There are no announcements in this month
+1014,string,no_redemption_this_year,Oops! You did not redeem any %1$s this year
+1015,string,no_receipts_uploaded,Oops! No receipts are uploaded
+1016,string,no_receipts_processing,No receipts are currently being processed
+1017,string,no_receipts_approved,Oops! No receipts are approved
+1018,string,no_receipts_rejected,No receipts are rejected
+1019,string,status_used,Used
+1020,string,status_not_used,Not Used
+1021,string,status_received,Received
+1022,string,no_redemptions_available,No redemption available
+1023,string,top_rewards,Top Rewards
+1024,string,points_expiry_info,Your %s Points will expire on %1d %s
+1025,string,acknowledge,Acknowledge
+1026,string,have_you_received_voucher,Have you received your physical voucher?
+1027,string,thanks_for_acknowledging,Thanks for acknowledging!
+1028,string,voucher_acknowledgement_message,We hope you enjoy your  vouchers. Have a nice day ahead.
+1029,string,enter_email_address,Enter email address
+1030,string,at_max_only_3_subcategories,At the max only 3 subcategories can be selected.
+1031,string,no_rewards_found,Oops! No rewards found.
+1032,string,explore,Explore
+1033,string,recently_viewed,Recently Viewed
+1034,string,btn_redeem,Redeem
+1035,string,rewards_found_matching,%1d rewards found matching
+1036,string,reward_expiring_soon_message,"In high demand. Only %1d left, don\'t miss out!"
+1037,string,nothing_found_matching,Nothing found matching %s
+1038,string,recent_searches,Recent Searches
+1039,string,in_high_demand,IN HIGH DEMAND!
+1040,string,only_few_left,"Only %1d left, don\'t miss out!"
+1041,string,point_history,Point History
+1042,string,address_line_two_no_optional_building_block,Address line 2 (Building/ Block/ House No.)
+1043,string,for_strength,for strength
+1044,string,redeem_small,Redeem
+1045,string,reward_used,Reward Used!
+1046,string,voucher_received,Voucher Received!
+1047,string,open_link,Open Link
+1048,string,quantity,Quantity:
+1049,string,evoucher_use_later_message,Please go to My Wallet Tab to use the redeemed reward.
+1050,string,physical_voucher_use_later_message,Please acknowledge in My Wallet once you receive the voucher.
+1051,string,congratulations,Congratulations..!
+1052,string,checked_in_successfully,Checked-in Successfully
+1053,string,checked_in_successfully_scratch_msg,When you check-in successfully  to a\nevent you will receive a scratch card\nfrom which you can win points
+1054,string,points_won,Points won
+1055,string,points_won_reflected,Points won will be reflected within 2 hours.
+1056,string,congratulations_you_have_won_scratch_card,Congratulations! \nYou have won a scratch card.
+1057,string,swipe_back_forth_to_see_points_won,Swipe back and forth to see how many points you have won.
+1058,string,you_have_won,You have won
+1059,string,have_you_received_amount,Have you received the amount?
+1060,string,contact_support_team,Please contact support team.
+1061,string,search_by_username,Search by username
+1062,string,you_have_won_scratch_card,You have won a scratch card.
+1063,string,at_max_1000_quantities,"At the max, you can select only 1000 quantities."
+1064,string,at_max_appreciation_points,"At the max, you can award 1000000 points."
+1065,string,exceeding_allocated_points_limit,You\'re exceeding the points lmit of %d
+1066,string,max_ecash_amount,Maximum 1000000 is allowed.
+1067,string,no_photos_added,No photos are added.
+1068,string,enter_less_quantity,Enter less quantity
+1069,string,delete_all,Delete All
+1070,string,are_you_sure_you_want_to_delete_all_notification,Are you sure you want to delete all notification?
+1071,string,pls_enter_srch_query,Please enter search query
+1072,string,processed,Processed
+1073,string,please_enter_wish_message,Please enter wish message.
+1074,string,sending_your_wish,Sending your wish.....
+1075,string,your_msg_sent,Your message has been sent.
+1076,string,flexi_benefits,Flexi benefits
+1077,string,text_selection_period,You have not made your selection for the benefit period for the year 2020.\n\nPlease proceed with benefits selection before logging into Flexi Benefits app.
+1078,string,pls_enter_contact_number,Please enter contact number
+1079,string,enter_valid_contact_number,Please enter valid contact number
+1080,string,pls_enter_country,Please enter country
+1081,string,physical_product_use_later_message,Please acknowledge in My Wallet once you receive the product.
+1082,string,product_acknowledgement_message,We hope you enjoy the product. Have a nice day ahead.
+1083,string,have_you_received_product,Have you received the product?
+1084,string,last_name_not_optional,Last Name
+1085,string,pincode_optional,Pincode (Optional)
+1086,string,product_received,Product Received!
+1087,string,product_delivery_fees_info,*Delivery fee of %d will be charged
+1088,string,thai,Thai
+1089,string,contacts,contacts
+1090,string,thailand,Thailand
+1091,string,flexi_benefit,Flexi Benefits
+1092,string,benefit_category,Benefit Category
+1093,string,benefit_type,Benefit Type
+1094,string,selected_benefit_plan,Selected Benefit Plan
+1095,string,remarks,Remarks
+1096,string,select_benefit,Select Benefit
+1097,string,select_benefit_category,Select Date of Receipt & Benefit Category
+1098,string,enter_description,Enter description
+1099,string,no_records_found,No Records Found
+1100,string,enter_remark,Enter remark
+1101,string,units,Units
+1102,string,organisation,Organisation
+1103,string,first_select_your_organisation,First select your organization
+1104,string,no_organisation_found,No Organisation Found
+1105,string,see_more,See More
+1106,string,official_email_id,Official Email ID
+1107,string,postcode_optional,Postcode (Optional)
+1108,string,remarks_optional,Remarks(Optional)
+1109,string,approver_comments,Approver Comments
+1110,string,enter_amount_less_than_selected_plan_amount,Amount entered is more than the entitled amount.
+1111,string,receipt_uploaded_successfully,Your claim has been uploaded successfully.
+1112,string,email_or_emp_id,Enter your E-mail ID or Emp ID
+1113,string,order_placed,Order Placed
+1114,string,in_process,In Process
+1115,string,ready_for_pick_up,Ready for pick up
+1116,string,shipped,Shipped
+1117,string,upload_resume,Upload Resume
+1118,string,open_gallery,OPEN GALLERY
+1119,string,file_manager,FILE MANAGER
+1120,string,app_need_read_external_storage_permission,External storage permission is required to show the documents.
+1121,string,past_week,Past Week
+1122,string,past_month,Past Month
+1123,string,last_3_months,Last 3 months
+1124,string,last_6_months,Last 6 months
+1125,string,past_year,Past year
+1126,string,custom,Custom
+1127,string,filter_by_feed_origin,Filter By Feed Origin
+1128,string,underlied_select_all,
+1129,string,permission_grant_read_external_storage,Go to Permissions to Grant external storage
+1130,string,find_by_name_or_mobile_no,Find by name or mobile number
+1131,string,please_type_search_query,Please type search text
+1132,string,sales_update,*Weekly sales achievement will be refreshed every Monday
+1133,string,le_code,LE Code
+1134,string,enter_valid_le_code_password,Please enter valid LE Code and Password
+1135,string,enter_valid_le_code,Enter valid LE Code
+1136,string,password_capital,Password
+1137,string,x_points_required,%1d Points
+1138,string,saved_address,Saved Address
+1139,string,add_new,+ Add New
+1140,string,make_default,Make Default
+1141,string,edit_small,Edit
+1142,string,delete_small,Delete
+1143,string,edit_address,Edit Address
+1144,string,add_new_address,Add New Address
+1145,string,save_address,Save Address
+1146,string,no_address_found_info,No address added.
+1147,string,pls_select_address,Please select delivery address
+1148,string,default_address,*Default Address
+1149,string,delete_address,Delete Address
+1150,string,delete_confirmation,Are you sure you want to delete the address?
+1151,string,product_will_delivered,Your product will be delivered to
+1152,string,new_address_success,New address added successfully
+1153,string,update_address_success,Updated your address successfully
+1154,string,tap_here,Tap Here
+1155,string,reset_password_btn,Reset Password
+1156,string,app_permission_activity,App needs Physical activity permission to track the steps.
+1157,string,grant_activity_permission,Please grant Physical activity permission to track the steps
+1158,string,rdo_btn_overall,Overall
+1159,string,rdo_btn_last_seven_days,Last 7 days
+1160,string,rdo_btn_last_thirty_days,Last 30 days
+1161,string,rdo_btn_last_ninety_days,Last 90 days
+1162,string,received_non_cap,Received
+1163,string,sent,Sent
+1164,string,all,All
+1165,string,filter,FILTER
+1166,string,filter_by_strengths,Filter by Strength
+1167,string,underlied_see_all,
+1168,string,filter_by_orgainsation,Filter by organization
+1169,string,filter_by_feed_type,Filter By Feed Type
+1170,string,filter_by_feed_range,Filter By Feed Range
+1171,string,clear_all,Clear All
+1172,string,reset_all,Reset All
+1173,string,btn_apply,Apply
+1174,string,strengths,STRENGTHS
+1175,string,clear_selection_text,Are you sure you want to reset all  filter\nselections to default?
+1176,string,reset_selection,Reset Selection
+1177,string,txt_candidate_details,(Enter candidate\'s details)
+1178,string,tutorial_not_available,Tutorial not available.
+1179,string,whats_on_your_mind,Whats on your mind?
+1180,string,enter_comment_here,Enter your comment here
+1181,string,no_of_comments,%d comments
+1182,string,no_of_claps,%d claps
+1183,string,comments,Comments
+1184,string,claps,Claps
+1185,string,news_feed,News Feed
+1186,string,comment_cannot_be_empty,Comment cannot be empty!
+1187,string,pls_select_one_option,Please select one option
+1188,string,create_post,Create Post
+1189,string,create_poll,Create Poll
+1190,string,poll_choice1_hint,Choice 1
+1191,string,ask_something,Ask Something
+1192,string,poll_choice2_hint,Choice 2
+1193,string,poll_choice3_hint,Choice 3 (Optional)
+1194,string,poll_choice4_hint,Choice 4 (Optional)
+1195,string,poll_choice_count,25
+1196,string,poll_description_empty,Poll description is empty.
+1197,string,poll_choice_one_required,Choice 1 is required!
+1198,string,poll_choice_two_required,Choice 2 is required!
+1199,string,choice_char_length_warning,Choice characters should be less than 26
+1200,string,poll_active_for_days,Poll Active for (days) :
+1201,string,min_no_of_active_days_warning,Minimum poll active time is 1 day
+1202,string,poll_active_max_days_warning,Poll cannot be active for more than 30 days.
+1203,string,poll_title,Title
+1204,string,post_title_max_char,80
+1205,string,post,Post
+1206,string,poll_title_max_char,200
+1207,string,photos_small,Photos
+1208,string,successful_posted,Successfully Posted!
+1209,string,post_title_char_length_warning,Length of the title should not exceed 80 characters.
+1210,string,poll_ask_something_char_length_warning,Length of this field should not exceed 200 characters.
+1211,string,post_empty_warning,Cannot create empty post.
+1212,string,app_needs_external_to_access_media_files,App needs external storage permission to access the media files
+1213,string,external_storage_permission_required,Please provide the external storage permission to continue using this functionality.
+1214,string,vote_percentage,%d%%
+1215,string,successful_vote_on_poll,Your vote has been casted successfully.
+1216,string,post_same_dept,Post to my department only
+1217,string,left,left
+1218,string,poll_final_result,Final Result
+1219,string,cannot_select_more_images,Cannot select more than 10 images.
+1220,string,successful_created_poll,Successfully created poll.
+1221,string,field_cannot_be_empty,This field cannot be empty.
+1222,string,photo_saved_device,Photo saved to this device.
+1223,string,edit_post,Edit Post
+1224,string,successful_edit_post,Successfully edited the post.
+1225,string,post_empty_edit_warning,Cannot save empty post.
+1226,string,feed_deleted,Deleted successfully.
+1227,string,no_comments_error,Be the first one to comment.
+1228,string,comment,Comment
+1229,string,delete_feed,Delete Post
+1230,string,feed_delete_confirmation,Are you sure you want to delete the post?
+1231,string,poll_delete_confirmation,Are you sure you want to delete the poll?
+1232,string,delete_poll,Delete Poll
+1233,string,bridgestone_feed_info,Only S3 and S4 messages can be shared on this platform
+1234,string,network_connection_error,"Internet connection lost, please retry again"
+1235,string,network_default_error,"Something wrong happened, please retry again"
+1236,string,network_internal_error,"Our systems got an error, please retry again"
+1237,string,network_server_not_available,"Our services are under maintenance, please retry after some time"
+1238,string,server_connection_error,"Not able to connect, please retry again"
+1239,string,no_feeds_available,No feeds are available at the moment.
+1240,string,cannot_retrieve_crop_image,Cannot retrieve cropped image.
+1241,string,error_fetch_gif,Error fetching the GIF
+1242,string,media_attachment_disabled,Please remove GIF to attach media files
+1243,string,remove_media_for_gif,Please remove media files to attach GIF
+1244,string,reset,Reset
+1245,string,label_crop_image,Crop Image
+1246,string,view_feed,View Feed
+1247,string,not_found,Not found.
+1248,string,feed_detail_not_found,The feed you are looking for does not exist as it may be deleted.
+1249,string,feed_not_found,Feed not found.
+1250,string,go_to_feeds,Go to Feeds list
+1251,string,card_number,Card Number
+1252,string,url,URL
+1253,string,app_permission_download_image,App needs external storage permission to save the downloaded images.
+1254,string,valid_reason,Please enter the valid reason
+1255,string,feed_report_success,Reported
+1256,string,report_abuse,Report Abuse
+1257,string,feed_report_abuse_comment,Comments
+1258,string,type_concerns,Please type in your concerns
+1259,string,feed_report_abuse_information,If you have any concerns regarding the feed please share below.
+1260,string,menu_news_feed,Connect
+1261,string,select_gif,Select GIF
+1262,string,search_tenor,Search Tenor
+1263,string,gif,GIF
+1264,string,appreciation_feeds_no_like,Like
+1265,string,select_province,Select Province
+1266,string,pls_select_province_error,Please Select Province
+1267,string,province,Province
+1268,string,pls_enter_pincode,Please Enter Pincode
+1269,string,pls_set_province,Please set province in your saved address
+1270,string,_check_in,Check-In
+1271,string,cannot_scan,Unable to Scan
+1272,string,location_check_in,LOCATION CHECK IN
+1273,string,select_prodcut_category,Select Product Category
+1274,string,choose_product_category,Choose Product Category
+1275,string,product_category,Product Category
+1276,string,benefit_for,Benefit For
+1277,string,available_credit_for,Available Credit for
+1278,string,maximum_annual_credit_for_selected_benefit_type,Maximum Annual Credit for Selected Benefit Type
+1279,string,enter_name_of_vendor_brand_shop_name,Enter name of vendor/brand/shop name..
+1280,string,enter_any_remarks_regarding_the_receipt_optional,Enter any remarks regarding the receipt. (Optional)
+1281,string,select_benefit_for,Select Benefit For
+1282,string,select_dependent,Select Dependent
+1283,string,select_benefit_type,Select Benefit Type
+1284,string,pru_rewards,Flexi Benefits
+1285,string,add_led_document_title,Add additional invoice pages or product images here
+1286,string,add_documents,ADD DOCUMENTS
+1287,string,documents_list_title_receipt_detail,Supporting Documents
+1288,string,add_pru_document_title,Add Supporting Documents
+1289,string,no_items_added,No Items added
+1290,string,add_item,ADD PRODUCT DETAILS
+1291,string,added_items,Added Items
+1292,string,notes_optional,Notes (Optional)
+1293,string,delete_item,Delete item
+1294,string,are_you_sure_you_want_to_delete_this_item,Are you Sure you want to delete this item?
+1295,string,enter_any_remarks_regarding_the_receipt,Enter any remarks regarding the receipt
+1296,string,item_details,Item Details
+1297,string,product_group,Product Group
+1298,string,amount_optional,Amount (optional)
+1299,string,update,Update
+1300,string,add_more,ADD MORE
+1301,string,choose_product_group,Choose Product Group
+1302,string,ledvance_receipt_list_empty,Add product details
+1303,string,secondary_points_balance,Secondary Points Balance
+1304,string,secondary_points,Secondary Points
+1305,string,secondary_points_description,"On sale of every Product; you will receive Primary Points and Secondary Points on the App. You can use the Primary Points to redeem rewards within the app; whereas, Secondary Points are those that get accumulated in your account to reward your customers when they make a sale. These accumulated Secondary Points will be added back to your Primary Points Wallet after 12 months from the date they were awarded in case your customers have not made a sale."
+1306,string,approver_remarks,Approver Remarks
+1307,string,receipt_on_boarding_help_message,Click on the receipts to get started
+1308,string,ledvance_receipt_uploaded_successfully,Your receipt has been uploaded successfully.
+1309,string,dashboard_pop_up_message,View summary of your total points
+1310,string,rewards_pop_up_message,Redeem your points for numerous rewards
+1311,string,receipts_pop_up_message,Upload your sales invoices
+1312,string,history_pop_up_message,Keep track of your points history
+1313,string,appreciate_pop_up_message,Appreciate your colleague
+1314,string,add_receipts,Add Receipts
+1315,string,quantitiy_title,Qty : %1$d
+1316,string,total_qty,Total Qty :
+1317,string,uploading_ledvance_receipt,Please wait while your receipt is being submitted
+1318,string,info_requested,Info Requested
+1319,string,edit_receipt,EDIT RECEIPTS
+1320,string,edit_image,Edit Image
+1321,string,re_submission,Re-Submission
+1322,string,remaining_monthly_appreciation_budget,Remaining monthly appreciation budget
+1323,string,malay,Malay
+1324,string,vietnamese,Vietnamese
+1325,string,no_gif_support,No gif support from keypad
+1326,string,nom_categories,categories
+1327,string,step_no_one,Step 1/3
+1328,string,step_no_two,Step 2/3
+1329,string,step_no_three,Step 3/3
+1330,string,thumbs_up_boss,Thumbs Up Boss!
+1331,string,ideas_award,Ideas! Award
+1332,string,my_nominations,My Nominations
+1333,string,for_my_review,For My Review
+1334,string,your_ideas,Your Ideas
+1335,string,team_members_ideas,Team members Ideas
+1336,string,nominate_yourself,Nominate Yourself
+1337,string,txt_nominate_team_member,Nominate Team Member
+1338,string,search_team_member,Search your idea by name
+1339,string,txt_nominated_for,You have nominated
+1340,string,txt_nominated_award_name,
+1341,string,txt_selected_team_mate,Selected Teammate
+1342,string,hint_department_name,Enter Department Name
+1343,string,hint_line_mnger_name,Enter Line Manager\'s Name
+1344,string,human_resource_dept,Human Resources Dept
+1345,string,line_resource_dept,%1$s Dept
+1346,string,select_line_manager,Select Line manager
+1347,string,number_of_contacts,you have %1$s contacts
+1348,string,search_line_manager,Search by Line Manager
+1349,string,search_functional_leader,Search by Functional Leader
+1350,string,functional_leader,Select Functional Leader
+1351,string,please_enter_title,Please Enter Title
+1352,string,please_enter_description,Please Enter Description
+1353,string,please_select_line_manager,Please Select Line Manager
+1354,string,please_enter_fields,Please Enter All Fields
+1355,string,please_upload_file,Please Upload File
+1356,string,select_leader,Select Functional Leader *
+1357,string,btn_approve,APPROVE
+1358,string,btn_reject,REJECT
+1359,string,reject_comment,Enter Comments for Rejection
+1360,string,reject_comment_idea,Comments for Rejection
+1361,string,hint_reject_comment,Enter comments
+1362,string,approve_dialog,You have successfully approved this nomination
+1363,string,select_functional_leader,Please Select Functional Leader
+1364,string,upload_file,Upload File
+1365,string,submit_dialog_confirm,Are you sure you want to submit the nomination under
+1366,string,team_member_confirm,Are you sure you want to nominate
+1367,string,explain_idea,Current Status
+1368,string,ends_on,Ends on %1$s
+1369,string,enter_above_fields,Please enter the above field
+1370,string,enter_comments,Please enter comments
+1371,string,thumbs_up_screen_search,"Search by alphabet, name, email or department"
+1372,string,screen_search_list_my_nomination,Search your nomination by name
+1373,string,screen_search_list_for_my_review,Search your team member\'s nomination by name
+1374,string,feed_pin_it,Pin this post to top
+1375,string,feed_unpin_it,Unpin the post
+1376,string,feed_poll_unpin_it,Unpin the poll
+1377,string,feed_poll_pin_it,Pin this poll to top
+1378,string,no_chart_data,No chart data available.
+1379,string,user_type,User Type
+1380,string,category,Category
+1381,string,challenge_id,Challenge ID
+1382,string,challenge_date,Challenge Date
+1383,string,number,Number
+1384,string,activity_date,Activity Date
+1385,string,customer_name,Customer Name
+1386,string,solution_portfolio,Solution Portfolio
+1387,string,proof_of_evidence,Proof of Evidence
+1388,string,notes,Notes
+1389,string,enter_any_remarks_regarding_the_trend_receipt,This is a free text section. Please highlight anything that needs reviewers attention
+1390,string,claim_number,Claim Number
+1391,string,date_of_submission,Date of submission
+1392,string,upload_claim,UPLOAD CLAIM
+1393,string,add_claim,Add Claim
+1394,string,enter_number,Enter Number
+1395,string,dd_MMM_yyyy,dd MMM yyyy
+1396,string,trend_solution_portfolio_item_one,Cloud One
+1397,string,trend_solution_portfolio_item_two,Apex One
+1398,string,trend_solution_portfolio_item_three,Network One (ATP)
+1399,string,trend_solution_portfolio_item_four,Network One (IPS)
+1400,string,trend_challenge_id,#2345
+1401,string,trend_number_info,"Input number of Meetings Confirmed, eDemos, Testimonials etc."
+1402,string,yyyy_MM_dd,yyyy-MM-dd
+1403,string,trend_receipt_on_boarding_help_message,Tap here to get started.
+1404,string,tab_upload_claims,Claims
+1405,string,edit_claim,EDIT CLAIM
+1406,string,uploading_claim,Uploading Claim
+1407,string,loading_claims,Loading Claims....
+1408,string,claims,CLAIMS
+1409,string,no_claims_processing,No claims are currently being processed
+1410,string,no_claims_uploaded,No Claims Found.
+1411,string,claim_upload_success,Your claim is successfully submitted
+1412,string,claim_number_text,Your claim number is\u0020
+1413,string,trend_setter_receipts_pop_up_message,Upload your claims
+1414,string,github_token,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
+1415,string,quantity_total,Total Qty :
+1416,string,total_points_receipt,Total Points :
+1417,string,quick_link_integration,Quick Links
+1418,string-array,citizenship_array,Singapore Citizen
+1419,string-array,citizenship_array,Singapore Permanent Resident
+1420,string-array,citizenship_array,Foreigner requiring work pass to work in Singapore
+1421,string-array,position_array,Principal
+1422,string-array,position_array,Deputy Centre Lead
+1423,string-array,position_array,English Teacher
+1424,string-array,position_array,Chinese Teacher
+1425,string-array,position_array,Malay Teacher
+1426,string-array,position_array,Tamil Teacher
+1427,string-array,position_array,Infant Care Teacher
+1428,string-array,position_array,Student Care Supervisor
+1429,string-array,position_array,Student Care Teacher
+1430,string-array,position_array,Trainee Teacher
+1431,string-array,position_array,Trainee Infant Care Teacher
+1432,string-array,position_array,Assistant Teacher
+1433,string-array,position_array,Center Attendant (Cook)
+1434,string-array,position_array,Center Attendant (Cleaner)
+1435,string-array,position_array,Others
+1436,string-array,highest_academic_qualification_array,Master Degree
+1437,string-array,highest_academic_qualification_array,Bachelor Degree
+1438,string-array,highest_academic_qualification_array,Diploma
+1439,string-array,highest_academic_qualification_array,NITEC
+1440,string-array,highest_academic_qualification_array,GCE A Level
+1441,string-array,highest_academic_qualification_array,GCE N/O Level
+1442,string-array,highest_academic_qualification_array,Secondary 2 and below
+1443,string-array,highest_academic_qualification_array,Others
+1444,string-array,highest_early_childhood_education_arry,Master Degree
+1445,string-array,highest_early_childhood_education_arry,Bachelor Degree
+1446,string-array,highest_early_childhood_education_arry,Diploma
+1447,string-array,highest_early_childhood_education_arry,NITEC
+1448,string-array,highest_early_childhood_education_arry,ACECCE
+1449,string-array,highest_early_childhood_education_arry,CPT
+1450,string-array,highest_early_childhood_education_arry,CIT
+1451,string-array,highest_early_childhood_education_arry,ACEY
+1452,string-array,highest_early_childhood_education_arry,HCIC
+1453,string-array,highest_early_childhood_education_arry,Not Applicable
+1454,string-array,highest_early_childhood_education_arry,Others
+1455,string-array,currently_pursuing_arry,Bachelor Degree
+1456,string-array,currently_pursuing_arry,Diploma
+1457,string-array,currently_pursuing_arry,NITEC
+1458,string-array,currently_pursuing_arry,ACECCE
+1459,string-array,currently_pursuing_arry,ACEY
+1460,string-array,currently_pursuing_arry,HCIC
+1461,string-array,currently_pursuing_arry,Not Applicable
+1462,string-array,currently_pursuing_arry,Others
+1463,string-array,array_priority_validity,1 day
+1464,string-array,array_priority_validity,1 week
+1465,string-array,array_priority_validity,1 month
+1466,string-array,array_priority_validity,Always
+1467,string-array,province_state_names,Krabi
+1468,string-array,province_state_names,Bangkok
+1469,string-array,province_state_names,Kanchanaburi
+1470,string-array,province_state_names,Kalasin
+1471,string-array,province_state_names,Kamphaeng phet
+1472,string-array,province_state_names,Khon kean
+1473,string-array,province_state_names,Chanthaburi
+1474,string-array,province_state_names,Chachoengsao
+1475,string-array,province_state_names,Chon buri
+1476,string-array,province_state_names,Chai nat
+1477,string-array,province_state_names,Chai yaphum
+1478,string-array,province_state_names,Chum phon
+1479,string-array,province_state_names,Chiang rai
+1480,string-array,province_state_names,Chiang mai
+1481,string-array,province_state_names,Trang
+1482,string-array,province_state_names,Trat
+1483,string-array,province_state_names,Tak
+1484,string-array,province_state_names,Nakhon nayok
+1485,string-array,province_state_names,Nakhon pathom
+1486,string-array,province_state_names,Nakhon phanom
+1487,string-array,province_state_names,Nakhon ratchasima
+1488,string-array,province_state_names,Nakhon si thammarat
+1489,string-array,province_state_names,Nakhon sawan
+1490,string-array,province_state_names,Nonthaburi
+1491,string-array,province_state_names,Narathiwat
+1492,string-array,province_state_names,Nan
+1493,string-array,province_state_names,Buri ram
+1494,string-array,province_state_names,Pathum thani
+1495,string-array,province_state_names,Prachuap khiri khan
+1496,string-array,province_state_names,Prachinburi
+1497,string-array,province_state_names,Pattani
+1498,string-array,province_state_names,Ayutthaya
+1499,string-array,province_state_names,Phayao
+1500,string-array,province_state_names,Phangnga
+1501,string-array,province_state_names,Phatthalung
+1502,string-array,province_state_names,phichit
+1503,string-array,province_state_names,Phitsanulok
+1504,string-array,province_state_names,Phetchaburi
+1505,string-array,province_state_names,Phetchabun
+1506,string-array,province_state_names,Phrae
+1507,string-array,province_state_names,Phuket
+1508,string-array,province_state_names,Mahasarakham
+1509,string-array,province_state_names,Mukdahan
+1510,string-array,province_state_names,Mae hong son
+1511,string-array,province_state_names,Yasothon
+1512,string-array,province_state_names,Yala
+1513,string-array,province_state_names,Roi et
+1514,string-array,province_state_names,Ranong
+1515,string-array,province_state_names,Rayong
+1516,string-array,province_state_names,Rachaburi
+1517,string-array,province_state_names,Lopburi
+1518,string-array,province_state_names,Loei
+1519,string-array,province_state_names,Lampang
+1520,string-array,province_state_names,Lamphun
+1521,string-array,province_state_names,Srisaket
+1522,string-array,province_state_names,Sakonnakhon
+1523,string-array,province_state_names,Songkhla
+1524,string-array,province_state_names,Satun
+1525,string-array,province_state_names,Samutprakan
+1526,string-array,province_state_names,Samut songkhram
+1527,string-array,province_state_names,Samut sakhon
+1528,string-array,province_state_names,Sra kaeo
+1529,string-array,province_state_names,Saraburi
+1530,string-array,province_state_names,Singburi
+1531,string-array,province_state_names,Sukhothai
+1532,string-array,province_state_names,Suphanburi
+1533,string-array,province_state_names,Surat thani
+1534,string-array,province_state_names,Surin
+1535,string-array,province_state_names,Nongkhai
+1536,string-array,province_state_names,Nongbualamphu
+1537,string-array,province_state_names,Angthong
+1538,string-array,province_state_names,Amnatcharoen
+1539,string-array,province_state_names,Udonthani
+1540,string-array,province_state_names,Uttaradit
+1541,string-array,province_state_names,Uthaithani
+1542,string-array,province_state_names,Uboratchathani
+1543,string-array,province_state_names,Bueng Kan
+1544,string-array,province_state_names_english,Krabi
+1545,string-array,province_state_names_english,Bangkok
+1546,string-array,province_state_names_english,Kanchanaburi
+1547,string-array,province_state_names_english,Kalasin
+1548,string-array,province_state_names_english,Kamphaeng phet
+1549,string-array,province_state_names_english,Khon kean
+1550,string-array,province_state_names_english,Chanthaburi
+1551,string-array,province_state_names_english,Chachoengsao
+1552,string-array,province_state_names_english,Chon buri
+1553,string-array,province_state_names_english,Chai nat
+1554,string-array,province_state_names_english,Chai yaphum
+1555,string-array,province_state_names_english,Chum phon
+1556,string-array,province_state_names_english,Chiang rai
+1557,string-array,province_state_names_english,Chiang mai
+1558,string-array,province_state_names_english,Trang
+1559,string-array,province_state_names_english,Trat
+1560,string-array,province_state_names_english,Tak
+1561,string-array,province_state_names_english,Nakhon nayok
+1562,string-array,province_state_names_english,Nakhon pathom
+1563,string-array,province_state_names_english,Nakhon phanom
+1564,string-array,province_state_names_english,Nakhon ratchasima
+1565,string-array,province_state_names_english,Nakhon si thammarat
+1566,string-array,province_state_names_english,Nakhon sawan
+1567,string-array,province_state_names_english,Nonthaburi
+1568,string-array,province_state_names_english,Narathiwat
+1569,string-array,province_state_names_english,Nan
+1570,string-array,province_state_names_english,Buri ram
+1571,string-array,province_state_names_english,Pathum thani
+1572,string-array,province_state_names_english,Prachuap khiri khan
+1573,string-array,province_state_names_english,Prachinburi
+1574,string-array,province_state_names_english,Pattani
+1575,string-array,province_state_names_english,Ayutthaya
+1576,string-array,province_state_names_english,Phayao
+1577,string-array,province_state_names_english,Phangnga
+1578,string-array,province_state_names_english,Phatthalung
+1579,string-array,province_state_names_english,phichit
+1580,string-array,province_state_names_english,Phitsanulok
+1581,string-array,province_state_names_english,Phetchaburi
+1582,string-array,province_state_names_english,Phetchabun
+1583,string-array,province_state_names_english,Phrae
+1584,string-array,province_state_names_english,Phuket
+1585,string-array,province_state_names_english,Mahasarakham
+1586,string-array,province_state_names_english,Mukdahan
+1587,string-array,province_state_names_english,Mae hong son
+1588,string-array,province_state_names_english,Yasothon
+1589,string-array,province_state_names_english,Yala
+1590,string-array,province_state_names_english,Roi et
+1591,string-array,province_state_names_english,Ranong
+1592,string-array,province_state_names_english,Rayong
+1593,string-array,province_state_names_english,Rachaburi
+1594,string-array,province_state_names_english,Lopburi
+1595,string-array,province_state_names_english,Loei
+1596,string-array,province_state_names_english,Lampang
+1597,string-array,province_state_names_english,Lamphun
+1598,string-array,province_state_names_english,Srisaket
+1599,string-array,province_state_names_english,Sakonnakhon
+1600,string-array,province_state_names_english,Songkhla
+1601,string-array,province_state_names_english,Satun
+1602,string-array,province_state_names_english,Samutprakan
+1603,string-array,province_state_names_english,Samut songkhram
+1604,string-array,province_state_names_english,Samut sakhon
+1605,string-array,province_state_names_english,Sra kaeo
+1606,string-array,province_state_names_english,Saraburi
+1607,string-array,province_state_names_english,Singburi
+1608,string-array,province_state_names_english,Sukhothai
+1609,string-array,province_state_names_english,Suphanburi
+1610,string-array,province_state_names_english,Surat thani
+1611,string-array,province_state_names_english,Surin
+1612,string-array,province_state_names_english,Nongkhai
+1613,string-array,province_state_names_english,Nongbualamphu
+1614,string-array,province_state_names_english,Angthong
+1615,string-array,province_state_names_english,Amnatcharoen
+1616,string-array,province_state_names_english,Udonthani
+1617,string-array,province_state_names_english,Uttaradit
+1618,string-array,province_state_names_english,Uthaithani
+1619,string-array,province_state_names_english,Uboratchathani
+1620,string-array,province_state_names_english,Bueng Kan
+1621,string-array,benefit_for_array,Self
+1622,string-array,benefit_for_array,Dependent
+1623,plurals,birthday_plurals,1 colleague\'s birthday
+1624,plurals,birthday_plurals,It\'s your birthday
+1625,plurals,birthday_plurals,%d colleagues\' birthday
+1626,plurals,anniversary_plurals,1 colleague\'s anniversary
+1627,plurals,anniversary_plurals,It\'s your anniversary
+1628,plurals,anniversary_plurals,%d colleagues\' anniversary
+1629,plurals,message_appreciations_remaining,Monthly appreciation remaining:
+1630,plurals,message_appreciations_remaining,Monthly appreciations remaining:
+1631,plurals,message_appreciations_points,Remaining Monthly appreciation points:
+1632,plurals,message_appreciations_points,Remaining Monthly appreciations points:
+1633,plurals,no_of_appreciations,Appreciation
+1634,plurals,no_of_appreciations,Appreciations
+1635,plurals,no_of_nominations,Nomination
+1636,plurals,no_of_nominations,Nomination
+1637,plurals,no_of_recognitions,Recognition
+1638,plurals,no_of_recognitions,Recognitions
+1639,plurals,days_kindly_update,day. Kindly update asap
+1640,plurals,days_kindly_update,days. Kindly update asap
+1641,plurals,character_count,1 character
+1642,plurals,character_count,0 characters
+1643,plurals,character_count,%d characters
+1644,plurals,likes,1 Like
+1645,plurals,likes,0 Likes
+1646,plurals,likes,%d Likes
+1647,plurals,pts,1 Pt
+1648,plurals,pts,0 Pts
+1649,plurals,pts,%d Pts
+1650,plurals,clap_plurals,1 clap
+1651,plurals,clap_plurals,claps
+1652,plurals,clap_plurals,%d claps
+1653,plurals,comment_plurals,1 comment
+1654,plurals,comment_plurals,comments
+1655,plurals,comment_plurals,%d comments
+1656,plurals,vote_plurals,1 vote
+1657,plurals,vote_plurals,votes
+1658,plurals,vote_plurals,%d votes

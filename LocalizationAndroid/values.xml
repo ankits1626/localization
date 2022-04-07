@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="hint_search">Search</string>
+    <string name="top_ten">Top 10 Participants</string>
+    <string name="facility_error_message">We do not have facilities within this category</string>
+    <string name="filter_by_category">Filter by Category</string>
+    <string name="error_message">Something went wrong. Please try again later.</string>
+    <string name="otp_message">We have sent you a secure OTP to your registered mobile number</string>
+    <string name="facility_nearby_error_message">At the moment we do not have any facilities near to you</string>
+    <string name="action_details">Conversation Details</string>
+    <string name="action_add_members">Add Member</string>
+    <string name="alert_message_delete_message">Delete message?</string>
+    <string name="alert_message_delete_conversation">Delete conversation?</string>
+    <string name="alert_button_cancel">Cancel</string>
+    <string name="alert_button_delete_my_devices">Delete</string>
+    <string name="alert_button_delete_all_participants">From All</string>
+    <string name="alert_dialog_logout">Logging Out…</string>
+    <string name="notifications_num_more">+%1$d more</string>
+    <string name="notifications_new_messages">%1$d new messages</string>
+    <string name="title_select_conversation">New Message</string>
+    <string name="push_notification_no_content_title">New message (tap to sync)</string>
+    <string name="attachment_menu_camera">Camera</string>
+    <string name="attachment_menu_gallery">Gallery</string>
+    <string name="attachment_menu_location">Location</string>
+    <string name="conversation_details_title_options">Options</string>
+    <string name="conversation_details_switch_show_notifications">Show Notifications</string>
+    <string name="conversation_details_button_leave_group">Leave Chat</string>
+    <string name="conversation_details_title_participants">Participants</string>
+    <string name="alert_button_block">Block</string>
+    <string name="alert_button_unblock">Unblock</string>
+    <string name="settings_title_account">Account</string>
+    <string name="settings_title_presence">Presence</string>
+    <string name="settings_switch_show_notifications">Show Notifications</string>
+    <string name="settings_title_notifications">Notifications</string>
+    <string name="settings_content_connected">Connected</string>
+    <string name="settings_content_disconnected">Disconnected</string>
+    <string name="conversation_name">Conversation Name</string>
+    <string name="hint_conversation_name">Add Conversation Name</string>
+    <string name="privacy_policy">\u0020 I accept the</string>
+    <string name="policy_link">Terms of service & Privacy Policy</string>
+    <string name="accept_privacy_policy">Please accept our terms of Service and Privacy Policy to proceed</string>
+    <string name="award_points">Award Points</string>
+    <string name="you_are_not_authenticated">You\'re not authenticated to start conversation. Please logout and login.</string>
+    <string name="please_start_sending_msg">Please start sending messages to see the conversation details.</string>
+    <string name="out_of_30">out of 30</string>
+    <string name="add_members">Add Members</string>
+    <string name="start_conversation">Start Conversation</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="sorry_no_user_authenticated">Sorry, no users are authenticated to chat at the moment.</string>
+    <string name="error">Error</string>
+    <string name="only_25_member_restriction">Sorry, right now you can create the group with only 25 members</string>
+    <string name="group_name">Group Name</string>
+    <string name="please_enter_the_name">Please enter the name</string>
+    <string name="cancel">Cancel</string>
+    <string name="okay">OK</string>
+    <string name="enter_group_name">Enter group name</string>
+    <string name="failed_to_authenticate_layer">Failed to authenticate with Layer:</string>
+    <string name="welcome_to_the">Welcome to the</string>
+    <string name="group">group.</string>
+    <string name="unknown_participant">Unknown Participant</string>
+    <string name="is_typing">is typing</string>
+    <string name="please_grant_location_permission">Please grant location permission to continue using the app</string>
+    <string name="not_attending">not_attending</string>
+    <string name="attending">attending</string>
+    <string name="attended">attended</string>
+    <string name="there_are_no_email_client_installed">There are no email clients installed.</string>
+    <string name="please_install_google_map_application">Please install Google Map application from Play Store.</string>
+    <string name="no_user_joined_this_group">Currently there are no users joined this group.</string>
+    <string name="message">Message</string>
+    <string name="select_source">Select source</string>
+    <string name="sure_dont_want_title">Are you sure you dont want to add title?</string>
+    <string name="image_size_less_than_6mb">Image Size Should be less than 6 MB</string>
+    <string name="updated_successfully">Updated Successfully</string>
+    <string name="server_technical_error">We\'ve encountered a technical error.our team is working on it. please try again later</string>
+    <string name="attend">RSVP</string>
+    <string name="successfully_attending_event">You are successfully attending Event</string>
+    <string name="successfully_skip_event">You have successfully Skip Event</string>
+    <string name="skip_event">Skip Event</string>
+    <string name="check_in">Check In</string>
+    <string name="checked_in">Checked In</string>
+    <string name="successfully_checked_in_event">You have successfully Checked In Event</string>
+    <string name="start">START:</string>
+    <string name="at">at</string>
+    <string name="end">END:</string>
+    <string name="failed_sync_conversation">Failed to sync conversation. Please click on chat icon to start conversation</string>
+    <string name="oops">Oops</string>
+    <string name="storage_permisison_manually">Unable to open the Gallery. Please tap Settings, go to Application info > Permissions, then allow Storage Permission and try again.</string>
+    <string name="grant_calendar_permission_rsvp_event">Please grant calendar permission to add RSVPed event to Calendar app</string>
+    <string name="please_enter_the_password">Please enter the password</string>
+    <string name="see_all_photo">See All Photos</string>
+    <string name="attendance_confirmed">Thank you. Your attendance has been confirmed. See you at the event!</string>
+    <string name="checkin_confirmed">Check-In Confirmed</string>
+    <string name="rsvp_withdrawn">RSVP Withdrawn</string>
+    <string name="join_chat_room">Join Chat Room</string>
+    <string name="would_you_like_to_join_chat_room">Would you like to join this event chat room?</string>
+    <string name="join">Join</string>
+    <string name="no">No</string>
+    <string name="successfully_joined_chat_group">You\'ve successfully joined the chat group</string>
+    <string name="subscribed">subscribed</string>
+    <string name="waiting_for_network">Waiting for network!</string>
+    <string name="image_size_less_than_20mb">Image Size Should be less than 20 MB</string>
+    <string name="delete">DELETE</string>
+    <string name="sure_delete_photo">Are you sure you want to delete this photo?</string>
+    <string name="yes">YES</string>
+    <string name="by">by</string>
+    <string name="social_apps_not_installed">Whatsapp,Instagram,Twitter,Facebook have not been installed.</string>
+    <string name="edit_caption">EDIT CAPTION</string>
+    <string name="enter_caption">Enter caption</string>
+    <string name="search">Search</string>
+    <string name="nearby">Nearby</string>
+    <string name="location_not_found">Location not found</string>
+    <string name="unable_to_get_your_location">Unable to get your location</string>
+    <string name="grant_location_permission">Please grant location permission to continue using this functionality</string>
+    <string name="settings">SETTINGS</string>
+    <string name="pts">pts</string>
+    <string name="total_points_as_of">Total Points as of</string>
+    <string name="no_data_in_health_activity">No Data in Healthy Activity.</string>
+    <string name="not_connected_to_any_apps">You are not connected to any apps</string>
+    <string name="no_data_in_program">No Data in Programs/Activities.</string>
+    <string name="dont_have_referal_now">You dont have any referral as of now</string>
+    <string name="add_referral">Add Referral</string>
+    <string name="havent_checked_any_facility_event">You have not checked in any facility and events yet.</string>
+    <string name="event_check_in">Event Check In</string>
+    <string name="facility_check_in">FACILITY CHECK-IN</string>
+    <string name="havent_checked_any_event">You have not checked in any events yet.</string>
+    <string name="no_data_to_display">Oops! No data to display</string>
+    <string name="colleague_bday_today">It\'s your colleague\'s birthday today.</string>
+    <string name="is_your_colleague_bday_on">It\'s your colleague\'s birthday on</string>
+    <string name="was_your_colleague_bday_on">It was your colleague\'s birthday on</string>
+    <string name="your_bday_today">It\'s your birthday today.</string>
+    <string name="is_your_bday_on">It\'s your birthday on</string>
+    <string name="was_your_bday_on">It was your birthday on</string>
+    <string name="colleague_anniversary_today">It\'s your colleague\'s %1$sanniversary today.</string>
+    <string name="is_colleague_anniversary_on">It\'s your colleague\'s %1$sanniversary on</string>
+    <string name="was_colleague_anniversary_on">It was your colleague\'s %1$sanniversary on</string>
+    <string name="your_anniversary_today">It\'s your %1$sanniversary today.</string>
+    <string name="is_your_anniversary_on">It\'s your %1$sanniversary on</string>
+    <string name="was_your_anniversary_on">It was your %1$sanniversary on</string>
+    <string name="wish_you_a_wonderful_birthday">Wish you a wonderful birthday.</string>
+    <string name="no_email_client_installed">There are no email clients installed.</string>
+    <string name="wish_you_a_wonderful_anniversary">Wish you a wonderful Anniversary!</string>
+    <string name="send_mail">Send mail....</string>
+    <string name="you_have_earned">You have earned</string>
+    <string name="points_to_redeem">points to redeem</string>
+    <string name="rewards_to_redeem">rewards to redeem</string>
+    <string name="you_have">You have</string>
+    <string name="nearby_rewards">Nearby Rewards</string>
+    <string name="code">CODE</string>
+    <string name="redeemed_on_the">Redeemed on the</string>
+    <string name="your_promo_code">Your Promo code</string>
+    <string name="code_copied_to_clipboard">Code copied to clipboard</string>
+    <string name="not_available">N/A</string>
+    <string name="press_link_for_more_detail">Press Link for more detail</string>
+    <string name="please_select_any_mobile_number_for_call">Please select any mobile number for call</string>
+    <string name="please_enter_vendor_passcode">Please Enter vendor passcode</string>
+    <string name="redeeming_this_reward_will_deduct">Redeeming this reward will deduct</string>
+    <string name="from_your_account">from your account.</string>
+    <string name="delivery_fee_of">Delivery fee of</string>
+    <string name="points_will_deducted_no_further">points will be deducted. No further points will be deducted for subsequent redemptions today.</string>
+    <string name="collect_from_your_office">Collect from your office person-in-charge at the scheduled date each month.</string>
+    <string name="error_caps">ERROR!</string>
+    <string name="please_enter_your_customer_id_number">Please enter your Customer Id number</string>
+    <string name="please_enter_your_pln_number">Please enter your pln number</string>
+    <string name="please_enter_your_phone">Please Enter your phone</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="are_you_sure_you_want_to_redeem">Are you sure you want to redeem</string>
+    <string name="reward_for_this_phone_number">Reward for this Phone No</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="error_response">ERROR RESPONSE</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="loading_profile">Loading Profile....</string>
+    <string name="loading_strengths">Loading Strengths....</string>
+    <string name="nominate">NOMINATE</string>
+    <string name="thanks_for_nominating">Thanks for nominating</string>
+    <string name="appreciate">APPRECIATE</string>
+    <string name="points_remaining_for_allocations">Points remaining for allocations:</string>
+    <string name="thanks_for_appreciating">Thanks for appreciating</string>
+    <string name="endorsing">Endorsing....</string>
+    <string name="select_at_least_one_strengths">Select at least one strength to appreciate</string>
+    <string name="select_at_least_one_strengths_to_nominate">Select at least one strength to nominate</string>
+    <string name="add_subject_related_to">Add subject related to</string>
+    <string name="add_message_related_to">Add message related to</string>
+    <string name="password_should_be_same">New password and confirm password should be same.</string>
+    <string name="password_eight_character">Password must be 8 characters long!</string>
+    <string name="password_changed_successfully">Password changed successfully.</string>
+    <string name="enter_valid_mobile_number">Enter valid mobile number.</string>
+    <string name="please_enter_your_dob">Please enter your DOB</string>
+    <string name="please_enter_mobile_number">Please enter mobile number.</string>
+    <string name="please_enter_first_name">Please enter first name</string>
+    <string name="please_enter_last_name">Please enter last name</string>
+    <string name="please_enter_address1">Please enter address1</string>
+    <string name="required_permission_not_granted">Required permissions are not granted</string>
+    <string name="cant_select_future_date">You can\'t select future date</string>
+    <string name="use_location">Use Location ?</string>
+    <string name="switch_on_location_accurate_steps_tracking">Switch on location for accurate steps tracking and check-ins</string>
+    <string name="ignore">Ignore</string>
+    <string name="go_to_settings">Go To Settings</string>
+    <string name="no_google_fit_app_installed">No Google Fit App Installed</string>
+    <string name="go_to_dashboard">Go to Dashboard</string>
+    <string name="download_google_fit_app">Download Google fit App.</string>
+    <string name="google_play_services_not_installed">Google Play Services is not installed</string>
+    <string name="enter_valid_username_password">Enter Valid Username and Password.</string>
+    <string name="enter_valid_username">Enter Valid username.</string>
+    <string name="enter_valid_password">Enter Valid Password.</string>
+    <string name="request">Request</string>
+    <string name="loggin_in">Logging in....</string>
+    <string name="logout_text">LOGOUT</string>
+    <string name="please_change_password">Please change password.</string>
+    <string name="proceed">Proceed</string>
+    <string name="authenticating">Authenticating....</string>
+    <string name="logout_login_setting">Please Logout and Login for app settings to take place</string>
+    <string name="warning">Warning</string>
+    <string name="install_google_fit_app_continue">Please install Google Fit app to continue. Click OK to connect to other available tracker.</string>
+    <string name="get_google_fit_app">Get Google Fit app</string>
+    <string name="click_back_again_to_exit">Please click back again to exit</string>
+    <string name="notice">Notice</string>
+    <string name="all_permission_acquired">All permissions should be acquired</string>
+    <string name="connection_shealth_not_available">Connection with S Health is not available</string>
+    <string name="install_shealth">Please install S Health</string>
+    <string name="upgrade_shealth">Please upgrade S Health</string>
+    <string name="enable_shealth">Please enable S Health</string>
+    <string name="agree_shealth_policy">Please agree with S Health policy</string>
+    <string name="make_shealth_available">Please make S Health available</string>
+    <string name="get_in_touch">Get in touch:</string>
+    <string name="birthday">Birthday</string>
+    <string name="anniversary">Anniversary</string>
+    <string name="my_role_is">My role is</string>
+    <string name="but_known_as">, but I\'m known as</string>
+    <string name="please_enter_the_otp">Please enter the OTP</string>
+    <string name="otp_incorrect_try_again">Your code is incorrect. Please try again</string>
+    <string name="resent_otp_check_inbox">Resent the OTP, please check your inbox</string>
+    <string name="server">Server</string>
+    <string name="please_fill_email_id">Please enter email-id</string>
+    <string name="service_url">Service Url</string>
+    <string name="please_add_service_url">Please Add Service Url.</string>
+    <string name="submit">Submit</string>
+    <string name="provide_right_platform">Please Provide Right Plateform</string>
+    <string name="fill_base_url">Please Fill Base URL</string>
+    <string name="successfully_sent">Successfully sent</string>
+    <string name="already_connected_to_tracker">You\'re already connected to tracker</string>
+    <string name="successfully_connected">Successfully Connected</string>
+    <string name="already_connected_with_this_account">Already connected with this account.</string>
+    <string name="redemption_code">Redemption Code</string>
+    <string name="loading_image">Loading Image ....</string>
+    <string name="image_not_exist_network_error">Image Does Not exist or Network Error</string>
+    <string name="downloading">Downloading....</string>
+    <string name="members">Members</string>
+    <string name="rank">Rank :</string>
+    <string name="you">You</string>
+    <string name="points_required">Points Required</string>
+    <string name="no_greetings_for_today">No Greetings for today</string>
+    <string name="announcements">Announcements</string>
+    <string name="isc_announcements">(ISC)2 UPDATES</string>
+    <string name="no_announcements">No Announcements</string>
+    <string name="no_appointments_today">No Appointments today</string>
+    <string name="activities_and_events">ACTIVITIES AND EVENTS</string>
+    <string name="isc_activities_and_events">EVENTS AND CPE OPPORTUNITIES</string>
+    <string name="no_events_or_training">No Events or Training</string>
+    <string name="google_fit">Google Fit</string>
+    <string name="samsung_health">Samsung Health</string>
+    <string name="read_less">Read Less</string>
+    <string name="its_your">It\'s your</string>
+    <string name="its_your_and_one_colleague">It\'s your and 1 colleague</string>
+    <string name="today">Today</string>
+    <string name="colleague">Colleague</string>
+    <string name="colleagues">Colleague\'s</string>
+    <string name="its_your_and">It\'s your and</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="successfully_disconnected">Successfully Disconnected</string>
+    <string name="you_are_appreciating">You are appreciating</string>
+    <string name="this_will_deduct">. This will deduct</string>
+    <string name="by_awarding">by awarding</string>
+    <string name="point_rewards">POINT REWARDS</string>
+    <string name="discount">DISCOUNT</string>
+    <string name="discount_reward">DISCOUNT REWARDS</string>
+    <string name="activity_trackers">Activity Trackers</string>
+    <string name="step_trackers">Step Trackers</string>
+    <string name="not_connected_with_google_fit">You are not connected with Google Fit.</string>
+    <string name="connected_with_google_fit">You are not connected with Google Fit.</string>
+    <string name="google_fit_disabled">Google Fit disabled</string>
+    <string name="jawbone">Jawbone</string>
+    <string name="please_disconnect_fitbit_first">Please Disconnect FitBit First</string>
+    <string name="please_disconnect_jawbone_first">Please Disconnect Jawbone First</string>
+    <string name="redeem_discount_at_merchant_partner">Redeem discounts at merchant partners</string>
+    <string name="astellas_reward_program">Astellas Reward Program is an online Reward & Recognition system developed by Astellas SESA, aimed to EMPOWER leaders to RECOGNIZE and REWARD employees’ who demonstrate exception performance and professionalism in the daily work.</string>
+    <string name="welcome_to_astellas_rewards">Welcome to Astellas Rewards</string>
+    <string name="get_the_latest_info">Get the latest info</string>
+    <string name="get_real_time_update">Get real-time updates on what\'s going on in your company and see upcoming events and activities</string>
+    <string name="your_team_rank_is">Your Team Rank is</string>
+    <string name="top_ten_participants">Top 10 Participants</string>
+    <string name="hide_top_ten_participants">Hide Top 10 Participants</string>
+    <string name="unable_to_login_with_provided_credentials">Unable to log in with provided credentials.</string>
+    <string name="redemption_history">Redemption History</string>
+    <string name="loading_users">Loading Users....</string>
+    <string name="points_earned_on">Points Earned on</string>
+    <string name="total_points_earned">Total Points Earned</string>
+    <string name="congrats_you_are_now">Congrats! You are now</string>
+    <string name="more_points_to_become">more points to become</string>
+    <string name="more_points_to_get_this_rewards">more points to get this reward</string>
+    <string name="none">NONE</string>
+    <string name="announcement">Announcements</string>
+    <string name="event">Event</string>
+    <string name="view_detail">View Detail</string>
+    <string name="reward">Reward</string>
+    <string name="phone_number_is_not_valid">Phone Number is not valid.</string>
+    <string name="please_fill_all_fields">Please fill all fields.</string>
+    <string name="email_address_is_not_valid">Email address is not valid.</string>
+    <string name="successfully_submit">Successfully submitted the request.</string>
+    <string name="please_input_some_text">Please input some text.</string>
+    <string name="address_line_one">Address Line 1 (Optional)</string>
+    <string name="address_line_two">Address Line 2 (Optional)</string>
+    <string name="address_line_one_no_optional">Address Line 1</string>
+    <string name="address_line_two_no_optional">Address Line 2</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="pincode">Pincode</string>
+    <string name="all_fields_are_mandatory">All fields are mandatory</string>
+    <string name="are_you_sre">Are you sure?</string>
+    <string name="toggle_to_enable_google_fit">Toggle to enable Google Fit</string>
+    <string name="toggle_to_enable_samsung_shealth">Toggle to enable Samsung Health</string>
+    <string name="tracker_disconnect_warning">will result in steps being tracked from phone and may result in duplicate steps for today. This won\'t help with faster syncing of steps from</string>
+    <string name="points_summary">POINTS SUMMARY</string>
+    <string name="point_allocation">Point allocation</string>
+    <string name="repeated_event">Repeated event</string>
+    <string name="install_google_calender_app">Please install Google Calendar app from Play Store to use this functionality</string>
+    <string name="loading_data">Loading Data....</string>
+    <string name="updating_data">Updating Data....</string>
+    <string name="deleting">Deleting....</string>
+    <string name="event_">Event:</string>
+    <string name="for_">for</string>
+    <string name="processing">PROCESSING</string>
+    <string name="team_filter">FILTER BY TEAMS</string>
+    <string name="profile_settings">Profile Settings</string>
+    <string name="username_braces">[username]</string>
+    <string name="connection_state_braces">[connection state]</string>
+    <string name="done">Done</string>
+    <string name="select_strength">Select Strength</string>
+    <string name="subject">Subject</string>
+    <string name="change">Change</string>
+    <string name="add_your_subject_here">Add your subject here</string>
+    <string name="add_your_message_here">Add your message here</string>
+    <string name="change_password">Change Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="details">Details</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name (Optional)</string>
+    <string name="official_title">Official Title (Optional)</string>
+    <string name="real_title">Real Title (Optional)</string>
+    <string name="dob">DOB</string>
+    <string name="make_my_bday_public">Make my birthday public</string>
+    <string name="mobile">Mobile (Optional)</string>
+    <string name="company">Company</string>
+    <string name="department">Department</string>
+    <string name="emergency_call">Emergency Call</string>
+    <string name="phone">PHONE</string>
+    <string name="phone_all_small">Phone</string>
+    <string name="sms">SMS</string>
+    <string name="business_referral">BUSINESS REFERRAL</string>
+    <string name="employee_referral">EMPLOYEE REFERRAL</string>
+    <string name="position">Position</string>
+    <string name="name_of_the_candidate">Name of the Candidate</string>
+    <string name="phone_home">Phone - Home</string>
+    <string name="phone_mobile">Phone - Mobile</string>
+    <string name="information">Information</string>
+    <string name="feedback_and_support">FEEDBACK & SUPPORT</string>
+    <string name="faqs">FAQs</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="profile">Profile</string>
+    <string name="edit">EDIT</string>
+    <string name="no_rewards_available">Sorry, no rewards available at this location at the moment.</string>
+    <string name="copy">COPY</string>
+    <string name="redeemed">REDEEMED</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="phone_number_to_redeem_topup">Please Enter Phone Number   to Redeem this Topup.</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="confirm_small">Confirm</string>
+    <string name="referral">REFERRAL</string>
+    <string name="full_name">Full Name</string>
+    <string name="apps_and_devices">APPS & DEVICES</string>
+    <string name="runkeeper">Runkeeper</string>
+    <string name="connected">Connected</string>
+    <string name="connect">Connect</string>
+    <string name="strava">Strava</string>
+    <string name="Jawbone">Jawbone</string>
+    <string name="fitbit">Fitbit</string>
+    <string name="google_fit_account">GOOGLE FIT ACCOUNT</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="which_mechanism_you_would_like">Which Mechanism You Would Like</string>
+    <string name="to_connect_to_track_your_steps">To Connect To Track Your Steps?</string>
+    <string name="msg">Msg</string>
+    <string name="view_more">View More</string>
+    <string name="be_fit_and_healthy">Be fit and healthy</string>
+    <string name="our_step_tracker_will_help_you">Our step tracker will help you keep track off your fitness and health Wherever you are</string>
+    <string name="swipe_to_see_what_next">swipe to see what\'s next</string>
+    <string name="text">text</string>
+    <string name="send_your_wishes">Send Your Wishes</string>
+
+    <string name="greetings">Greetings</string>
+    <string name="appointments">APPOINTMENTS</string>
+    <string name="july_2015">July 2015</string>
+    <string name="week">WEEK</string>
+    <string name="month">MONTH</string>
+    <string name="add_appointments">Add Appointments</string>
+    <string name="redeem">REDEEM</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="whats_on_today">WHAT\'S ON TODAY</string>
+    <string name="you_want_to_redeem_this_reward">You want to redeem this reward</string>
+    <string name="member">member</string>
+    <string name="total_points">Total Points</string>
+    <string name="average_points">averagepoint</string>
+    <string name="enter_customer_id_to_redeem_topup">Please enter Customer Id to redeem this topup.</string>
+    <string name="preview_message">Preview Message</string>
+    <string name="donwloaded_image">DOWNLOADED IMAGE</string>
+    <string name="enter_pln_number">Enter Pln Number</string>
+    <string name="enter_pln_to_redeem_topup">Please enter Pln Number to redeem this topup.</string>
+    <string name="description">Description</string>
+    <string name="event_timing">Event Time</string>
+    <string name="website">Website</string>
+    <string name="points">Points</string>
+    <string name="address">ADDRESS</string>
+    <string name="whom_to_contact_for_event">WHOM TO CONTACT FOR THE EVENT</string>
+    <string name="photo">Photo</string>
+    <string name="add_photo">ADD PHOTO</string>
+    <string name="save">SAVE</string>
+    <string name="title">Title</string>
+    <string name="read_more">Read More</string>
+    <string name="terms_and_conditions">TERMS AND CONDITIONS</string>
+    <string name="terms_and_conditions_small">Terms & Conditions</string>
+    <string name="option">OPTION</string>
+    <string name="filter_categories_by">Filter Categories By</string>
+    <string name="vendor_passcode">Vendor Passcode</string>
+    <string name="please_enter_your_passcode">Please Enter Your Passcode</string>
+    <string name="conversations">CONVERSATIONS</string>
+    <string name="direct_delivery_address">Direct Delivery Address</string>
+    <string name="confirm_redemption">Confirm Redemption</string>
+    <string name="facility_checkin">FACILITY CHECKIN</string>
+    <string name="select_contact">Select Contact</string>
+    <string name="search_by_name_or_email">Search by name or email</string>
+    <string name="enable_google_fit">Enable Google Fit</string>
+    <string name="get_organized">Get organized</string>
+    <string name="synchronize_app_with_calendar">Synchronize the app with your phone calendar to help you organize your schedule better</string>
+    <string name="get_rewards">Get Rewards</string>
+    <string name="collect_point_redeem_reward">Collect points and redeem your rewards at merchant partners</string>
+    <string name="connect_google_fit_help">Connect with google fit app.This will make a healthy change in your life by becoming more active, aware and motivated.</string>
+    <string name="google_fit_app_installed">Google Fit App Installed</string>
+    <string name="location_services_enable">Location Services Enable</string>
+    <string name="authenticated_to_google_fit">Autheticated to Google fit</string>
+    <string name="note_to_ensure">Note: To ensure that this app functions optimally on your phone, download Google Fit and sync this app with the same gmail account as Google Fit.</string>
+    <string name="greet_your_colleagues">Greet your colleagues</string>
+    <string name="send_personalized_birthday_wishes">Send personalized birthday wishes and greetings to your colleagues</string>
+    <string name="history">HISTORY</string>
+    <string name="scan">Scan</string>
+    <string name="select_delivery_mode">Select Delivery Mode</string>
+    <string name="direct_delivery">Direct delivery</string>
+    <string name="office_pickup">Office Pick-up</string>
+    <string name="next">Next</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="individual">Individual</string>
+    <string name="week_view">Week</string>
+    <string name="month_view">Month</string>
+    <string name="total_pts">TOTAL PTS</string>
+    <string name="total_pts_small">Total Pts</string>
+    <string name="average_pts">AVERAGE PTS</string>
+    <string name="average_pts_small">Avg Pts</string>
+    <string name="team">Team</string>
+    <string name="location_alert">Location Alert</string>
+    <string name="location_not_found_switch_on">Location not found please switch on the location.</string>
+    <string name="locations">LOCATIONS</string>
+    <string name="username">Username</string>
+    <string name="point_summary">POINTS SUMMARY</string>
+    <string name="remaining_points">Remaining Points</string>
+    <string name="total_redeemed">Total Redeemed</string>
+    <string name="map_voucher">Map Voucher</string>
+    <string name="view_point_rewardz">View Point Rewards</string>
+    <string name="view_discount_rewardz">View Discount Rewards</string>
+    <string name="year">YEAR</string>
+    <string name="overall">OVERALL</string>
+    <string name="basic">BASIC</string>
+    <string name="pro">PRO</string>
+    <string name="elite">ELITE</string>
+    <string name="notifications">NOTIFICATIONS</string>
+    <string name="no_notification_at_moment">Oops. No notifications at the moment.</string>
+    <string name="slide_left_to_delete">Slide Left To Delete</string>
+    <string name="password_reset">Reset instructions have been sent to your email address</string>
+    <string name="rewards">Rewards</string>
+    <string name="your_rewards">YOUR REWARDS</string>
+    <string name="all_rewards">ALL REWARDS</string>
+    <string name="contact">CONTACT</string>
+    <string name="about">ABOUT</string>
+    <string name="about_small">About</string>
+    <string name="add">Add</string>
+    <string name="organizer">Organizer</string>
+    <string name="community">Community</string>
+    <string name="steps_summary">STEPS SUMMARY</string>
+    <string name="weekly">Weekly</string>
+    <string name="steps_tracked_today">Steps Tracked Today</string>
+    <string name="your_daily_average_steps">Your Daily Average Steps</string>
+    <string name="connected_with">Connected With</string>
+    <string name="photos">PHOTOS</string>
+    <string name="view_all">View All</string>
+    <string name="chat">CHAT</string>
+    <string name="calendar">CALENDAR</string>
+    <string name="add_activity">ADD ACTIVITY</string>
+    <string name="emergency_services">EMERGENCY SERVICES</string>
+    <string name="connect_apps_and_devices">CONNECT APPS & DEVICES</string>
+    <string name="employee_engagement_program">Employee Engagement Program</string>
+    <string name="axa_drive">AXA DRIVE</string>
+    <string name="my_axa_health">My Axa Health</string>
+    <string name="employee_engagement">Employee Engagement</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="enter_email_forgot_pass">Enter your email address below and we\'ll send you instructions on how to change your password.</string>
+    <string name="requesting">Requesting....</string>
+    <string name="whats_happening">What\'s Happening</string>
+    <string name="otp_email_message">We have sent you a secure OTP to your registered email</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="reset_password">Reset instructions have been sent to</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="barcode_message">Barcode for redemption</string>
+    <string name="disconnecting_dots">Disconnecting....</string>
+    <string name="disconnecting">Disconnecting</string>
+    <string name="please_wait">Please wait....</string>
+    <string name="version">Version</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="search_result">Search Result</string>
+    <string name="ok">OK</string>
+    <string name="select_email">Select email id</string>
+    <string name="select_phone">Select phone number</string>
+    <string name="staff_referral">Staff Referral</string>
+    <string name="email">Email</string>
+    <string name="residential_address">Residential Address</string>
+    <string name="citizenship">Citizenship</string>
+    <string name="highest_academic_qualification">Highest Academic Qualification</string>
+    <string name="highest_early_childhood_qualification">Highest Early Childhood Educational Qualification</string>
+    <string name="currently_pursuing">Currently Pursuing</string>
+    <string name="enter_full_name">Please enter full name</string>
+    <string name="enter_contact_number">Please enter contact number</string>
+    <string name="enter_email">Please enter email</string>
+    <string name="enter_address">Please enter the address</string>
+    <string name="select_citizenship">Please select citizenship</string>
+    <string name="select_position">Please select position</string>
+    <string name="select_highest_qualification">Please select highest qualification</string>
+    <string name="select_early_qualification">Please select early qualification attained</string>
+    <string name="select_currently_pursuing">Please select currently pursuing</string>
+    <string name="successfully_referred">Successfully Referred</string>
+    <string name="redeeming">Redeeming....</string>
+    <string name="events_capital">EVENTS</string>
+    <string name="greetings_capital">GREETINGS</string>
+    <string name="announcements_capital">ANNOUNCEMENTS</string>
+    <string name="appointments_capital">APPOINTMENTS</string>
+    <string name="reading_contacts">Reading contacts :</string>
+    <string name="healthy_activities">healthy-activities</string>
+    <string name="referral_small">referral</string>
+    <string name="check_in_events">check-in-events</string>
+    <string name="check_in_events_facilities">check-in-events-facilities</string>
+    <string name="corporate_program">corporate-program</string>
+    <string name="employee_rewards">employee-rewards</string>
+    <string name="cbo_rewards">CBO Rewards</string>
+    <string name="choose">Choose</string>
+    <string name="view_profile">View Profile</string>
+    <string name="enter_otp">ENTER OTP</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="btn_settings">Settings</string>
+    <string name="your_and">It\'s yours and</string>
+    <string name="your_birthday">It\'s your birthday</string>
+    <string name="your_anniversary">It\'s your anniversary</string>
+    <string name="multiple_colleague_birthday">colleagues\'s birthday</string>
+    <string name="multiple_colleague_anniversary">colleagues\'s anniversary</string>
+    <string name="external_storage_permission">Please provide storage permission to continue using this functionality</string>
+    <string name="external_storage_and_camera_permission">Please provide storage and camera permissions to continue using this functionality</string>
+    <string name="location_permission">Please grant location permission to continue using the functionality</string>
+    <string name="checking_in">Checking in....</string>
+    <string name="uploading_image">Uploading image....</string>
+    <string name="checking">Checking....</string>
+    <string name="appreciate_small">Appreciate</string>
+    <string name="valid_till">VALID TILL</string>
+    <string name="point_reward_header">POINT</string>
+    <string name="discount_reward_header">DISCOUNT</string>
+    <string name="app_permission_calendar">App needs access to calendar for adding RSVPed events</string>
+    <string name="app_permission_camera_storage">App needs access to external storage and camera for selecting photo</string>
+    <string name="app_permission_share_image">App needs access to external storage for sharing the image</string>
+    <string name="app_nearby_location_rewards">App needs access to location for finding nearby rewards</string>
+    <string name="app_nearby_location_facilities">App needs access to location for finding nearby facilities</string>
+    <string name="app_location_permission_checkin">App needs access to location for checking in to events</string>
+    <string name="app_location_permission_facility">App needs access to location for checking in to facility</string>
+    <string name="verificatoin_failed">Verification Failed</string>
+    <string name="cannot_edit">You cannot edit this.</string>
+    <string name="select_organization">Select Organization</string>
+    <string name="only_one_org">There is no other organization available.</string>
+
+
+    <!-- Dashboard referral screen -->
+
+
+    <!-- Dashboard referral screen -->
+    <string name="bronze_category">1 Referral</string>
+    <string name="silver_category">3 Referrals</string>
+    <string name="gold_category">5 Referrals</string>
+    <string name="platinum_category">8 Referrals</string>
+    <string name="referrals">Referrals</string>
+    <string name="successful_referral">Successful Placement:</string>
+    <string name="referral_bronze_detail">Refer 2 more to attain Silver Tier</string>
+    <string name="referral_silver_detail">Get 10,000 bonus points when you attain this tier</string>
+    <string name="referral_gold_detail">Get 60,000 bonus points when you attain this tier</string>
+    <string name="referral_platinum_detail">Get 80,000 bonus points when you attain this tier</string>
+    <string name="others">Others</string>
+    <string name="logout">Logout</string>
+    <string name="referral_bronze_detail_refer_zero">Refer 1 successfully to attain Bronze Tier</string>
+    <string name="select_your_citizenship">Select your citizenship</string>
+    <string name="select_your_position">Select your position</string>
+    <string name="select_your_highest_acdemic_qualification">Select Highest Academic Qualification</string>
+    <string name="select_your_highest_childhood_qualification">Select Highest Early Childhood Qualification</string>
+    <string name="select_currently_persuing">Select Currently Pursuing</string>
+    <string name="share">Share</string>
+    <string name="selected_images_are_being_download">Selected images are being download, check notification section</string>
+    <string name="thank_referral_submission">Thank you for your referral submission.</string>
+    <string name="enter_referral_full_name">Please enter referral\'s full name</string>
+    <string name="enter_referral_contact_number">Please enter referral’s contact number</string>
+    <string name="specify_position">Please specify position</string>
+    <string name="specify_highest_qualification">Please specify highest qualification</string>
+    <string name="need_permission">Need Permission</string>
+    <string name="app_need_contact_permission">This app needs contact permission to load contacts.</string>
+    <string name="grant">Grant</string>
+    <string name="permission_grant_contact">Go to Permissions to Grant Contact</string>
+    <string name="unable_to_get_permission">Unable to get Permission</string>
+    <string name="send_log">Send Logs</string>
+    <string name="no_department_found">No department found.</string>
+    <string name="please_select_department">Please select one department</string>
+    <string name="specify_your_position">Specify your position</string>
+    <string name="specify_your_highest_academic_qualification">Specify your highest academic qualification</string>
+    <string name="specify_highest_early_childhood_qualification">Specify highest early childhood qualification</string>
+    <string name="specify_your_currently_persuing">Specify your currently pursuing</string>
+    <string name="max_restrict_file_popoup">Only 3 attachments are allowed</string>
+    <string name="max_limit">* Max of 3 attachments</string>
+    <string name="photo_selected">photo selected</string>
+    <string name="photos_selected">photos selected</string>
+    <string name="mandatory_required">* Required</string>
+    <string name="please_scpecify">Please specify</string>
+    <string name="please_enter_full_name">Please enter full name</string>
+    <string name="no_permission_to_Delete_image">You do not have permission to delete this image.</string>
+    <string name="all_photos">All Photos</string>
+    <string name="discount_rewards">Discount Rewards</string>
+    <string name="optional">Optional</string>
+    <string name="as_per_nric">as per NRIC</string>
+    <string name="remaining">Remaining</string>
+    <string name="featured_rewards">Featured Rewards</string>
+    <string name="event_and_activities">Events & Activities</string>
+
+    <!-- Dashboard referral screen items end here -->
+    <string-array name="citizenship_array">
+        <item>Singapore Citizen</item>
+        <item>Singapore Permanent Resident</item>
+        <item>Foreigner requiring work pass to work in Singapore</item>
+    </string-array>
+
+    <string-array name="position_array">
+        <item>Principal</item>
+        <item>Deputy Centre Lead</item>
+        <item>English Teacher</item>
+        <item>Chinese Teacher</item>
+        <item>Malay Teacher</item>
+        <item>Tamil Teacher</item>
+        <item>Infant Care Teacher</item>
+        <item>Student Care Supervisor</item>
+        <item>Student Care Teacher</item>
+        <item>Trainee Teacher</item>
+        <item>Trainee Infant Care Teacher</item>
+        <item>Assistant Teacher</item>
+        <item>Center Attendant (Cook)</item>
+        <item>Center Attendant (Cleaner)</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="highest_academic_qualification_array">
+        <item>Master Degree</item>
+        <item>Bachelor Degree</item>
+        <item>Diploma</item>
+        <item>NITEC</item>
+        <item>GCE A Level</item>
+        <item>GCE N/O Level</item>
+        <item>Secondary 2 and below</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="highest_early_childhood_education_arry">
+        <item>Master Degree</item>
+        <item>Bachelor Degree</item>
+        <item>Diploma</item>
+        <item>NITEC</item>
+        <item>ACECCE</item>
+        <item>CPT</item>
+        <item>CIT</item>
+        <item>ACEY</item>
+        <item>HCIC</item>
+        <item>Not Applicable</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="currently_pursuing_arry">
+        <item>Bachelor Degree</item>
+        <item>Diploma</item>
+        <item>NITEC</item>
+        <item>ACECCE</item>
+        <item>ACEY</item>
+        <item>HCIC</item>
+        <item>Not Applicable</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="array_priority_validity">
+        <item>1 day</item>
+        <item>1 week</item>
+        <item>1 month</item>
+        <item>Always</item>
+    </string-array>
+
+    <string name="JAN">JAN</string>
+    <string name="FEB">FEB</string>
+    <string name="MAR">MAR</string>
+    <string name="APR">APR</string>
+    <string name="MAY">MAY</string>
+    <string name="JUN">JUN</string>
+    <string name="JUL">JUL</string>
+    <string name="AUG">AUG</string>
+    <string name="SEP">SEP</string>
+    <string name="OCT">OCT</string>
+    <string name="NOV">NOV</string>
+    <string name="DEC">DEC</string>
+
+    <string name="Su">Su</string>
+    <string name="Mo">Mo</string>
+    <string name="Tu">Tu</string>
+    <string name="We">We</string>
+    <string name="Th">Th</string>
+    <string name="Fr">Fr</string>
+    <string name="Sa">Sa</string>
+    <string name="specify_here">Specify Here</string>
+    <string name="you_need">You need</string>
+    <string name="change_language">Change Language</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese(中文)</string>
+    <string name="blank_year"></string>
+    <string name="username_or_email_address">Username or Email Address</string>
+    <string name="caps_password">Password</string>
+    <string name="login">Login</string>
+    <string name="email_address_for_reset_password">Enter your email address below and we\'ll send you instructions on how to change your password.</string>
+
+    <string name="receipts">RECEIPTS</string>
+    <string name="upload_receipts">UPLOAD RECEIPTS</string>
+    <string name="receipt_number">Receipt Number</string>
+    <string name="brand">Brand</string>
+
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string>
+    <string name="approved">Approved</string>
+    <string name="rejected">Rejected</string>
+    <string name="search_receipts">Search Receipts</string>
+    <string name="garmin">Garmin</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="e_mail">E-mail</string>
+    <string name="select">Select</string>
+    <string name="branch">Branch</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="registration_code">Registration Code</string>
+    <string name="loading_company">Loading Company....</string>
+    <string name="loading_branch">Loading Branch....</string>
+    <string name="registering">Registering....</string>
+    <string name="thanks_for_sign_up">Thanks for Sign up</string>
+    <string name="please_login_now">Please Login now</string>
+    <string name="select_your_department">Select your department</string>
+    <string name="select_your_company">Select your company</string>
+    <string name="no_company_found">No company found</string>
+    <string name="password_must_be_same">Password must be same.</string>
+    <string name="enter_confirm_password">Enter confirm password.</string>
+    <string name="password_digit_uppercase_lowercase">Password must have 1 digit, 1 UpperCase and 1 LowerCase letters.</string>
+    <string name="enter_password">Enter password.</string>
+    <string name="select_your_branch">Select your branch.</string>
+    <string name="enter_valid_email">Enter valid e-mail ID.</string>
+    <string name="enter_email_id">Enter e-mail ID.</string>
+    <string name="enter_last_name">Enter last name.</string>
+    <string name="enter_first_name">Enter first name.</string>
+    <string name="first_select_your_company">First select your company</string>
+    <string name="enter_registration_code">Enter registration code.</string>
+    <string name="skip">Skip</string>
+    <string name="enter_receipt_number">Enter Receipt Number</string>
+    <string name="choose_brand_name">Choose Brand Name</string>
+    <string name="you_cannot_select_this_photo">You cannot select this photo</string>
+    <string name="do_you_want_to_delete">Do you want to delete</string>
+    <string name="selected_photos">selected photos?</string>
+    <string name="your_card_number">Your Card Number:</string>
+    <string name="pin_capital">PIN</string>
+    <string name="verify">Verifying....</string>
+    <string name="request_new_otp">Requesting new OTP</string>
+    <string name="success">Success</string>
+    <string name="select_org">Select org</string>
+    <string name="change_org">Change Org</string>
+    <string name="logout_message">You will be logged out for app settings to take place.</string>
+    <string name="new_settings_found">New settings found</string>
+    <string name="recognize">Recognize</string>
+    <string name="thanks_for_recognizing">Thanks for recognizing</string>
+    <string name="select_at_least_one_strengths_to_recognize">Select at least one strength to recognize</string>
+
+    <string name="no_updates">No Updates</string>
+    <string name="take_survey">Take Survey</string>
+    <string name="workplace">WORKPLACE</string>
+    <string name="allocate_points">ALLOCATE POINTS</string>
+    <string name="server_facing_heavy_load">Server is facing heavy load. Please try again later.</string>
+    <string name="password_policy">* Password must be minimum 8 characters and contain a combination of uppercase letters, lowercase letters & numbers.</string>
+    <string name="only_home_delivery_text_for_nexperia">Please enter your home address. Use of Nexperia ATSN office address is not allowed.</string>
+
+
+    <plurals name="birthday_plurals">
+        <item quantity="one">1 colleague\'s birthday</item>
+        <item quantity="zero">It\'s your birthday</item>
+        <item quantity="other">%d colleagues\' birthday</item>
+    </plurals>
+
+    <plurals name="anniversary_plurals">
+        <item quantity="one">1 colleague\'s anniversary</item>
+        <item quantity="zero">It\'s your anniversary</item>
+        <item quantity="other">%d colleagues\' anniversary</item>
+    </plurals>
+
+    <string name="hint_email_emp_id">Employee ID</string>
+    <string name="message_change_email">Please enter your email address and change your password</string>
+    <string name="title_change_email_password">SET EMAIL ID & PASSWORD</string>
+    <string name="email_policy">* Please enter your work or personal contact email for password reset and points redemption purposes.</string>
+    <string name="label_postcode">Postal Code</string>
+    <string name="title_dashboard_nexperia">Home</string>
+    <string name="label_points">points</string>
+    <string name="message_select_delivery_mode">Please select a delivery mode</string>
+    <string name="label_privacy_policy_nexperia">I have read and accept the Terms of Service & Privacy Policy of Rewardz and Nexperia Malaysia.</string>
+    <string name="hint_enter_email_address">Please enter you email address</string>
+    <string name="target_units">Target Units</string>
+    <string name="units_sold">Units Sold</string>
+    <string name="campaign_tracker">Special Campaigns Tracker</string>
+    <string name="you_are_in">You are in</string>
+    <string name="tier">tier</string>
+    <string name="user_is_in">User is in</string>
+    <string name="you_are_nominating">You are nominating</string>
+    <string name="you_are_recognizing">You are recognizing</string>
+    <string name="private_msg">Private</string>
+    <string name="appreciation_private_message">This user has chosen to keep the appreciations private</string>
+    <string name="make_appreciation_public">Make my appreciations public</string>
+    <string name="appreciations">Appreciations</string>
+    <string name="nominations">Nomination</string>
+    <string name="recongnizations">Recongnizations</string>
+    <string name="workplace_by_facebook">Workplace by Facebook</string>
+    <string name="share_with">Share with</string>
+    <string name="select_at_least_one_message_to_share">Please long click on message and select at least one message that you would like to share.</string>
+    <plurals name="message_appreciations_remaining">
+        <item quantity="one">Monthly appreciation remaining:</item>
+        <item quantity="other">Monthly appreciations remaining:</item>
+    </plurals>
+
+    <plurals name="message_appreciations_points">
+        <item quantity="one">Remaining Monthly appreciation points:</item>
+        <item quantity="other">Remaining Monthly appreciations points:</item>
+    </plurals>
+
+    <plurals name="no_of_appreciations">
+        <item quantity="one">Appreciation</item>
+        <item quantity="other">Appreciations</item>
+    </plurals>
+
+    <plurals name="no_of_nominations">
+        <item quantity="one">Nomination</item>
+        <item quantity="other">Nomination</item>
+    </plurals>
+
+    <plurals name="no_of_recognitions">
+        <item quantity="one">Recognition</item>
+        <item quantity="other">Recognitions</item>
+    </plurals>
+
+
+    <string name="appreciated">appreciated</string>
+    <string name="posting_workplace">Posting to workplace.....</string>
+    <string name="does_not_exists_on_workplace">does not exists on your workplace group</string>
+    <string name="posted_to_workplace">Successfully posted to your workplace group.</string>
+    <string name="something_went_wrong_posting_to_workplace">Something went wrong while posting to your workplace group.</string>
+    <string name="with_this_message">with this message</string>
+    <string name="new_settings_updated">New settings updated.</string>
+    <string name="hide_my_appreciation_messages">Hide my appreciation messages</string>
+    <string name="failed_to_subscribe_recording_api">There was a problem subscribing to Recording API</string>
+    <string name="fetching_details">Fetching Details....</string>
+    <string name="enter_frame_category">Select Frame Category</string>
+    <string name="enter_date_of_receipt">Enter Date of Receipt</string>
+    <string name="enter_no_of_units_sold">Enter Number of Units sold</string>
+    <string name="validate_no_of_units_sold">Number of Units sold should be less than 8</string>
+    <string name="receipts_missing">Receipt is missing</string>
+    <string name="loading_receipts">Loading Receipts....</string>
+    <string name="uploading_receipt">Uploading Receipt</string>
+    <string name="receipt_upload_failed">Receipt Upload Failed</string>
+    <string name="upload_complete">Upload Complete</string>
+    <string name="italian">Italian</string>
+    <string name="german">German</string>
+    <string name="frame_category">Frame Category</string>
+    <string name="brand_model">Brand Model</string>
+    <string name="date_of_receipt">Date of Receipt</string>
+    <string name="amount">Amount</string>
+    <string name="no_of_units_sold">No. of units sold</string>
+    <string name="view_receipt">View Receipt</string>
+    <string name="upload">Upload</string>
+    <string name="spanish">Spanish</string>
+    <string name="nric_email">NRIC/email</string>
+    <string name="notify_members">Notify members of</string>
+    <string name="quantity_less_than">Quantity should be less than 9</string>
+    <string name="add_quantity_less_than">Add less than 9</string>
+    <string name="you_can_redeem">You can redeem this reward</string>
+
+    <string name="enter_your_email_to_reset_pwd">Enter your email address below and we\'ll send you instructions on how to change your password</string>
+    <string name="country">Country</string>
+    <string name="store">Store</string>
+    <string name="select_your_country">Select your country</string>
+    <string name="first_select_country">First select your country</string>
+    <string name="loading_stores">Loading stores....</string>
+    <string name="no_countries_found">No countries found</string>
+    <string name="select_your_store">Select your store</string>
+    <string name="loading_countries">Loading countries....</string>
+    <string name="process">Processing</string>
+    <string name="redeem_e_cash">Redeem e-Cash</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="min_amt_reqd">Minimum redemption of $10 is required, subsequent increase in multiples of $1</string>
+    <string name="enter_paynow_acc_no">Enter PayNow bank account number</string>
+    <string name="or">OR</string>
+    <string name="enter_reg_mob_no">Enter PayNow registered phone number</string>
+    <string name="hundred_pts_reqd">100 points required</string>
+    <string name="pls_enter_amount">Please enter amount</string>
+    <string name="enter_bank_or_mob_no">Please enter either PayNow bank account number or PayNow registered mobile number</string>
+    <string name="pls_enter_valid_mob_no">Please enter valid mobile number</string>
+    <string name="pls_enter_min_amount">Please enter minimum $10</string>
+    <string name="ten_dollar">$10</string>
+    <string name="paynow_link">Not registered with PayNow? Register now!</string>
+    <string name="mobile_update_fail_try_again">Mobile number update failed, please try again</string>
+    <string name="just_last_name">Last Name</string>
+    <string name="scan_cancelled">Scan was cancelled by you.</string>
+    <string name="place_qr_code_in_frame">Place QR code in the frame</string>
+    <string name="courier_option">Courier Option</string>
+    <string name="office_delivery">Office Delivery (Free service)</string>
+    <string name="fee_of">fee of</string>
+    <string name="points_apply">points apply</string>
+    <string name="courier_sub_text">Any subsequent redemptions within the day will be free of charge</string>
+    <string name="office_delivery_sub_text">Collect your reward/s every 1st working day of the month (redemptions done from the 9th to 23rd of the previous month) OR 15th of the month (redemptions done from the 24th of the previous month to the 8th of the current month)</string>
+    <string name="are_you_sure_you_want_to_redeem_reward">Are you sure you want to redeem this reward?</string>
+    <string name="logging_out">Logging out....</string>
+    <string name="your_pwd_expire">Your password will expire in</string>
+    <string name="alert">Alert</string>
+    <string name="pwd_update_logout_message">Your password has expired. Kindly reset your password using forget password to login</string>
+    <string name="atsn_dashboard">ATSN Dashboard</string>
+    <string name="dummy_text">WW47\'18</string>
+    <string name="output">Output</string>
+    <string name="icar">ICAR</string>
+    <string name="dept_performance">Departmental Performance</string>
+    <string name="quarter">Quarter</string>
+    <string name="label_quarter">Q</string>
+    <string name="label_qtd">QTD</string>
+    <string name="label_month">M</string>
+    <string name="hint_brand_model"><font size="10"><![CDATA[Enter 2 letters & 4 digits (e.g. AB1234)]]></font></string>
+    <string name="hint_amount">$XXX</string>
+    <string name="enter_brand_model">Enter brand model</string>
+    <string name="membership_privileges">Membership Privileges</string>
+    <string name="since">since</string>
+    <string name="character_limit_error_message">Please enter minimum %1$d characters</string>
+    <string name="entered">entered</string>
+    <string name="confirm_edit_mobile_number">Confirm your mobile number</string>
+    <string name="recognition_heroes">Recognition Heroes</string>
+    <string name="feeds">Feed</string>
+    <string name="users">users</string>
+    <string name="clear">Clear</string>
+    <string name="appreciated_by">appreciated by</string>
+    <string name="updated_week">Weekly data as updated on</string>
+    <string name="scan_qr_code_text_one">Scan QR Code in store to enjoy your offer!</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="scan_qr_code_text_two">Look for the QR code with a red logo in the middle to scan</string>
+    <string name="available_points_for_redemption">Available Points for Redemption</string>
+    <string name="total_points_redeemed">Total Points Redeemed</string>
+    <string name="more_details">More Details</string>
+    <string name="my_points">My Points</string>
+    <string name="used_points">Used Points</string>
+    <string name="points_available_to_redeem">Points Available to Redeem</string>
+    <string name="learn_more">Learn More</string>
+    <string name="points_available_for_redemption">Points Available for Redemption</string>
+    <string name="steps_summary_small">Steps Summary</string>
+    <string name="close">CLOSE</string>
+    <string name="monthly">MONTHLY</string>
+    <string name="see_points_history">See Points History ></string>
+    <string name="greetings_small">Greetings</string>
+    <string name="popular_merchants">Popular Merchants</string>
+    <string name="view_event">View Event</string>
+    <string name="view_reward">View Reward</string>
+    <string name="view_message">View Message</string>
+    <string name="organisation_has">Organization has</string>
+    <string name="selected">Selected</string>
+    <string name="rsvp">RSVP</string>
+    <string name="event_venue">Event Venue</string>
+    <string name="event_contact_person">Contact Person for the Event</string>
+    <string name="location">Location</string>
+    <string name="see_all">See All</string>
+    <string name="my_strengths">My Strengths</string>
+    <string name="click_on_each_to_view_more">Click on each to view more</string>
+    <string name="but_people_call_me_as">but people call me as</string>
+    <string name="i_am">I\'m</string>
+    <string name="first_and_last_name">First & Last name</string>
+    <string name="pls_enter_address_line_1">Please enter address line one</string>
+    <string name="pls_enter_address_line_2">Please enter address line 2</string>
+    <string name="support">SUPPORT</string>
+    <string name="get_my_treats">GET MY TREATS</string>
+    <string name="total_points_received">Total Points Received</string>
+    <string name="high_5">Give High 5</string>
+    <string name="with">with</string>
+    <string name="thanks_for_high5">Thanks for giving a High 5.</string>
+    <string name="you_are_giving_high_5">You are giving a High 5</string>
+    <string name="min_appreciation_character">Minimum %1$d characters required</string>
+    <string name="high_5_awards">High 5 Awards</string>
+    <string name="joined">Joined</string>
+    <string name="your_treats_error_message">Direct access of the application is restricted; Kindly go to the Your Choice app and click on the Your Treat option.</string>
+    <string name="remaining_points_budget">Remaining points budget</string>
+    <string name="title_new_app_version">New version available</string>
+    <string name="message_app_update">A new version is available. Please update to the latest version.</string>
+    <string name="button_update">Update</string>
+
+
+    <plurals name="days_kindly_update">
+        <item quantity="one">day. Kindly update asap</item>
+        <item quantity="other">days. Kindly update asap</item>
+    </plurals>
+
+
+    <plurals name="character_count">
+        <item quantity="one">1 character</item>
+        <item quantity="zero">0 characters</item>
+        <item quantity="other">%d characters</item>
+    </plurals>
+
+    <plurals name="likes">
+        <item quantity="one">1 Like</item>
+        <item quantity="zero">0 Likes</item>
+        <item quantity="other">%d Likes</item>
+    </plurals>
+
+
+    <plurals name="pts">
+        <item quantity="one">1 Pt</item>
+        <item quantity="zero">0 Pts</item>
+        <item quantity="other">%d Pts</item>
+    </plurals>
+    <string name="title_activity_event_photos">EventPhotosActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="event_points">Event Points</string>
+    <string name="security">Security</string>
+    <string name="preferences">Preferences</string>
+    <string name="app_support">App Support</string>
+    <string name="how_to_earn_points">How to earn points?</string>
+    <string name="faq">Frequently Asked Questions (FAQ)</string>
+    <string name="live_chat">Live chat</string>
+    <string name="mon_to_fri">Mon to Fri, 10am - 6pm</string>
+    <string name="email_us">Email us</string>
+    <string name="send_logs">Send logs</string>
+    <string name="save_pwd">Save Password</string>
+    <string name="refreshed_on">Refreshed on</string>
+    <string name="redeemed_on">Redeemed on</string>
+    <string name="steps">Steps</string>
+    <string name="workplace_small">Workplace</string>
+    <string name="upload_receipts_small">Upload Receipts</string>
+    <string name="tab_upload_receipts">Receipts</string>
+    <string name="calendar_small">Calendar</string>
+    <string name="leaderboard_small">Leaderboard</string>
+    <string name="rewards_small">Rewards</string>
+    <string name="facility_check_in_small">Facility Check In</string>
+    <string name="referral_smalll">Referral</string>
+    <string name="history_small">History</string>
+    <string name="notifications_small">Notifications</string>
+    <string name="settings_small">Settings</string>
+    <string name="connect_apps">Connect Apps</string>
+    <string name="appreciation_small">Appreciation</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="recognize_small">Recognize</string>
+    <string name="nominate_small">Nominate</string>
+    <string name="allocate_points_small">Allocate Points</string>
+    <string name="browse_all">Browse All</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="valid_till_small">Valid Till:</string>
+    <string name="use_now">Use Now</string>
+    <string name="used_caps">USED</string>
+    <string name="expired_caps">EXPIRED</string>
+    <string name="time_left_caps">TIME LEFT</string>
+    <string name="filter_by">Filter by</string>
+    <string name="notify_me">Notify Me</string>
+    <string name="out_of_stock">OUT OF STOCK</string>
+    <string name="filters">FILTERS</string>
+    <string name="select_category">Select Category</string>
+    <string name="sort_by">Sort By</string>
+    <string name="latest">Latest</string>
+    <string name="a_to_z">A to Z</string>
+    <string name="z_to_a">Z to A</string>
+    <string name="special_deals">Special Deals</string>
+    <string name="points_required_to_redeem">Points required to redeem</string>
+    <string name="outlet">Outlet</string>
+    <string name="no_selection">No Selection</string>
+    <string name="select_outlet">Select Outlet</string>
+    <string name="please_select_outlet">Please select the outlet first</string>
+    <string name="choose_preferred_oulet">Choose your preferred  outlet:</string>
+    <string name="change_outlet">Change Outlet</string>
+    <string name="website_address_not_available">Website address not available.</string>
+    <string name="no_location_found">No location found</string>
+    <string name="click_for_more_details">Click here for more details</string>
+    <string name="register_now">Register Now</string>
+    <string name="not_registered_with_paynow">Not registered with PayNow?</string>
+    <string name="enter_paynow_registered_number">Enter PayNow registered phone number</string>
+    <string name="paynow_min_transaction_message">Minimum redemption of $10 is required, subsequent increase in multiples of $1.</string>
+    <string name="wish_to_proceed">Do you wish to proceed?</string>
+    <string name="redemption_confirmation_text">Redeeming this reward will deduct %1d points from your account.</string>
+    <string name="deferred_redemption_confirmation">To proceed, select ‘Use Now’ to use your reward. If you select ‘Use Later’, your reward will be stored in ‘My Wallet’ for later use. To exit, click ‘X’, points will NOT be deducted.</string>
+    <string name="use_later">Use Later</string>
+    <string name="phone_number_not_available">Phone number is not available</string>
+    <string name="successfully_redeemed">Successfully Redeemed!</string>
+    <string name="back_to_rewards">Back to Rewards</string>
+    <string name="view_in_wallet">View in My Wallet</string>
+    <string name="one_dollar">$1</string>
+    <string name="reference_code">Reference Code</string>
+    <string name="pin_code_info">Pass your phone to the counter staff to key in the pin code.</string>
+    <string name="select_your_delivery_mode">Select your mode of delivery.</string>
+    <string name="by_courier">By courier</string>
+    <string name="additional">(Additional</string>
+    <string name="applies">applies)</string>
+    <string name="courier_info">Any subsequent redemptions made within the day will  be free of charge. Delivered within 5 working days.</string>
+    <string name="office_reception">To your office reception</string>
+    <string name="free_delivery">(Free delivery)</string>
+    <string name="office_delivery_info">Please note the cut off is every 23rd of the month. You will receive your vouchers on the 30th or 31st of the month or the next working day if it falls on weekends or public holidays.</string>
+    <string name="office_delivery_sub_info">(Delivery cut-off date is on every 8th & 26th of the month. e.g. You will receive on 15th May if redemption is made on 27th April.)</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="barcode_caps">BARCODE:</string>
+    <string name="please_enter_code">Please enter code</string>
+    <string name="only_x_rewards_remaining">Only %1d quantities are available for redemption</string>
+    <string name="please_select_at_least_one_subcategory">Please select at least one subcategory</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="select_brand">Select Brand</string>
+    <string name="select_frame_category">Select Frame</string>
+    <string name="starting_soon">Starting Soon</string>
+    <string name="event_starts_on">Event starts on</string>
+    <string name="yet_to_start">Yet to start</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="hurry_up">HURRY UP!</string>
+    <string name="items_left">items left</string>
+    <string name="paytm_info">Please enter Paytm registered mobile number</string>
+    <string name="please_enter_correct_mobile_number">Please enter correct mobile number</string>
+    <string name="use_redeemed_reward_info">This voucher will be marked as ‘Used’.</string>
+    <string name="please_enter_your_mobile_number">Please enter your mobile number</string>
+    <string name="received">RECEIVED</string>
+    <string name="select_one_voucher_status">Please select at least one filter</string>
+    <string name="select_all">Select All</string>
+    <string name="no_events_this_month">Oops! There are no events in this month</string>
+    <string name="no_greetings_this_month">Oops! There are no greetings in this month</string>
+    <string name="no_announcements_this_month">Oops! There are no announcements in this month</string>
+    <string name="no_redemption_this_year">Oops! You did not redeem any %1$s this year</string>
+    <string name="no_receipts_uploaded">Oops! No receipts are uploaded</string>
+    <string name="no_receipts_processing">No receipts are currently being processed</string>
+    <string name="no_receipts_approved">Oops! No receipts are approved</string>
+    <string name="no_receipts_rejected">No receipts are rejected</string>
+    <string name="status_used">Used</string>
+    <string name="status_not_used">Not Used</string>
+    <string name="status_received">Received</string>
+    <string name="no_redemptions_available">No redemption available</string>
+    <string name="top_rewards">Top Rewards</string>
+    <string name="points_expiry_info">Your %s Points will expire on %1d %s</string>
+    <string name="acknowledge">Acknowledge</string>
+    <string name="have_you_received_voucher">Have you received your physical voucher?</string>
+    <string name="thanks_for_acknowledging">Thanks for acknowledging!</string>
+    <string name="voucher_acknowledgement_message">We hope you enjoy your  vouchers. Have a nice day ahead.</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="at_max_only_3_subcategories">At the max only 3 subcategories can be selected.</string>
+    <string name="no_rewards_found">Oops! No rewards found.</string>
+    <string name="explore">Explore</string>
+    <string name="recently_viewed">Recently Viewed</string>
+    <string name="btn_redeem">Redeem</string>
+    <string name="rewards_found_matching">%1d rewards found matching</string>
+    <string name="reward_expiring_soon_message">In high demand. Only %1d left, don\'t miss out!</string>
+    <string name="nothing_found_matching">Nothing found matching %s</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="in_high_demand">IN HIGH DEMAND!</string>
+    <string name="only_few_left">Only %1d left, don\'t miss out!</string>
+    <string name="point_history">Point History</string>
+    <string name="address_line_two_no_optional_building_block">Address line 2 (Building/ Block/ House No.)</string>
+    <string name="for_strength">for strength</string>
+    <string name="redeem_small">Redeem</string>
+    <string name="reward_used">Reward Used!</string>
+    <string name="voucher_received">Voucher Received!</string>
+    <string name="open_link">Open Link</string>
+    <string name="quantity">Quantity:</string>
+    <string name="evoucher_use_later_message">Please go to My Wallet Tab to use the redeemed reward.</string>
+    <string name="physical_voucher_use_later_message">Please acknowledge in My Wallet once you receive the voucher.</string>
+    <string name="congratulations">Congratulations..!</string>
+    <string name="checked_in_successfully">Checked-in Successfully</string>
+    <string name="checked_in_successfully_scratch_msg">When you check-in successfully  to a\nevent you will receive a scratch card\nfrom which you can win points</string>
+    <string name="points_won">Points won</string>
+    <string name="points_won_reflected">Points won will be reflected within 2 hours.</string>
+    <string name="congratulations_you_have_won_scratch_card">Congratulations! \nYou have won a scratch card.</string>
+    <string name="swipe_back_forth_to_see_points_won">Swipe back and forth to see how many points you have won.</string>
+    <string name="you_have_won">You have won</string>
+    <string name="have_you_received_amount">Have you received the amount?</string>
+    <string name="contact_support_team">Please contact support team.</string>
+    <string name="search_by_username">Search by username</string>
+    <string name="you_have_won_scratch_card">You have won a scratch card.</string>
+    <string name="at_max_1000_quantities">At the max, you can select only 1000 quantities.</string>
+    <string name="at_max_appreciation_points">At the max, you can award 1000000 points.</string>
+    <string name="exceeding_allocated_points_limit">You\'re exceeding the points lmit of %d</string>
+    <string name="max_ecash_amount">Maximum 1000000 is allowed.</string>
+    <string name="no_photos_added">No photos are added.</string>
+    <string name="enter_less_quantity">Enter less quantity</string>
+    <string name="delete_all">Delete All</string>
+    <string name="are_you_sure_you_want_to_delete_all_notification">Are you sure you want to delete all notification?</string>
+    <string name="pls_enter_srch_query">Please enter search query</string>
+    <string name="processed">Processed</string>
+    <string name="please_enter_wish_message">Please enter wish message.</string>
+    <string name="sending_your_wish">Sending your wish.....</string>
+    <string name="your_msg_sent">Your message has been sent.</string>
+    <string name="flexi_benefits">Flexi benefits</string>
+    <string name="text_selection_period">You have not made your selection for the benefit period for the year 2020.\n\nPlease proceed with benefits selection before logging into Flexi Benefits app.</string>
+    <string name="pls_enter_contact_number">Please enter contact number</string>
+    <string name="enter_valid_contact_number">Please enter valid contact number</string>
+    <string name="pls_enter_country">Please enter country</string>
+    <string name="physical_product_use_later_message">Please acknowledge in My Wallet once you receive the product.</string>
+    <string name="product_acknowledgement_message">We hope you enjoy the product. Have a nice day ahead.</string>
+    <string name="have_you_received_product">Have you received the product?</string>
+    <string name="last_name_not_optional">Last Name</string>
+    <string name="pincode_optional">Pincode (Optional)</string>
+    <string name="product_received">Product Received!</string>
+    <string name="product_delivery_fees_info">*Delivery fee of %d will be charged</string>
+    <string name="thai">Thai</string>
+    <string name="contacts">contacts</string>
+
+    <string name="thailand">Thailand</string>
+    <string name="flexi_benefit">Flexi Benefits</string>
+    <string name="benefit_category">Benefit Category</string>
+    <string name="benefit_type">Benefit Type</string>
+    <string name="selected_benefit_plan">Selected Benefit Plan</string>
+    <string name="remarks">Remarks</string>
+    <string name="select_benefit">Select Benefit</string>
+    <string name="select_benefit_category">Select Date of Receipt & Benefit Category</string>
+    <string name="enter_description">Enter description</string>
+    <string name="no_records_found">No Records Found</string>
+    <string name="enter_remark">Enter remark</string>
+    <string name="units">Units</string>
+    <string name="organisation">Organisation</string>
+    <string name="first_select_your_organisation">First select your organization</string>
+    <string name="no_organisation_found">No Organisation Found</string>
+    <string name="see_more">See More</string>
+
+    <string name="official_email_id">Official Email ID</string>
+    <string name="postcode_optional">Postcode (Optional)</string>
+    <string name="remarks_optional">Remarks(Optional)</string>
+    <string name="approver_comments">Approver Comments</string>
+    <string name="enter_amount_less_than_selected_plan_amount">Amount entered is more than the entitled amount.</string>
+    <string name="receipt_uploaded_successfully">Your claim has been uploaded successfully.</string>
+
+    <string name="email_or_emp_id">Enter your E-mail ID or Emp ID</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="in_process">In Process</string>
+    <string name="ready_for_pick_up">Ready for pick up</string>
+    <string name="shipped">Shipped</string>
+    <string name="upload_resume">Upload Resume</string>
+    <string name="open_gallery">OPEN GALLERY</string>
+    <string name="file_manager">FILE MANAGER</string>
+    <string name="app_need_read_external_storage_permission">External storage permission is required to show the documents.</string>
+
+    <string name="past_week">Past Week</string>
+    <string name="past_month">Past Month</string>
+    <string name="last_3_months">Last 3 months</string>
+    <string name="last_6_months">Last 6 months</string>
+    <string name="past_year">Past year</string>
+    <string name="custom">Custom</string>
+    <string name="filter_by_feed_origin">Filter By Feed Origin</string>
+    <string name="underlied_select_all"><u>Select All</u></string>
+    <string name="permission_grant_read_external_storage">Go to Permissions to Grant external storage</string>
+    <string name="find_by_name_or_mobile_no">Find by name or mobile number</string>
+    <string name="please_type_search_query">Please type search text</string>
+
+
+<!--    Unilever win app-->
+    <string name="sales_update">*Weekly sales achievement will be refreshed every Monday</string>
+    <string name="le_code">LE Code</string>
+    <string name="enter_valid_le_code_password">Please enter valid LE Code and Password</string>
+    <string name="enter_valid_le_code">Enter valid LE Code</string>
+    <string name="password_capital">Password</string>
+    <string name="x_points_required">%1d Points</string>
+    <string name="saved_address">Saved Address</string>
+    <string name="add_new">+ Add New</string>
+    <string name="make_default">Make Default</string>
+    <string name="edit_small">Edit</string>
+    <string name="delete_small">Delete</string>
+    <string name="edit_address">Edit Address</string>
+    <string name="add_new_address">Add New Address</string>
+    <string name="save_address">Save Address</string>
+    <string name="no_address_found_info">No address added.</string>
+    <string name="pls_select_address">Please select delivery address</string>
+    <string name="default_address">*Default Address</string>
+    <string name="delete_address">Delete Address</string>
+    <string name="delete_confirmation">Are you sure you want to delete the address?</string>
+
+
+    <string name="product_will_delivered">Your product will be delivered to</string>
+    <string name="new_address_success">New address added successfully</string>
+    <string name="update_address_success">Updated your address successfully</string>
+    <string name="tap_here">Tap Here</string>
+    <string name="reset_password_btn">Reset Password</string>
+
+    <string name="app_permission_activity">App needs Physical activity permission to track the steps.</string>
+    <string name="grant_activity_permission">Please grant Physical activity permission to track the steps</string>
+
+
+    <!--    Appreciation Strings-->
+    <string name="rdo_btn_overall">Overall</string>
+    <string name="rdo_btn_last_seven_days">Last 7 days</string>
+    <string name="rdo_btn_last_thirty_days">Last 30 days</string>
+    <string name="rdo_btn_last_ninety_days">Last 90 days</string>
+    <string name="received_non_cap">Received</string>
+    <string name="sent">Sent</string>
+    <string name="all">All</string>
+    <string name="filter">FILTER</string>
+    <string name="filter_by_strengths">Filter by Strength</string>
+    <string name="underlied_see_all"><u>See All</u></string>
+    <string name="filter_by_orgainsation">Filter by organization</string>
+    <string name="filter_by_feed_type">Filter By Feed Type</string>
+    <string name="filter_by_feed_range">Filter By Feed Range</string>
+    <string name="clear_all">Clear All</string>
+    <string name="reset_all">Reset All</string>
+    <string name="btn_apply">Apply</string>
+    <string name="strengths">STRENGTHS</string>
+    <string name="clear_selection_text">Are you sure you want to reset all  filter\nselections to default?</string>
+    <string name="reset_selection">Reset Selection</string>
+
+    <string name="txt_candidate_details">(Enter candidate\'s details)</string>
+    <string name="tutorial_not_available">Tutorial not available.</string>
+
+
+    <!-- Feeds  -->
+
+
+    <string name="whats_on_your_mind">Whats on your mind?</string>
+    <string name="enter_comment_here">Enter your comment here</string>
+    <string name="no_of_comments">%d comments</string>
+    <string name="no_of_claps">%d claps</string>
+    <string name="comments">Comments</string>
+    <string name="claps">Claps</string>
+    <string name="news_feed">News Feed</string>
+    <string name="comment_cannot_be_empty">Comment cannot be empty!</string>
+    <string name="pls_select_one_option">Please select one option</string>
+    <string name="create_post">Create Post</string>
+    <string name="create_poll">Create Poll</string>
+    <string name="poll_choice1_hint">Choice 1</string>
+    <string name="ask_something">Ask Something</string>
+    <string name="poll_choice2_hint">Choice 2</string>
+    <string name="poll_choice3_hint">Choice 3 (Optional)</string>
+    <string name="poll_choice4_hint">Choice 4 (Optional)</string>
+    <string name="poll_choice_count">25</string>
+    <string name="poll_description_empty">Poll description is empty.</string>
+    <string name="poll_choice_one_required">Choice 1 is required!</string>
+    <string name="poll_choice_two_required">Choice 2 is required!</string>
+    <string name="choice_char_length_warning">Choice characters should be less than 26</string>
+    <string name="poll_active_for_days">Poll Active for (days) :</string>
+    <string name="min_no_of_active_days_warning">Minimum poll active time is 1 day</string>
+    <string name="poll_active_max_days_warning">Poll cannot be active for more than 30 days.</string>
+    <string name="poll_title">Title</string>
+    <string name="post_title_max_char">80</string>
+    <string name="post">Post</string>
+    <string name="poll_title_max_char">200</string>
+    <string name="photos_small">Photos</string>
+    <string name="successful_posted">Successfully Posted!</string>
+    <string name="post_title_char_length_warning">Length of the title should not exceed 80 characters.</string>
+    <string name="poll_ask_something_char_length_warning">Length of this field should not exceed 200 characters.</string>
+    <string name="post_empty_warning">Cannot create empty post.</string>
+    <string name="app_needs_external_to_access_media_files">App needs external storage permission to access the media files</string>
+    <string name="external_storage_permission_required">Please provide the external storage permission to continue using this functionality.</string>
+    <string name="vote_percentage">%d%%</string>
+    <string name="successful_vote_on_poll">Your vote has been casted successfully.</string>
+    <string name="post_same_dept">Post to my department only</string>
+    <string name="left">left</string>
+    <string name="poll_final_result">Final Result</string>
+    <string name="cannot_select_more_images">Cannot select more than 10 images.</string>
+    <string name="successful_created_poll">Successfully created poll.</string>
+    <string name="field_cannot_be_empty">This field cannot be empty.</string>
+    <string name="photo_saved_device">Photo saved to this device.</string>
+    <string name="edit_post">Edit Post</string>
+    <string name="successful_edit_post">Successfully edited the post.</string>
+    <string name="post_empty_edit_warning">Cannot save empty post.</string>
+    <string name="feed_deleted">Deleted successfully.</string>
+    <string name="no_comments_error">Be the first one to comment.</string>
+    <string name="comment">Comment</string>
+    <string name="delete_feed">Delete Post</string>
+    <string name="feed_delete_confirmation">Are you sure you want to delete the post?</string>
+    <string name="poll_delete_confirmation">Are you sure you want to delete the poll?</string>
+    <string name="delete_poll">Delete Poll</string>
+    <string name="bridgestone_feed_info">Only S3 and S4 messages can be shared on this platform</string>
+
+    <plurals name="clap_plurals">
+        <item quantity="one">1 clap</item>
+        <item quantity="zero">claps</item>
+        <item quantity="other">%d claps</item>
+    </plurals>
+
+    <plurals name="comment_plurals">
+        <item quantity="one">1 comment</item>
+        <item quantity="zero">comments</item>
+        <item quantity="other">%d comments</item>
+    </plurals>
+
+    <plurals name="vote_plurals">
+        <item quantity="one">1 vote</item>
+        <item quantity="zero">votes</item>
+        <item quantity="other">%d votes</item>
+    </plurals>
+
+    <string name="network_connection_error">Internet connection lost, please retry again</string>
+    <string name="network_default_error">Something wrong happened, please retry again</string>
+    <string name="network_internal_error">Our systems got an error, please retry again</string>
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time</string>
+    </string>
+    <string name="server_connection_error">Not able to connect, please retry again</string>
+    <string name="no_feeds_available">No feeds are available at the moment.</string>
+    <string name="cannot_retrieve_crop_image">Cannot retrieve cropped image.</string>
+    <string name="error_fetch_gif">Error fetching the GIF</string>
+    <string name="media_attachment_disabled">Please remove GIF to attach media files</string>
+    <string name="remove_media_for_gif">Please remove media files to attach GIF</string>
+    <string name="reset">Reset</string>
+    <string name="label_crop_image">Crop Image</string>
+    <string name="view_feed">View Feed</string>
+    <string name="not_found">Not found.</string>
+    <string name="feed_detail_not_found">The feed you are looking for does not exist as it may be deleted.</string>
+    <string name="feed_not_found">Feed not found.</string>
+    <string name="go_to_feeds">Go to Feeds list</string>
+
+    <string name="card_number">Card Number</string>
+    <string name="url">URL</string>
+    <string name="app_permission_download_image">App needs external storage permission to save the downloaded images.</string>
+
+    <string name="valid_reason">Please enter the valid reason</string>
+    <string name="feed_report_success">Reported</string>
+    <string name="report_abuse">Report Abuse</string>
+    <string name="feed_report_abuse_comment">Comments</string>
+    <string name="type_concerns">Please type in your concerns</string>
+    <string name="feed_report_abuse_information">If you have any concerns regarding the feed please share below.</string>
+    <string name="menu_news_feed">Connect</string>
+    <string name="select_gif">Select GIF</string>
+    <string name="search_tenor">Search Tenor</string>
+    <string name="gif">GIF</string>
+    <string name="appreciation_feeds_no_like">Like</string>
+    <string name="select_province">Select Province</string>
+    <string name="pls_select_province_error">Please Select Province</string>
+    <string name="province">Province</string>
+    <string name="pls_enter_pincode">Please Enter Pincode</string>
+    <string name="pls_set_province">Please set province in your saved address</string>
+    <string name="_check_in">Check-In</string>
+    <string name="cannot_scan">Unable to Scan</string>
+    <string name="location_check_in">LOCATION CHECK IN</string>
+    <string name="select_prodcut_category">Select Product Category</string>
+    <string name="choose_product_category">Choose Product Category</string>
+    <string name="product_category">Product Category</string>
+
+    <string-array name="province_state_names">
+        <item>Krabi</item>
+        <item>Bangkok</item>
+        <item>Kanchanaburi</item>
+        <item>Kalasin</item>
+        <item>Kamphaeng phet</item>
+        <item>Khon kean</item>
+        <item>Chanthaburi</item>
+        <item>Chachoengsao</item>
+        <item>Chon buri</item>
+        <item>Chai nat</item>
+        <item>Chai yaphum</item>
+        <item>Chum phon</item>
+        <item>Chiang rai</item>
+        <item>Chiang mai</item>
+        <item>Trang</item>
+        <item>Trat</item>
+        <item>Tak</item>
+        <item>Nakhon nayok</item>
+        <item>Nakhon pathom</item>
+        <item>Nakhon phanom</item>
+        <item>Nakhon ratchasima</item>
+        <item>Nakhon si thammarat</item>
+        <item>Nakhon sawan</item>
+        <item>Nonthaburi</item>
+        <item>Narathiwat</item>
+        <item>Nan</item>
+        <item>Buri ram</item>
+        <item>Pathum thani</item>
+        <item>Prachuap khiri khan</item>
+        <item>Prachinburi</item>
+        <item>Pattani</item>
+        <item>Ayutthaya</item>
+        <item>Phayao</item>
+        <item>Phangnga</item>
+        <item>Phatthalung</item>
+        <item>phichit</item>
+        <item>Phitsanulok</item>
+        <item>Phetchaburi</item>
+        <item>Phetchabun</item>
+        <item>Phrae</item>
+        <item>Phuket</item>
+        <item>Mahasarakham</item>
+        <item>Mukdahan</item>
+        <item>Mae hong son</item>
+        <item>Yasothon</item>
+        <item>Yala</item>
+        <item>Roi et</item>
+        <item>Ranong</item>
+        <item>Rayong</item>
+        <item>Rachaburi</item>
+        <item>Lopburi</item>
+        <item>Loei</item>
+        <item>Lampang</item>
+        <item>Lamphun</item>
+        <item>Srisaket</item>
+        <item>Sakonnakhon</item>
+        <item>Songkhla</item>
+        <item>Satun</item>
+        <item>Samutprakan</item>
+        <item>Samut songkhram</item>
+        <item>Samut sakhon</item>
+        <item>Sra kaeo</item>
+        <item>Saraburi</item>
+        <item>Singburi</item>
+        <item>Sukhothai</item>
+        <item>Suphanburi</item>
+        <item>Surat thani</item>
+        <item>Surin</item>
+        <item>Nongkhai</item>
+        <item>Nongbualamphu</item>
+        <item>Angthong</item>
+        <item>Amnatcharoen</item>
+        <item>Udonthani</item>
+        <item>Uttaradit</item>
+        <item>Uthaithani</item>
+        <item>Uboratchathani</item>
+        <item>Bueng Kan</item>
+    </string-array>
+
+    <string-array name="province_state_names_english">
+        <item>Krabi</item>
+        <item>Bangkok</item>
+        <item>Kanchanaburi</item>
+        <item>Kalasin</item>
+        <item>Kamphaeng phet</item>
+        <item>Khon kean</item>
+        <item>Chanthaburi</item>
+        <item>Chachoengsao</item>
+        <item>Chon buri</item>
+        <item>Chai nat</item>
+        <item>Chai yaphum</item>
+        <item>Chum phon</item>
+        <item>Chiang rai</item>
+        <item>Chiang mai</item>
+        <item>Trang</item>
+        <item>Trat</item>
+        <item>Tak</item>
+        <item>Nakhon nayok</item>
+        <item>Nakhon pathom</item>
+        <item>Nakhon phanom</item>
+        <item>Nakhon ratchasima</item>
+        <item>Nakhon si thammarat</item>
+        <item>Nakhon sawan</item>
+        <item>Nonthaburi</item>
+        <item>Narathiwat</item>
+        <item>Nan</item>
+        <item>Buri ram</item>
+        <item>Pathum thani</item>
+        <item>Prachuap khiri khan</item>
+        <item>Prachinburi</item>
+        <item>Pattani</item>
+        <item>Ayutthaya</item>
+        <item>Phayao</item>
+        <item>Phangnga</item>
+        <item>Phatthalung</item>
+        <item>phichit</item>
+        <item>Phitsanulok</item>
+        <item>Phetchaburi</item>
+        <item>Phetchabun</item>
+        <item>Phrae</item>
+        <item>Phuket</item>
+        <item>Mahasarakham</item>
+        <item>Mukdahan</item>
+        <item>Mae hong son</item>
+        <item>Yasothon</item>
+        <item>Yala</item>
+        <item>Roi et</item>
+        <item>Ranong</item>
+        <item>Rayong</item>
+        <item>Rachaburi</item>
+        <item>Lopburi</item>
+        <item>Loei</item>
+        <item>Lampang</item>
+        <item>Lamphun</item>
+        <item>Srisaket</item>
+        <item>Sakonnakhon</item>
+        <item>Songkhla</item>
+        <item>Satun</item>
+        <item>Samutprakan</item>
+        <item>Samut songkhram</item>
+        <item>Samut sakhon</item>
+        <item>Sra kaeo</item>
+        <item>Saraburi</item>
+        <item>Singburi</item>
+        <item>Sukhothai</item>
+        <item>Suphanburi</item>
+        <item>Surat thani</item>
+        <item>Surin</item>
+        <item>Nongkhai</item>
+        <item>Nongbualamphu</item>
+        <item>Angthong</item>
+        <item>Amnatcharoen</item>
+        <item>Udonthani</item>
+        <item>Uttaradit</item>
+        <item>Uthaithani</item>
+        <item>Uboratchathani</item>
+        <item>Bueng Kan</item>
+    </string-array>
+    <string name="benefit_for">Benefit For</string>
+    <string name="available_credit_for">Available Credit for</string>
+    <string name="maximum_annual_credit_for_selected_benefit_type">Maximum Annual Credit for Selected Benefit Type</string>
+    <string name="enter_name_of_vendor_brand_shop_name">Enter name of vendor/brand/shop name..</string>
+    <string name="enter_any_remarks_regarding_the_receipt_optional">Enter any remarks regarding the receipt. (Optional)</string>
+    <string name="select_benefit_for">Select Benefit For</string>
+    <string name="select_dependent">Select Dependent</string>
+    <string name="select_benefit_type">Select Benefit Type</string>
+    <string name="pru_rewards">Flexi Benefits</string>
+    <string name="add_led_document_title">Add additional invoice pages or product images here</string>
+    <string name="add_documents">ADD DOCUMENTS</string>
+    <string name="documents_list_title_receipt_detail">Supporting Documents</string>
+    <string name="add_pru_document_title">Add Supporting Documents</string>
+    <string-array name="benefit_for_array">
+        <item>Self</item>
+        <item>Dependent</item>
+    </string-array>
+    <string name="no_items_added">No Items added</string>
+    <string name="add_item">ADD PRODUCT DETAILS</string>
+    <string name="added_items">Added Items</string>
+    <string name="notes_optional">Notes (Optional)</string>
+    <string name="delete_item">Delete item</string>
+    <string name="are_you_sure_you_want_to_delete_this_item">Are you Sure you want to delete this item?</string>
+    <string name="enter_any_remarks_regarding_the_receipt">Enter any remarks regarding the receipt</string>
+    <string name="item_details">Item Details</string>
+    <string name="product_group">Product Group</string>
+    <string name="amount_optional">Amount (optional)</string>
+    <string name="update">Update</string>
+    <string name="add_more">ADD MORE</string>
+    <string name="choose_product_group">Choose Product Group</string>
+    <string name="ledvance_receipt_list_empty">Add product details</string>
+    <string name="secondary_points_balance">Secondary Points Balance</string>
+    <string name="secondary_points">Secondary Points</string>
+    <string name="secondary_points_description">On sale of every Product; you will receive Primary Points and Secondary Points on the App. You can use the Primary Points to redeem rewards within the app; whereas, Secondary Points are those that get accumulated in your account to reward your customers when they make a sale. These accumulated Secondary Points will be added back to your Primary Points Wallet after 12 months from the date they were awarded in case your customers have not made a sale.</string>
+    <string name="approver_remarks">Approver Remarks</string>
+    <string name="receipt_on_boarding_help_message">Click on the receipts to get started</string>
+    <string name="ledvance_receipt_uploaded_successfully">Your receipt has been uploaded successfully.</string>
+    <string name="dashboard_pop_up_message">View summary of your total points</string>
+    <string name="rewards_pop_up_message">Redeem your points for numerous rewards</string>
+    <string name="receipts_pop_up_message">Upload your sales invoices</string>
+    <string name="history_pop_up_message">Keep track of your points history</string>
+    <string name="appreciate_pop_up_message">Appreciate your colleague</string>
+    <string name="add_receipts">Add Receipts</string>
+    <string name="quantitiy_title">Qty : %1$d</string>
+    <string name="total_qty">Total Qty :</string>
+
+    <string name="uploading_ledvance_receipt">Please wait while your receipt is being submitted</string>
+    <string name="info_requested">Info Requested</string>
+    <string name="edit_receipt">EDIT RECEIPTS</string>
+    <string name="edit_image">Edit Image</string>
+    <string name="re_submission">Re-Submission</string>
+    <string name="remaining_monthly_appreciation_budget">Remaining monthly appreciation budget</string>
+    <string name="malay">Malay</string>
+
+    <string name="vietnamese">Vietnamese</string>
+    <string name="no_gif_support">No gif support from keypad</string>
+
+
+<!--    Nomination Strings-->
+    <string name="nom_categories">categories</string>
+    <string name="step_no_one">Step 1/3</string>
+    <string name="step_no_two">Step 2/3</string>
+    <string name="step_no_three">Step 3/3</string>
+
+    <string name="thumbs_up_boss">Thumbs Up Boss!</string>
+    <string name="ideas_award">Ideas! Award</string>
+    <string name="my_nominations">My Nominations</string>
+    <string name="for_my_review">For My Review</string>
+    <string name="your_ideas">Your Ideas</string>
+    <string name="team_members_ideas">Team members Ideas</string>
+    <string name="nominate_yourself">Nominate Yourself</string>
+    <string name="txt_nominate_team_member">Nominate Team Member</string>
+    <string name="search_team_member">Search your idea by name</string>
+    <string name="txt_nominated_for">You have nominated</string>
+    <string name="txt_nominated_award_name"><b>Thumbs Up Boss! Award</b></string>
+    <string name="txt_selected_team_mate">Selected Teammate</string>
+
+    <string name="hint_department_name">Enter Department Name</string>
+    <string name="hint_line_mnger_name">Enter Line Manager\'s Name</string>
+    <string name="human_resource_dept">Human Resources Dept</string>
+    <string name="line_resource_dept">%1$s Dept</string>
+    <string name="select_line_manager">Select Line manager</string>
+    <string name="number_of_contacts">you have %1$s contacts</string>
+    <string name="search_line_manager">Search by Line Manager</string>
+    <string name="search_functional_leader">Search by Functional Leader</string>
+    <string name="functional_leader">Select Functional Leader</string>
+    <string name="please_enter_title">Please Enter Title</string>
+    <string name="please_enter_description">Please Enter Description</string>
+    <string name="please_select_line_manager">Please Select Line Manager</string>
+    <string name="please_enter_fields">Please Enter All Fields</string>
+    <string name="please_upload_file">Please Upload File</string>
+    <string name="select_leader">Select Functional Leader *</string>
+    <string name="btn_approve">APPROVE</string>
+    <string name="btn_reject">REJECT</string>
+    <string name="reject_comment">Enter Comments for Rejection</string>
+    <string name="reject_comment_idea">Comments for Rejection</string>
+    <string name="hint_reject_comment">Enter comments</string>
+    <string name="approve_dialog">You have successfully approved this nomination</string>
+    <string name="select_functional_leader">Please Select Functional Leader</string>
+    <string name="upload_file">Upload File</string>
+    <string name="submit_dialog_confirm">Are you sure you want to submit the nomination under</string>
+    <string name="team_member_confirm">Are you sure you want to nominate</string>
+    <string name="explain_idea">Current Status</string>
+    <string name="ends_on">Ends on %1$s</string>
+    <string name="enter_above_fields">Please enter the above field</string>
+    <string name="enter_comments">Please enter comments</string>
+
+    <string name="thumbs_up_screen_search">Search by alphabet, name, email or department</string>
+    <string name="screen_search_list_my_nomination">Search your nomination by name</string>
+    <string name="screen_search_list_for_my_review">Search your team member\'s nomination by name</string>
+
+     <!--Admin Pin-->
+    <string name="feed_pin_it">Pin this post to top</string>
+    <string name="feed_unpin_it">Unpin the post</string>
+    <string name="feed_poll_unpin_it">Unpin the poll</string>
+    <string name="feed_poll_pin_it">Pin this poll to top</string>
+    <string name="no_chart_data">No chart data available.</string>
+    <string name="user_type">User Type</string>
+    <string name="category">Category</string>
+    <string name="challenge_id">Challenge ID</string>
+    <string name="challenge_date">Challenge Date</string>
+    <string name="number">Number</string>
+    <string name="activity_date">Activity Date</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="solution_portfolio">Solution Portfolio</string>
+    <string name="proof_of_evidence">Proof of Evidence</string>
+    <string name="notes">Notes</string>
+    <string name="enter_any_remarks_regarding_the_trend_receipt">This is a free text section. Please highlight anything that needs reviewers attention</string>
+    <string name="claim_number">Claim Number</string>
+    <string name="date_of_submission">Date of submission</string>
+    <string name="upload_claim">UPLOAD CLAIM</string>
+    <string name="add_claim">Add Claim</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="dd_MMM_yyyy">dd MMM yyyy</string>
+    <string name="trend_solution_portfolio_item_one">Cloud One</string>
+    <string name="trend_solution_portfolio_item_two">Apex One</string>
+    <string name="trend_solution_portfolio_item_three">Network One (ATP)</string>
+    <string name="trend_solution_portfolio_item_four">Network One (IPS)</string>
+    <string name="trend_challenge_id">#2345</string>
+    <string name="trend_number_info">Input number of Meetings Confirmed, eDemos, Testimonials etc.</string>
+    <string name="yyyy_MM_dd">yyyy-MM-dd</string>
+    <string name="trend_receipt_on_boarding_help_message">Tap here to get started.</string>
+    <string name="tab_upload_claims">Claims</string>
+    <string name="edit_claim">EDIT CLAIM</string>
+    <string name="uploading_claim">Uploading Claim</string>
+    <string name="loading_claims">Loading Claims....</string>
+    <string name="claims">CLAIMS</string>
+    <string name="no_claims_processing">No claims are currently being processed</string>
+    <string name="no_claims_uploaded">No Claims Found.</string>
+    <string name="claim_upload_success">Your claim is successfully submitted</string>
+    <string name="claim_number_text">Your claim number is\u0020</string>
+    <string name="trend_setter_receipts_pop_up_message">Upload your claims</string>
+    <string name="github_token">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</string>
+    <string name="quantity_total">Total Qty :</string>
+    <string name="total_points_receipt">Total Points :</string>
+    <string name="quick_link_integration">Quick Links</string>
+</resources>
